@@ -1,0 +1,42 @@
+/* Import Open Sans from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap');
+
+/* Applying Font Family */
+body {
+    --font-text-theme: 'Open Sans';
+    --font-monospace-theme: 'Open sans';
+    --font-interface-theme: 'Open Sans';
+}
+
+.iframe-graph {
+    padding-top: 50;
+    padding-bottom: 50;
+}
+
+
+/*
+.published-container {
+    /* Light Mode Variables */
+    --background-primary: white;
+    --text-normal: black;
+    --link-color: blue;
+    --nav-collapse-icon-color: black;
+    --nav-collapse-icon-color-hover: #1c80ce;
+    --nav-parent-item-color: black;
+    --nav-parent-item-color-active: #1c80ce;
+    --nav-item-color: black;
+    --nav-item-color-hover: #a2caeb;
+    --nav-item-color-active: #1c80ce;
+
+    /* Dark Mode Variables */
+    --background-primary-dark: #1d2e43;
+    --text-normal-dark: white;
+    --link-color-dark: #a2caeb;
+    --nav-collapse-icon-color-dark: white;
+    --nav-collapse-icon-color-hover-dark: #a2caeb;
+    --nav-parent-item-color-dark: white;
+    --nav-parent-item-color-active-dark: #a2caeb;
+    --nav-item-color-dark: white;
+    --nav-item-color-hover-dark: #1c80ce;
+    --nav-item-color-active-dark: #a2caeb;
+}
