@@ -10,7 +10,7 @@ To get started, explore our list of top diseases featured in this beta version. 
 
 ## About the Library
 
-Manolin's Fish Disease Library (beta) is a dynamic resource designed to centralize essential information on fish health. Our mission is to empower fish farmers, veterinarians, researchers, and aquaculture suppliers with reliable, up-to-date data on fish diseases. The library features expert-reviewed articles, case studies, and practical guides tailored to meet the evolving needs of the aquaculture industry.
+Manolin's Fish Disease Library is a dynamic resource designed to centralize essential information on fish health. Our mission is to empower fish farmers, veterinarians, researchers, and aquaculture suppliers with reliable, up-to-date data on fish diseases. The library features expert-reviewed articles, case studies, and practical guides tailored to meet the evolving needs of the aquaculture industry.
 
 As this is a living library in its beta phase, you can expect ongoing updates and enhancements to ensure accuracy, incorporate new data, and refine the content structure. While we are working on formalizing our submission process for contributions and revisions, please feel free to [reach out to our team](https://manolinaqua.com/contact-us) directly for any inquiries or suggestions.
 
