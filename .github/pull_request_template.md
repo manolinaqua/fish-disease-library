@@ -24,3 +24,4 @@ All boxes must be completed before submitting a pull request.
 
 - [ ] Updated information is factual and sourced where necessary.
 - [ ] Any new sources (if any) have been cited using the APA standard.
+- [ ] I followed the standard framework and formatting specified in the README of this repo.
