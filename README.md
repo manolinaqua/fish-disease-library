@@ -2,26 +2,22 @@
 
 This repository contains the source information for the [Fish Disease Library](https://fishdiseases.manolinaqua.com/), and the corresponding documentation to contribute information back into the library for future readers.
 
-## Contribute
+## Why the initiative started
 
-To contribute to the Manolin Fish Disease Library:
+During the development of [Manolin's](https://manolinaqua.com) analytical engine we accumulated a large collection of fish health information. This information took alot of time to consolidate as we had to crawl the depths of the internet to find much of what we were looking for. Internally we started referencing this sort of "library" frequently and ultimately came to the conclusion that this data can not only benefit us, but also the aquaculture community as a whole. So we decided to open source it and allow for folks to contribute their own unique knowledge for the greater good of aquaculture.
 
-1. Fork the [fish-disease-library](https://github.com/manolinaqua/fish-disease-library) repository.
-2. Clone your version of the repository into local machine. [Instructions](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)
-4. The structure of the entire library is built using the note taking app [Obsidian](https://obsidian.md/). Please go and download the appropriate version for your machine.
-    1. We recommend using your computer for this and not the mobile version of the application.
-    2. While you can edit the markdown files specifically using any platform, there are a number of features unique to Obsidian like tags, links and search that we are currently utilizing in the final application.
-5. In the Obsidian vault switcher, select **Open folder as vault**. Don't open the root folder as a vault, as this may lead to links being updated incorrectly.
-6. After you've made your edits, follow Git's pull request process to submit a change back to the main repository. [Example](https://docs.github.com/en/get-started/start-your-journey/hello-world)
+## What can be Contributed?
 
 You can contribute in several ways:
 
 - **Fix typos and mistakes**: If you want to fix a typo or other small modifications, you can submit a pull request. For smaller edits, you can use the GitHub web interface instead of cloning the repository.
 - **Add missing or outdated content**: If you want to contribute missing or outdated content, please [submit an issue](https://github.com/manolinaqua/fish-disease-library/issues) before you start working on it. We'll use that area to discuss assignments and coordination of tasks.
 
-### Disease framework
+Follow the steps in the next section to contribute!
 
-For each disease, we follow a standard framework of information to keep the information consistent across the platform. At a highlevel, these are the categories that we have for each disease:
+## Format of the Library
+
+For each disease, we follow a standard framework of information to keep things consistent across the platform. At a highlevel, these are the categories that we have for each disease:
 
 1. Overview
 2. Symptoms
@@ -29,12 +25,21 @@ For each disease, we follow a standard framework of information to keep the info
     2. Diagnosis
     3. Treatments and Prevention
     4. Cases Studies
-4. Data Insights
-5. Latest Research and References
+3. Data Insights
+4. Latest Research and References
 
-Other than that, we follow the general style guide reccommended by Obsidian's [Style guide](https://help.obsidian.md/Contributing+to+Obsidian/Style+guide).
+When creating citiations we use **[APA](https://apastyle.apa.org/instructional-aids/reference-examples.pdf) style**, ensure that any new citations follow this format.
 
+Other than that, we follow the general style guide recommended by Obsidian's [Style guide](https://help.obsidian.md/Contributing+to+Obsidian/Style+guide).
 
-## Credits
+Feel free to look at an existing disease page to get a sense of how things should be formatted.
+## How to Contribute
+ 
+Read this document to get detailed instructions on how to get set up and started.
+[Contributing Instructions](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md)
 
-To be featured on the [Credits]() page, add yourself to the [Credits]() file and to the corresponding translation.
+## Current Contributors
+
+Navigate below to check out all the people who are dilligently working to make fish disease knowledge more accessible!
+
+[See all our contributors here](https://github.com/manolinaqua/fish-disease-library/graphs/contributors)
