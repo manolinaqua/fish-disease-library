@@ -17,6 +17,8 @@ tags:
   - Scotland
   - Canada
   - FaroeIslands
+  - ILA
+Last E: Tony Chen (June 2025)
 ---
 ## Overview
 
@@ -82,11 +84,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 ### Treatment and Prevention
 
 **Treatment Options**
-
-- **Current Treatments:** No effective treatments are available for ISA, and there are no licensed vaccines in the EU [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-
-- **Experimental Treatments:** Vaccine trials in Canada have yielded equivocal results [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-
+- Vaccines are currently available from pharmaceutical suppliers to the industry. [^1]
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
@@ -110,17 +108,17 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
     - **Scotland (1998-99):** The outbreak was successfully eradicated [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
     - **Norway:** Cases of ISA continue to occur, with 1 to 20 outbreaks annually, mostly clustering in northern Norway in recent years [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/).
 
-- **Lessons Learned:** The importance of early detection, with research showing that large viral shedding events occur before fish mortality, providing an opportunity for early intervention [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/).
-
+- **Lessons Learned:** The importance of early detection, with research showing that large viral shedding events occur before fish mortality, providing an opportunity for early intervention [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/)
 ## Data Insights
 ### Disease Impact by Country
 #### Canada
 
 - **ISA Incidence in Canada:**
     - ISA has been a recurring problem in Canada, particularly in the Bay of Fundy in New Brunswick [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - First outbreak was recorded in 1998, which resulted in a $10M CAD support package [11](https://georgiastrait.org/press/nightmare-in-new-brunswick-a-lesson-for-bc/)
 
 - **Geographical Spread:**
-    - The disease has been reported in various regions, including New Brunswick and Nova Scotia [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - The disease has been reported in various regions, including New Brunswick and Nova Scotia [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf) [10](https://webharvest.gov/peth04/20041029043154/http://www.lsc.usgs.gov/FHB/leaflets/FHB85.pdf).
 
 - **Economic Impact:**
     - ISA results in annual losses of approximately $4.8–$5.5 million (U.S.) to farmers in New Brunswick [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
@@ -128,10 +126,13 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 - **Treatment & Management:**
     - Canada has implemented biosecurity measures to control ISA, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - Governmental protocols can be found here [12](https://inspection.canada.ca/en/animal-health/aquatic-animals/diseases/reportable-diseases/isa/facts)
+    
 #### Chile
 
 - **ISA Incidence in Chile:**
     - ISA was first reported in Chile in 1996, and outbreaks have continued to occur [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - 
 
 - **Geographical Spread:**
     - The disease has been reported in various regions, including Los Lagos and Aysén [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
@@ -139,6 +140,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 - **Economic Impact:**
     - ISA has caused significant economic losses in Chile, with millions of fish culled in control efforts [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
     - The disease has had a devastating impact on the salmon industry, particularly in the early 2000s [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - The Chilean ISA crisis in the mid-2000s is regarded as one of the most economically damaging aquaculture disease outbreaks in history. Salmon production was literally cut in half from about 497,000 metric tons in 2006 down to ~247,000 tons in 2010  it. A Chilean industry analysis estimated the total economic cost of the ISA disaster at around $550–600 million USD [14](https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf) [15](https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007)
 
 - **Treatment & Management:**
     - Chile has implemented biosecurity measures similar to those in Norway and Scotland, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
@@ -151,7 +153,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
     - The disease has been reported in various regions of the Faroe Islands [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 - **Economic Impact:**
-    - ISA devastated the salmon industry in the Faroe Islands in 2000 [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - ISA devastated the salmon industry in the Faroe Islands in 2000 [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf) [13](https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/).
 
 - **Treatment & Management:**
     - The Faroe Islands have implemented biosecurity measures similar to those in other affected countries, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
@@ -198,14 +200,9 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 Recent studies on Infectious Salmon Anemia (ISA) in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
-1. **"Effect of vaccines against pancreas disease in farmed Atlantic salmon"**  
-    Authors: Røsæg, M. V., et al.  
-    Reference: Røsæg, M. V., et al. (2021). Effect of vaccines against pancreas disease in farmed Atlantic salmon. Journal of Fish Diseases, 44(11), 1695-1707.  
-    [Link to study](https://pubmed.ncbi.nlm.nih.gov/34402092/)
-2. **"Prevention and control of viral diseases of salmonids"**  
-    Authors: Wolf, K.  
-    Reference: Wolf, K. (1976). Prevention and control of viral diseases of salmonids. Journal of the Fisheries Research Board of Canada, 33(4), 1059-1066.  
-    [Link to study](https://pubs.usgs.gov/publication/70162252)
+1. Chase‑Topping, M., Pooley, C., Moghadam, H. K., Hillestad, B., Lillehammer, M., Sveen, L., & Wilson, A. (2021, January 9). Impact of vaccination and selective breeding on the transmission of Infectious salmon anemia virus. Aquaculture, 535, Article 736365. https://doi.org/10.1016/j.aquaculture.2021.736365
+2. Mikalsen, A. B., Sindre, H., Torgersen, J., & Rimstad, E. (2005). Protective effects of a DNA vaccine expressing the infectious salmon anemia virus hemagglutinin‑esterase in Atlantic salmon. _Vaccine, 23_(41), 4895–4905. https://doi.org/10.1016/j.vaccine.2005.05.025
+3. Wolf, K. (1976). Prevention and control of viral diseases of salmonids. _Journal of the Fisheries Research Board of Canada, 33_(4), 1059–1066. https://pubs.usgs.gov/publication/70162252
 
 These studies represent advancements in understanding the prevention, control, and economic impact of ISA in various regions, particularly in Norway and other countries with significant salmon farming industries.
 
@@ -231,9 +228,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pancreatic Disease (PD)]]
 [[Piscine Reovirus (PRV)]]
 
-**Citations:**
+**Resources:**
 [1] https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf
-[2] https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa
+[2] https://www.vetinst.no/en/diseases/infectious-salmon-anemia
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/
 [4] https://www.aphis.usda.gov/sites/default/files/isa_standards.pdf
 [5] https://www.aphis.usda.gov/sites/default/files/isa-proceedings.pdf
@@ -241,5 +238,13 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [7] https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.13538
 [8] https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks
 [9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467415/
+[10] https://webharvest.gov/peth04/20041029043154/http://www.lsc.usgs.gov/FHB/leaflets/FHB85.pdf
+[11] https://georgiastrait.org/press/nightmare-in-new-brunswick-a-lesson-for-bc/
+[12]https://inspection.canada.ca/en/animal-health/aquatic-animals/diseases/reportable-diseases/isa/facts
+[13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/?utm_source=chatgpt.com
+[14] https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf
+[15] https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007
 
 ---
+
+[^1]: https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner
