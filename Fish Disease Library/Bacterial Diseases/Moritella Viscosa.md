@@ -16,7 +16,7 @@ tags:
 ## Overview
 
 ### What is Moritella viscosa?
-*Moritella viscosa* is a bacterium that is the primary cause of [winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds), one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).  *Moritella viscosa*  is prevalent in colder aquaculture regions, such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). *[[Tenacibaculum (Tenacibaculosis)]] spp.* are also implicated in winter ulcer disease and are frequently associated with *M. viscosa* outbreaks. There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
+*Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).  *Moritella viscosa*  is prevalent in colder aquaculture regions, such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). *[[Tenacibaculum (Tenacibaculosis)]] spp.* are also implicated in winter ulcer disease and are frequently associated with *M. viscosa* outbreaks. There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
 
  
 
@@ -151,7 +151,7 @@ tags:
 - **Moritella Viscosa Incidence in Faroe Isles:**
     
     -  *Moritella viscosa* isolates consistent with the type strain have been found in Atlantic salmon farmed in the Faroe Isles [11](https://pubmed.ncbi.nlm.nih.gov/21290896/).
-    - No specific economic impacts for Faroe Isles are mentioned in the provided search results.
+    - No data currently available for economic impact. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
 #### Norway
 
 - **Moritella Viscosa Incidence in Norway:**
@@ -180,11 +180,11 @@ tags:
     
 - **Economic Impact:**
     
-    - No specific economic impacts for Scotland are mentioned in the provided search results.
+    - No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
     
 - **Treatment Regimes:**
     
-    - No specific treatment regimes for Scotland are mentioned in the provided search results.
+    No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
 
 
 ## Research and References
