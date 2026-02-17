@@ -164,7 +164,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
 [[Moritella Viscosa]]
-[[Tenacibaculum (Tenacibaculosis)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
 [[Yersiniosis]]
 

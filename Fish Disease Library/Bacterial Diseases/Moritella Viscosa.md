@@ -16,7 +16,7 @@ tags:
 ## Overview
 
 ### What is Moritella viscosa?
-*Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).  *Moritella viscosa*  is prevalent in colder aquaculture regions, such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). *[[Tenacibaculum (Tenacibaculosis)]] spp.* are also implicated in winter ulcer disease and are frequently associated with *M. viscosa* outbreaks. There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
+*Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).  *Moritella viscosa*  is prevalent in colder aquaculture regions, such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). *[[Tenacibaculosis (Tenacibaculum spp)]] spp.* are also implicated in winter ulcer disease and are frequently associated with *M. viscosa* outbreaks. There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
 
  
 
@@ -80,7 +80,7 @@ tags:
 
 **Differential Diagnosis**
 
-- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, _[[Tenacibaculum (Tenacibaculosis)]] spp_ and _Aliivibrio wodanis_ [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)  
+- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, _[[Tenacibaculosis (Tenacibaculum spp)]] spp_ and _Aliivibrio wodanis_ [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)  
 
 
 ### Treatment and Prevention
@@ -226,7 +226,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
 [[Pasteurellosis]]
-[[Tenacibaculum (Tenacibaculosis)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
 [[Yersiniosis]]
 
