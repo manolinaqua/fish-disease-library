@@ -34,17 +34,17 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 - **Physical Signs:**
     - **Darkened Coloration:** Affected fish exhibit an overall darkening of the skin [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
-    - **Anemia and Pale Gills:** Severe anemia leading to pale gills is a hallmark sign [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/) [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
-    - **Hemorrhages and Skin Lesions:** Petechial hemorrhages, vesicles with scale elevations, and skin ulcers with underlying muscle hemorrhages [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/) [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
-    - **Swollen Organs:** Enlarged kidneys and spleen upon internal examination [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/) [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
-    - **Liver Lesions:** Ring-shaped, cream-colored liver lesions in chronic cases; pale and mottled livers [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/) [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
-    - **Scale Loss and Fin Fraying:** External degradation of scales and fins [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/) [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
+    - **Anemia and Pale Gills:** Severe anemia leading to pale gills is a hallmark sign [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
+    - **Hemorrhages and Skin Lesions:** Petechial hemorrhages, vesicles with scale elevations, and skin ulcers with underlying muscle hemorrhages[16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
+    - **Swollen Organs:** Enlarged kidneys and spleen upon internal examination [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article)
+    - **Liver Lesions:** Ring-shaped, cream-colored liver lesions in chronic cases; pale and mottled livers [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
+    - **Scale Loss and Fin Fraying:** External degradation of scales and fins [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
 
 - **Behavioral Changes:**
-    - **Lethargy:** Reduced activity and slow swimming [26](https://doi.org/10.1186/s13567-024-01356-0) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [26](https://doi.org/10.1186/s13567-024-01356-0) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - **Respiratory Distress:** Increased gill movement and labored breathing [26](https://doi.org/10.1186/s13567-024-01356-0) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - **Surface Swimming:** Fish congregating near the water surface [26](https://doi.org/10.1186/s13567-024-01356-0) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - **Lethargy:** Reduced activity and slow swimming [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - **Respiratory Distress:** Increased gill movement and labored breathing[1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
+    - **Surface Swimming:** Fish congregating near the water surface [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
 
 **Progression of Clinical Signs**
 
