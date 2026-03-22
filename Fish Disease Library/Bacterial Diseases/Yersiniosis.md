@@ -173,7 +173,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Bacterial Kidney Disease (BKD)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
-[[Tenacibaculum (Tenacibaculosis)]]
+[[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]
 
 **Citations:**

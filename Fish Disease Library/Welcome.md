@@ -3,9 +3,7 @@ Welcome to [Manolin’s](https://manolinaqua.com/) Aquaculture Fish Disease Libr
 This open-source library brings together scientific knowledge, diagnostic tools, and best practices to support fish health professionals, researchers, and aquaculture practitioners. Our goal is to empower you with reliable, up-to-date information to help manage and prevent fish diseases effectively.
 
 - - - 
-
-
-![[Fish Icon - 2 1.png]]
+![[attachments/Fish Icon - 2 1.png]]
 ## Getting Started
 
 To get started, explore our list of top diseases featured. Each entry includes detailed information on symptoms, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.
@@ -27,6 +25,11 @@ The Fish Disease Library is an open-source project dedicated to community collab
 
 To contribute, please visit our [GitHub repository](https://github.com/manolinaqua/fish-disease-library) and follow the contribution guidelines. Together, we can build a stronger, more comprehensive resource to support global aquaculture health.
 
+# Sponsors
+
+This project is currently sponsored by FHF of Norway ([Project Number 910692](https://www.fhf.no/prosjekter/prosjektbasen/910692/)).  
+
+![FHF Logo: The fisheries and aquaculture industry's research funding](https://www.fhf.no/logo/logo-fhf-with-name.svg)
 ## Connect with Us
 
 Stay connected and get the latest updates by following us on social media:
