@@ -213,33 +213,34 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
 #### Epidemiology and Disease Dynamics
 
 1. **"Epidemiology of Salmonid Rickettsial Septicemia (SRS) in Farmed Salmon: The Role of Sea Lice Infestations in Mortality Risk"**
-    Authors: Diethelm-Varela B., et al.
-    Reference: Journal of Fish Diseases, December 2025.
+    Authors: Benjamín Diethelm-Varela, Nicolhole Atero, Francisca Córdova-Bührle, Enrico L. Rezende, Stefan Gelcich, Osvaldo Sandoval, Carlos Navarro, Fernando O. Mardones.
+    Reference: Journal of Fish Diseases, 2025; 0:e70097
     Key findings: SRS mortality risk had a strong seasonal component, with mortalities being significantly higher in the warmer seasons. While _Caligus_ infestation levels increased significantly over the years, SRS mortality risk remained constant.
     [DOI: 10.1111/jfd.70097](https://doi.org/10.1111/jfd.70097)
 
-2. **"Cohabitation of LF-89 and EM-90 P. salmonis genogroups"**
-    Authors: Carril G., Winther-Larsen H.C., Løvoll M., Sørum H.
-    Reference: Frontiers in Cellular and Infection Microbiology, October 2023.
+2. **"Cohabitation of Piscirickettsia salmonis genogroups (LF-89 and EM-90): synergistic effect on growth dynamics"**
+    Authors: Gabriela Carril, Hanne C. Winther-Larsen, Marie Løvoll, Henning Sørum.
+    Reference: Front. Cell. Infect. Microbiol. 13:1253577.
     Key findings: EM-90 dominates in mixed cultures with LF-89. The luxR gene is exclusive to EM-90, with differential flaA and cheA expression between genogroups.
     [DOI: 10.3389/fcimb.2023.1253577](https://doi.org/10.3389/fcimb.2023.1253577)
 
 3. **"Salmonid Rickettsial Septicemia (SRS) disease dynamics and Atlantic salmon immune response to _Piscirickettsia salmonis_ LF-89 and EM-90 co-infection"**
-    Authors: Carril G., et al.
-    Reference: Veterinary Research, 2024.
+    Authors: Gabriela Carril, Byron Morales-Lange, Marie Løvoll, Makoto Inami, Hanne C. Winther-Larsen, Margareth Øverland, Henning Sørum.
+    Reference: _Vet Res_ **55**, 102 (2024).
     Key findings: Co-infected fish showed only 24.1% survival at 21 days compared to 40.3% for EM-90 single infection. All LF-89 single-infected fish survived, highlighting differential virulence.
     [DOI: 10.1186/s13567-024-01356-0](https://doi.org/10.1186/s13567-024-01356-0)
 
 #### Pathogenomics and Vaccine Development
 
 4. **"Pathogenomic Insights into Piscirickettsia salmonis"**
-    Authors: Islam S.I., Shahed K., Linh N.V., et al.
-    Reference: Animals, April 2025.
+    Authors: Sk Injamamul Islam, Khandker Shahed, Md Imtiaz Ahamed, Luu Tang Phuc Khang, Won-Kyo Jung, Papungkorn Sangsawad, Nguyen Dinh-Hung, Patima Permpoonpattana, Nguyen Vu Linh. 
+    Reference: _Animals_ **2025**, _15_(8), 1176.
     Key findings: Analyzed 80 global P. salmonis strains, identifying 14,564 pan-genome genes with 1,257 core genes. Identified 4 molecular markers (gyrA, dnaK, rpoB, ftsZ). Found that 4 LF-genogroup strains carried antibiotic resistance genes.
     [DOI: 10.3390/ani15081176](https://doi.org/10.3390/ani15081176)
 
 5. **"Piscirickettsia salmonis pathogenicity: using the damage-response framework to look beyond smoke and mirrors"**
-    Reference: mBio, 2024.
+    Authors: Felipe C. Cabello, Ana Millanao, Henry P. Godfrey. 
+    Reference: mBio 16:e03821-24.
     Key findings: Applied damage-response framework to understand host-pathogen interactions in SRS.
     [Link to study](https://journals.asm.org/doi/10.1128/mbio.03821-24)
 
@@ -354,7 +355,7 @@ Effective SRS management requires an integrated approach combining robust biosec
 [26] Carril, G., Morales-Lange, B., Løvoll, M., et al. (2024). Salmonid rickettsial septicemia (SRS) disease dynamics and Atlantic salmon immune response to *Piscirickettsia salmonis* LF-89 and EM-90 co-infection. *Veterinary Research*, *55*, 102. https://doi.org/10.1186/s13567-024-01356-0
 [27] Diethelm-Varela, B., Atero, N., Córdova-Bührle, F., et al. (2025). Epidemiology of salmonid rickettsial septicemia (SRS) in farmed salmon: the role of sea lice infestations in mortality risk. *Journal of Fish Diseases*, e70097. https://doi.org/10.1111/jfd.70097
 [28] Islam, S. I., Shahed, K., Linh, N. V., et al. (2025). Pathogenomic insights into *Piscirickettsia salmonis*. *Animals*, *15*(8), 1176. https://doi.org/10.3390/ani15081176
-[29] SERNAPESCA. (2025). *Informe de situación sanitaria de la salmonicultura primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2025/09/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025.pdf
-[30] SERNAPESCA. (2025). *Informe de uso de antimicrobianos y antiparasitarios primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2025/09/Informe-de-uso-de-antimicrobianos-y-antiparasitarios-primer-semestre-2025.pdf
+[29] SERNAPESCA. (2025). *Informe de situación sanitaria de la salmonicultura primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/01/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025-1.pdf
+[30] SERNAPESCA. (2025). *Informe de uso de antimicrobianos y antiparasitarios primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/01/Informe-de-uso-de-antimicrobianos-y-antiparasitarios-primer-semestre-2025.pdf
 
 ---
