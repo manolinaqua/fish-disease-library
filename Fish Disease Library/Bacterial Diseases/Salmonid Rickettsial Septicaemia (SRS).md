@@ -22,9 +22,9 @@ tags:
 
 ### What is SRS?
 
-Salmonid Rickettsial Septicaemia (SRS), also known as Piscirickettsiosis, is a severe bacterial disease affecting salmonids, including Atlantic salmon (*Salmo salar*), coho salmon (*Oncorhynchus kisutch*), and rainbow trout (*Oncorhynchus mykiss*). It is caused by *Piscirickettsia salmonis*, a facultative intracellular gram-negative bacterium that was the first "rickettsia-like" pathogen identified in fish [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [18](https://www.marcosgodoy.com/index.php?option=com_content&view=article&id=220:piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos&catid=150:diagnostico&Itemid=469&lang=es).
+Salmonid Rickettsial Septicaemia (SRS), also known as Piscirickettsiosis, is a severe bacterial disease affecting salmonids, including Atlantic salmon (*Salmo salar*), coho salmon (*Oncorhynchus kisutch*), and rainbow trout (*Oncorhynchus mykiss*). It is caused by *Piscirickettsia salmonis*, a facultative intracellular gram-negative bacterium that was the first "rickettsia-like" pathogen identified in fish [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [18](https://marcosgodoy.com/piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos/).
 
-First identified in Chile in 1989 during a devastating outbreak in coho salmon, SRS has since become the most economically significant disease in Chilean salmon aquaculture. The 1989 outbreak killed approximately 1.5 million coho salmon, causing economic losses of $10 million USD. By 1990, the disease had spread to Atlantic salmon with mortality rates reaching 90% on some farms, and by 1995, annual losses had risen to $49 million USD [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [3](https://pubs.usgs.gov/publication/70021948).
+First identified in Chile in 1989 during a devastating outbreak in coho salmon, SRS has since become the most economically significant disease in Chilean salmon aquaculture. The 1989 outbreak killed approximately 1.5 million coho salmon, causing economic losses of $10 million USD. By 1990, the disease had spread to Atlantic salmon with mortality rates reaching 90% on some farms, and by 1995, annual losses had risen to $49 million USD [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [3](https://www.int-res.com/journals/dao/articles/dao035107).
 
 Today, SRS is responsible for over $700 million USD in annual losses in Chile and accounts for 52.8% of all infectious disease mortality in Atlantic salmon (2022). The disease has also been reported in Norway, Canada, Scotland, and Ireland, though with considerably lower incidence and economic impact than in Chile [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/) [5](https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/).
 
@@ -36,8 +36,8 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - **Darkened Coloration:** Affected fish exhibit an overall darkening of the skin [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
     - **Anemia and Pale Gills:** Severe anemia leading to pale gills is a hallmark sign [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
     - **Hemorrhages and Skin Lesions:** Petechial hemorrhages, vesicles with scale elevations, and skin ulcers with underlying muscle hemorrhages[16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
-    - **Swollen Organs:** Enlarged kidneys and spleen upon internal examination [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article)
-    - **Liver Lesions:** Ring-shaped, cream-colored liver lesions in chronic cases; pale and mottled livers [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
+    - **Swollen Organs:** Enlarged kidneys and spleen upon internal examination [17](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/)
+    - **Liver Lesions:** Ring-shaped, cream-colored liver lesions in chronic cases; pale and mottled livers [17](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/).
     - **Scale Loss and Fin Fraying:** External degradation of scales and fins [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
 
 - **Behavioral Changes:**
@@ -56,7 +56,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Etiology**
 
-- **Causative Agent:** *Piscirickettsia salmonis*, a facultative intracellular gram-negative bacterium, typically 0.5-1.5 μm in diameter. Originally described as obligate intracellular, it is now recognized as a facultative intracellular pathogen capable of growth in cell-free media. It was the first "rickettsia-like" bacterium to be recognized as a pathogen of fish [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [18](https://www.marcosgodoy.com/index.php?option=com_content&view=article&id=220:piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos&catid=150:diagnostico&Itemid=469&lang=es).
+- **Causative Agent:** *Piscirickettsia salmonis*, a facultative intracellular gram-negative bacterium, typically 0.5-1.5 μm in diameter. Originally described as obligate intracellular, it is now recognized as a facultative intracellular pathogen capable of growth in cell-free media. It was the first "rickettsia-like" bacterium to be recognized as a pathogen of fish [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [18](https://marcosgodoy.com/piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos/).
 
 - **Transmission Methods:**
     - **Horizontal Transmission:** Direct water-borne transmission; the bacterium can survive several weeks at 5-20°C in saltwater. Entry occurs through intact skin and gills [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
@@ -72,7 +72,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Gross lesion examination with observation of characteristic darkened coloration, swollen organs, and ring-shaped liver lesions. Hepatic nodules (moderate and severe) are strongly associated with EM-90-like infection specifically [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/) [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article) [20](https://doi.org/10.3390/pathogens12030450).
+- **Clinical Examination:** Gross lesion examination with observation of characteristic darkened coloration, swollen organs, and ring-shaped liver lesions. Hepatic nodules (moderate and severe) are strongly associated with EM-90-like infection specifically [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/) [17](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/) [20](https://doi.org/10.3390/pathogens12030450).
 
 - **Laboratory Tests:**
     - **Real-Time qPCR:** The gold standard for *P. salmonis* detection. Bayesian analysis shows qPCR sensitivity is 5- to 30-fold greater than bacterial culture, with median sensitivity of 83.5-97.6% depending on disease stage. High specificity and rapid turnaround make qPCR suitable for both surveillance and outbreak diagnosis [19](https://doi.org/10.1111/jfd.13226).
@@ -82,7 +82,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
     - **Cell Culture Isolation:** *P. salmonis* can be isolated in cell culture with optimal growth at ~18°C. However, culture sensitivity is significantly lower than molecular methods [19](https://doi.org/10.1111/jfd.13226).
     - **Indirect Fluorescent Antibody Technique (IFAT):** Used for detection and identification of the bacterium in tissue samples [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - **Immunohistochemistry:** Detection of *P. salmonis* antigens in tissue sections, useful for confirming infection in histological samples [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - **Histopathology:** Microscopic examination of tissue sections to assess pathological changes including granulomatous inflammation and bacterial inclusions within macrophages [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
+    - **Histopathology:** Microscopic examination of tissue sections to assess pathological changes including granulomatous inflammation and bacterial inclusions within macrophages [17](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/).
 
 **Genogroup Identification**
 
@@ -95,7 +95,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Chilean Regulatory Requirement (Sernapesca Resolution 1606/2021):** In Chile, PCR-based discrimination between SRS and Tenacibaculosis is mandatory. The updated Tenacibaculosis definition requires *Tenacibaculum* spp. identification by PCR, with external signs (fin erosion, oral/rostral lesions with yellow pigmentation, gill ulcers with yellowish coloration), **and explicitly excludes cases showing evident lesions of Piscirickettsiosis or Renibacteriosis**. This regulatory requirement addresses the high co-occurrence of these pathogens, ensuring proper epidemiological classification [23](https://www.sernapesca.cl/noticias/sernapesca-actualiza-definicion-de-enfermedad-tenacibaculosis/).
 
 - **Differentiating Clinical Signs:**
-    - **Piscirickettsiosis:** Characteristic ring-shaped liver lesions (cream/yellow), internal granulomatous lesions in viscera, kidney and spleen enlargement. Skin ulcers are secondary to systemic infection [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/) [17](https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article).
+    - **Piscirickettsiosis:** Characteristic ring-shaped liver lesions (cream/yellow), internal granulomatous lesions in viscera, kidney and spleen enlargement. Skin ulcers are secondary to systemic infection [16](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/) [17](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/).
     - **Tenacibaculosis:** External ulcerative lesions with yellow pigmentation, mouth erosion, fin necrosis, tail rot. Body and caudal fin lesions (*T. maritimum*) or head/snout lesions (*T. dicentrarchi*). **No characteristic visceral lesions** [24](https://doi.org/10.3389/fcimb.2022.1068000).
 
 **Bacterial Consortia in Skin Ulcers**
@@ -309,9 +309,6 @@ Salmonid Rickettsial Septicaemia (SRS) remains the most significant threat to Ch
 
 Effective SRS management requires an integrated approach combining robust biosecurity protocols, early detection, stress reduction, sea lice control, and judicious antibiotic use. Ongoing research into cellular immune responses and novel vaccine approaches offers hope for improved control strategies. By implementing comprehensive disease management programs and supporting continued research, fish health managers and veterinarians can work toward reducing the devastating impact of SRS on salmon aquaculture operations.
 
-### Call to Action
-
-
 ---
 
 **Last Modified:** 2026-02-23
@@ -327,35 +324,65 @@ Effective SRS management requires an integrated approach combining robust biosec
 [[Yersiniosis]]
 
 **Citations:**
+
 [1] *Salmonid rickettsial septicaemia*. (2023). *The Fish Site*. https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia
+
 [2] Valenzuela-Aviles, P., Torrealba, D., Figueroa, C., et al. (2022). Why vaccines fail against Piscirickettsiosis in farmed salmon and trout and how to avoid it: A review. *Frontiers in Immunology*, *13*, 1019404. https://doi.org/10.3389/fimmu.2022.1019404
-[3] House, M. L., Bartholomew, J. L., Winton, J. R., & Fryer, J. L. (1999). Relative virulence of three isolates of *Piscirickettsia salmonis* for coho salmon *Oncorhynchus kisutch*. *Diseases of Aquatic Organisms*, *35*(2), 107–113. https://doi.org/10.3354/dao035107
+
+[3] House, M. L., Bartholomew, J. L., Winton, J. R., & Fryer, J. L. (1999). Relative virulence of three isolates of *Piscirickettsia salmonis* for coho salmon *Oncorhynchus kisutch*. *Diseases of Aquatic Organisms*, *35*(2), 107–113. https://www.int-res.com/journals/dao/articles/dao035107
+
 [4] Cabello, F. C., Millanao, A., & Godfrey, H. P. (2025). *Piscirickettsia salmonis* pathogenicity: using the damage-response framework to look beyond smoke and mirrors. *mBio*, *16*(4), e03821-24. https://doi.org/10.1128/mbio.03821-24
+
 [5] *Chile publishes annual report on aquaculture health status and antimicrobial use*. (2025, July 21). *Aquafeed*. https://www.aquafeed.com/newsroom/reports/chile-publishes-annual-reports-on-aquaculture-health-status-and-antimicrobial-use/
+
 [6] *Salmon rickettsial syndrome (SRS)*. (2022). *CAT – Center for Aquaculture Technologies*. https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/
+
 [7] Soto, F. (2025, July 18). SRS pushed Chilean salmon farming antibiotic use up by 9.7% last year. *Fish Farming Expert*. https://www.fishfarmingexpert.com/antibiotics-chilean-salmon-farming-florfenicol/srs-pushed-chilean-salmon-farming-antibiotic-use-up-by-97-last-year/1968326
+
 [8] Lozano, I., Díaz, N. F., Muñoz, S., & Riquelme, C. (2018). Antibiotics in Chilean aquaculture: a review. In *Antibiotic Use in Animals*. InTech. https://doi.org/10.5772/intechopen.71780
+
 [9] San Martín, B., Fresno, M., Cornejo, J., et al. (2019). Optimization of florfenicol dose against *Piscirickettsia salmonis* in *Salmo salar* through PK/PD studies. *PLOS ONE*, *14*(5), e0215174. https://doi.org/10.1371/journal.pone.0215174
+
 [10] Happold, J., Meyer, A., Sadler, R., et al. (2020). Effectiveness of antimicrobial treatment of salmonid rickettsial septicaemia in commercial salmon and trout farms in Chile. *Aquaculture*, *525*, 735323. https://doi.org/10.1016/j.aquaculture.2020.735323
+
 [11] Farias, D. R., Ibarra, R., Tucca, F., et al. (2025). Insights and lessons from Chilean salmon aquaculture on antimicrobial use. *Antibiotics*, *14*(12), 1177. https://doi.org/10.3390/antibiotics14121177
+
 [12] Zelada-Cordero, P. A., Altamirano, C., Arancibia-Diaz, A., et al. (2025). Culture conditions shape metabolism and exopolysaccharide production in *Piscirickettsia salmonis*: implications for vaccine development. *Aquaculture International*, *33*, 626. https://doi.org/10.1007/s10499-025-02265-5
+
 [13] SERNAPESCA. (2025). *Informe de situación sanitaria de la salmonicultura año 2024*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2025/07/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2024V-V2.pdf
+
 [14] SERNAPESCA. (2024). *Informe sanitario año 2023*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2024/09/Informe-Sanitario-ANO-2023.pdf
+
 [15] SERNAPESCA. (2025). *Informe de uso de antimicrobianos y antiparasitarios año 2024*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2025/07/Informe-Uso-Antimicrobianos-y-Antiparasitarios-Ano-2024.pdf
+
 [16] Godoy, M. (2021, January 17). *Presentación cutánea de la piscirickettsiosis (Piscirickettsia salmonis) en salmón coho (Oncorhynchus kisutch): patología macroscópica*. *Marcosgodoy.com*. https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/
-[17] Godoy, M. (n.d.). *Septicemia rickettsial salmonídea (SRS) en salmón del Atlántico (Salmo salar): presentación clínica-patológica visceral*. *Marcosgodoy.com*. https://marcosgodoy.com/index.php?Itemid=503&catid=9:uncategorised&id=157:es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral&lang=en&option=com_content&view=article
-[18] Godoy, M. (n.d.). *Piscirickettsia salmonis*, patógeno intracelular facultativo: observaciones en medios sólidos. *Marcosgodoy.com*. https://www.marcosgodoy.com/index.php?option=com_content&view=article&id=220:piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos&catid=150:diagnostico&Itemid=469&lang=es
+
+[17] Godoy, M. (n.d.). *Septicemia rickettsial salmonídea (SRS) en salmón del Atlántico (Salmo salar): presentación clínica-patológica visceral*. *Marcosgodoy.com*. https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/
+
+[18] Godoy, M. (n.d.). *Piscirickettsia salmonis*, patógeno intracelular facultativo: observaciones en medios sólidos. *Marcosgodoy.com*. https://marcosgodoy.com/piscirickettsia-salmonis-patogeno-intracelular-facultativo-observaciones-en-medios-solidos/
+
 [19] Laurin, E., Gardner, I. A., Peña, A., et al. (2020). Bayesian estimation of diagnostic sensitivity and specificity of a qPCR and a bacteriological culture method for *Piscirickettsia salmonis*. *Journal of Fish Diseases*, *43*(10), 1167–1175. https://doi.org/10.1111/jfd.13226
+
 [20] Rozas-Serri, M., Peña, A., Gardner, I., et al. (2023). Co-infection by LF-89-like and EM-90-like genogroups of *Piscirickettsia salmonis* in farmed Atlantic salmon in Chile: implications for surveillance and control of piscirickettsiosis. *Pathogens*, *12*(3), 450. https://doi.org/10.3390/pathogens12030450
+
 [21] Isla, A., Martinez-Hernandez, J. E., Levipan, H. A., et al. (2021). Development of a multiplex PCR assay for genotyping the fish pathogen *Piscirickettsia salmonis* through comparative genomics. *Frontiers in Microbiology*, *12*, 673216. https://doi.org/10.3389/fmicb.2021.673216
+
 [22] Isla, A., Aguilar, M., Flores-Martin, S. N., et al. (2024). Advancements in rapid diagnostics and genotyping of *Piscirickettsia salmonis* using loop-mediated isothermal amplification. *Frontiers in Microbiology*, *15*, 1392808. https://doi.org/10.3389/fmicb.2024.1392808
+
 [23] SERNAPESCA. (2021). *Sernapesca actualiza definición de enfermedad Tenacibaculosis*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/noticias/sernapesca-actualiza-definicion-de-enfermedad-tenacibaculosis/
+
 [24] Mabrok, M., Algammal, A. M., Sivaramasamy, E., et al. (2023). Tenacibaculosis caused by *Tenacibaculum maritimum*: updated knowledge of this marine bacterial fish pathogen. *Frontiers in Cellular and Infection Microbiology*, *12*, 1068000. https://doi.org/10.3389/fcimb.2022.1068000
+
 [25] Godoy, M., Coca, Y., Suárez, R., et al. (2024). *Salmo salar* skin and gill microbiome during *Piscirickettsia salmonis* infection. *Animals*, *14*(1), 97. https://doi.org/10.3390/ani14010097
+
 [26] Carril, G., Morales-Lange, B., Løvoll, M., et al. (2024). Salmonid rickettsial septicemia (SRS) disease dynamics and Atlantic salmon immune response to *Piscirickettsia salmonis* LF-89 and EM-90 co-infection. *Veterinary Research*, *55*, 102. https://doi.org/10.1186/s13567-024-01356-0
+
 [27] Diethelm-Varela, B., Atero, N., Córdova-Bührle, F., et al. (2025). Epidemiology of salmonid rickettsial septicemia (SRS) in farmed salmon: the role of sea lice infestations in mortality risk. *Journal of Fish Diseases*, e70097. https://doi.org/10.1111/jfd.70097
+
 [28] Islam, S. I., Shahed, K., Linh, N. V., et al. (2025). Pathogenomic insights into *Piscirickettsia salmonis*. *Animals*, *15*(8), 1176. https://doi.org/10.3390/ani15081176
+
 [29] SERNAPESCA. (2025). *Informe de situación sanitaria de la salmonicultura primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/01/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025-1.pdf
+
 [30] SERNAPESCA. (2025). *Informe de uso de antimicrobianos y antiparasitarios primer semestre 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/01/Informe-de-uso-de-antimicrobianos-y-antiparasitarios-primer-semestre-2025.pdf
 
 ---
