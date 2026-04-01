@@ -25,6 +25,8 @@ The Fish Disease Library is an open-source project dedicated to community collab
 
 To contribute, please visit our [GitHub repository](https://github.com/manolinaqua/fish-disease-library) and follow the contribution guidelines. Together, we can build a stronger, more comprehensive resource to support global aquaculture health.
 
+For significant contributions, we're currently offering honorariums structured based on the significance of the addition. To find out more details, please look at our [[Honorarium Program]].
+
 # Sponsors
 
 This project is currently sponsored by FHF of Norway ([Project Number 910692](https://www.fhf.no/prosjekter/prosjektbasen/910692/)).  
