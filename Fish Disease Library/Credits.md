@@ -13,4 +13,4 @@ We’re especially grateful to those who have volunteered their time, expertise,
 - Kyle Rogers (https://github.com/kyro5555)
  
 
-![[manolin_logo_black 1.png]]
+![[manolin_logo_black.png]]
