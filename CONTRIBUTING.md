@@ -1,4 +1,4 @@
-# Instructions for Contributing
+exam# Instructions for Contributing
 
 The instructions here assume that you have already created a github account of your own. If you have not simply go to [github](https://github.com) and make an account.
 
@@ -37,7 +37,7 @@ All downloads are free and don't require payment.
 	- 'Current branch' should be Main.
 
 If it looks like this, right click on the orange dot and 'Dismiss Changes'
-![[Screenshot 2026-04-10 at 10.43.49.png]]
+![[Example of phantom changes.png]]
 
 
 
@@ -63,7 +63,7 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
  ![[commit.png]]
 
 - Then click the blue '**Push origin'** button on the right (pictured)
-![[Screenshot 2026-04-10 at 12.34.34.png]]
+![[Example pushing changes to Git website.png]]
 
 - This puts your changes on the public GitHub, but to draw attention and get your changes approved to go live in the library, you need to make a Pull Request when you are finished.
 
@@ -72,7 +72,7 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 - After you've made your edits, go to the GitHub webpage and click on your profile in the top right hand corner. This is your fork of the fish disease library on the github webpage (pictured). It is a link like the one below
 	- `https://github.com/<your user name>/fish-disease-library`
 - Notice the commits you have made are there, click 'Contribute' then 'Open pull Request'
-![[Screenshot 2026-04-10 at 12.14.53.png]]
+![[Example opening a PR request.png]]
 
 - You should then see a menu similar to below. Make sure that the **base repository: manolinaqua/fish-disease-library** is selected on the left drop down.
 	- If there are conflicts (for example if you had not 'fetch origin' and the file you were working on was already changed by someone else), then you will need to go through and resolve conflicts.
