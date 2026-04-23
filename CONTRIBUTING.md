@@ -53,7 +53,9 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 	- Find and 'Replace' is found under the 3 dots (...) option in the top right corner
 	- For further tips about Obsidian have a look at [this tutorial]([https://www.youtube.com/watch?v=z4AbijUCoKU](https://www.youtube.com/watch?v=z4AbijUCoKU)
 - If it’s been a few days since your last edit, use “Fetch origin” in GitHub Desktop to pull in any updates to existing files.
-	- **Note:** new diseases or sections will not update then you need to [sync fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork). You can see this by going to the [Fish Disease Library website](https://fishdiseases.manolinaqua.com/welcome.html) to see if there are new sections.
+	- **Note:** New diseases or sections may not appear automatically in your Obsidian/fork. To update your copy, you’ll need to sync it with the main repository.
+		- You can do this by navigating to your fork on GitHub (e.g., `https://github.com/<your-username>/fish-disease-library`) and clicking **“Sync fork.”**
+		- It’s recommended to sync your fork before making any changes, especially if some time has passed since your last update. Otherwise conflicts could occur. 
 
 #### Step 5: "Commit" your work
 
