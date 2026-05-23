@@ -42,7 +42,18 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Etiology**
 
-- **Causative Agent:** Salmonid alphavirus (SAV), specifically Salmon pancreas disease virus (SPDV) [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+- **Causative Agent:** Salmonid alphavirus (SAV), also called Salmon pancreas disease virus (SPDV)
+    - Different SAV subtypes (genotypes) are associated with PD in Atlantic salmon and rainbow trout in marine farms. There are seven sybtypes of SAV (SAV1- SAV7) that have been described with distinct geographical distributions:
+
+| Genotype | Main host species              | Environment           | Known regions                                                                        | Notes                                                                                                 | **Source**                                                                                                                                           |
+| -------- | ------------------------------ | --------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SAV1     | Atlantic salmon, Rainbow trout | Marine and freshwater | Scotland, Ireland                                                                    | Associated with PD                                                                                    | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)<br> |
+| SAV2     | Rainbow trout, Atlantic salmon | Freshwater and marine | France, Scotland, England, Germany, Italy, Spain, Poland, Switzerland Central‑Norway | Freshwater variant causing sleeping disease (SD) in rainbow trout; marine variant causes PD in salmon | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)     |
+| SAV3     | Atlantic salmon, rainbow trout | Marine                | Western Norway                                                                       | Endemic Norwegian PD genotype                                                                         | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)     |
+| SAV4     | Atlantic salmon                | Marine                | Scotland, Ireland                                                                    | Associated with PD                                                                                    | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)     |
+| SAV5     | Atlantic salmon, sand flounder | Marine                | Scotland                                                                             | Detected also in sand flounder                                                                        | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)     |
+| SAV6     | Atlantic salmon (presumed)     | Marine                | Ireland                                                                              | Associated with PD                                                                                    | [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)<br>[11](https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com)     |
+| SAV7     | Ballan wrasse                  | Marine                | Ireland                                                                              | Reported only from cleaner fish (wrasse)                                                              | [12](https://www.int-res.com/journals/dao/articles/dao03546)                                                                                         |
 
 - **Transmission Methods:**
     - Seawater currents
@@ -187,6 +198,8 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [8] https://pubs.usgs.gov/publication/70162252
 [9] https://www.veterinaryirelandjournal.com/focus/192-salmonid-alphavirus-monitoring-infection-and-disease-on-irish-salmon-farms
 [10] https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd
+[11] https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com
+[12] https://www.int-res.com/journals/dao/articles/dao03546
 
 
 ---
