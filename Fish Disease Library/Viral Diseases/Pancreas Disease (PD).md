@@ -16,7 +16,7 @@ tags:
 ## Overview
 
 ### What is Pancreas Disease (PD)
-Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon). The name reflects the disease’s damaging effect on the pancreas, which reduces the production of digestive enzymes and thereby impairs digestion and growth [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
 ## Symptoms of Pancreas Disease
 
 ## Common Symptoms
