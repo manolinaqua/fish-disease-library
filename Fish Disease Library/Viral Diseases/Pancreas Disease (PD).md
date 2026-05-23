@@ -27,9 +27,9 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 - **Behavioral Changes:
     - Sudden loss of appetite [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
-    - Lethargic fish tha tend to stand close together near the water surface and against the  direction of the currents [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
+    - Lethargic fish that tend to stand close together near the water surface and against the direction of the currents [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
     - Abnormal swimming patterns [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
-    - Difficulties maintaining correct position in water due to muscle damage
+    - Difficulties maintaining correct position in water due to muscle damage [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
 
 **Progression of Symptoms**
 
@@ -185,7 +185,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [7] https://pubmed.ncbi.nlm.nih.gov/34402092/
 [8] https://pubs.usgs.gov/publication/70162252
 [9] https://www.veterinaryirelandjournal.com/focus/192-salmonid-alphavirus-monitoring-infection-and-disease-on-irish-salmon-farms
-[10] 
+[10] https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd
 
 
 ---
