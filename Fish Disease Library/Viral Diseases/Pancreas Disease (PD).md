@@ -56,9 +56,10 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 | SAV7     | Ballan wrasse                  | Marine                | Ireland                                                                              | Reported only from cleaner fish (wrasse)                                                              | [12](https://www.int-res.com/journals/dao/articles/dao03546)                                                                                         |
 
 - **Transmission Methods:**
-    - Seawater currents
-    - Human activities
-    - Lack of preventive measures between sites [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon)
+    - Horizontal transmission between fish: The virus spreads mainly by horizontal transmission through water, from infected to susceptible fish within and between cages [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+    - Seawater currents: Virus particles can be carried by seawater currents, enabling spread from infected sites to neighbouring farms [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+    - Human activities: Movements of live fish (including smolts), well‑boat transport, equipment and work boats that are not properly disinfected can contribute to spread between sites and regions [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+    - Insufficient biosecurity: Lack of preventive measures between sites (for example poor fallowing, inadequate separation of risk zones, or insufficient cleaning and disinfection) increases the risk of transmission and establishment of PD in new areas [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 **Risk Factors**
 
