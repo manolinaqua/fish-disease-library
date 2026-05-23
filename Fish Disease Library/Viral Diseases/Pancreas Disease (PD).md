@@ -76,7 +76,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 - **Laboratory Tests:**
     - PCR (Polymerase Chain Reaction)
     - Virus isolation
-    - Histopathology [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[5](https://pubmed.ncbi.nlm.nih.gov/17718709/)
+    - Histopathology: Tissue samples (typically pancreas, heart and skeletal  muscle) are examined for characteristic lesions associated with PD, including degeneration and inflammation in exocrine pancreas, heart and red skeletal muscle. Histopathology is central for differentiating PD from other cardiac and muscular diseases [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[5](https://pubmed.ncbi.nlm.nih.gov/17718709/) [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 **Differential Diagnosis**
 
