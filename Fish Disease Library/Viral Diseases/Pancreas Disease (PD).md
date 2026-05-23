@@ -80,7 +80,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Differential Diagnosis**
 
-- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN) and heart and skeletal muscle inflammation (HSMI) [2](https://pubmed.ncbi.nlm.nih.gov/27136332/).
+- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN), heart and skeletal muscle inflammation (HSMI) and cardiomyopathy Syndrom (CMS). [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
 
 ### Treatment and Prevention
 
