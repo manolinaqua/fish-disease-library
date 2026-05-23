@@ -63,7 +63,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Risk Factors**
 
-- Environmental factors and farm management practices can influence the spread and impact of PD [2](https://pubmed.ncbi.nlm.nih.gov/27136332/).
+- Environmental factors and farm management practices including infection pressure from nearby PD‑positive sites and local farm density can influence the spread and impact of PD [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[13](https://pubmed.ncbi.nlm.nih.gov/19419787/).
+- Fish populations may be infected with salmonid alphavirus without developing a clinical outbreak, but stressful events (for example handling, delousing, sudden temperature changes or poor water quality) can trigger or worsen an outbreak [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 ### Diagnosis
 
@@ -201,7 +202,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [10] https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd
 [11] https://pmc.ncbi.nlm.nih.gov/articles/PMC5957455/?utm_source=chatgpt.com
 [12] https://www.int-res.com/journals/dao/articles/dao03546
-
+[13] https://pubmed.ncbi.nlm.nih.gov/19419787/
 
 ---
 
