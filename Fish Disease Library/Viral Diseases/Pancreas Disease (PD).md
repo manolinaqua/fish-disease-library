@@ -33,9 +33,10 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Progression of Symptoms**
 
-- **Early Stages:** Sudden stop of eating, followed by changes in swimming behavior [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/).
+- **Early Stages:** A sudden stop of eating, followed by lethargy and abnormal swimming (for example difficulty maintaining normal posisition in the water or fish gathering against the current) [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
 
-- **Advanced Stages:** High levels of mortality, reduction in growth, and decreased fillet quality [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/).
+
+- **Advanced Stages:** Mortality usually begins 2–3 weeks after the first signs [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). High levels of mortality may occur, together with reduced growth, visibly stunted runts with poor body condition, and downgraded fillet quality at slaughter [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/).
 
 ### Causes of Pancreas Disease
 
