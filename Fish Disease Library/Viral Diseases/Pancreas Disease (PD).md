@@ -70,7 +70,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [2](https://pubmed.ncbi.nlm.nih.gov/27136332/).
+- **Clinical Examination:** Observation of physical and behavioral symptoms like reduced feed intake, lethargy, abnormal swimming and stunted runts [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). Clinical findings alone are not specific for PD and must be confirmed by laboratory testing.
 
 - **Laboratory Tests:**
     - PCR (Polymerase Chain Reaction)
