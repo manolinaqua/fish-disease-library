@@ -97,14 +97,14 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
     - Government regulation and surveillance programmes, like the PD regulation in Norway, enable early detection of PD and help to limit spread between sites and regions. Such strategies, based on zoning, movement restrictions, surveillance and fallowing, have also been implemented in several European salmon‑producing regions [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 - **Vaccination Strategies:**
-    - Vaccines against PD are available and have shown effectiveness in reducing infection levels, mortality rates, and viral shedding [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [7](https://pubmed.ncbi.nlm.nih.gov/34402092/).
+    - Several commercial vaccines against PD are available and have shown effectiveness in reducing infection levels, mortality rates, and viral shedding [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [7](https://pubmed.ncbi.nlm.nih.gov/34402092/).
     - A monovalent vaccine was made commercially available in 2007, and a multivalent vaccine capable of immunizing fish against multiple SPDV strains was introduced in 2015 [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
 
 - **Farm Management Practices:**
     - Reduced stocking densities to decrease the risk of virus transmission [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
     - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
-    - Environmental manipulation, such as elevated water temperature, has been successfully used to control IHN [8](https://pubs.usgs.gov/publication/70162252).
+    - Avoiding unnecessary stressful operations during high‑risk periods can help reduce the impact of PD [13](https://pubmed.ncbi.nlm.nih.gov/19419787/).
 
 - **Supportive measures:** 
      - Functional feeds can be used as a supportive measure during PD risk periods and outbreaks to help maintain digestion, condition and survival, but they do not eliminate infection [14](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/) [15](https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487)
