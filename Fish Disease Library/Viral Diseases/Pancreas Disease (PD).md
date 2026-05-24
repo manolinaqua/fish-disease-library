@@ -114,11 +114,16 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-    - **Norway (2010):** Economic losses were estimated to be 0.72 € per kg in Norwegian salmon production due to high mortality rates, reduced growth, and reduced quality of the finished product [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+    - **Norway (2010):** Economic losses were estimated to be 0.72 € per kg in Norwegian salmon production due to high mortality rates, reduced growth, and reduced quality of the finished product [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub)
 
 - **Response Strategies and Outcomes:**
-    - **Norway:** Implementation of a combination of vaccination, improved biosecurity measures, depopulation, closure of poorly managed fish farms, and geographical separation of sites has proven to reduce PD outbreaks [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
-    - In 2008, Norway divided its coastline into two administrative zones separated by a production-free zone of 10 nautical miles and introduced a vaccination program [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+    - **Norway:** PD is a listed fish disease in Norway (category F), and any suspicion or detection of PD must be reported immediately to the Norwegian Food Safety Authority (Mattilsynet) [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+    - PD has been regulated in Norway through specific regulations since 2007, with an intensive surveillance programme in 2012–2017 followed by a national PD regulation introduced in 2017 with the goal of reducing disease impact, preventing establishment in surveillance zones and limiting spread of SAV2 and SAV3 [17](https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
+    - All sites with farmed salmonids in raw seawater are subject to monthly PCR testing for SAV, with positive results notified to Norwegian Food Safety Authority [17](https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
+    - In 2008, Norway divided its coastline into two administrative zones, with one zone defined as an endemic PD zone from Jæren to Skjemta (Flatanger), and two surrounding surveillance zones along the rest of the coast [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
+    - Key control measures include movement control, coordinated operation and fallowing over larger areas, treatment of transport water, control of seawater intake for post‑smolt production, and rapid slaughter of infected populations outside the endemic zone [17](https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+    - Overall, these measures have helped to contain PD mainly within the endemic zone and to prevent wider establishment in the national surveillance zones.
+    
 
 - **Lessons Learned:** The importance of early detection, robust biosecurity, and coordinated response efforts in controlling PD outbreaks. However, the effectiveness of some measures, such as the administrative zoning in Norway, has been questioned as the number of PD outbreaks has not significantly reduced [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
 
@@ -208,6 +213,8 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [13] https://pubmed.ncbi.nlm.nih.gov/19419787/
 [14] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/
 [15] https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487
+[16] https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub
+[17] https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318
 
 ---
 
