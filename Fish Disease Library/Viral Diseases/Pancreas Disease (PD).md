@@ -80,7 +80,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Differential Diagnosis**
 
-- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN), heart and skeletal muscle inflammation (HSMI) and cardiomyopathy Syndrom (CMS). [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
+- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN), heart and skeletal muscle inflammation (HSMI) and cardiomyopathy Syndrom (CMS) [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
 
 ### Treatment and Prevention
 
@@ -105,6 +105,9 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
     - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
     - Environmental manipulation, such as elevated water temperature, has been successfully used to control IHN [8](https://pubs.usgs.gov/publication/70162252).
+
+- **Supportive measures:** 
+     - Functional feeds can be used as a supportive measure during PD risk periods and outbreaks to help maintain digestion, condition and survival, but they do not eliminate infection [14](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/) [15](https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487)
 
 ### Case Studies
 
@@ -204,8 +207,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [12] https://www.int-res.com/journals/dao/articles/dao03546
 [13] https://pubmed.ncbi.nlm.nih.gov/19419787/
 [14] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/
-
-
+[15] https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487
 
 ---
 
