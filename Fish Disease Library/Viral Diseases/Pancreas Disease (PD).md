@@ -93,8 +93,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 - **Biosecurity Protocols:**
     - Strict quarantine measures for new stock to prevent the introduction of SAV [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
-    - Regular disinfection of equipment and facilities to minimize the risk of contamination [8](https://pubs.usgs.gov/publication/70162252).
-    - Eradication and avoidance strategies have been successfully applied in Brittany and parts of Denmark and Italy [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus).
+    - Regular disinfection of well‑boats, equipment and slaughter/processing facilities, treatment of transport water, and careful control of seawater intake for post‑smolt production in PD‑affected zones are key measures to prevent spread with water and equipment [8](https://pubs.usgs.gov/publication/70162252)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)..
+    - Government regulation and surveillance programmes, like the PD regulation in Norway, enable early detection of PD and help to limit spread between sites and regions. Such strategies, based on zoning, movement restrictions, surveillance and fallowing, have also been implemented in several European salmon‑producing regions [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 - **Vaccination Strategies:**
     - Vaccines against PD are available and have shown effectiveness in reducing infection levels, mortality rates, and viral shedding [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [7](https://pubmed.ncbi.nlm.nih.gov/34402092/).
