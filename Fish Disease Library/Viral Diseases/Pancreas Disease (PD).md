@@ -151,9 +151,10 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 - **PD Incidence in Norway:**
     - Between 2009 and 2011, there were 75 to 89 outbreaks per year [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+    - In 2018, 134 confirmed PD cases were registered, and the number has decreased gradually since then: 77 cases in 2022, 58 in 2023, 43 in 2024, and 37 in 2025 [19](https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk).
 
 - **Economic Impact:**
-    - In 2010, the economic loss was estimated to be 0.72 € per kg in Norwegian salmon production [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+    - In 2010, the economic loss was estimated to be 0.72 € per kg in Norwegian salmon production [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub)
 
 - **Treatment & Management:**
     - Combination of vaccination, improved biosecurity measures, depopulation, and geographical separation of sites [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
@@ -217,6 +218,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [16] https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub
 [17] https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318
 [18] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+[19] https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk
+
+
+
 
 ---
 
