@@ -125,7 +125,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
     - Overall, these measures have helped to contain PD mainly within the endemic zone and to prevent wider establishment in the national surveillance zones.
     
 
-- **Lessons Learned:** The importance of early detection, robust biosecurity, and coordinated response efforts in controlling PD outbreaks. However, the effectiveness of some measures, such as the administrative zoning in Norway, has been questioned as the number of PD outbreaks has not significantly reduced [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+- **Lessons Learned:** The importance of early detection, robust biosecurity, and coordinated response efforts in controlling PD outbreaks has become clear. Overall, these measures have helped to keep PD largely confined to the endemic zone and to prevent wider establishment in the national surveillance zones. National statistics from Norway also indicate an overall gradual reduction in the number of PD cases caused by both SAV2 and SAV3 since 2018 [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+
 
 ## Data Insights
 
@@ -215,6 +216,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [15] https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487
 [16] https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub
 [17] https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318
+[18] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 
 ---
 
