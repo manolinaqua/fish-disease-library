@@ -157,8 +157,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
     - In 2010, the economic loss was estimated to be 0.72 € per kg in Norwegian salmon production [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub)
 
 - **Treatment & Management:**
-    - Combination of vaccination, improved biosecurity measures, depopulation, and geographical separation of sites [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
-    - Daily updated interactive maps allow monitoring of PD outbreaks geographically
+    - Vaccination in endemic areas, PD regulations, strong biosecurity, movement control and coordinated fallowing (see “Response strategies and outcomes – Norway” for details).
+    - Publicly available disease maps and official reports (via [BarentsWatch](https://www.barentswatch.no/fiskehelse/2026/21) and Mattilsynet) allow geographical monitoring of PD outbreaks and support rapid response.
 
 
 
