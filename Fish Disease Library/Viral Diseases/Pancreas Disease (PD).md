@@ -173,11 +173,10 @@ Recent studies on Pancreas Disease (PD) in salmonids have focused on various asp
     Reference: Røsæg, M. V., et al. (2021). Effect of vaccines against pancreas disease in farmed Atlantic salmon. Journal of Fish Diseases, 44(11), 1695-1707.  
     [Link to study](https://pubmed.ncbi.nlm.nih.gov/34402092/)
 2. **"Prevention and control of viral diseases of salmonids"**  
-    Authors: Wolf, K.  
-    Reference: Wolf, K. (1976). Prevention and control of viral diseases of salmonids. Journal of the Fisheries Research Board of Canada, 33(4), 1059-1066.  
+    Authors: Amend, D.F. 
+    Reference: Amend, D.F. (1976). Prevention and control of viral diseases of salmonids. Journal of the Fisheries Research Board of Canada, 33(4), 1059-1066.  
     [Link to study](https://pubs.usgs.gov/publication/70162252)
 
-These studies represent advancements in understanding the prevention, control, and economic impact of Pancreas Disease in various regions, particularly in Norway and other European countries with significant salmon farming industries.
 
 ## Conclusion
 
@@ -189,7 +188,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-07-26
+**Last Modified:** 2026-05-24
 
 **Tags:** #PancreasDisease , #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Chile, #ViralDisease, #Virus 
 ##### Viral Diseases
