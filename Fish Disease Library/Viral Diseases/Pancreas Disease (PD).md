@@ -86,9 +86,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Treatment Options**
 
-- **Current Treatments:** No effective antiviral treatments are available for PD. Management focuses on preventing the spread and mitigating the impact through culling and containment measures [4](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus).
+- **Current Treatments:** No specific antiviral treatments are available for PD. Management focuses on preventing the spread and mitigating the impact through culling and containment measures [4](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus).
 
-- **Experimental Treatments:** Chemotherapeutics such as povidone-iodine for IPN and benzipyrene for IHN show promise in controlling mortalities, but their practicality in eliminating carrier fish has not been fully evaluated [8](https://pubs.usgs.gov/publication/70162252).
 
 **Preventive Measures**
 
