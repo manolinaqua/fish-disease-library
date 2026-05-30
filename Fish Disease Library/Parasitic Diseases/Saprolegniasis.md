@@ -97,12 +97,14 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Regular egg disinfection with approved products (hydrogen peroxide, bronopol) at recommended intervals throughout incubation [3][18].
-    - Prompt and thorough removal of dead and moribund eggs from incubation trays to eliminate organic substrate for *Saprolegnia* growth [3].
-    - Disinfection of equipment, nets, and footbaths for personnel to prevent cross-contamination between facilities [18].
+    - Regular egg disinfection with approved products (for example hydrogen peroxide, bronopol) at recommended intervals throughout incubation [3][18].
+    - Maintaining good general hygiene in tanks, pipes and sumps to prevent accumulation of organic debris. 
+    - Prompt and thorough removal of dead and moribund eggs from incubation trays to eliminate organic substrate for *Saprolegnia* growth and prevent spread [3].
+    - Disinfection of equipment, nets, and footswear for personnel, combined with controlled access and hygiene routines for personnel, reduces risk of cross-contamination between tanks and facilities [18].
+    
 
 - **Farm Management Practices:**
-    - Minimizing handling-induced injuries through careful grading, crowding, and transfer procedures to reduce entry sites for *Saprolegnia* [18].
+    - Minimizing handling-induced injuries and avoiding unnecessary stress through careful grading, crowding, vaccination, and transfer procedures, which reduces skin and mucus damage that can act as entry sites for _Saprolegnia_ [18].
     - Maintaining optimal water quality: low organic load, adequate water flow, appropriate temperature, and sufficient dissolved oxygen to limit pathogen proliferation [6][18].
     - Incorporating *Saprolegnia* resistance into selective breeding programs; heritability estimates of ~0.25 in Atlantic salmon indicate meaningful scope for genetic improvement [11].
 
