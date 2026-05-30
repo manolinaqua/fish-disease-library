@@ -40,9 +40,10 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage — wounds from handling, fin nips, or ectoparasite attachment provide primary entry points. Behavioral changes at this stage may be subtle [5][7].
-- **Advanced Stages:** Mycelial colonies expand and coalesce; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and death [5][6].
-- **Impact on Fish Health:** Saprolegniasis compromises the cutaneous barrier, leading to electrolyte imbalance and osmotic stress. The altered skin microbiome associated with infection — reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7]. Mortality can be high in crowded hatchery and farm settings [18].
+- **Early Stages:** Infection begins as small, discrete patches of whitish mycelium at sites of prior skin damage, such as wounds from handling, fin nips, or ectoparasite attachment, which act as primary entry points for spores. These patches often develop first on unscaled areas of the head and operculum and may then extend along the back toward the adipose fin and fin bases [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). Behavioral changes at this stage may be subtle [5][7].
+- **Advanced Stages:** Mycelial colonies expand and merge into extensive mats; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and ultimately death [5][6].
+- **Egg infection:** _Saprolegnia_ spores generally do not establish infection directly on viable eggs, but readily colonize dead eggs and other organic debris in the hatchery environment. From these initial foci, hyphae grow outward and can contact neighboring viable eggs, penetrate the chorion, and kill them [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+- **Impact on Fish Health:** Degenerative changes and necrosis in the skin reduce the fish’s ability to maintain water and ion homeostasis, leading to electrolyte imbalance, impaired osmoregulation and osmotic stress. The altered skin microbiome associated with infection — with reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7]. Mortality can be high in crowded hatchery and farm settings [18].
 
 ### Causes of Saprolegniasis
 
@@ -273,5 +274,9 @@ Future research priorities include: in vivo validation of emerging therapeutants
 [19] Matras, M., Stachnik, M., Kycko, A., Wasiak, M., Paździor, E., Maj-Paluch, J., Borzym, E., & Reichert, M. (2024). Etiology of ulcerative dermal necrosis (UDN) in brown trout (*Salmo trutta* Morpha *trutta*) — Preliminary results. *Pathogens*, *13*(3), 251. https://doi.org/10.3390/pathogens13030251
 
 [20] SERNAPESCA. (2025). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Servicio Nacional de Pesca y Acuicultura, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl
+
+[21] Veterinærinstituttet. (2025, February 2). Saprolegniose. Accessed May 2026. https://www.vetinst.no/sykdom-og-agens/saprolegniose
+
+
 
 ---
