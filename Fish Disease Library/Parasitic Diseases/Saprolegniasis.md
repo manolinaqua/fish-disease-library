@@ -28,10 +28,10 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 ### Common Signs
 
 - **Physical Signs:**
-    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of hyphae on the skin, fins, gills, and eggs of affected fish [2][6]. These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
+    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of mycelium on the skin, fins, gills, and eggs of affected fish [2][6]. These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
     - **Hemorrhagic ulcers:** Beneath the mycelial mat, the underlying skin develops reddened, hemorrhagic ulcers exposing the dermis and, in advanced cases, underlying muscle tissue [5][7].
     - **Fin erosion:** Fin margins become ragged and necrotic at sites where mycelial colonization is established [6].
-    - **Egg infection:** *Saprolegnia* is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3].
+    - **Egg infection:** *Saprolegnia* spp. is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3].
 
 - **Behavioral Changes:**
     - **Lethargy and isolation:** Infected fish exhibit reduced activity and may separate from the school [6].
