@@ -76,7 +76,7 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 **Differential Diagnosis**
 
-- **Distinguishing Saprolegniasis from Other Conditions:** Columnaris disease (*Flavobacterium columnare*) produces superficially similar white/yellow plaques on skin but is bacterial in origin and can be differentiated by Gram staining, culture, and PCR. True fungal infections (e.g., *Ichthyophonus hoferi*) cause internal granulomas rather than surface mycelium. Other oomycete genera (*Aphanomyces*, *Pythium*) require ITS sequencing or molecular methods to distinguish from *Saprolegnia* [2][8].
+- **Distinguishing Saprolegniasis from Other Conditions:** Columnaris disease (*Flavobacterium columnare*) produces superficially similar white/yellow plaques on skin but is bacterial in origin and can be differentiated by microscopy, Gram staining, culture, and PCR. True fungal infections (e.g., *Ichthyophonus hoferi*) cause internal granulomas rather than surface mycelium. Other oomycete genera (*Aphanomyces*, *Pythium*) require ITS sequencing or molecular methods to distinguish from *Saprolegnia* [2][8].
 
 ### Treatment and Prevention
 
