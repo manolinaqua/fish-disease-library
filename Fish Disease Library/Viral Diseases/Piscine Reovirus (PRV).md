@@ -182,7 +182,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]
 [[Infectious Salmon Anemia (ISA)]]
-[[Pancreatic Disease (PD)]]
+[[Pancreas Disease (PD)]]
 
 **Citations:**
 [1] https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf

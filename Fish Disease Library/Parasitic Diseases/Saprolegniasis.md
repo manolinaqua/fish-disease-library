@@ -17,21 +17,21 @@ tags:
 
 ### What is Saprolegniasis?
 
-Saprolegniasis (also known as water mold disease, cotton mold disease, or winter disease) is a destructive infectious disease of freshwater fish and fish eggs caused by oomycetes of the genus *Saprolegnia* [18]. The primary causative agents are *Saprolegnia parasitica*, *S. diclina*, and *S. ferax*, with *S. parasitica* widely regarded as the most virulent species in salmonid aquaculture [1][3]. Although traditionally grouped with fungal diseases, *Saprolegnia* species are oomycetes belonging to the kingdom Stramenopila (Chromista) — they are evolutionarily distinct from true fungi, differing in cell wall composition (cellulose rather than chitin), a diploid life cycle, and the production of biflagellate zoospores [2].
+Saprolegniasis (also referred to as saprolegniosis) is also known as water mold disease, cotton wool disease, or winter disease and is a destructive infectious disease of freshwater fish and fish eggs caused by oomycetes of the genus *Saprolegnia* [18]. The primary causative agents are *Saprolegnia parasitica*, *S. diclina*, and *S. ferax*, with *S. parasitica* widely regarded as the most virulent species in salmonid aquaculture [1][3]. Although traditionally grouped with fungal diseases, *Saprolegnia* species are oomycetes belonging to the kingdom Stramenopila (Chromista) — they are evolutionarily distinct from true fungi, differing in cell wall composition with cellulose‑ and glucan‑rich cell wall composition, a diploid life cycle, and the production of biflagellate zoospores [2].
 
-Saprolegniasis affects a broad range of freshwater fish species, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), iridescent catfish (*Pangasianodon hypophthalmus*), and various ornamental fish, as well as salmonid eggs in hatcheries [6][3]. The disease is globally distributed in freshwater aquaculture systems across Europe, North America, and Asia [18].
+Saprolegniasis affects a broad range of freshwater fish species, in both wild populations and aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), iridescent catfish (*Pangasianodon hypophthalmus*), and various ornamental fish, as well as salmonid eggs in hatcheries [6][3]. The disease is globally distributed in freshwater aquaculture systems, particularly across Europe, North America, and Asia [18].
 
-The economic significance of saprolegniasis increased sharply after the ban of malachite green in food fish production in the European Union (2002) and in most other countries during the early 2000s. Previously the cornerstone treatment, malachite green's removal from use prompted urgent search for alternative treatments and increased reliance on biosecurity measures [13][15]. Annual losses attributable to saprolegniasis in global freshwater aquaculture are estimated in the tens of millions of dollars, with hatchery egg losses being particularly severe [16].
+The economic significance of saprolegniasis increased sharply after the ban of malachite green in food fish production in the European Union (2002) and in most other countries during the early 2000s. Previously the cornerstone treatment, malachite green's removal from use, due to its carcinogenic properties, prompted urgent search for alternative treatments and increased reliance on biosecurity measures [13][15]. Annual losses attributable to saprolegniasis in global freshwater aquaculture are estimated in the tens of millions of dollars, with hatchery egg losses being particularly severe [16].
 
 ## Clinical Signs of Saprolegniasis
 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of hyphae on the skin, fins, gills, and eggs of affected fish [2][6]. These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
+    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of mycelium on the skin, fins, gills, and eggs of affected fish [2][6]. These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
     - **Hemorrhagic ulcers:** Beneath the mycelial mat, the underlying skin develops reddened, hemorrhagic ulcers exposing the dermis and, in advanced cases, underlying muscle tissue [5][7].
     - **Fin erosion:** Fin margins become ragged and necrotic at sites where mycelial colonization is established [6].
-    - **Egg infection:** *Saprolegnia* is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3].
+    - **Egg infection:** *Saprolegnia* spp. is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3].
 
 - **Behavioral Changes:**
     - **Lethargy and isolation:** Infected fish exhibit reduced activity and may separate from the school [6].
@@ -40,26 +40,27 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage — wounds from handling, fin nips, or ectoparasite attachment provide primary entry points. Behavioral changes at this stage may be subtle [5][7].
-- **Advanced Stages:** Mycelial colonies expand and coalesce; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and death [5][6].
-- **Impact on Fish Health:** Saprolegniasis compromises the cutaneous barrier, leading to electrolyte imbalance and osmotic stress. The altered skin microbiome associated with infection — reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7]. Mortality can be high in crowded hatchery and farm settings [18].
+- **Early Stages:** Infection begins as small, discrete patches of whitish mycelium at sites of prior skin damage, such as wounds from handling, fin nips, or ectoparasite attachment, which act as primary entry points for spores. These patches often develop first on unscaled areas of the head and operculum and may then extend along the back toward the adipose fin and fin bases [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). Behavioral changes at this stage may be subtle [5][7].
+- **Advanced Stages:** Mycelial colonies expand and merge into extensive mats; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and ultimately death [5][6].
+- **Egg infection:** _Saprolegnia_ spores generally do not establish infection directly on viable eggs, but readily colonize dead eggs and other organic debris in the hatchery environment. From these initial foci, hyphae grow outward and can contact neighboring viable eggs, penetrate the chorion, and kill them [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+- **Impact on Fish Health:** Degenerative changes and necrosis in the skin reduce the fish’s ability to maintain water and ion homeostasis, leading to electrolyte imbalance, impaired osmoregulation and osmotic stress. The altered skin microbiome associated with infection — with reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7]. Mortality can be high in crowded hatchery and farm settings [18].
 
 ### Causes of Saprolegniasis
 
 **Etiology**
 
-- **Causative Agent:** *Saprolegnia parasitica* is the primary pathogen in freshwater salmonid aquaculture. Phylogenetic analysis of the ITS region has identified at least five phylotypes of *S. parasitica* (S2–S6); phylotype S2 is overwhelmingly dominant in Scottish Atlantic salmon farms, accounting for 91.1% of all *S. parasitica* isolates recovered during epizootic periods [1]. In Nova Scotia, both S1 and S2 strains co-circulate; S1 exhibits persistent zoospore motility and is consistently more virulent than S2 in experimental challenges, while S2 zoospores encyst and germinate more rapidly [4]. *Saprolegnia diclina* clade IIIA is also frequently isolated from diseased eggs and employs a distinct infection strategy [3]. Morphologically, *S. parasitica* produces non-septate branching hyphae, zoosporangia, secondary zoospores, encysted spores, and persistent vegetative gemmae; culture conditions significantly influence the formation of these structures [2].
+- **Causative Agent:** *Saprolegnia parasitica* is the primary pathogen in freshwater salmonid aquaculture. ITS‑phylogenetic analysis of Scottish Atlantic salmon farms identified five distinct _S. parasitica_ phylotypes (S2–S6); phylotype S2 was the most prevalent and widely distributed, present at 12 of 14 farms, comprising 91.1% of _S. parasitica_ phylotypes sampled during epizootic periods, as well as 67.2% of all _Saprolegnia_ isolates [1]. In Nova Scotia, both S1 and S2 strains co-circulate; S1 exhibits persistent zoospore motility and is consistently more virulent than S2 in experimental challenges, while S2 zoospores encyst and germinate more rapidly [4]. Morphologically, *S. parasitica* produces non-septate branching hyphae, zoosporangia with motile zoospores, encysted spores, and persistent vegetative gemmae; culture conditions significantly influence the formation of these structures [2].*Saprolegnia diclina* clade IIIA is also frequently isolated from diseased eggs and appears to employ a distinct infection strategy characterized by chorion destruction [3]. 
 
 - **Transmission Methods:**
-    - **Zoospore Dispersal:** *Saprolegnia* reproduces asexually by releasing biflagellate primary zoospores from zoosporangia. These encyst, re-germinate as secondary zoospores, and ultimately encyst again before germinating into new hyphae. Zoospores are chemotactically attracted to fish skin exudates and damaged tissue [2][4].
+    - **Zoospore Dispersal:** *Saprolegnia* reproduces asexually by releasing biflagellate primary zoospores from zoosporangia. These encyst, re-germinate as secondary zoospores, and ultimately encyst again before germinating into new hyphae. Zoospores are chemotactically attracted to fish skin exudates and damaged tissue [2][4]. _Saprolegnia_ spp. are naturally present in most freshwater sources and spread via these motile zoospores, so hatcheries and freshwater farms can be infected through incoming water [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
     - **Direct Contact:** Infected fish and eggs release enormous numbers of zoospores into the water column, directly exposing neighboring healthy fish and eggs [5][3].
-    - **Environmental Reservoirs:** *Saprolegnia* persists as saprotrophic mycelium on decaying organic matter — dead fish, uneaten feed, and feces — in tank substrates and biofilms, providing ongoing zoospore production even in the absence of visibly diseased hosts [18].
+    - **Environmental Reservoirs:** *Saprolegnia* persists as saprotrophic mycelium on decaying organic matter — dead fish, uneaten feed, feces, and dead eggs — in tank substrates and biofilms on tank walls and in piping, providing ongoing zoospore production even in the absence of visibly diseased hosts [18].
 
 **Risk Factors**
 
-- **Environmental Factors:** *Saprolegnia parasitica* shows temperature-sensitive growth, with optimal proliferation in the range of 12–24°C [6]. Disease incidence is therefore highest during cold-water winter and early spring months in temperate regions. High organic load, poor water flow, and reduced dissolved oxygen further promote zoospore accumulation and infection [18].
-- **Host Factors:** Pre-existing skin damage from handling, grading, net injuries, or ectoparasite attachment greatly increases susceptibility by providing infection entry points [5][7]. Immunosuppression during spawning migration is a classical risk factor in wild fish [19]. Notably, genetic resistance to *S. parasitica* exists among Atlantic salmon families, with heritability estimated at approximately 0.25, indicating meaningful potential for selective breeding [11].
-- **Farm Management Practices:** High stocking densities increase contact rates and waterborne zoospore loads. Incomplete removal of dead eggs during incubation creates organic reservoirs for *Saprolegnia* growth and amplifies spore pressure on viable eggs [3][18].
+- **Environmental Factors:** A study on  _S. parasitica_ from cage‑reared _Pangasianodon hypophthalmus_ reported a temperature‑sensitive optimum growth in a narrow window of 12–24 °C [6]. Saprolegniasis outbreaks in temperate regions are most common in cold‑water periods during late autumn, winter and early spring [6]. High organic load, poor water flow, and reduced dissolved oxygen are recognized as important stressors, predisposing fish to saprolegniasis by impairing immune function [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose)[18].
+- **Host Factors:** _Saprolegnia_ infections typically develop when the fish’s immune system is compromised—for example by stress—or when there is damage to the mucus layer and skin [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).Pre-existing skin damage from handling, grading, net injuries, or ectoparasite attachment greatly increases susceptibility by providing infection entry points [5][7]. Immunosuppression during spawning migration is a classical risk factor in wild fish [19]. Notably, genetic resistance to *S. parasitica* exists among Atlantic salmon families, with heritability estimated at approximately 0.25, indicating meaningful potential for selective breeding [11].
+- **Farm Management Practices:** High stocking densities increase contact rates and waterborne zoospore loads in tanks and cages. Incomplete removal of dead eggs during incubation creates organic reservoirs for *Saprolegnia* growth and amplifies spore pressure on viable eggs [3][18].
 
 ### Diagnosis
 
@@ -68,14 +69,14 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 - **Clinical Examination:** The gross appearance of white cotton-like mycelial tufts on skin or eggs is highly characteristic of saprolegniasis and is sufficient for a presumptive field diagnosis [2][6]. Inspection under a hand lens can confirm the filamentous oomycete growth.
 
 - **Laboratory Tests:**
-    - **Microscopy:** Wet-mount preparations of mycelial material reveal characteristic branching, non-septate hyphae and mature zoosporangia containing zoospores. Differentiation of *Saprolegnia* morphotypes based on gemma formation, zoosporangium shape, and zoospore release patterns allows species and strain-level characterization [2].
+    - **Microscopy:** Wet-mount preparations of mycelial material reveal characteristic branching, non-septate hyphae and mature zoosporangia containing zoospores. Differentiation of *Saprolegnia* morphotypes based on gemma formation, zoosporangium shape, and zoospore release patterns allows species and strain-level characterization [2]. Morphological identification is often inadequate for definitive species-level diagnosis — molecular methods used for this.
     - **Culture Methods:** Isolation on glucose-yeast extract agar or selective media supports pure culture growth for morphological and molecular characterization [5].
-    - **Molecular Methods (PCR/qPCR):** Validated real-time qPCR assays targeting the ITS region enable specific, sensitive detection of *S. parasitica* in both fish mucus swabs and environmental water samples (eDNA), with 100% sensitivity for *S. parasitica*-positive water samples confirmed in field validation studies [8]. Multiplex PCR protocols targeting both the rDNA-ITS region and a hypothetical protein gene allow species-level identification in a single reaction [9]. Loop-mediated isothermal amplification (LAMP) offers superior analytical sensitivity compared to qPCR and is suitable for rapid, on-site diagnostics in as little as 20–60 minutes [10].
+    - **Molecular Methods (PCR/qPCR):** Validated real-time qPCR assays targeting the internal transcribed spacer (ITS) region enable specific, sensitive detection of *S. parasitica* in both fish mucus swabs and environmental water samples (eDNA), with 100% sensitivity for *S. parasitica*-positive water samples confirmed in field validation studies [8]. Multiplex PCR protocols targeting both the rDNA-ITS region and a hypothetical protein gene allow species-level identification in a single reaction [9]. Loop-mediated isothermal amplification (LAMP) offers superior analytical sensitivity compared to qPCR and is suitable for rapid, on-site diagnostics in as little as 20–60 minutes [10].
     - **Histopathology:** Tissue sections reveal hyphal invasion of the dermis and underlying musculature; PAS or Grocott staining highlights hyphal elements and confirms tissue penetration [7].
 
 **Differential Diagnosis**
 
-- **Distinguishing Saprolegniasis from Other Conditions:** Columnaris disease (*Flavobacterium columnare*) produces superficially similar white/yellow plaques on skin but is bacterial in origin and can be differentiated by Gram staining, culture, and PCR. True fungal infections (e.g., *Ichthyophonus hoferi*) cause internal granulomas rather than surface mycelium. Other oomycete genera (*Aphanomyces*, *Pythium*) require ITS sequencing or molecular methods to distinguish from *Saprolegnia* [2][8].
+- **Distinguishing Saprolegniasis from Other Conditions:** Columnaris disease (*Flavobacterium columnare*) produces superficially similar white/yellow plaques on skin but is bacterial in origin and can be differentiated by microscopy, Gram staining, culture, and PCR. True fungal infections (e.g., *Ichthyophonus hoferi*) cause internal granulomas rather than surface mycelium. Other oomycete genera (*Aphanomyces*, *Pythium*) require ITS sequencing or molecular methods to distinguish from *Saprolegnia* [2][8].
 
 ### Treatment and Prevention
 
@@ -84,7 +85,7 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 - **Current Treatments:**
     - **Chemical Treatments:** Following the malachite green ban, approved treatments for saprolegniasis are limited. Formalin baths, hydrogen peroxide, bronopol (Pyceze®), and sodium chloride (salt) baths are used in various countries under national regulatory frameworks [18]. Copper sulfate has demonstrated inhibitory activity against *S. parasitica* by disrupting protein synthesis, energy biogenesis, and carbohydrate metabolism [14].
     - **Historical Treatments:** Malachite green was used globally for decades as the gold-standard treatment against *Saprolegnia* on both fish and eggs. Its ban in food fish production (EU 2002; other countries by the early 2000s) due to carcinogenic and teratogenic properties created a significant therapeutic gap that persists today [15][13].
-    - **Treatment Challenges:** Approved chemical alternatives are generally less efficacious than malachite green, and options vary considerably by jurisdiction. Limited approved therapeutants, environmental concerns over discharge, and the potential for tolerance development all complicate treatment programs [12][16].
+    - **Treatment Challenges:** Approved chemical alternatives are  generally less efficacious than malachite green, and options vary considerably by jurisdiction. _Saprolegnia_ spores are relatively resistant, and common freshwater treatment methods such as UV filtration and ozonation are not sufficiently effective to eliminate them completely, allowing the pathogen to persist in intake and system water. The use of formalin in aquaculture is itself controversial and currently under regulatory review in the EU, and restrictions or a future ban on formalin use against parasites and oomycetes would further narrow treatment options. [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). Taken together, limited approved therapeutants, environmental concerns over discharge, potential for tolerance development, and possible future regulatory tightening make it increasingly important to emphasize preventive measures and non‑chemical control strategies [12][16] [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
 
 - **Emerging Treatments:**
     - **Boric acid:** Inhibits *Saprolegnia* spore germination and mycelial growth in vitro, and effectively controls saprolegniasis in Atlantic salmon eyed eggs and yolk sac fry in vivo without adverse effects on hatchability or survival [13].
@@ -96,12 +97,14 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Regular egg disinfection with approved products (hydrogen peroxide, bronopol) at recommended intervals throughout incubation [3][18].
-    - Prompt and thorough removal of dead and moribund eggs from incubation trays to eliminate organic substrate for *Saprolegnia* growth [3].
-    - Disinfection of equipment, nets, and footbaths for personnel to prevent cross-contamination between facilities [18].
+    - Regular egg disinfection with approved products (for example hydrogen peroxide, bronopol) at recommended intervals throughout incubation [3][18].
+    - Maintaining good general hygiene in tanks, pipes and sumps to prevent accumulation of organic debris. 
+    - Prompt and thorough removal of dead and moribund eggs from incubation trays to eliminate organic substrate for *Saprolegnia* growth and prevent spread [3].
+    - Disinfection of equipment, nets, and footswear for personnel, combined with controlled access and hygiene routines for personnel, reduces risk of cross-contamination between tanks and facilities [18].
+    
 
 - **Farm Management Practices:**
-    - Minimizing handling-induced injuries through careful grading, crowding, and transfer procedures to reduce entry sites for *Saprolegnia* [18].
+    - Minimizing handling-induced injuries and avoiding unnecessary stress through careful grading, crowding, vaccination, and transfer procedures, which reduces skin and mucus damage that can act as entry sites for _Saprolegnia_ [18].
     - Maintaining optimal water quality: low organic load, adequate water flow, appropriate temperature, and sufficient dissolved oxygen to limit pathogen proliferation [6][18].
     - Incorporating *Saprolegnia* resistance into selective breeding programs; heritability estimates of ~0.25 in Atlantic salmon indicate meaningful scope for genetic improvement [11].
 
@@ -111,10 +114,11 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Notable Outbreaks:**
     - **Scotland — Atlantic Salmon Hatcheries and Farms:** A two-year surveillance study of 14 aquaculture sites in Scotland recovered 412 oomycete and fungal isolates from fish and water. *Saprolegnia* accounted for 66% of all oomycetes isolated, and *S. parasitica* phylotype S2 was overwhelmingly dominant — found at 12 of 14 sites, representing 91.1% of *S. parasitica* isolates during epizootic periods. The study demonstrated that water-column spore counts alone were insufficient to predict outbreak risk, highlighting the need for fish-derived sampling and molecular diagnostics [1].
-    - **India — Cage-Cultured Iridescent Catfish:** *Saprolegnia parasitica* was isolated and characterized from cage-reared *Pangasianodon hypophthalmus* farmed in freshwater reservoirs in India. The pathogen displayed temperature-sensitive growth optimum of 12–24°C, consistent with heightened risk during cooler winter months. Clotrimazole was identified as an effective treatment candidate at 2 mg/L against both spore and hyphal stages [6].
-    - **Wild Salmonids — Ulcerative Dermal Necrosis (UDN):** UDN produces severe ulcerative skin lesions in migrating wild Atlantic salmon and sea trout returning to rivers to spawn. Historically associated with *Saprolegnia* as a secondary colonizer of damaged skin, recent investigations confirm a complex, multifactorial etiology: the physiological transition from saltwater to freshwater triggers changes in skin physiology that increase susceptibility, with *Saprolegnia* acting as an opportunistic pathogen on compromised tissue [19].
+    - **Norway — salmon hatcheries:** Norwegian studies show that _Saprolegnia_ spp. are present in most natural freshwater sources supplying fish hatcheries, with highly variable spore loads between sites, and that saprolegniosis on eggs can cause substantial losses when dead eggs and organic debris are not removed promptly [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+    - **India — Cage-Cultured Iridescent Catfish:** *Saprolegnia parasitica* was isolated and characterized from cage-reared *Pangasianodon hypophthalmus* farmed in freshwater reservoirs in India. The pathogen displayed temperature-sensitive growth optimum of 12–24°C, consistent with heightened risk during cooler winter months. In vitro sensitivity testing indicated that clotrimazole at 2 mg/L effectively inhibited both spore and hyphal growth, suggesting potential as a treatment candidate [6].
+    - **Wild Salmonids — Ulcerative Dermal Necrosis (UDN):** UDN is a disease of unknown primary etiology causing severe ulcerative skin lesions in migrating wild Atlantic salmon and sea trout returning to rivers to spawn. _Saprolegnia_ spp. frequently colonize these lesions as secondary invaders, and recent investigations confirm a complex, multifactorial etiology: the physiological transition from saltwater to freshwater triggers changes in skin physiology that increase susceptibility, with *Saprolegnia* acting as an opportunistic pathogen on compromised tissue [19].
 
-- **Lessons Learned:** Effective management requires integrated approaches combining molecular surveillance of both water and fish, early removal of infected material, stress minimization, and timely application of approved treatments. Single-intervention strategies are insufficient for reliable control [1][18].
+- **Lessons Learned:** Effective management requires integrated approaches combining molecular surveillance of both water and fish, early removal of infected and dead material, stress and skin damage minimization, and timely application of approved treatments. Single-intervention strategies are insufficient for reliable control [1][18].
 
 ## Data Insights
 
@@ -132,12 +136,25 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 - **Treatment & Management:**
     - Scottish farms rely primarily on approved chemical treatments (hydrogen peroxide, bronopol) following the malachite green ban, combined with strict egg disinfection protocols and dead egg removal during incubation [18].
 
+#### Norway
+- **Saprolegniasis Incidence:** 
+    - In Norwegian salmonid aquaculture, saprolegniosis is not listed as a separate notifiable disease, but is recognized as an important issue in freshwater hatcheries and smolt facilities [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). 
+    - It is primarily a significant problem on salmon eggs during incubation and early fry stages, though outbreaks are also frequently observed in parr stages, particularly following vaccination, and also brood stock released in freswater before egg stripping [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+    - In 2025, no saprolegniosis was confirmed in  laboratory submissions from farmed fish, even though the veterinary services continue to receive regular inquiries about Saprolegnia‑related problems in hatcheries. Cases are usually diagnosed and treated clinically on site, without laboratory confirmation, so national laboratory data capture only a small fraction of the true case load [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+
+- **Economic impact**: 
+     - Outbreaks of saprolegniosis in Norwegian salmon hatcheries can cause substantial losses of eggs and early life stages, including increased discard of egg batches and elevated mortality among fry and parr during high‑risk periods [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+     - After the ban on malachite green, infections with _Saprolegnia_ spp. re‑emerged as an important loss factor in Norwegian freshwater production, and may have increased operational costs through intensified hygiene routines, dead‑egg removal, and the use of alternative treatments [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+
+- **Treatment & management:**
+     - Following the 2000 ban on malachite green, formalin has become the primary, most cost-effective treatment for outbreaks in Norway, though its future availability is uncertain due to ongoing EU safety reviews [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+     - Management strategies emphasize preventative measures, including reducing handling stress during grading and vaccination, maintaining high water quality to prevent spore accumulation, and the diligent removal of dead eggs and organic debris to eliminate pathogen reservoir [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
 #### Chile
 
 - **Saprolegniasis Incidence:**
     - In Chile, saprolegniasis is not tracked as a standalone notifiable disease but is reported collectively under the category **"Micosis"** within the Programa Sanitario General de Manejo y Clasificación de Mortalidad (PSGM), the official mortality classification system operated by SERNAPESCA [20].
-    - During 2025, mycosis was the **leading infectious cause of mortality in freshwater Atlantic salmon**, accounting for **60.2% of all infectious deaths** — ahead of Flavobacteriosis (24.9%) [20]. This represented an increase of **+7.5 percentage points** compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20].
-    - In freshwater coho salmon, mycosis was the **second infectious cause of mortality** (34.4%), and showed the **largest relative increase of any pathogen category: +18%** compared to 2024, while IPN declined by 12.9% [20].
+    - During 2025, mycosis was the leading infectious cause of mortality in freshwater Atlantic salmon, accounting for 60.2% of all infectious deaths — ahead of Flavobacteriosis (24.9%) [20]. This represented an increase of +7.5 percentage points compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20].
+    - In freshwater coho salmon, mycosis was the second infectious cause of mortality (34.4%), and showed the largest relative increase of any pathogen category: +18% compared to 2024, while IPN declined by 12.9% [20].
     - In rainbow trout, mycosis was a minor infectious cause (3.3%), with Flavobacteriosis dominant (95.1%) [20].
 
 - **Economic Impact:**
@@ -221,7 +238,7 @@ Future research priorities include: in vivo validation of emerging therapeutants
 
 ---
 
-**Last Modified:** 2026-04-11
+**Last Modified:** 2026-05-31
 
 **Tags:** #Saprolegniasis, #Saprolegnia, #Oomycete, #ParasiticDiseases, #WaterMold, #Chile
 
@@ -273,5 +290,9 @@ Future research priorities include: in vivo validation of emerging therapeutants
 [19] Matras, M., Stachnik, M., Kycko, A., Wasiak, M., Paździor, E., Maj-Paluch, J., Borzym, E., & Reichert, M. (2024). Etiology of ulcerative dermal necrosis (UDN) in brown trout (*Salmo trutta* Morpha *trutta*) — Preliminary results. *Pathogens*, *13*(3), 251. https://doi.org/10.3390/pathogens13030251
 
 [20] SERNAPESCA. (2025). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Servicio Nacional de Pesca y Acuicultura, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl
+
+[21] Veterinærinstituttet. (2025, February 2). Saprolegniose. Accessed May 2026. https://www.vetinst.no/sykdom-og-agens/saprolegniose
+
+[22] Moldal, T., Wiik-Nielsen, J., Oliveira, V.H.S., Svendsen, J.C. and Sommerset, I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 
 ---
