@@ -53,7 +53,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy. The disease can be insidious with initially low mortality. SRS mortality risk has a strong seasonal component, with mortalities significantly higher in warmer seasons [27](https://doi.org/10.1111/jfd.70097) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
 - **Advanced Stages:** Pronounced physical signs including severe anemia, internal hemorrhages, organ enlargement, and characteristic liver lesions. In acute cases, death may occur with few or no obvious gross pathological signs. Acute outbreaks can cause mortality rates of 30-90%. Experimental co-infection with the LF-89 and EM-90 strains resulted in only 24.1% survival after 21 days, compared with 40.3% survival in fish infected with EM-90 alone [26](https://doi.org/10.1186/s13567-024-01356-0) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC11980539/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
 
-**Figure 1.** Atlantic salmon displaying advanced SRS lesions during mortality review at a farm in Chile (May 2026). Note the characteristic  skin ulcers consistent with systemic *Piscirickettsia salmonis* infection.
+**Figure 1.** Atlantic salmon displaying advanced SRS lesions during mortality overview at a farm in Chile (May 2026). Note the characteristic skin ulcers consistent with systemic *Piscirickettsia salmonis* infection.
 
 ![[attachments/srs_advanced_case_atlantic_salmon_chile_may2026.jpeg]]
 
