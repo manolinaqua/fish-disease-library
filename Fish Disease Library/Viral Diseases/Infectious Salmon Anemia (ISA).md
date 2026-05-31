@@ -225,7 +225,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]
-[[Pancreatic Disease (PD)]]
+[[Pancreas Disease (PD)]]
 [[Piscine Reovirus (PRV)]]
 
 **Resources:**

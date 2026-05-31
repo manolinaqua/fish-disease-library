@@ -176,7 +176,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]
 [[Infectious Salmon Anemia (ISA)]]
-[[Pancreatic Disease (PD)]]
+[[Pancreas Disease (PD)]]
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**

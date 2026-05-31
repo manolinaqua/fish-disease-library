@@ -16,8 +16,7 @@ tags:
 ## Overview
 
 ### What is Moritella viscosa?
-*Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).  *Moritella viscosa*  is prevalent in colder aquaculture regions, such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). *[[Tenacibaculosis (Tenacibaculum spp)]] spp.* are also implicated in winter ulcer disease and are frequently associated with *M. viscosa* outbreaks. There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
-
+*Moritella viscosa* is a bacterium that is the primary cause of [[Winter Wounds]], a condition characterized by severe bacterial ulcers. This is one of the most critical health and welfare challenges in Norwegian salmonid farming [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). The bacterium is typically found in cold seawater, making it prevalent in aquaculture regions such as Norway, Scotland, and Canada, and can result in significant animal welfare issues and economic losses due to decreased fish quality, reduced feeding and increased mortality [2](https://www.mdpi.com/2673-9917/3/3/15). The term "Classic winter wounds" is primarily linked to _Moritella viscosa_ infection, but in many cases, these bacterial ulcers present as mixed infections where _Moritella viscosa_ and _Tenacibaculum spp._ are detected alongside _Aliivibrio wodanis_ and various _Vibrio_ species [5](https://www.vetinst.no/sykdom-og-agens/vintersar). There are vaccines but due to the number of variants and isolates, there is no complete or consistent protection [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?)
  
 
 ## Symptoms of Moritella viscosa Infection
@@ -25,15 +24,19 @@ tags:
 ### Common Symptoms
 
 - **Physical Signs:**
+
+    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
     - **Raised scales**: Scales appear pale and begin to lift up, often in very small areas [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
     - **Skin swelling:** Skin bulging and fragile, appearing as a closed ulcer, with contents being serum-like with a reddish colour and floccules [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
-    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
-    - **Hemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
+    - **Skin hemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
+    - **Internal hemorrhages:** Systemic infection may cause hemorrhages within the internal organs; typically seen as a pale liver with petechiae and swollen spleen. This systemic infection may sometimes occur without any visible skin lesions [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+    - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+
 
 - **Behavioural Changes:**
 
-    - **Lethargy:** Reduced activity and slower swimming movements.
-    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss.
+    - **Lethargy:** Reduced activity and slower swimming movements [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
     - **Abnormal Swimming Patterns:** Fish may exhibit erratic or sluggish swimming due to pain and discomfort from ulcers [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
 **Progression of Symptoms**
@@ -48,39 +51,43 @@ tags:
 
 **Etiology**
 
-- Can be both acute where bacterium colonise on the scales or an open wound. Or systematic where *M.viscosa* enters through the gills and into the blood stream, [8](https://pubmed.ncbi.nlm.nih.gov/21862244/) [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) [9](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016) 
-- **Causative Agent:** 3 variants of *M. viscosa* bacterium with a variety of isolates [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) [11](https://pubmed.ncbi.nlm.nih.gov/21290896/)
+- Can be both acute where bacterium colonise on the scales or an open wound, or systematic where *M.viscosa* enters through the gills and into the blood stream, [8](https://pubmed.ncbi.nlm.nih.gov/21862244/) [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) [9](https://www.sciencedirect.com/science/article/abs/pii/S1050464809001016).
+- **Causative Agent:** 3 variants of *M. viscosa* bacterium with a variety of isolates [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) [11](https://pubmed.ncbi.nlm.nih.gov/21290896/). During an outbreak, it is not uncommon to find multiple clonal complexes represented simultaneously [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
 - It was formerly named *Vibrio viscosus* [12](https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=80854)
 - **Species Affected:** Farmed Atlantic salmon and trout are most affected with it being considered a serious welfare and economic issue [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Additionally, challenge experiments found Atlantic Halibut *(Hippoglossus hippoglossus)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/), Turbot *(Scophthalmus maximus)* [14](https://pubmed.ncbi.nlm.nih.gov/15509259/)and Atlantic Cod *(Gadus morhua)* [13](https://pubmed.ncbi.nlm.nih.gov/16911535/) are also susceptible to *M. viscosa*. Lumpfish (_Cyclopterus lumpus_), a type of cleaner fish used in salmonid farming also are susceptible to variants [15](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12884)
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected and healthy fish through close proximity  [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
-    - **Waterborne:** Bacteria can spread through water, particularly in conditions of poor water quality, colder temperatures and high stocking densities [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
+    - **Waterborne:** Bacteria can spread through water, particularly in conditions of poor water quality, colder seawater temperatures and high stocking densities [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
 
 
 **Risk Factors**
 
-- **Environmental Factors:** Cold water temperatures (7-10C) as ideal temperatures for *M. viscosa* and salmonid healing and immune function impaired [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Poor water quality, and high stocking densities can increase susceptibility to *M. viscosa* infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
+- **Environmental Factors:** _M. viscosa_ thrives in cold seawater (7–10°C), a temperature range where salmonid immune responses are suppressed and skin wound-healing processes are significantly impaired [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). Outbreaks are therefore most common during late autumn, winter, and early spring [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) . Poor water quality, and high stocking densities can increase susceptibility to *M. viscosa* infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf), [2](https://www.mdpi.com/2673-9917/3/3/15) 
 
-- **Farm Management Practices:** Ineffective biosecurity measures, poor handling procedures or lice treatments which cause open wounds, and lack of routine health monitoring can facilitate the spread of the bacterium [2](https://www.mdpi.com/2673-9917/3/3/15) 
+- **Farm Management Practices:** 
+    - **Handling and physical trauma**: Outbreaks are frequently linked to prior handling events. Mechanical stress, such as delousing operations, and poor handling techniques can create physical trauma and open wounds that serve as entry points for infection [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
+    - **Biosecurity risk**: Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the bacterium [2](https://www.mdpi.com/2673-9917/3/3/15). 
 
 ### Diagnosis
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical symptoms, such as skin ulcers and hemorrhages
+- **Clinical Examination:** Observation of physical symptoms, such as skin ulcers and hemorrhages [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/).
 
 - **Laboratory Tests:**
 
     - **Histopathology:** Microscopic examination of tissue samples to assess the tissue condition and presence of rod like bacteria (*M.Viscosa)* [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
-    - **PCR (Polymerase Chain Reaction) and MLVA (Multiple Loci VNTR Analysis):** from field samples to determine if the species is present  with PCR and with MLVA, the variant/s; CC1 'classical', CC2 or the CC3 'variant' [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf) [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa) , [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)
-    - **Microbiology**: Visual examination of bacterial colonies, to determine the phenotypical characteristics (viscous or non-viscous) of the variant and if there are other bacteria present  [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/). Grown on agar plates from the subbmitted samples [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
-    - Labs offering *M.Viscosa* tests: [Norwegian Vet Institute](https://www.vetinst.no/provetaking-og-diagnostikk), [PHARMAQ Analytiq](https://pharmaq.com/en) [Blue Analytics](https://blueanalytics.no/en/), [Sýni](https://syni.is/). 
+    - **Microbiology**: Visual examination of bacterial colonies, to determine the phenotypical characteristics (viscous or non-viscous) of the variant and if there are other bacteria present  [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/). Grown on agar plates from the subbmitted samples from the head kidney and within wound [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa)  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+    - **PCR (Polymerase Chain Reaction) and MLVA (Multiple Loci VNTR Analysis):** from field samples to determine if the species is present  with PCR and with MLVA, the variants; CC1 'classical', CC2 or the CC3 'variant' [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf) [17](https://pharmaq.com/no/pharmaq/nyheter/karakterisering-av-moritella-viscosa) , [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)
+        - Recommended that PCR not be used as a standalone  tool as it can give 'weak positive results' in normal skin, without being the cause of disease. Holistic examination using microbiology, preferably in combination with histology and PCR is best practice [40](https://ilaks.no/vintersar-skjuler-ofte-kompliserte-arsakskjeder-slik-avdekker-du-dem/). 
+    - Labs offering *M.Viscosa* tests: [Norwegian Vet Institute](https://www.vetinst.no/provetaking-og-diagnostikk), [PHARMAQ Analytiq](https://pharmaq.com/en) [Blue Analytics](https://blueanalytics.no/en/), [Sýni](https://syni.is/), [PatoGen AS - et fiskehelse-selskap](https://patogen.no/nb/). 
 
 
 **Differential Diagnosis**
 
-- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, _[[Tenacibaculosis (Tenacibaculum spp)]] spp_ and _Aliivibrio wodanis_ [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/)  
+- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, _[[Tenacibaculosis (Tenacibaculum spp)]] spp_ and _Aliivibrio wodanis_ [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/).
+- In contrast to [[Tenacibaculosis (Tenacibaculum spp)]], which is primarily a localized skin infection, _M. viscosa_ infections can be systemic, infecting the fish's internal organs even without visible external sores [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
 
 
 ### Treatment and Prevention
@@ -88,29 +95,35 @@ tags:
 **Treatment Options**
 
 - **Current Treatments:**
-    -  **Antibiotics:** Can be administered through medicated feed or water to treat bacterial infections [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
-    - **Bacteriophages:** There is some ongoing bacteriophage development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820)
+    - **Antibiotics:** Can be administered through medicated feed or  water to treat bacterial infections, though their effectiveness is often described as variable, uncertain, or inconsistent [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
+    - **Bacteriophages:** There is some ongoing bacteriophage development [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820).
 
 - **Supportive Care:**
     - **Improving Water Quality:** Ensuring optimal water conditions to support healing and reduce stress [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
-    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection.
-    - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125) 
+    - **Reducing Stocking Densities:** Lowering fish density to minimize the spread of infection [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/).
+    - **Probiotics**: Are being investigated as a biocontrol method and supportive care measure [36](https://link.springer.com/article/10.1007/s12602-025-10669-1).
+    - **Self Recovery**: When temperatures rise over 8 °C or salinity drops below 12–15% [2](https://www.mdpi.com/2673-9917/3/3/15), [20](https://www.sciencedirect.com/science/article/pii/S0923250807000125).
     
 
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Implementing strict handling procedures to minimize physical trauma and prevent bacterial spread, in addition to strong smolt quality and reducing stress [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+    - Implementing strict handling procedures to minimize physical trauma and prevent bacterial spread, in addition to strong smolt quality and reducing stress [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
+    - Active management should include the removal of wounded fish from the pens and intensify the removal of dead fish to reduce infection pressure [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [21](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937)
     - Regular monitoring of fish health to detect and address early signs of infection.
 
 - **Farm Management Practices:**
-    - Using equipment and facilities designed to minimize skin abrasions and injuries 
+    - Implementing a low-handling policy during high-risk periods (low temperatures in winter) is critical [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
+    - Using equipment and facilities designed to minimize skin abrasions and injuries. 
     - Ensuring adequate nutrition and use of functional feeds to support immune function and wound healing [21](https://www.kyst.no/vintersar/var-nodt-til-a-destruere-all-fisken-i-en-merd/172937), [22](https://www.kyst.no/article/slik-jobber-oppdrettsselskapene-for-aa-unngaa-vintersaar/)
     - In a few cases in early autumn, antibiotics can be used to reduce infection pressure and prevent new fish from getting sores [21](https://www.kyst.no/article/var-noedt-til-aa-noedt-til-aa-destruere-all-fisken-i-en-merd/)
-    - A robust good smolt forms a good basis for wound prevention [23](https://www.kyst.no/article/fiskehelsetjenester-med-tips-for-aa-unngaa-vintersaar/)
+    - A robust good smolt quality and ensuring ideal conditions during sea-entry is a good basis for wound prevention [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) [23](https://www.kyst.no/article/fiskehelsetjenester-med-tips-for-aa-unngaa-vintersaar/).
+    - Aiming for a large fish size before their first winter to increase natural robustness [35]([Vintersår - Akvademiet](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)).
 
-- **Vaccination:** *Moritella viscosa* has been a component of multivalent oil adjuvant vaccines since the late 1990s but they do not provide complete protection against infection, due to the number of variants [24](https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/). They help to reduce mortality and ulceration, but protection varies with the strain and vaccine formulation [25](https://www.sciencedirect.com/science/article/pii/S0044848623003058)[26](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353).  [Vaccine options](https://www.felleskatalogen.no/medisin-vet/atc-register/QI10A). Autogenic vaccine possibilites could also be possible [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820), [27](https://www.vaxxinova.no/tjenester/autogene-vaksiner/). 
-
+- **Vaccination:** 
+    - *Moritella viscosa* has been a component of multivalent oil adjuvant vaccines since the late 1990s but they do not provide complete protection against infection, due to the number of variants [24](https://blueanalytics.no/en/new-analysis-method-enables-more-targeted-prevention-of-winter-ulcers/). They help to reduce mortality and ulceration, but protection varies with the strain and vaccine formulation [25](https://www.sciencedirect.com/science/article/pii/S0044848623003058)[26](https://www.sciencedirect.com/science/article/abs/pii/S0044848616308353)[Vaccine options](https://www.felleskatalogen.no/medisin-vet/atc-register/QI10A). 
+    - Autogenic vaccine possibilites could also be possible [19](https://www.fishfarmingexpert.com/bacteriophages-moritella-stim/phage-product-launched-to-tackle-winter-ulcers/1341820), [27](https://www.vaxxinova.no/tjenester/autogene-vaksiner/). 
+    - A new commercial [vaccine]([ALPHA JECT Moritella «PHARMAQ» - Felleskatalogen](https://www.felleskatalogen.no/medisin-vet/alpha-ject-moritella-pharmaq-731514)) which targets the variant _M. viscosa_  (CC3) received marketing authorization in 2023, with field reports from 2024 and 2025 suggesting improved protection [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
 
 ### Case Studies
 
@@ -121,8 +134,8 @@ tags:
     - **Scotland:** Outbreak of 2-3kg Atlantic Salmon in 1998 [28](https://pubmed.ncbi.nlm.nih.gov/9891731/)
     - **Canada:** Canadian farms have faced challenges with winter ulcers (amongst other ulcers [2](https://www.mdpi.com/2673-9917/3/3/15)), prompting industry-wide efforts to enhance biosecurity and fish welfare [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf). 
 
-- **Response Strategies and Outcomes:**
-    - **Norway:** Implementation of enhanced biosecurity measures, regular health monitoring, and vaccinations [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+- **Response Strategies:**
+    - **Norway:** Implementation of enhanced biosecurity and handling measures focused on reducing mechanical stress, regular health monitoring, and vaccinations [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
     - **Scotland:** Development of national guidelines to monitor fish health and undergo inspections when it is a non-listed disease, like *M. viscosa* [30](https://www.gov.scot/policies/fish-health-inspectorate/ )
     - **Canada:** Adoption of best practices for handling, water quality management, and early detection to reduce the impact of winter ulcers [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
 
@@ -142,7 +155,7 @@ tags:
     
     -  [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) caused by *M. viscosa* leads to increased mortality, decreased fish welfare, and inferior flesh quality, all of which have adverse economic consequences [31](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9569996/).
     
-- **Treatment Regimes:**
+- **Diagnosis & Management:**
     
     - In BC, diagnosis of winter ulcer includes population-level mortality, characteristic lesions, positive culture or PCR for *M. viscosa*, and histopathological findings [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
     - Vaccination has decreased antibiotic usage, though they are still a viable treatment option [32](https://www.canada.ca/en/health-canada/services/drugs-health-products/veterinary-drugs/legislation-guidelines/policies/list-veterinary-drugs-that-authorized-sale-health-canada-use-food-producing-aquatic-animals.html) 
@@ -151,23 +164,21 @@ tags:
 - **Moritella Viscosa Incidence in Faroe Isles:**
     
     -  *Moritella viscosa* isolates consistent with the type strain have been found in Atlantic salmon farmed in the Faroe Isles [11](https://pubmed.ncbi.nlm.nih.gov/21290896/).
-    - No data currently available for economic impact. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+    - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
 #### Norway
 
 - **Moritella Viscosa Incidence in Norway:**
     
-    - Outbreaks and series biological and economic losses occur every year in Norway. In 2024, [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
+    - Outbreaks occur across the entire Norwegian coastline every year since 1990 [10](https://pubmed.ncbi.nlm.nih.gov/36787245/). In 2024, [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds) was detected on 336 salmon farming sites (similar to 2023). *Moritella viscosa* specifically was detected on 289 sites and 112 sites had mixed *M. Viscosa* and *Tenacibaculum spp* infections [1](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024). In comparison in 2009 the bacterium was registered on 36 sites [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
+    - In 2025, _M. viscosa_ was ranked by fish health personnel as the fifth most important cause of mortality [37](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
     - No impacts have been reported on wild fish species and there is no evidence of interaction between farmed and wild fish, though *M. viscosa* has been found on wild fish [33](https://www.sciencedirect.com/science/article/abs/pii/S0044848611001347)
     
-- **Geographical Spread:**
-    
-    - Entire Norwegian coastline since 1990 [10](https://pubmed.ncbi.nlm.nih.gov/36787245/) 
     
 - **Economic Impact:**
     
     - [Winter ulcer disease](obsidian://open?vault=Fish%20Disease%20Library&file=Winter%20Wounds)  was estimated in 2009 to cause annual financial losses of around NOK 100 million in the Norwegian salmon farming industry. These losses are due to mortality, reduced growth, and importantly downgrading of fish quality at slaughter from scars and lesions. Of this total, approximately NOK 20 million is attributed specifically to downgrading of product quality at harvest because fish with ulcers and scarring fetch lower prices [34](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html) 
     
-- **Treatment & Management:**
+- **Diagnosis & Management:**
     
     - Diagnosis methods include clinical observation, bacteriological culture, PCR and histopathology. It is a non-notifiable disease  [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
     - Managed by vaccinating smolts before sea transfer, reducing handling and being as careful as possible, functional feeds to bolster skin barrier, removal of infected fish [21](https://www.kyst.no/article/var-noedt-til-aa-noedt-til-aa-destruere-all-fisken-i-en-merd/)
@@ -176,16 +187,15 @@ tags:
 - **Moritella Viscosa Incidence in Scotland:**
     
     - *Moritella viscosa* has been isolated from Atlantic salmon farmed in Scotland [28](https://pubmed.ncbi.nlm.nih.gov/9891731/) [29](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
-    - Official Scottish sources do not publish regular, aggregated incidence counts for M. viscosa the way Norway’s Veterinary Institute does for Norwegian farms
-    
-- **Economic Impact:**
-    
-    - No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
-    
-- **Treatment Regimes:**
-    
-    No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+    - Over the last decade, the Scottish landscape has transitioned  from "classical" viscous strains to "variant" and "non-viscous classical" strains, which are now the primary drivers of outbreaks [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890).
+    - Official Scottish sources do not publish regular, aggregated  incidence counts for M. viscosa the way Norway’s Veterinary Institute does for Norwegian farms.
 
+- **Economic Impact:**
+    - No data currently available for economic impact, diagnosis and management data. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+
+- **Diagnosis & Management:**
+    - Diagnosis typically includes clinical observation and PCR, but Scottish veterinarians emphasize that bacterial culture is essential to characterize the phenotype (e.g., non-viscous vs. variant strains). This is critical for confirming if current vaccines match the farm-level strain [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890)
+    - Managed by vaccinating smolts before sea transfer, reducing handling, focus on preventation over cure where antibiotic use is seen as a last resort [38](https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890) [39](https://scottishseafarms.com/our-salmon/vaccines-and-medicines/) .
 
 ## Research and References
 ### Latest Research Findings
@@ -220,7 +230,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ---
 
 **Title:** Moritella viscosa
-**Date:** 2026-01-30
+**Date:** 2026-04-11
 **Tags:** #MoritellaViscosa, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Canada, #FaroeIslands,  #BacterialDiseases, #Bacteria, #WinterWounds 
 
 ##### Other Bacterial Diseases
@@ -289,7 +299,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [29] Scottish Government. (n.d.). _Moritella viscosa_. Accessed Jan 2026.  [https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/moritella-viscosa/)
 
-[30] Scottish Government. (n.d.). Fish health inspectorate.Accessed Jan 2026.  [https://www.gov.scot/policies/fish-health-inspectorate/](https://www.gov.scot/policies/fish-health-inspectorate/)
+[30] Scottish Government. (n.d.). Fish health inspectorate. Accessed Jan 2026.  [https://www.gov.scot/policies/fish-health-inspectorate/](https://www.gov.scot/policies/fish-health-inspectorate/)
 
 [31] Ramberg, S., Krasnov, A., Colquhoun, D., Wallace, C., & Andreassen, R. (2022). Expression analysis of Moritella viscosa-challenged Atlantic salmon identifies disease-responding genes, microRNAs and their predicted target genes and pathways. _International journal of molecular sciences_, _23_(19), 11200.[https://www.mdpi.com/1422-0067/23/19/11200](https://www.mdpi.com/1422-0067/23/19/11200) 
 
@@ -299,4 +309,15 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [34] European Patent Office. (2020, November 11). Patent document EP3071227NWB1. [https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html](https://data.epo.org/publication-server/rest/v1.0/publication-dates/20201111/patents/EP3071227NWB1/document.html)
 
+[35] Akvademiet. Vintersår. Accessed April 2026. https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/
+
+[36] Steen Dobloug, M., Iakhno, S., Foyn Nørstebø, S. _et al._ (2026). Antagonistic Mechanisms of Probiotic _Aliivibrio_ sp. Strain Vl2 Against _Moritella viscosa_: Evidence from Co-cultivation and Targeted Transcriptomic Analysis. _Probiotics & Antimicro. Prot._ 18, 2316–2331 https://doi.org/10.1007/s12602-025-10669-1
+
+[37] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+
+[38] FishFarmingExpert. Published March 2026. Unpacking a sore subject. Accessed April 2026. https://www.fishfarmingexpert.com/chris-matthews-microbiology-moritella-viscosa/unpacking-a-sore-subject/2091890
+
+[39] Scottish Sea Farms. (n.d.). Vaccines and medicines. Accessed April 2026. https://scottishseafarms.com/our-salmon/vaccines-and-medicines/
+
+[40] iLaks. Published March 2026. Vintersår skjuler ofte kompliserte årsakskjeder – slik avdekker du dem. Accessed April 2026. https://ilaks.no/vintersar-skjuler-ofte-kompliserte-arsakskjeder-slik-avdekker-du-dem/
 - - - 
