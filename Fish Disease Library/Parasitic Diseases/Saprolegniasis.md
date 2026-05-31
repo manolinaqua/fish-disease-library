@@ -114,7 +114,7 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Notable Outbreaks:**
     - **Scotland — Atlantic Salmon Hatcheries and Farms:** A two-year surveillance study of 14 aquaculture sites in Scotland recovered 412 oomycete and fungal isolates from fish and water. *Saprolegnia* accounted for 66% of all oomycetes isolated, and *S. parasitica* phylotype S2 was overwhelmingly dominant — found at 12 of 14 sites, representing 91.1% of *S. parasitica* isolates during epizootic periods. The study demonstrated that water-column spore counts alone were insufficient to predict outbreak risk, highlighting the need for fish-derived sampling and molecular diagnostics [1].
-    - **Norway — salmon hatcheries:** Norwegian studies show that _Saprolegnia_ spp. are present in most natural freshwater sources supplying fish hatcheries, with highly variable spore loads between sites, and that saprolegniosis on eggs can cause substantial losses when dead eggs and organic debris are not removed promptly. [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose)
+    - **Norway — salmon hatcheries:** Norwegian studies show that _Saprolegnia_ spp. are present in most natural freshwater sources supplying fish hatcheries, with highly variable spore loads between sites, and that saprolegniosis on eggs can cause substantial losses when dead eggs and organic debris are not removed promptly [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
     - **India — Cage-Cultured Iridescent Catfish:** *Saprolegnia parasitica* was isolated and characterized from cage-reared *Pangasianodon hypophthalmus* farmed in freshwater reservoirs in India. The pathogen displayed temperature-sensitive growth optimum of 12–24°C, consistent with heightened risk during cooler winter months. In vitro sensitivity testing indicated that clotrimazole at 2 mg/L effectively inhibited both spore and hyphal growth, suggesting potential as a treatment candidate [6].
     - **Wild Salmonids — Ulcerative Dermal Necrosis (UDN):** UDN is a disease of unknown primary etiology causing severe ulcerative skin lesions in migrating wild Atlantic salmon and sea trout returning to rivers to spawn. _Saprolegnia_ spp. frequently colonize these lesions as secondary invaders, and recent investigations confirm a complex, multifactorial etiology: the physiological transition from saltwater to freshwater triggers changes in skin physiology that increase susceptibility, with *Saprolegnia* acting as an opportunistic pathogen on compromised tissue [19].
 
@@ -136,6 +136,17 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 - **Treatment & Management:**
     - Scottish farms rely primarily on approved chemical treatments (hydrogen peroxide, bronopol) following the malachite green ban, combined with strict egg disinfection protocols and dead egg removal during incubation [18].
 
+#### Norway
+- **Saprolegniasis Incidence:** 
+    - In Norwegian salmonid aquaculture, saprolegniosis is not listed as a separate notifiable disease, but is recognized as an important issue in freshwater hatcheries and smolt facilities [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). 
+    - It is primarily a significant problem on salmon eggs during incubation and early fry stages, though outbreaks are also frequently observed in parr stages, particularly following vaccination, and also brood stock released in freswater before egg stripping [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+    - In 2025, no saprolegniosis was confirmed in  laboratory submissions from farmed fish, even though the veterinary services continue to receive regular inquiries about Saprolegnia‑related problems in hatcheries. Cases are usually diagnosed and treated clinically on site, without laboratory confirmation, so national laboratory data capture only a small fraction of the true case load [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+- **Economic impact**: 
+     - Outbreaks of saprolegniosis in Norwegian salmon hatcheries can cause substantial losses of eggs and early life stages, including increased discard of egg batches and elevated mortality among fry and parr during high‑risk periods [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+     - After the ban on malachite green, infections with _Saprolegnia_ spp. re‑emerged as an important loss factor in Norwegian freshwater production, and may have increased operational costs through intensified hygiene routines, dead‑egg removal, and the use of alternative treatments [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+- **Treatment & management:**
+     - Following the 2000 ban on malachite green, formalin has become the primary, most cost-effective treatment for outbreaks in Norway, though its future availability is uncertain due to ongoing EU safety reviews [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+     - Management strategies emphasize preventative measures, including reducing handling stress during grading and vaccination, maintaining high water quality to prevent spore accumulation, and the diligent removal of dead eggs and organic debris to eliminate pathogen reservoir [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
 #### Chile
 
 - **Saprolegniasis Incidence:**
@@ -280,6 +291,6 @@ Future research priorities include: in vivo validation of emerging therapeutants
 
 [21] Veterinærinstituttet. (2025, February 2). Saprolegniose. Accessed May 2026. https://www.vetinst.no/sykdom-og-agens/saprolegniose
 
-
+[22] Moldal, T., Wiik-Nielsen, J., Oliveira, V.H.S., Svendsen, J.C. and Sommerset, I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 
 ---
