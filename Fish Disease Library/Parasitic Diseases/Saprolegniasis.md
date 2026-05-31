@@ -141,9 +141,11 @@ The economic significance of saprolegniasis increased sharply after the ban of m
     - In Norwegian salmonid aquaculture, saprolegniosis is not listed as a separate notifiable disease, but is recognized as an important issue in freshwater hatcheries and smolt facilities [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose). 
     - It is primarily a significant problem on salmon eggs during incubation and early fry stages, though outbreaks are also frequently observed in parr stages, particularly following vaccination, and also brood stock released in freswater before egg stripping [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
     - In 2025, no saprolegniosis was confirmed in  laboratory submissions from farmed fish, even though the veterinary services continue to receive regular inquiries about Saprolegnia‑related problems in hatcheries. Cases are usually diagnosed and treated clinically on site, without laboratory confirmation, so national laboratory data capture only a small fraction of the true case load [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+
 - **Economic impact**: 
      - Outbreaks of saprolegniosis in Norwegian salmon hatcheries can cause substantial losses of eggs and early life stages, including increased discard of egg batches and elevated mortality among fry and parr during high‑risk periods [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
      - After the ban on malachite green, infections with _Saprolegnia_ spp. re‑emerged as an important loss factor in Norwegian freshwater production, and may have increased operational costs through intensified hygiene routines, dead‑egg removal, and the use of alternative treatments [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
+
 - **Treatment & management:**
      - Following the 2000 ban on malachite green, formalin has become the primary, most cost-effective treatment for outbreaks in Norway, though its future availability is uncertain due to ongoing EU safety reviews [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
      - Management strategies emphasize preventative measures, including reducing handling stress during grading and vaccination, maintaining high water quality to prevent spore accumulation, and the diligent removal of dead eggs and organic debris to eliminate pathogen reservoir [21](https://www.vetinst.no/sykdom-og-agens/saprolegniose).
@@ -151,8 +153,8 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Saprolegniasis Incidence:**
     - In Chile, saprolegniasis is not tracked as a standalone notifiable disease but is reported collectively under the category **"Micosis"** within the Programa Sanitario General de Manejo y Clasificación de Mortalidad (PSGM), the official mortality classification system operated by SERNAPESCA [20].
-    - During 2025, mycosis was the **leading infectious cause of mortality in freshwater Atlantic salmon**, accounting for **60.2% of all infectious deaths** — ahead of Flavobacteriosis (24.9%) [20]. This represented an increase of **+7.5 percentage points** compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20].
-    - In freshwater coho salmon, mycosis was the **second infectious cause of mortality** (34.4%), and showed the **largest relative increase of any pathogen category: +18%** compared to 2024, while IPN declined by 12.9% [20].
+    - During 2025, mycosis was the leading infectious cause of mortality in freshwater Atlantic salmon, accounting for 60.2% of all infectious deaths — ahead of Flavobacteriosis (24.9%) [20]. This represented an increase of +7.5 percentage points compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20].
+    - In freshwater coho salmon, mycosis was the second infectious cause of mortality (34.4%), and showed the largest relative increase of any pathogen category: +18% compared to 2024, while IPN declined by 12.9% [20].
     - In rainbow trout, mycosis was a minor infectious cause (3.3%), with Flavobacteriosis dominant (95.1%) [20].
 
 - **Economic Impact:**
