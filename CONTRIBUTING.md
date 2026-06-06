@@ -1,4 +1,4 @@
-# Instructions for Contributing
+exam# Instructions for Contributing
 
 The instructions here assume that you have already created a github account of your own. If you have not simply go to [github](https://github.com) and make an account.
 
@@ -37,7 +37,8 @@ All downloads are free and don't require payment.
 	- 'Current branch' should be Main.
 
 If it looks like this, right click on the orange dot and 'Dismiss Changes'
-![[Screenshot 2026-04-10 at 10.43.49.png]]
+![[Example of phantom changes.png]]
+
 
 
 
@@ -52,7 +53,9 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 	- Find and 'Replace' is found under the 3 dots (...) option in the top right corner
 	- For further tips about Obsidian have a look at [this tutorial]([https://www.youtube.com/watch?v=z4AbijUCoKU](https://www.youtube.com/watch?v=z4AbijUCoKU)
 - If it’s been a few days since your last edit, use “Fetch origin” in GitHub Desktop to pull in any updates to existing files.
-	- **Note:** new diseases or sections will not update then you need to [sync fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork). You can see this by going to the [Fish Disease Library website](https://fishdiseases.manolinaqua.com/welcome.html) to see if there are new sections.
+	- **Note:** New diseases or sections may not appear automatically in your Obsidian/fork. To update your copy, you’ll need to sync it with the main repository.
+		- You can do this by navigating to your fork on GitHub (e.g., `https://github.com/<your-username>/fish-disease-library`) and clicking **“Sync fork.”**
+		- It’s recommended to sync your fork before making any changes, especially if some time has passed since your last update. Otherwise conflicts could occur. 
 
 #### Step 5: "Commit" your work
 
@@ -63,7 +66,9 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
  ![[commit.png]]
 
 - Then click the blue '**Push origin'** button on the right (pictured)
-![[Screenshot 2026-04-10 at 12.34.34.png]]
+
+![[Example pushing changes to Git website.png]]
+
 
 - This puts your changes on the public GitHub, but to draw attention and get your changes approved to go live in the library, you need to make a Pull Request when you are finished.
 
@@ -72,7 +77,8 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 - After you've made your edits, go to the GitHub webpage and click on your profile in the top right hand corner. This is your fork of the fish disease library on the github webpage (pictured). It is a link like the one below
 	- `https://github.com/<your user name>/fish-disease-library`
 - Notice the commits you have made are there, click 'Contribute' then 'Open pull Request'
-![[Screenshot 2026-04-10 at 12.14.53.png]]
+
+![[Example opening a PR request.png]]
 
 - You should then see a menu similar to below. Make sure that the **base repository: manolinaqua/fish-disease-library** is selected on the left drop down.
 	- If there are conflicts (for example if you had not 'fetch origin' and the file you were working on was already changed by someone else), then you will need to go through and resolve conflicts.
