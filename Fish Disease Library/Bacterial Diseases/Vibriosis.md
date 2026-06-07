@@ -28,9 +28,11 @@ Vibriosis is a collective term for bacterial diseases caused by pathogenic speci
 
 The most clinically significant species in marine aquaculture are *V. anguillarum*, *V. ordalii*, *V. vulnificus*, *V. alginolyticus*, *V. harveyi*, *V. parahaemolyticus*, and *Aliivibrio salmonicida* (formerly *V. salmonicida*). More than 130 recognized *Vibrio* species exist, grouped into 14 clades, including commensal, mutualistic, and pathogenic forms [1]. The first *Vibrio* species described was *V. cholerae*, in 1854 in Florence, though cholera-like diseases have been recorded since the times of Hippocrates [1].
 
-Vibriosis affects a broad range of commercially important marine fish species, including gilthead seabream (*Sparus aurata*), European seabass (*Dicentrarchus labrax*), Atlantic salmon (*Salmo salar*), Atlantic cod (*Gadus morhua*), turbot (*Scophthalmus maximus*), Asian seabass (*Lates calcarifer*), tilapia, and numerous flatfish species. Shellfish, crustaceans, and shrimp are also severely affected. All cultured marine fish may, to varying degrees, host opportunistic *Vibrio* species [1].
+Vibriosis affects a broad range of commercially important marine fish species, comprmising both wild an reared fish, including gilthead seabream (*Sparus aurata*), European seabass (*Dicentrarchus labrax*), Atlantic salmon (*Salmo salar*), Rainbow trout (*Oncorhynchus mykiss*) Atlantic cod (*Gadus morhua*), turbot (*Scophthalmus maximus*), Asian seabass (*Lates calcarifer*), tilapia, and numerous flatfish species. Shellfish, crustaceans, mollusks, corals, and rotifers are also severely affected [15]([Vibriosis in Fish: A Review on Disease Development and Prevention - PubMed](https://pubmed.ncbi.nlm.nih.gov/30246889/)). All cultured marine fish may, to varying degrees, host opportunistic *Vibrio* species [1].
 
-Vibriosis is one of the most widespread and devastating bacterial diseases in global aquaculture. In 1997, the World Bank estimated disease losses in aquaculture at US$3 billion per year, with *Vibrio* spp. playing an important role in those losses. By approximately 2017, estimates had doubled to over US$6 billion annually [1]. *Vibrio* infections are particularly devastating during the early, larval stages of development, where they are a common cause of high mortality rates, and outbreaks can lead to the loss of entire populations within a single aquaculture system. The ongoing rise of antibiotic resistance among *Vibrio* species, linked to both climate change and intensive aquaculture practices, has made vibriosis an increasingly urgent global challenge [1, 2].
+Vibriosis is one of the most widespread and devastating bacterial diseases in global aquaculture.. In 1997, the World Bank estimated disease losses in aquaculture at US$3 billion per year, with *Vibrio* spp. playing an important role in those losses. By approximately 2017, estimates had doubled to over US$6 billion annually [1]. 
+
+*Vibrio* infections are particularly devastating during the early, larval stages of development, where they are a common cause of high mortality rates, and outbreaks can lead to the loss of entire populations within a single aquaculture system. The ongoing rise of antibiotic resistance among *Vibrio* species, linked to both climate change and intensive aquaculture practices, has made vibriosis an increasingly urgent global challenge [1] [2].
 
 ## Clinical Signs of Vibriosis
 
@@ -337,5 +339,9 @@ Future research should prioritize: (a) characterization of emerging and novel *V
 [13] Hobe, A., Msolo, L., Ebomah, K. E., Jaja, I. F., Oguttu, J. W., & Okoh, A. I. (2026). Antibiotic resistance and pathogenicity of *Vibrio* species in aquaculture: Implications for fish health and food safety in LMICs. *Veterinary Medicine and Science*, *12*, e70877. https://doi.org/10.1002/vms3.70877
 
 [14] Mowafy, R. E., Megahed, H. M., Abou Khadra, S. H., Bakry, M. A., Moustafa, A. H., & El-Demerdash, A. S. (2025). Innovative vibriosis control in open aquaculture: *Paratapes undulata* as a sustainable growth and resistance enhancer in red tilapia. *Scientific Reports*, *15*. https://doi.org/10.1038/s41598-025-01026-x
+
+[15] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. [https://doi.org/10.1002/aah.10045](https://doi.org/10.1002/aah.10045)
+
+
 
 ---
