@@ -28,7 +28,7 @@ Vibriosis is a collective term for bacterial diseases caused by pathogenic speci
 
 The most clinically significant species in marine aquaculture are *V. anguillarum*, *V. ordalii*, *V. vulnificus*, *V. alginolyticus*, *V. harveyi*, *V. parahaemolyticus*, and *Aliivibrio salmonicida* (formerly *V. salmonicida*). More than 130 recognized *Vibrio* species exist, grouped into 14 clades, including commensal, mutualistic, and pathogenic forms [1]. The first *Vibrio* species described was *V. cholerae*, in 1854 in Florence, though cholera-like diseases have been recorded since the times of Hippocrates [1].
 
-Vibriosis affects a broad range of commercially important marine fish species, comprmising both wild an reared fish, including gilthead seabream (*Sparus aurata*), European seabass (*Dicentrarchus labrax*), Atlantic salmon (*Salmo salar*), Rainbow trout (*Oncorhynchus mykiss*) Atlantic cod (*Gadus morhua*), turbot (*Scophthalmus maximus*), Asian seabass (*Lates calcarifer*), tilapia, and numerous flatfish species. Shellfish, crustaceans, mollusks, corals, and rotifers are also severely affected [15]([Vibriosis in Fish: A Review on Disease Development and Prevention - PubMed](https://pubmed.ncbi.nlm.nih.gov/30246889/)). All cultured marine fish may, to varying degrees, host opportunistic *Vibrio* species [1].
+Vibriosis affects a broad range of commercially important marine fish species, comprmising both wild an reared fish, including gilthead seabream (*Sparus aurata*), European seabass (*Dicentrarchus labrax*), Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*) Atlantic cod (*Gadus morhua*), turbot (*Scophthalmus maximus*), Asian seabass (*Lates calcarifer*), tilapia, and numerous flatfish species. Shellfish, crustaceans, mollusks, corals, and rotifers are also severely affected [15]([Vibriosis in Fish: A Review on Disease Development and Prevention - PubMed](https://pubmed.ncbi.nlm.nih.gov/30246889/)). All cultured marine fish may, to varying degrees, host opportunistic *Vibrio* species [1].
 
 Vibriosis is one of the most widespread and devastating bacterial diseases in global aquaculture.. In 1997, the World Bank estimated disease losses in aquaculture at US$3 billion per year, with *Vibrio* spp. playing an important role in those losses. By approximately 2017, estimates had doubled to over US$6 billion annually [1]. 
 
@@ -39,14 +39,15 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 ### Common Signs
 
 - **Physical Signs:**
-    - **Hemorrhagic Septicaemia:** Extensive external and internal hemorrhages, particularly at the base of fins, operculum, and ventral surface are a hallmark sign of acute vibriosis [1].
+    - **Hemorrhagic Septicaemia:** Extensive external and internal hemorrhages, particularly at the base of fins, operculum, and ventral surface are a hallmark sign of acute vibriosis. The infection often becomes systemic, with hemorrhages in internal organs such as the pyloric caeca, abdominal fat, musculature and liver [1] [15]([Vibriosis in Fish: A Review on Disease Development and Prevention - PubMed](https://pubmed.ncbi.nlm.nih.gov/30246889/)).
     - **Skin Ulcers and Lesions:** External skin ulcers, focal necrosis, and erosion of the tail are characteristic of advanced infection [1].
     - **Dark Pigmentation:** Affected fish exhibit abnormal darkening of the skin [1].
     - **Exophthalmos:** Protruding or "pop-eye" appearance due to fluid accumulation behind the eye [1].
     - **Splenomegaly:** Marked enlargement of the spleen observed at post-mortem [1].
     - **Pale Kidney:** Renal discoloration indicating organ compromise [1].
     - **Skeletal Deformity (Lordosis):** Spinal curvature reported in chronically affected fish [1].
-    - **Organ Necrosis:** Focal necrosis of liver, spleen, and kidney tissue [1].
+    - **Organ Necrosis:** Multifocal areas of cell death commonly observed in the gill, liver, spleen and kidney, where affected foci appear pale and poorly demarcated [1] [15]([Vibriosis in Fish: A Review on Disease Development and Prevention - PubMed](https://pubmed.ncbi.nlm.nih.gov/30246889/)). 
+    - **Ascites**: Accumulation of clear or bloody fluid in the abdominal cavity, often leading to a swollen abdomen. 
 
 - **Behavioral Changes:**
     - **Lethargy:** Reduced activity and slow, labored swimming [1].
