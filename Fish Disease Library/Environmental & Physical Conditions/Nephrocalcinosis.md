@@ -74,6 +74,7 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
     - **Histopathology:** Microscopic examination of kidney tissues to identify calcium deposits and assess the extent of damage, the most precise method for assessing tissue damage and progression [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/)
     
     - **X-ray / Radiography:** Non invasive imaging of calcium deposits in the kidneys [5](https://nofima.com/results/has-documented-cause-of-kidney-stones-in-rainbow-trout/), [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/). It is cost-effective, does not require euthanasia, and enables monitoring of disease progression in individual fish [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/) However, radiography has limited ability to assess soft tissue lesions and cannot reliably distinguish between pathologies such as nephrocalcinosis and chronic granulomatous inflammation with secondary calcification  [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/).
+    - **Ultrasound:** Uses sound waves to detect different stages of nephrocalcinosis, potential to be used at same time as fish vaccination [15](https://greenfoxmarine.no/en/gender-sorting-machine/), [16](https://econexus.cl/en/services/farming/)
     
     - **Blood analysis:** Key indicators include hypercalcaemia, elevated plasma magnesium, glucose, and AST, alongside raised plasma pH and reduced plasma chloride levels  [6](https://www.sciencedirect.com/science/article/pii/S0044848622002204) [7](https://www.fhf.no/prosjekter/prosjektbasen/901588/). Note that the use of anaesthesia during blood sampling can significantly influence plasma values and should be accounted for when planning and interpreting results.[7](https://www.fhf.no/prosjekter/prosjektbasen/901588/). 
     
@@ -202,6 +203,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [13] Peter Vilheim Skov. DTU Orbit. Project dates: 2026-2029. Environmental and dietary causes of nephrocalcinosis in salmonid aquaculture. Funded by Independent Research Fund Denmark. https://orbit.dtu.dk/en/projects/environmental-and-dietary-causes-of-nephrocalcinosis-in-salmonid-/ Accessed June, 2026
 
 [14] Dalum, A. S., M.Alarcon, P.Gretarsson, et al. 2026. “Characterisation of Urocystolithiasis in Farmed Atlantic Salmon (Salmo salar L.): Histopathological Features and Pathophysiological Considerations.” Journal of Fish Diseases49, no. 5: e70099. [https://doi.org/10.1111/jfd.70099](https://doi.org/10.1111/jfd.70099).(https://onlinelibrary.wiley.com/doi/10.1111/jfd.70099)
+
+[15] GreenFox Marine. (n.d.). _Automatic gender sorting machine for fish_ https://greenfoxmarine.no/en/gender-sorting-machine/ Accessed June 2026
+
+[16] Econexus. (2024, March 15). *Farming (fresh and seawater).* https://econexus.cl/en/services/farming/ Accessed June 2026
 
 
 ---
