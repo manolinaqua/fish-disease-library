@@ -80,7 +80,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Risk Factors**
 
-- **Environmental Factors:** Warm water temperatures are the single most important risk factor for "classical" vibriosis— _Vibrio_ proliferation increases markedly at temperatures above 15–20°C, explaining the strong seasonal occurrence of outbreaks during spring and summer. However, _V. anguillarum_ can also cause disease in cold water aquaculture. Salinity in the range of 30–35 ppt and high organic loading further support pathogen growth [1](https://doi.org/10.3389/fmicb.2022.904815). Climate change is predicted to increase the frequency and geographic range of vibriosis outbreaks [1](https://doi.org/10.3389/fmicb.2022.904815).
+- **Environmental Factors:** Temperature is the main environmental driver of fish vibriosis, but its effect is species-specific. Many _Vibrio_ spp. proliferate and cause more outbreaks during warmer spring and summer conditions, and field studies often identify temperature-seasonality as the strongest epidemiologic risk factor [1](https://doi.org/10.3389/fmicb.2022.904815). However, _V. anguillarum_ can also cause disease in cold water aquaculture. _A. salmonicida_ causes cold-water vibriosis, and disease usually develops when seawater is below 12°C [17](https://journals.asm.org/doi/10.1128/aem.01239-14). Salinity in the range of 30–35 ppt and high organic loading further support pathogen growth [1](https://doi.org/10.3389/fmicb.2022.904815). Climate change is predicted to increase the frequency and geographic range of vibriosis outbreaks [1](https://doi.org/10.3389/fmicb.2022.904815).
 - **Farm Management Practices:** High stocking density, physical handling and crowding stress, suboptimal nutrition, poor water quality, and high organic matter loads from feed and excretions all increase host susceptibility. The use of live feed in larval rearing substantially elevates pathogen transmission risk [1](https://doi.org/10.3389/fmicb.2022.904815).
 
 ### Diagnosis
@@ -363,3 +363,6 @@ Future research should prioritize: (a) characterization of emerging and novel _
 [15] Veterinærinstituttet. (2025). Kaldtvannsvibriose. Veterinærinstituttet. [Kaldtvannsvibriose - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 [16] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. [https://doi.org/10.1002/aah.10045](https://doi.org/10.1002/aah.10045) · [Full text](https://pubmed.ncbi.nlm.nih.gov/30246889/)
+
+[17] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in Vibrio (Aliivibrio) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
+
