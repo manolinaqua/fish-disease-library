@@ -87,7 +87,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Gross lesion examination focuses on the characteristic combination of hemorrhagic septicaemia, external skin ulcers, darkened coloration, exophthalmos, splenomegaly, and pale kidney. However, clinical signs alone are not sufficient for species-level diagnosis given the broad overlap with other bacterial pathogens. Isolation of the causative agent from affected tissues (liver, spleen, kidney) is required for definitive diagnosis [1](https://doi.org/10.3389/fmicb.2022.904815).
+- **Clinical Examination:** Gross lesion examination focuses on the characteristic combination of hemorrhagic septicaemia (blood poisoning), external skin ulcers, darkened coloration, exophthalmos, splenomegaly, and pale kidney and gills (anemia). However, clinical signs alone are not sufficient for species-level diagnosis given the broad overlap with other bacterial pathogens and vary among _Vibrio_ species. Isolation of the causative agent from affected tissues (liver, spleen, kidney) is required for definitive diagnosis [1](https://doi.org/10.3389/fmicb.2022.904815).
     
 - **Laboratory Tests:**
     
