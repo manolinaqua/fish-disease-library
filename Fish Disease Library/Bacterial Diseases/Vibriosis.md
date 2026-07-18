@@ -146,7 +146,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     
     - The dominance of _V. harveyi_ in Greek aquaculture — where it replaced _V. anguillarum_ as the primary pathogen — highlights the need for ongoing, region-specific surveillance rather than reliance on historical assumptions about causative agents [3](https://doi.org/10.3390/microorganisms11051197).
     - The emergence of novel _Vibrio_ species in vaccinated Atlantic salmon confirms that existing commercial vaccines may not protect against phylogenetically divergent strains, reinforcing the importance of regular pathogen characterization in each farming region [11](https://doi.org/10.3390/microorganisms11071736).
-    - Live feed represents a critical but controllable vector for _Vibrio_ introduction into larval systems; microbiome management of _Artemia_ and rotifers is an important preventive lever [1](https://doi.org/10.3389/fmicb.2022.904815).
+    - Live feed represents a critical but controllable vector for _Vibrio_ introduction into larval systems; microbiome management of _Artemia_ and rotifers is an important preventive lever [1](https://doi.org/10.3389/fmicb.2022.904815).
 
 ## Data Insights
 
@@ -328,7 +328,7 @@ Future research should prioritize: (a) characterization of emerging and novel _
 
 ---
 
-**Last Modified:** 2026-04-18
+**Last Modified:** 2026-07-18
 
 **Tags:** [#Vibriosis](https://fishdiseases.manolinaqua.com/?query=tag:Vibriosis), [#Vibrio](https://fishdiseases.manolinaqua.com/?query=tag:Vibrio), [#BacterialDiseases](https://fishdiseases.manolinaqua.com/?query=tag:BacterialDiseases), [#Bacteria](https://fishdiseases.manolinaqua.com/?query=tag:Bacteria)
 
