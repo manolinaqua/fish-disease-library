@@ -199,6 +199,18 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     
     - _Vibrio_ infections are a major contributor to the overall disease burden estimated at US$3–6 billion annually in global aquaculture. The Mediterranean zone represents one of the most heavily impacted regions globally due to intensive seabream and seabass production [1](https://doi.org/10.3389/fmicb.2022.904815).
 
+#### Norway
+
+- **Vibriosis Incidence:**
+    
+    - _Vibrio anguillarum_ in Norway have been identified from numerous fish species, including Atlantic salmon, lumpfish, rainbow trout, cod and European seabass. Other _Vibrio_ spp. (including _V. ordalii_ and _V. splendidus_–like strains) have been reported in various marine fish [18](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose). 
+    - Classical vibriosis caused by _V. anguillarum_ occurs at moderate temperatures, while cold‑water vibriosis caused by _Aliivibrio salmonicida_ is associated with sea temperatures below about 10 °C and has historically been an important disease in Northern Norway. Cold‑water vibriosis was first described from Finnmark in the late 1970s in farmed salmon, and by 1979 an increasing number of outbreaks with pronounced mortality were recorded at Hitra, where the disease was originally referred to as “Hitrasyke” (Hitra disease). It reached a peak in the late 1980s with hundreds of recorded outbreaks, before the introduction of effective vaccines led to a marked decline in cases through the 1990s [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [18](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose). 
+    - A notable resurgence of cold‑water vibriosis occurred in 2012– 2013, with multiple outbreaks reported from Nord‑Trøndelag to Finnmark and particularly in North‑Norway. This increase may be linked to vaccination status, and possibly an elevated infection pressure of unknown origin. Since 2013, cold‑water vibriosis has again been very rarely diagnosed in Norwegian aquaculture [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+- **Treatment & Management:**
+    - In the earlier years of intensive farming, substantial quantities of antibiotics such as tetracycline, trimethoprim/sulfamethoxazole and furazolidone were administered, and the pathogen subsequently became resistant to these agents. In modern practice, broad‑spectrum antibiotics are reserved for serious outbreaks and prescribed under veterinary oversight [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+    - When disease appears in fish that are nearly at market size, emergency slaughter is often considered a better option, because low seawater temperatures prolong withdrawal times after treatment [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose). 
+    - From the late 1980s onwards, vaccination has become the main tool for controlling vibriosis and cold‑water vibriosis. Polyvalent vaccines are administered to salmon in the hatchery phase, well before sea transfer, and have provided very high protection against the bacterial diseases they cover. The few cases that do occur today are mostly seen in slaughter‑size fish, where immunity is likely reduced because of the long time elapsed since vaccination [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+
 ## Research and References
 
 ### Latest Research Findings
@@ -360,9 +372,11 @@ Future research should prioritize: (a) characterization of emerging and novel _
 
 [14] Mowafy, R. E., Megahed, H. M., Abou Khadra, S. H., Bakry, M. A., Moustafa, A. H., & El-Demerdash, A. S. (2025). Innovative vibriosis control in open aquaculture: _Paratapes undulata_ as a sustainable growth and resistance enhancer in red tilapia. _Scientific Reports_, _15_. [https://doi.org/10.1038/s41598-025-01026-x](https://doi.org/10.1038/s41598-025-01026-x) · [Full text](https://citations.gxl.ai/papers/PMC12098663)
 
-[15] Veterinærinstituttet. (2025). Kaldtvannsvibriose. Veterinærinstituttet. [Kaldtvannsvibriose - Veterinærinstituttet](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+[15] Veterinærinstituttet. (2025). Kaldtvannsvibriose. Veterinærinstituttet. https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose
 
 [16] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. [https://doi.org/10.1002/aah.10045](https://doi.org/10.1002/aah.10045) · [Full text](https://pubmed.ncbi.nlm.nih.gov/30246889/)
 
 [17] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in Vibrio (Aliivibrio) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
+
+[18] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
 
