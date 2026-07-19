@@ -26,7 +26,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
     - Increased mortality [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
     - There are usually few gross findings at necropsy. Occasionally, small  haemorrhages (petechiae) can be seen in the visceral fat between the pyloric caeca, and over time this fat is reduced. Affected fish often have an empty gastrointestinal tract [14](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/)
 
-- **Behavioral Changes:
+- **Behavioral Changes:**
     - Sudden loss of appetite [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
     - Lethargic fish that tend to stand close together near the water surface and against the direction of the currents [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
     - Abnormal swimming patterns [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
