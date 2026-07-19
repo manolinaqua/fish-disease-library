@@ -16,7 +16,7 @@ tags:
 ## Overview
 
 ### What is Pancreas Disease (PD)
-Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub). The name reflects the disease’s damaging effect on the pancreas, which reduces the production of digestive enzymes and thereby impairs digestion and growth [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).]
+Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Salmonid alphavirus (SAV), historically referred to as salmon pancreas disease virus (SPDV), resulting in severe economic losses in aquaculture due to high mortality rates and reduced growth performance [16](https://www.sciencedirect.com/science/article/abs/pii/S0167587709003080?via%3Dihub). The name reflects the disease’s damaging effect on the pancreas, which reduces the production of digestive enzymes and thereby impairs digestion and growth [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). PD was first identified in Scotland in 1976 and later reported in Norway in 1989, and has since been observed in several other countries [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
 ## Symptoms of Pancreas Disease
 
 ## Common Symptoms
@@ -34,7 +34,7 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 
 **Progression of Symptoms**
 
-- **Early Stages:** A sudden stop of eating, followed by lethargy and abnormal swimming (for example difficulty maintaining normal posisition in the water or fish gathering against the current) [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
+- **Early Stages:** A sudden stop of eating, followed by lethargy and abnormal swimming (for example difficulty maintaining normal posisition in the water or fish gathering against the current) [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 
 - **Advanced Stages:** Mortality usually begins 2–3 weeks after the first signs [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). High levels of mortality may occur, together with reduced growth, visibly stunted runts with poor body condition, and downgraded fillet quality at slaughter [3](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/).
@@ -74,19 +74,19 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 - **Clinical Examination:** Observation of physical and behavioral symptoms like reduced feed intake, lethargy, abnormal swimming and stunted runts [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). Clinical findings alone are not specific for PD and must be confirmed by laboratory testing.
 
 - **Laboratory Tests:**
-    - RT-PCR (Real-time Polymerase Chain Reaction): Primary method for detection of viral RNA.
+    - RT-PCR (Real-time Polymerase Chain Reaction): Primary method for detection of viral RNA. In Norway, genotyping of positive samples (SAV2 vs SAV3) is mandatory when PD is suspected or detected, to support surveillance and control measures [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
     - Histopathology: Tissue samples (typically pancreas, heart and skeletal  muscle) are examined for characteristic lesions associated with PD, including degeneration and inflammation in exocrine pancreas, heart and red skeletal muscle. Histopathology is central for differentiating PD from other cardiac and muscular diseases [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[5](https://pubmed.ncbi.nlm.nih.gov/17718709/) [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
     - Additional methods: Virus isolation in cell culture, immunohistochemistry to detect viral antigen in tissues, and analyzing bloodserum/plasma can be peformed in selected cases [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
 
 **Differential Diagnosis**
 
-- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN), heart and skeletal muscle inflammation (HSMI) and cardiomyopathy Syndrom (CMS) [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
+- It is crucial to differentiate PD from diseases with similar symptoms, such as infectious pancreatic necrosis (IPN), heart and skeletal muscle inflammation (HSMI) and cardiomyopathy Syndrom (CMS). HSMI and CMS are important differential diagnoses as they affect the heart, but neither typically causes characteristic lesions in the exocrine pancreas. These conditions may occasionally occur simultaneously on the same site, which highlights the importance of combining PCR testing with thorough histopathological examination for a definitive diagnosis. [2](https://pubmed.ncbi.nlm.nih.gov/27136332/)[10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd). 
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
-- **Current Treatments:** No specific antiviral treatments are available for PD. Management focuses on preventing the spread and mitigating the impact through culling and containment measures [4](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus).
+- **Current Treatments:** No specific antiviral treatments are available for PD. Management focuses on intensive surveillance, preventing the spread and mitigating the impact through culling and containment measures [4](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [6](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus).
 
 
 **Preventive Measures**
@@ -150,7 +150,8 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 #### Norway
 
 - **PD Incidence in Norway:**
-    - Between 2009 and 2011, there were 75 to 89 outbreaks per year [20](https://www.int-res.com/journals/dao/articles/dao02529)
+    - At present, two PD epizootics caused by different SAV genotypes are recognised in Norway: most PD cases are due to SAV3 and occur south of Stadt, whereas nearly all PD cases caused by SAV2 are found north of Hustadvika [10](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd).
+	- Between 2009 and 2011, there were 75 to 89 outbreaks per year [20](https://www.int-res.com/journals/dao/articles/dao02529)
     - In 2018, 134 confirmed PD cases were registered, and the number has decreased gradually since then: 77 cases in 2022, 58 in 2023, 43 in 2024, and 37 in 2025 [19](https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk).
 
 - **Economic Impact:**
@@ -219,7 +220,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [18] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C. and Sommerset, I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 [19] Veterinærinstituttet. (2026). Pankreassykdom (PD) – utbrudd og statistikk. Available at: [https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk](https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk)
 [20] Bang Jensen, B., Kristoffersen, A. B., Myr, C., Brun, E. (2012) Cohort study of effect of vaccination on pancreas disease in Norwegian salmon aquaculture. _Dis Aquat Org_ 102, 23-31 [https://doi.org/10.3354/dao02529](https://doi.org/10.3354/dao02529)
-
 
 ---
 
