@@ -99,6 +99,9 @@ Pancreas Disease (PD) is a viral disease that affects farmed Atlantic salmon (_S
 - **Vaccination Strategies:**
     - Several commercial vaccines against PD are available and have shown effectiveness in reducing infection levels, mortality rates, and viral shedding [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon) [7](https://pubmed.ncbi.nlm.nih.gov/34402092/).
     - A monovalent vaccine was made commercially available in 2007, and a multivalent vaccine capable of immunizing fish against multiple SPDV strains was introduced in 2015 [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
+    - Conventional inactivated virus vaccines have shown variable effects in mitigating the disease, whereas a DNA vaccine used over the last 7–8 years is thought to have contributed to the recent reduction in reported PD cases in Norway [21](https://www.mdpi.com/1999-4915/18/6/639).
+    - In Norway, the conventional oil‑adjuvanted inactivated virus PD vaccine commercially available is **ALPHA JECT® micro 1 PD** (Pharmaq), and the DNA PD vaccine is **Clynav®** (MSD Animal Health). The latter one only offers protection against SAV3. [22](https://www.felleskatalogen.no/medisin-vet/alpha-ject-micro-1-pd-pharmaq-633093)[23](https://www.felleskatalogen.no/medisin-vet/clynav-msd-animal-health-645975[felleskatalogen](https://www.felleskatalogen.no/medisin-vet/dyreeier/pil-clynav-msd-animal-health-646224). 
+    - In the UK and Ireland, **AQUAVAC® PD3** (MSD Animal Health) is available as a trivalent oil‑adjuvanted inactivated virus vaccine that induces active immunity against pancreas disease, infectious pancreatic necrosis (IPN) and furunculosis [24](https://www.solutionsforaqua.com/2023/09/13/aquavac-pd-3/)
 
 - **Farm Management Practices:**
     - Reduced stocking densities to decrease the risk of virus transmission [1](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon).
@@ -189,7 +192,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-05-24
+**Last Modified:** 2026-07-20
 
 **Tags:** #PancreasDisease , #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Chile, #ViralDisease, #Virus 
 ##### Viral Diseases
@@ -201,25 +204,52 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 [1] Pancreas disease in farmed salmon. (2025). _Wikipedia_. Available at: [https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon](https://en.wikipedia.org/wiki/Pancreas_disease_in_farmed_salmon)
+
 [2] Jansen, M. D., Bang Jensen, B., McLoughlin, M., Rodger, H. D., Taksdal, T., & Graham, D. A., & Lillehaug, A. (2016). The epidemiology of pancreas disease in salmonid aquaculture. _Journal of Fish Diseases_, 40(1), 141–155. [https://doi.org/10.1111/jfd.12478](https://doi.org/10.1111/jfd.12478)
+
 [3] Benchmark Genetics. (n.d.). Pancreas disease (SV3). Available at: [https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/](https://www.bmkgenetics.com/salmon-genetic-traits/pancreas-disease/)
+
 [4] International Council for the Exploration of the Sea (ICES). (2024). _Pancreas Disease (PD)_. ICES Report. Available at: [https://ices-library.figshare.com/articles/report/Pancreas_Disease_PD_/25046234](https://ices-library.figshare.com/articles/report/Pancreas_Disease_PD_/25046234)
+
 [5] Taksdal, T., Olsen, A. B., Bjerkås, I., Hjortaas, B. H., Dannevig, B. H., Graham, D. A. & McLoughlin, M. F. (2007). Pancreas disease in farmed Atlantic salmon (_Salmo salar_ L.) and rainbow trout (_Oncorhynchus mykiss_ Walbaum) in Norway. _Journal of Fish Diseases, 30_(9), 545–558. https://doi.org/10.1111/j.1365-2761.2007.00845.x
+
 [6] Elsevier. (n.d.). _Salmon pancreas disease virus_. ScienceDirect Topics. Available at: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/salmon-pancreas-disease-virus)
+
 [7] Røsaeg, M. V., Thorarinnson. R., Aunsmo, A. (2021). Effect of vaccines against pancreas disease in farmed Atlantic salmon. _Journal of Fish Diseases_, 44(12), 1911–1924. [https://doi.org/10.1111/jfd.13505Digital Object Identifier (DOI)](https://doi.org/10.1111/jfd.13505)
+
 [8] Amend, D. F. (1976). Prevention and Control of Viral Diseases of Salmonids. _Journal of the Fisheries Board of Canada_,  **33**(4), 1059-1066. [https://doi.org/10.1139/f76-134](https://doi.org/10.1139/f76-134) 
+
 [9] Veterinary Ireland Journal. (2020). Salmonid alphavirus: monitoring infection and disease on Irish salmon farms. _Veterinary Ireland Journal_, Focus article. Available at: https://www.veterinaryirelandjournal.com/archives/ucd-research-archives?view=article&id=192:salmonid-alphavirus-monitoring-infection-and-disease-on-irish-salmon-farms&catid=11
+
 [10] Veterinærinstituttet. (2025). Pankreassykdom (PD). Available at: [https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd](https://www.vetinst.no/sykdom-og-agens/pankreassykdom-pd)
+
 [11] Deperasinska, I., Schulz, P., Siwicki, A. K. (2018) Salmonid Alphavirus (SAV). _Journal of Veterinary Research_, 62(1), 1-6. https://doi.org/10.2478/jvetres-2018-0001
+
 [12] Tighe, A. J., Gallagher, M. D., Carlsson, J., Matejusova, I., Swords, F., Macqueen, D. J., Ruane, N. M., (2020) Nanopore whole genome sequencing and partitioned phylogenetic analysis supports a new salmonid alphavirus genotype (SAV7). _Dis Aquat Org_ 142, 203-211 [https://doi.org/10.3354/dao03546](https://doi.org/10.3354/dao03546)
+
 [13] Kristoffersen, A. B., Viljugrein, H., Kongtorp, R. T., Brun, E., Jansen, P. A., Risk factors for pancreas disease (PD) outbreaks in farmed Atlantic salmon and rainbow trout in Norway during 2003-2007. _Prev Vet Med_. 1;90(1-2), 127-36. https://doi.org/10.1016/j.prevetmed.2009.04.003)
+
 [14] Akvademiet. (2024). Pankreassykdom (PD) hos laks.Fiskesykdommer. Available at: [https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pd-pancreas-disease/)
+
 [15] Kyst.no. (2013). Fôr for PD-fri fisk. Available at: [https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487](https://www.kyst.no/nr-15-2013/fr-for-pd-fri-fisk/494487)
+
 [16]  Aunsmo, A., Valle, P. S., Sandberg, M., Midtlyng, P. J., & Bruheim, T. (2010). Stochastic modelling of direct costs of pancreas disease (PD) in Norwegian farmed Atlantic salmon (_Salmo salar_ L.). _Preventive Veterinary Medicine_. 93(2-3), 223-241. [https://doi.org/10.1016/j.prevetmed.2009.10.001](https://doi.org/10.1016/j.prevetmed.2009.10.001 "Persistent link using digital object identifier")
+
 [17] Forskrift om bekjempelse av pankreassykdom (PD). (2017). Lovdata. FOR‑2017‑08‑29‑1318. Available at: [https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318](https://lovdata.no/dokument/SF/forskrift/2017-08-29-1318)
+
 [18] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C. and Sommerset, I. Norwegian Fish Health Report, 2025. Published by the Norwegian Veterinary Institute 2026. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+
 [19] Veterinærinstituttet. (2026). Pankreassykdom (PD) – utbrudd og statistikk. Available at: [https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk](https://www.vetinst.no/dyr/oppdrettsfisk/pankreassykdom-pd-utbrudd-og-statistikk)
+
 [20] Bang Jensen, B., Kristoffersen, A. B., Myr, C., Brun, E. (2012) Cohort study of effect of vaccination on pancreas disease in Norwegian salmon aquaculture. _Dis Aquat Org_ 102, 23-31 [https://doi.org/10.3354/dao02529](https://doi.org/10.3354/dao02529)
+
+[21] Rimstad, E., & Evensen, Ø. (2026). DNA Vaccination in Farmed Fish with a Focus on Salmonid Alphavirus Infection in Atlantic Salmon (_Salmo salar_ L.) in Norway. _Viruses_, _18_(6), 639. https://doi.org/10.3390/v18060639
+
+[22] Felleskatalogen. (n.d.). _ALPHA JECT micro 1 PD «PHARMAQ»_ (veterinærpreparatomtale). Felleskatalogen – Veterinære legemidler. Available at: https://www.felleskatalogen.no/medisin-vet/alpha-ject-micro-1-pd-pharmaq-633093
+
+[23] Felleskatalogen. (n.d.). _Clynav «MSD Animal Health»_ (veterinærpreparatomtale). Felleskatalogen – Veterinære legemidler. Available at: https://www.felleskatalogen.no/medisin-vet/clynav-msd-animal-health-645975[felleskatalogen](https://www.felleskatalogen.no/medisin-vet/dyreeier/pil-clynav-msd-animal-health-646224)
+
+[24] Solutions For Aqua. (n.d.). _AQUAVAC® PD 3 «MSD Animal Health»_ (trivalent vaccine information). Solutions For Aqua. Available at: https://www.solutionsforaqua.com/2023/09/13/aquavac-pd-3/
 
 ---
 
