@@ -20,7 +20,7 @@ tags:
 
 ### What is Furunculosis (Aeromonas salmonicida)?
 
-Furunculosis is a bacterial disease of salmonid fish caused by *Aeromonas salmonicida*, a Gram-negative, non-motile, facultatively anaerobic rod belonging to the family *Aeromonadaceae*. The disease is named after its most visually distinctive chronic presentation: raised, fluid-filled boil-like lesions (furuncles) in the musculature that ulcerate and rupture. Classical or "typical" furunculosis is caused by *A. salmonicida* subsp. *salmonicida* and primarily affects salmonid species including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), brook trout (*Salvelinus fontinalis*), and Arctic char (*Salvelinus alpinus*). "Atypical" *A. salmonicida* strains (subspecies *achromogenes*, *masoucida*, *smithia*, and *pectinolytica*) affect a broader range of non-salmonid species [1](https://doi.org/10.1111/1751-7915.12091).
+Furunculosis is a bacterial disease of salmonid fish caused by *Aeromonas salmonicida*, a Gram-negative, non-motile, facultatively anaerobic rod belonging to the family *Aeromonadaceae*. The disease is named after its most visually distinctive chronic presentation: raised, fluid-filled boil-like lesions (furuncles) in the musculature that ulcerate and rupture. Classical or "typical" furunculosis is caused by *A. salmonicida* subsp. *salmonicida* and primarily affects salmonid species including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), brook trout (*Salvelinus fontinalis*), and Arctic char (*Salvelinus alpinus*). "Atypical" *A. salmonicida* strains (subspecies *achromogenes*, *masoucida*, *smithia*, and *pectinolytica*) affect a broader range of non-salmonid species, including marine species such as lumpfish (_Cyclopterus lumpus_) and turbot (_Scophthalmus maximus_) [1](https://doi.org/10.1111/1751-7915.12091) [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
 
 *Aeromonas salmonicida* subsp. *salmonicida* was first isolated in 1894 from brown trout in Germany, making furunculosis one of the earliest described bacterial diseases of fish. The pathogen is virtually ubiquitous in farmed salmonid populations globally, with both clinical disease and subclinical carrier states common. The organism can persist for weeks to months in water and sediment, and covert (latent) carriers — fish that harbor the pathogen without clinical signs — represent the most significant and difficult-to-control reservoir in aquaculture systems [1](https://doi.org/10.1111/1751-7915.12091).
 
@@ -288,5 +288,7 @@ Future research should prioritize: (a) understanding the molecular mechanisms by
 [15] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2025a). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. Available at: www.sernapesca.cl
 
 [16] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2025b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. Available at: www.sernapesca.cl
+
+[17] Veterinærinstituttet. (2025). Furunkulose. Available at: https://www.vetinst.no/sykdom-og-agens/furunkulose
 
 ---
