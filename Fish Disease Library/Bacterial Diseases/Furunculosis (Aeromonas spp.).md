@@ -33,16 +33,19 @@ Furunculosis is historically one of the most economically important bacterial di
 ### Common Signs
 
 - **Physical Signs:**
-    - **Furuncles (Muscular Boils):** Characteristic raised, hemorrhagic swellings in the musculature that rupture to form deep, necrotic ulcers — most prominent in the chronic form of the disease; may be absent in peracute or acute presentations [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
-    - **Hemorrhages at Fin Bases and Operculum:** Petechial and ecchymotic hemorrhages, particularly at the base of pectoral fins, opercular margins, and the vent, are consistent signs of systemic bacteraemia [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
+    - **Furuncles (Muscular Boils):** Characteristic raised, hemorrhagic swellings in the musculature that rupture to form deep, necrotic ulcers — most prominent in the subacute or chronic form of the disease, and in older/bigger fish; may be absent in peracute or acute presentations [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
+    - **Skin haemorrhages:** Petechial and ecchymotic hemorrhages may be observed on the ventral surface, at the bases of the pectoral fins, along the opercular margins, and around the vent. These findings are consistent with systemic bacteraemia/septicaemia [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
     - **Exophthalmia:** Unilateral or bilateral protrusion of the eyes due to retrobulbar fluid accumulation is commonly observed [5](https://doi.org/10.3390/biology14101330).
     - **Bloody Discharge from Vent:** Hemorrhagic enteritis can produce bloody mucoid discharge from the anus, a sign associated with acute and subacute disease [1](https://doi.org/10.1111/1751-7915.12091).
     - **Splenomegaly and Hepatic Necrosis:** Post-mortem examination typically reveals a markedly enlarged, congested spleen and a friable liver with focal areas of necrosis [5](https://doi.org/10.3390/biology14101330).
     - **Renal Oedema and Congestion:** The kidneys show oedema with petechial haemorrhages and congestion; renal softening and discoloration are common post-mortem findings in conjunction with hepatic and splenic pathology [5](https://doi.org/10.3390/biology14101330).
+    - **Internal haemorrhages:** Petechial to ecchymotic haemorrhages may be present in internal organs, particularly the liver, spleen, kidney and intestine; consistent with systemic septicaemia [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - **Ascites:** Serous or blood-tinged fluid may accumulate in the abdominal cavity. This finding can accompany severe systemic disease and septicaemia [17](https://www.vetinst.no/sykdom-og-agens/furunkulose)
 
 - **Behavioral Changes:**
     - **Lethargy:** Reduced swimming activity; affected fish isolate from the shoal and swim near the surface or cage edges [1](https://doi.org/10.1111/1751-7915.12091).
     - **Loss of Appetite:** Rapid and marked decline in feed intake is often the first sign noticed by farm staff [1](https://doi.org/10.1111/1751-7915.12091).
+    - **Increased respiratory rate:** Affected fish may show respiratory distress; rapid opercular movements and increased ventilation rate, particularly during peracute and acute disease [1](https://doi.org/10.1111/1751-7915.12091).
     - **Darkening of Skin:** Affected fish frequently display abnormal melanization (darkening) of body coloration [1](https://doi.org/10.1111/1751-7915.12091).
 
 **Progression of Clinical Signs**
