@@ -87,7 +87,10 @@ Furunculosis is historically one of the most economically important bacterial di
 
 **Differential Diagnosis**
 
-- **Distinguishing Furunculosis from Other Diseases:** Clinical signs of furunculosis overlap substantially with those of vibriosis (*Vibrio* spp.), yersiniosis (*Yersinia ruckeri*), bacterial kidney disease (BKD, *Renibacterium salmoninarum*), winter ulcer disease (*Moritella viscosa*), and haemorrhagic septicaemia caused by *Aeromonas hydrophila* (motile aeromonads). The non-motility of *A. salmonicida* subsp. *salmonicida* and the characteristic brown pigment on agar distinguish it from motile aeromonads. Multiplex PCR simultaneously discriminates *A. salmonicida* from *F. psychrophilum* and *Y. ruckeri*, enabling unambiguous exclusion of the most common co-circulating bacterial pathogens in a single reaction [6](https://doi.org/10.4142/jvs.2010.11.3.235).
+- **Distinguishing Furunculosis from Other Diseases:** Clinical signs of furunculosis overlap substantially with those of other bacterial fish diseases causing septicaemia, including vibriosis (*Vibrio* spp.), yersiniosis (*Yersinia ruckeri*), bacterial kidney disease (BKD, *Renibacterium salmoninarum*), winter ulcer disease (*Moritella viscosa*), and haemorrhagic septicaemia caused by *Aeromonas hydrophila* (motile aeromonads). 
+- The non-motility of *A. salmonicida* subsp. *salmonicida* and the characteristic brown pigment on agar distinguish it from motile aeromonads; however, pigment production is not universal for all subspecies, so definitive identification requires laboratory testing (like qPCR).
+- In Atlantic cod, atypical furunculosis should be differentiated from francisellosis, caused by _Francisella noatunensis_ subsp. _noatunensis_. Both diseases can produce chronic disease and internal nodules or granulomatous lesions. Histopathology together with culture and pathogen-specific PCR is therefore important for distinguishing these infections in cod [21](https://doi.org/10.1186/1297-9716-42-47).
+- Multiplex PCR can rapidly and simultaneously detect _A. salmonicida_ subsp. _salmonicida_, _Flavobacterium psychrophilum_, and _Y. ruckeri_ in a single reaction. It is therefore useful for targeted differential diagnosis, but additional culture, histopathology, and pathogen-specific molecular assays are needed to investigate other potential causes of disease [6](https://doi.org/10.4142/jvs.2010.11.3.235).
 
 ### Treatment and Prevention
 
@@ -305,5 +308,7 @@ Future research should prioritize: (a) understanding the molecular mechanisms by
 [19] Håstein, T. (2025). _Furunkulose – fisk_. Store norske leksikon. Available at: [https://snl.no/furunkulose_-_fisk_](https://snl.no/furunkulose_-_fisk) (Accessed: 8 August 2026).
 
 [20] Wiklund, T. and Dalsgaard, I. (1998). Occurrence and significance of atypical _Aeromonas salmonicida_ in non-salmonid and salmonid fish species: A review. _Diseases of Aquatic Organisms_, 32(1), 49–69. Available at: https://doi.org/10.3354/dao032049
+
+[21] Colquhoun, D. J., & Duodu, S. (2011). _Francisella infections in farmed and wild aquatic organisms_. **Veterinary Research, 42**, 47. Available at: https://doi.org/10.1186/1297-9716-42-47
 
 ---
