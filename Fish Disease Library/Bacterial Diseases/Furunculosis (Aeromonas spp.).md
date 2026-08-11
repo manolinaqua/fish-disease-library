@@ -151,6 +151,14 @@ Furunculosis is historically one of the most economically important bacterial di
 - **Treatment & Management:**
     - Florfenicol (82.5% of total antibiotic use in 2016) and oxytetracycline (16.8%) have historically dominated Chilean salmon farming therapeutics [11](https://doi.org/10.3389/fmicb.2018.01284). By 2025, florfenicol accounted for 97.57% of antimicrobial use in closed sea cycles, administered almost exclusively via medicated feed; furunculosis treatment follows this pattern almost entirely [16](https://www.sernapesca.cl). In the freshwater phase, oxytetracycline (60.63%) and florfenicol (39.15%) together represent 99.78% of antibiotic use, with furunculosis the third most treated disease after flavobacteriosis and renibacteriosis [16](https://www.sernapesca.cl). SERNAPESCA's voluntary PROA-Salmón antimicrobial stewardship certification covered 262,416 tonnes (approximately 25% of 2025 national output), achieving an ICA of 13.47 g/tonne — 96% below the national sea-phase average — demonstrating that best-practice management can dramatically reduce treatment intensity [16](https://www.sernapesca.cl). The limited scientific research on resistance gene epidemiology in Chilean *A. salmonicida* isolates and the emergence of a *vapA*-absent vaccine-escape strain represent significant knowledge gaps requiring urgent investigation [2](https://doi.org/10.3389/fcimb.2025.1508135) [11](https://doi.org/10.3389/fmicb.2018.01284).
 
+#### Norway
+
+- **Furunculosis incidence and importance:** 
+    - Classical furunculosis, caused by _Aeromonas salmonicida_ subsp. _salmonicida_, is a **notifiable disease** in Norway. It is classified as a Category F national disease, meaning that suspected or confirmed cases must be reported to the Norwegian Food Safety Authority (_Mattilsynet_) [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - The disease is now effectively controlled in Norwegian salmon aquaculture. It has not been detected in farmed fish since 2022, and no infections have been reported in wild Norwegian salmon since 2019 [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf). 
+    - Industry respondents did not identify furunculosis as a cause of mortality, impaired growth, reduced welfare, or an increasing problem in either smolt production or grow-out. Nevertheless, occasional outbreaks remain possible, and warming seawater may increase future disease risk, supporting continued surveillance and routine prevention [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+
+
 ## Research and References
 
 ### Latest Research Findings
