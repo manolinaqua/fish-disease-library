@@ -14,72 +14,76 @@ tags:
 ## Overview
 
 ### What is Infectious Pancreatic Necrosis (IPN)?
-HEAD
 
 Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the genus _Aquabirnavirus_ within the family _Birnaviridae_. It can cause high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). The disease can occur in both freshwater and seawater production: it is particularly associated with fry and juvenile salmonids in freshwater hatcheries and post-smolts after transfer to seawater, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
-7d8fa7369400eadbc416316e30bb274652bdb365
+
 
 ## Clinical Signs of Infectious Pancreatic Necrosis
 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Abdominal Swelling:**B Distended abdomen due to fluid accumulation [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-    - **Pale Gills:**B Typically pale gills in affected fish [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-    - **Haemorrhages:**B Bleeding in internal organs, including ventral areas and fins [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-    - **Darkening of the Skin:**B Affected fish may exhibit darkened coloration [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Abdominal Swelling:** Distended abdomen due to fluid accumulation [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Pale inner organs:** Typically pale gills and liver in affected fish, indicating anaemia. In seawater the liver tends to get more yellowish [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf) [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/).
+    - **Internal haemorrhages:** Small "pinpoint" (petechial) bleeding spots in adipose tissue between the pyloric caeca [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/). 
+    - **Outer haemorrhages**: Bleeding can occur  ventral areas and fins [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Darkening of the Skin:** Affected fish may exhibit darkened coloration [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Exophthalmos (popeye)**: Protruding eyes.
+    - **Empty intestine or filled with clear mucus** [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf)
+    - **Emaciation:** Affected or surviving fish may become markedly thin, with poor body condition [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - **Faecal casts:** White, string-like casts of faeces and sloughed intestinal tissue may hang from the vent as a result of inflammation in the intestine [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 - **Behavioural Changes:**
-    - **Lethargy:**B Fish lying still on the bottom of tanks or ponds [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
-    - **Loss of Appetite:**B Anorexia and significant weight loss [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
-    - **Abnormal Swimming Patterns:**B Fish may swim in a corkscrew or spiral motion [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Lethargy:** Fish lying still on the bottom of tanks or ponds [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+    - **Loss of Appetite:** Anorexia and significant weight loss [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+    - **Abnormal Swimming Patterns:** Fish may swim in a corkscrew or spiral motion [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
 
 **Progression of Symptoms**
 
-- **Early Stages:**B Sudden and progressive increase in mortality at first feeding of fry, particularly in faster-growing individuals [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Early Stages:** Sudden and progressive increase in mortality at first feeding of fry, particularly in faster-growing individuals [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
-- **Advanced Stages:**B Pronounced physical symptoms such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Advanced Stages:** Pronounced physical symptoms such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
-- **Impact on Fish Health:**B IPN severely compromises immune function and overall vitality, making fish susceptible to secondary infections [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
+- **Impact on Fish Health:** IPN can cause substantial tissue damage in several organs, particularly the pancreas. Pancreatic necrosis can impair the production of enzymes needed for digestion and nutrient absorption. Consequently, affected fish may show poor feed utilisation, reduced growth, and poor body condition. Mortality varies among outbreaks and may be very high, particularly in susceptible fry and post-smolts. IPN severely compromises immune function and overall vitality, making fish susceptible to secondary infections [3](https://pubmed.ncbi.nlm.nih.gov/32033004/) [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/). 
 
 ### Causes of Infectious Pancreatic Necrosis
 
 **Etiology**
 
-- **Causative Agent:**B Infectious Pancreatic Necrosis Virus (IPNV), an Aquabirnavirus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+- **Causative Agent:** Infectious Pancreatic Necrosis Virus (IPNV), an Aquabirnavirus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
 
 - **Transmission Methods:**
-    - **Horizontal Transmission:**B Spread through infected water and equipment [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
-    - **Vertical Transmission:**B From parent to progeny through infected eggs [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Horizontal Transmission:** Spread through infected water and equipment [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Vertical Transmission:** From parent to progeny through infected eggs [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 
 **Risk Factors**
 
-- **Environmental Factors:**B Outbreaks can occur at water temperatures between 4B0C and 18B0C, with stress factors such as high stocking densities and fluctuations in water temperature and salinity increasing susceptibility [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Environmental Factors:** Outbreaks can occur at water temperatures between 4B0C and 18B0C, with stress factors such as high stocking densities and fluctuations in water temperature and salinity increasing susceptibility [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
-- **Farm Management Practices:**B Movement of equipment from infected sites and improper handling of mortalities and wastes can facilitate the spread of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+- **Farm Management Practices:** Movement of equipment from infected sites and improper handling of mortalities and wastes can facilitate the spread of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 ### Diagnosis
 
 **Diagnostic Methods**
 
-- **Clinical Examination:**B Observation of physical and behavioural symptoms [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+- **Clinical Examination:** Observation of physical and behavioural symptoms [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
 
 - **Laboratory Tests:**
-    - **PCR (Polymerase Chain Reaction):**B Detects IPNV genetic material in fish tissues [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
-    - **Virus Isolation:**B Culturing the virus in tissue culture [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
-    - **ELISA and Antibody Neutralization:**B For identification of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **PCR (Polymerase Chain Reaction):** Detects IPNV genetic material in fish tissues [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
+    - **Virus Isolation:** Culturing the virus in tissue culture [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **ELISA and Antibody Neutralization:** For identification of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 
 **Differential Diagnosis**
 
-- **Distinguishing IPN from Other Diseases:**B It is crucial to differentiate IPN from diseases with similar symptoms, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Distinguishing IPN from Other Diseases:** It is crucial to differentiate IPN from diseases with similar symptoms, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
-- **Current Treatments:**B There are no specific antiviral treatments for IPN. Management focuses on preventing the spread and mitigating the impact through biosecurity measures [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
+- **Current Treatments:** There are no specific antiviral treatments for IPN. Management focuses on preventing the spread and mitigating the impact through biosecurity measures [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
 
 **Preventive Measures**
 
@@ -87,7 +91,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
     - Testing of broodstock and destruction of eggs from infected parents [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
     - Avoiding movement of equipment from infected sites [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
-- **Vaccination Strategies:**B A provisional marketing authorization has been granted for a vaccine against IPN [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+- **Vaccination Strategies:** A provisional marketing authorization has been granted for a vaccine against IPN [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 - **Farm Management Practices:**
     - Maintaining high water quality and low stocking density [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
@@ -98,8 +102,8 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-    - **Scotland:**B High prevalence of IPNV infection in farmed Atlantic salmon in seawater, with increasing incidence in freshwater salmon farms in recent years [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
-    - **Norway:**B Considerable mortalities from IPN in Atlantic salmon post-smolts [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Scotland:** High prevalence of IPNV infection in farmed Atlantic salmon in seawater, with increasing incidence in freshwater salmon farms in recent years [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Norway:** Considerable mortalities from IPN in Atlantic salmon post-smolts [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 
 ## Data Insights
@@ -179,6 +183,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [5] https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/infectious-pancreatic-necrosis-virus
 [6] https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap18.pdf
 [7] https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn
-
+[8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/
 - - -
 
