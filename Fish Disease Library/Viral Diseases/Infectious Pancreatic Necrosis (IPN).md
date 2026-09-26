@@ -14,7 +14,7 @@ tags:
 ## Overview
 
 ### What is Infectious Pancreatic Necrosis (IPN)?
-Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the Birnaviridae family, leading to high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis). IPN primarily affects juvenile salmonids, particularly in the fry and post-smolt stages, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the genus _Aquabirnavirus_ within the family _Birnaviridae_. It can cause high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). The disease can occur in both freshwater and seawater production: it is particularly associated with fry and juvenile salmonids in freshwater hatcheries and post-smolts after transfer to seawater, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 ## Symptoms of Infectious Pancreatic Necrosis
 
@@ -175,6 +175,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [4] https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf
 [5] https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/infectious-pancreatic-necrosis-virus
 [6] https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap18.pdf
+[7] https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn
 
 - - -
 
