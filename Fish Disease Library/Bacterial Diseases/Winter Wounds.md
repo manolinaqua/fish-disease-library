@@ -5,7 +5,7 @@ tags:
   - WinterWounds
   - BacterialDiseases
   - Bacteria
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Norway
@@ -17,18 +17,18 @@ tags:
 ## Overview
 
 ### What are Winter Wounds?
-Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (Salmo salar), typically occurring during the colder months. These wounds are primarily caused by bacterial infections, particularly Moritella viscosa, and are exacerbated by cold water temperatures, significantly impacting fish health and welfare [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon). Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. While primarily affecting Atlantic salmon, other salmonid species can also suffer from similar conditions under cold water temperatures.
+Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (*Salmo salar*), typically occurring during the colder months. These wounds are primarily caused by bacterial infections, particularly *Moritella viscosa*, and are exacerbated by cold water temperatures, significantly impacting fish health and welfare [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon). Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. While primarily affecting Atlantic salmon, other salmonid species can also suffer from similar conditions under cold water temperatures.
 
-## Symptoms of Winter Wounds
+## Clinical Signs of Winter Wounds
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Skin Lesions:** Open sores or ulcers on the skin, often starting on the scales and potentially reaching muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
     - **Inflammation:** Reddened and swollen areas around the wounds.
     - **Superficial to Deep Wounds:** Ranging from superficial wounds to deep ulcers affecting muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Reduced Activity:** Fish may show signs of discomfort and reduced mobility due to wounds.
 
 **Progression of Symptoms**
@@ -43,7 +43,7 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
 
 **Etiology**
 
-- **Primary Cause:** Bacterial infection, predominantly by Moritella viscosa [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+- **Primary Cause:** Bacterial infection, predominantly by *Moritella viscosa* [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 - **Environmental Factors:** Cold water temperatures (8°C or lower) increase susceptibility to infections [4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 - **Secondary Infections:** Other opportunistic pathogens can infect open wounds, exacerbating the condition.
 
@@ -59,19 +59,19 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
 - **Clinical Examination:** Observation of physical symptoms, such as skin lesions and ulcers.
 
 - **Laboratory Tests:**
-    - **Bacterial Culture:** Identifying Moritella viscosa and its various strains [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+    - **Bacterial Culture:** Identifying *Moritella viscosa* and its various strains [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
     - **Histopathology:** Examination of wound tissues to assess the extent of damage and infection.
 
 **Differential Diagnosis**
 
-- **Distinguishing Winter Wounds from Other Conditions:** It is crucial to identify the specific strain of Moritella viscosa for effective treatment and vaccination [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+- **Distinguishing Winter Wounds from Other Conditions:** It is crucial to identify the specific strain of *Moritella viscosa* for effective treatment and vaccination [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 
 ### Treatment and Prevention
 
 **Treatment Options**
 
 - **Current Treatments:**
-    - **Vaccines:** Several vaccines against different Moritella viscosa strains are available, though efficacy varies [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+    - **Vaccines:** Several vaccines against different *Moritella viscosa* strains are available, though efficacy varies [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
     - **Preventive Measures:** Use of laser technology to kill sea lice, reducing the need for handling fish [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/).
 
 - **Supportive Care:**
@@ -101,7 +101,7 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
     - Development of new vaccines and improved vaccination strategies [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
     - Research into understanding causal relationships and managing risks associated with winter wounds [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 
-- **Lessons Learned:** The importance of systematic approaches to understanding causal relationships, uncovering adverse developments, and taking timely measures [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon). The need for continuous research and development of effective vaccines against various strains of Moritella viscosa [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+- **Lessons Learned:** The importance of systematic approaches to understanding causal relationships, uncovering adverse developments, and taking timely measures [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon). The need for continuous research and development of effective vaccines against various strains of *Moritella viscosa* [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
 
 ## Data Insights
 
@@ -110,7 +110,7 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
 
 - **Winter Wound Management in Norway:**
     - Winter wounds are a significant problem for farmed salmon in Norway, particularly during cold seawater conditions [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
-    - The bacterium Moritella viscosa is the primary cause of these winter ulcers [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/) [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
+    - The bacterium *Moritella viscosa* is the primary cause of these winter ulcers [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/) [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
 
 - **Recent Developments:**
     - Researchers at Nofima have made breakthroughs in understanding salmon skin and vaccine efficacy [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
@@ -120,8 +120,8 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
     - Winter wounds lead to financial losses due to fish mortality and downgrading of slaughtered fish [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/).
 
 - **Treatment & Management:**
-    - Vaccination is possible but challenging due to multiple strains of Moritella viscosa [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
-    - Several vaccines against different Moritella viscosa strains are now available on the market [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
+    - Vaccination is possible but challenging due to multiple strains of *Moritella viscosa* [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
+    - Several vaccines against different *Moritella viscosa* strains are now available on the market [1](https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon).
     - Preventive measures include using laser technology to kill lice, which may indirectly reduce winter wound occurrence [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/).
 
 
@@ -154,7 +154,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-14
 
-**Tags:** #FishDisease, #WinterWounds, #Salmonoids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
+**Tags:** #FishDisease, #WinterWounds, #Salmonids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]

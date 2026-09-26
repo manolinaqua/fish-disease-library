@@ -1,11 +1,11 @@
 ---
 title: Cardiomyopathy Syndrome (CMS)
-description: Learn about Cardiomyopathy Syndrome (CMS) in farmed Atlantic salmon, caused by Piscine myocarditis virus (PMCV). Characterized by heart inflammation and necrosis, CMS leads to high mortality rates, anemia, and ascites. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to manage this severe viral disease and ensure the health and welfare of your fish.
+description: Learn about Cardiomyopathy Syndrome (CMS) in farmed Atlantic salmon, caused by piscine myocarditis virus (PMCV). Characterized by heart inflammation and necrosis, CMS leads to high mortality rates, anaemia, and ascites. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to manage this severe viral disease and ensure the health and welfare of your fish.
 tags:
   - CardiomyopathySyndrome
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Norway
@@ -19,21 +19,21 @@ tags:
 ## Overview
 
 ### What is CMS?
-Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (Salmo salar). It is caused by the Piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (Oncorhynchus mykiss) and brown trout (Salmo trutta).
+Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
 
-## Symptoms of Cardiomyopathy Syndrome
+## Clinical Signs of Cardiomyopathy Syndrome
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Cardiac Lesions:** Inflammation and necrosis of the heart muscle, often visible as white or pale streaks.
-    - **Anemia:** Pale gills and organs due to reduced red blood cells.
+    - **Anaemia:** Pale gills and organs due to reduced red blood cells.
     - **Ascites:** Accumulation of fluid in the abdominal cavity.
     - **Exophthalmia:** Bulging eyes can be observed in affected fish.
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and swimming stamina.
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss.
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss.
     - **Abnormal Swimming Patterns:** Fish may display erratic or weakened swimming due to cardiac damage [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/).
 
 
@@ -41,7 +41,7 @@ Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlanti
 
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy.
 
-- **Advanced Stages:** More pronounced physical symptoms, including cardiac lesions and anemia, leading to increased mortality if not managed.
+- **Advanced Stages:** More pronounced physical symptoms, including cardiac lesions and anaemia, leading to increased mortality if not managed.
 
 - **Impact on Fish Health:** CMS severely compromises heart function, making fish more susceptible to secondary infections and reducing overall vitality [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/).
 
@@ -68,7 +68,7 @@ Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlanti
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of CMS.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of CMS.
 
 - **Laboratory Tests:**
     
@@ -147,11 +147,11 @@ Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlanti
     Authors: Camilla Fritsvold, et al.  
     Reference: Norwegian University of Life Sciences (NMBU) study, (2022).  
     [Link to article](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2019/epidemiologisk-studie-av-kardiomyopatisyndrom-cms-spredning-risikofaktorer-og-sykdomsforlop-i-norsk-lakseoppdrett/_/attachment/download/e0bd2aa6-46de-4ede-a7fd-5660c8d78912:76e5c152d51238da9b852bc382289029cfe78a41/2019_13_Sluttrapport%20CMS-Epi_web.pdf)
-2. **"Cardiomyopathy syndrome in Atlantic salmon Salmo salar L.: A review of the current state of knowledge"**  
+2. **"Cardiomyopathy syndrome in Atlantic salmon *Salmo salar* L.: A review of the current state of knowledge"**  
     Authors: Å H Garseth, C Fritsvold, J C Svendsen, B Bang Jensen, A B Mikalsen
     Reference: Å H Garseth, et. al. J Fish Dis. 2018.  41(1),11-26.
     [Link to article](https://pubmed.ncbi.nlm.nih.gov/29064107/)
-3. **"Persistent immune responses in the heart determine the outcome of cardiomyopathy syndrome in Atlantic salmon (_Salmo salar_)"**  
+3. **"Persistent immune responses in the heart determine the outcome of cardiomyopathy syndrome in Atlantic salmon (*Salmo salar*)"**  
     Authors: Baojian Sun, Marco A. Vindas, Simona Kavaliaskiene, Håvard Bjørgen, Erling Olaf Koppang, Helene Wisløff, Michael Frisk, Hege Lund, Ida B. Johansen
     Reference: Baojian Sun, et. al. Science Direct. 2024. Volume 147.
     [Link to article](https://pubmed.ncbi.nlm.nih.gov/29064107/)
@@ -171,7 +171,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:** #CardiomyopathySyndrome, #CMS, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #BrownTrout, #Piscinemyocarditisvirus, #PMCV, #Norway, #Scotland, #Canada, #FaroeIslands, #ViralDisease, #Virus 
+**Tags:** #CardiomyopathySyndrome, #CMS, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #BrownTrout, #Piscinemyocarditisvirus, #PMCV, #Norway, #Scotland, #Canada, #FaroeIslands, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Pancreatic Necrosis (IPN)]]

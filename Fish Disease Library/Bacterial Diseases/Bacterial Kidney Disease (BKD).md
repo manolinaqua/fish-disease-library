@@ -5,7 +5,7 @@ tags:
   - BacterialKidneyDisease
   - BacterialDiseases
   - Bacteria
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -17,29 +17,29 @@ tags:
 ### What is Bacterial Kidney Disease (BKD)?
 Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmonids, such as Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and char (*Salvelinus spp.*). It is caused by the bacterium *Renibacterium salmoninarum* (*R. salmoninarum*), resulting in characteristic lesions in the kidneys and other organs. Found in both freshwater and saltwater, it is untreatable, and can lead to significant economic losses in aquaculture due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
 
-## Symptoms of Bacterial Kidney Disease
+## Clinical Signs of Bacterial Kidney Disease
 
-## Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Kidney lesions:** Swollen, pale, and granular kidney upon internal examination. [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)
     - **White nodules**: Large white nodules in kidney. Numerous small nodules in other internal organs, most visible in dark organs like the spleen [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
-    - **Anemia**: Pale organs, e.g gills and spleen [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - **Anaemia**: Pale organs, e.g gills and spleen [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - **Exophthalmia:** Protruding or bulging eyes [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
     - **Skin Lesions:** Ulcers, boils or open sores on the skin [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
-    - **Hemorrhages:** Reddened areas (petechiae) on the skin, fins, and internal organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+    - **Haemorrhages:** Reddened areas (petechiae) on the skin, fins, and internal organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
     - **Abdominal Swelling:** Distended abdomen due to fluid accumulation and enlarged organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)[3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)[3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf)[3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
     - **Abnormal Swimming Patterns:** Fish may swim erratically or in circles due to distress and weakness [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease).
 
 **Progression of Symptoms**
 
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf) [3](https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease). Typical pathological changes may be absent during autopsy if the infection has not had sufficient time to develop characteristic lesions [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 
-- **Advanced Stages:** Pronounced physical symptoms, including swollen kidneys, soft and hard nodules on the kidneys and other organs, skin lesions, and hemorrhages, leading to high mortality [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+- **Advanced Stages:** Pronounced physical symptoms, including swollen kidneys, soft and hard nodules on the kidneys and other organs, skin lesions, and haemorrhages, leading to high mortality [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
 - **Impact on Fish Health:** BKD is typically a chronic condition but can cause acute mortality, particularly in juveniles [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd). Fish may remain lifelong carriers, with active disease often triggered after transfer of smolt to sea or sexual maturation [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd). It severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf). 
 
@@ -47,7 +47,7 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Etiology**
 
-- **Causative Agent:** _Renibacterium salmoninarum_ bacterium [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
+- **Causative Agent:** *Renibacterium salmoninarum* bacterium [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infected & healthy fish through close proximity [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf) [2](https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf).
@@ -65,10 +65,10 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Prior to pronounced presentation of internal nodular growths on the kidneys and other organs, BKD is difficult to positively identify. Individuals can be behaviorally assessed to some success, but microbiological and histopathological investigation is necessary for a concrete diagnosis [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+- **Clinical Examination:** Prior to pronounced presentation of internal nodular growths on the kidneys and other organs, BKD is difficult to positively identify. Individuals can be behaviourally assessed to some success, but microbiological and histopathological investigation is necessary for a concrete diagnosis [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 
 - **Laboratory Tests:**
-    - **Bacterial Culture:** Isolation and identification of _Renibacterium salmoninarum_ (*R. salmoninarum*) from tissue samples, most effectively lesions or soft nodules. In culture, *R. salmoninarum* is slow-growing (up to 16 weeks at 15° C), but is easily distinguished from other species and must be cultured on specific media [5](https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - **Bacterial Culture:** Isolation and identification of *Renibacterium salmoninarum* (*R. salmoninarum*) from tissue samples, most effectively lesions or soft nodules. In culture, *R. salmoninarum* is slow-growing (up to 16 weeks at 15° C), but is easily distinguished from other species and must be cultured on specific media [5](https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - **PCR (Polymerase Chain Reaction):** Detects bacterial DNA in tissue samples, frequently used for screening and thus in conjunction with more sensitive methods [5](https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - **Histopathology:** Microscopic examination of kidney and other tissues to assess the extent of damage and infection, namely necrosis and granuloma-associated inflammation [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - **Fluorescent Antibody Test (FAT):** Used for confirmatory identification, and has with limited success identified *R. salmoninarum* in asymptomatic individuals [5](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [7](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd).
@@ -82,7 +82,7 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
 
 **Treatment Options**
 
-- **Current Treatments:** No effective cure exists for BKD. Erythromycin can control _R. salmoninarum_ but cannot eradicate it from aquaculture settings. In Norway, medicinal treatment is generally restricted to high-value, endangered wild salmon in conservation programs where broodstock is irreplaceable [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd) [9](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1577/1548-8667%281999%29011%3C0001%3ATTAEOI%3E2.0.CO%3B2?casa_token=Rh2jDL4A2ScAAAAA%3AJAv6sCbdyoo-cHmcRcPcgehxGA8zwX7h7iby6zXBpwdKvoXNkkUlDu5X9IVUzy5nWYDa2Y2MkDyN9A).
+- **Current Treatments:** No effective cure exists for BKD. Erythromycin can control *R. salmoninarum* but cannot eradicate it from aquaculture settings. In Norway, medicinal treatment is generally restricted to high-value, endangered wild salmon in conservation programs where broodstock is irreplaceable [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd) [9](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1577/1548-8667%281999%29011%3C0001%3ATTAEOI%3E2.0.CO%3B2?casa_token=Rh2jDL4A2ScAAAAA%3AJAv6sCbdyoo-cHmcRcPcgehxGA8zwX7h7iby6zXBpwdKvoXNkkUlDu5X9IVUzy5nWYDa2Y2MkDyN9A).
 
 - **Experimental Treatments:** A field study of 4 vaccines was conducted on Atlantic salmon (off-label) for efficacy in prevention of BKD-related mortality following a natural outbreak, with limited success; development of various treatments is ongoing, but the live *Arthrobacter* vaccine Renogen remains the only somewhat effective prophylaxis today, though it is currently only available for use in the USA, Canada, and Chile [10](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2761.2010.01151.x?casa_token=2TR2FVgG08UAAAAA:mTJk0q_41yNT5Xw1bALWmiTr5P2hxuL1py5Y5nTK8jLcilYaqRVwXytRYeKqUOUNKRsw6Q1vfncdsw) [11](https://link.springer.com/article/10.1007/s10499-023-01290-6) .
 
@@ -135,7 +135,7 @@ Bacterial Kidney Disease (BKD) is a chronic bacterial infection affecting salmon
     - The situation stabilized in 2025 with only one confirmed case at a commercial salmon site  [14]([Fiskehelserapporten 2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)).
 
 - **Treatment Regimes:**
-    - BKD is a listed disease in Norway (Category F); any occurrence or suspicion of the infection must be reported to the Norwegian Food Safety Authority (_Mattilsynet_) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+    - BKD is a listed disease in Norway (Category F); any occurrence or suspicion of the infection must be reported to the Norwegian Food Safety Authority (*Mattilsynet*) [8](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
     - As a Category F disease, BKD suspicion triggers an immediate ban on fish movement and may lead to mandatory slaughter, site disinfection, and a strictly enforced fallowing period to prevent further spread [15]([Listeføring og håndtering av akvatiske sykdommer | Mattilsynet](https://www.mattilsynet.no/fisk-og-akvakultur/fiskesykdommer/listeforing-og-handtering-av-akvatiske-sykdommer)).
 ## Research and References
 
@@ -155,13 +155,13 @@ Studies on Bacterial Kidney Disease (BKD) have focused on various aspects of the
     Authors: Scientific Committee on Animal Health and Animal Welfare
     Reference: European Commission, Health & Consumer Protection Directorate-General.  
     [Link to study](https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf)
-4. **"Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, _Salmo salar_ L."**
+4. **"Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, *Salmo salar* L."**
     Authors: T.A. Burnley, H. Stryhn, H. J. Burnley, K. L. Hammell
-    Reference: Burnley, T. A., Stryhn, H., Burnley, H. J., & Hammell, K. L. (2010). Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, Salmo salar L. _Journal of Fish Diseases_, _33_(7), 545-557.
+    Reference: Burnley, T. A., Stryhn, H., Burnley, H. J., & Hammell, K. L. (2010). Randomized clinical field trial of a bacterial kidney disease vaccine in Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*, *33*(7), 545-557.
     [Link to study](https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1365-2761.2010.01151.x?casa_token=qlNLZq_CHIkAAAAA:BF_sZWE567MrKzLP7x_-1BxUfgcShvs1V7gIVVy-HNSJDWZlXVEf29U4LFKr1EE21WpBKjEvU5Wolg)
 5. **"Toxicity, Teratogenesis, and Efficacy of Injectable Erythromycin (Erythro-200) Administered Repeatedly to Adult Spring Chinook Salmon"**
     Authors: C.M. Moffitt and Y. Kiryu
-    Reference: Moffitt, C. M., & Kiryu, Y. (1999). Toxicity, teratogenesis, and efficacy of injectable erythromycin (Erythro‐200) administered repeatedly to adult spring chinook salmon. _Journal of Aquatic Animal Health_, _11_(1), 1-9.
+    Reference: Moffitt, C. M., & Kiryu, Y. (1999). Toxicity, teratogenesis, and efficacy of injectable erythromycin (Erythro‐200) administered repeatedly to adult spring chinook salmon. *Journal of Aquatic Animal Health*, *11*(1), 1-9.
     [Link to study](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1577/1548-8667%281999%29011%3C0001%3ATTAEOI%3E2.0.CO%3B2?casa_token=xuHKquPQG8kAAAAA%3AsleOuOjuvwo12aMkGhcWYS1iMSRP9lGq4qHSbAChLQCQm2bqNFq5_wuA2tRTT4hBZGXmOV2VLxpBcg)
 ## Conclusion
 
@@ -175,7 +175,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-04-02
 
-**Tags:**  #BacterialKidneyDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonoids #Salmon, #Norway, #Scotland,  #BacterialDiseases, #Bacteria 
+**Tags:**  #BacterialKidneyDisease, #AtlanticSalmon, #RainbowTrout, #Trout, #Salmonids #Salmon, #Norway, #Scotland,  #BacterialDiseases, #Bacteria 
 
 ##### Other Bacterial Diseases
 [[Moritella Viscosa]]

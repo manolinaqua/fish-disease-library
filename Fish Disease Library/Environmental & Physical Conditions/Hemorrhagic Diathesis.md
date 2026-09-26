@@ -4,44 +4,44 @@ description: Learn about Hemorrhagic Diathesis in fish, a condition causing incr
 tags:
   - HemorrhagicDiathesis
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
   - RainbowTrout
-  - HemmorrhagicSmoltSyndrome
+  - HemorrhagicSmoltSyndrome
   - HSS
 ---
 ## Overview
 
 ### What is Hemorrhagic Diathesis?
-Hemorrhagic Diathesis is a condition characterized by an increased tendency for bleeding, affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other freshwater and marine fish. The condition can be caused by multiple factors, including viral infections, nutritional deficiencies, and environmental stressors.[1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+Hemorrhagic Diathesis is a condition characterized by an increased tendency for bleeding, affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other freshwater and marine fish. The condition can be caused by multiple factors, including viral infections, nutritional deficiencies, and environmental stressors.[1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
 
-## Symptoms of Hemorrhagic Diathesis
+## Clinical Signs of Hemorrhagic Diathesis
 
-## Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
-    - **Hemorrhages:** Visible bleeding in the skin, fins, gills, and internal organs [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+    - **Haemorrhages:** Visible bleeding in the skin, fins, gills, and internal organs [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
     - **Exophthalmia:** Protruding or bulging eyes.
-    - **Anemia:** Pale gills indicative of reduced red blood cell count.
+    - **Anaemia:** Pale gills indicative of reduced red blood cell count.
     - **Skin Lesions:** Ulcers or open sores due to bleeding.
     - **Swollen Abdomen:** Abdominal distension due to internal bleeding or fluid accumulation.
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss.
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss.
     - **Abnormal Swimming Patterns:** Erratic or sluggish swimming due to weakness and distress.
 
 **Progression of Symptoms**
 
-- **Early Stages:** Subtle signs such as reduced feed intake, slight lethargy, and small hemorrhages.
+- **Early Stages:** Subtle signs such as reduced feed intake, slight lethargy, and small haemorrhages.
 
-- **Advanced Stages:** Pronounced physical symptoms, including extensive hemorrhages, exophthalmia, and skin lesions, leading to high mortality if not managed [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+- **Advanced Stages:** Pronounced physical symptoms, including extensive haemorrhages, exophthalmia, and skin lesions, leading to high mortality if not managed [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
 
 - **Impact on Fish Health:** Hemorrhagic Diathesis severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates.
 
-## Causes of Hemorrhagic Diathesis
+### Causes of Hemorrhagic Diathesis
 
 **Etiology**
 
@@ -57,22 +57,22 @@ Hemorrhagic Diathesis is a condition characterized by an increased tendency for 
 
 - **Infectious Agents:** Viral infections are a significant risk factor for Hemorrhagic Diathesis [4](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/viral-hemorrhagic-septicemia).
 
-## Diagnosis
+### Diagnosis
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of Hemorrhagic Diathesis [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Hemorrhagic Diathesis [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
 
 - **Laboratory Tests:**
     - **PCR (Polymerase Chain Reaction):** Detects viral genetic material in fish tissues if a viral cause is suspected.
-    - **Histopathology:** Microscopic examination of tissues to identify characteristic lesions and hemorrhages [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+    - **Histopathology:** Microscopic examination of tissues to identify characteristic lesions and haemorrhages [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
     - **Nutritional Analysis:** Assessment of diet to identify potential deficiencies contributing to the condition.
 
 **Differential Diagnosis**
 
-- **Distinguishing Hemorrhagic Diathesis from Other Diseases:** It is crucial to differentiate Hemorrhagic Diathesis from diseases with similar symptoms, such as Bacterial Kidney Disease (BKD) and other hemorrhagic conditions.
+- **Distinguishing Hemorrhagic Diathesis from Other Diseases:** It is crucial to differentiate Hemorrhagic Diathesis from diseases with similar symptoms, such as Bacterial Kidney Disease (BKD) and other haemorrhagic conditions.
 
-## Treatment and Prevention
+### Treatment and Prevention
 
 **Treatment Options**
 
@@ -94,7 +94,7 @@ Hemorrhagic Diathesis is a condition characterized by an increased tendency for 
     - Reducing stocking densities to decrease the risk of disease transmission and stress.
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
 
-## Case Studies
+### Case Studies
 
 **Real-World Examples**
 
@@ -116,9 +116,9 @@ Recent studies on Hemorrhagic Diathesis in salmonids have focused on various asp
     Authors: A. Nylund, et al.  
     Reference: A. Nylund, et al. (2003). Haemorrhagic smolt syndrome (HSS) in Norway: pathology and associated virus-like particles. Dis Aquat Organ, 54(1), 15-27.
     [Link to study](https://pubmed.ncbi.nlm.nih.gov/12718466/)
-2. **”Disseminated Intravascular Coagulation in “Hitra Disease” (Hemorrhagic Syndrome) in Farmed Atlantic Salmon”**  
+2. **”Disseminated Intravascular Coagulation in “Hitra Disease” (Haemorrhagic Syndrome) in Farmed Atlantic Salmon”**  
     Authors: R. Salte, P. Nafstad, T. Åsgård, et. al.
-    Reference: R. Salte, et. al (1987). Disseminated Intravascular Coagulation in “Hitra Disease” (Hemorrhagic Syndrome) in Farmed Atlantic. SalmonSage Journals, 24(5), 378-385.
+    Reference: R. Salte, et. al (1987). Disseminated Intravascular Coagulation in “Hitra Disease” (Haemorrhagic Syndrome) in Farmed Atlantic. SalmonSage Journals, 24(5), 378-385.
     [Link to study](https://pubmed.ncbi.nlm.nih.gov/3672803/)
 
 
@@ -134,7 +134,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #HemorrhagicDiathesis, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemmorrhagicSmoltSyndrome 
+**Tags:** #HemorrhagicDiathesis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemorrhagicSmoltSyndrome 
 
 ##### Other Environmental & Physical Conditions
 [[Gas Bubble Disease]]

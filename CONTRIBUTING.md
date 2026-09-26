@@ -1,4 +1,4 @@
-exam# Instructions for Contributing
+# Instructions for Contributing
 
 The instructions here assume that you have already created a github account of your own. If you have not simply go to [github](https://github.com) and make an account.
 

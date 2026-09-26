@@ -5,7 +5,7 @@ tags:
   - SeaLice
   - parasite
   - parasiticdisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -14,11 +14,11 @@ tags:
 ## Overview
 
 ### What are Sea Lice?
-Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlantic salmon (Salmo salar) and trout (Oncorhynchus mykiss), causing significant health issues and economic losses in the aquaculture industry. The most common species affecting these fish are Lepeophtheirus salmonis and Caligus elongatus [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388). Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon and trout, sea lice infestations can affect other species such as pink and chum salmon, which are particularly vulnerable due to their lack of scales [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
+Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlantic salmon (*Salmo salar*) and trout (*Oncorhynchus mykiss*), causing significant health issues and economic losses in the aquaculture industry. The most common species affecting these fish are *Lepeophtheirus salmonis* and *Caligus elongatus* [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388). Sea lice attach to the skin, fins, and gills of fish, feeding on their mucus, skin, and blood, leading to lesions, stress, and secondary infections [4](https://thefishsite.com/disease-guide/sea-lice). In addition to salmon and trout, sea lice infestations can affect other species such as pink and chum salmon, which are particularly vulnerable due to their lack of scales [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
 
-## Symptoms of Sea Lice Infestation
+## Clinical Signs of Sea Lice Infestation
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Skin Lesions:** Visible wounds and ulcerations on the skin, fins, and gills caused by lice attachment and feeding [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[4](https://thefishsite.com/disease-guide/sea-lice).
@@ -26,10 +26,10 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
     - **Inflammation:** Reddened and swollen areas around the attachment sites.
     - **Secondary Infections:** Bacterial and fungal infections can develop at the sites of lice damage [3](https://www.theguardian.com/environment/2023/nov/03/sea-lice-outbreak-icelandic-salmon-farm-welfare-disaster-footage-shows).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and swimming stamina due to stress and damage.
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html).
-    - **Abnormal Swimming Patterns:** Fish may exhibit rubbing or flashing behavior, where they scrape against surfaces to remove lice.
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html).
+    - **Abnormal Swimming Patterns:** Fish may exhibit rubbing or flashing behaviour, where they scrape against surfaces to remove lice.
 
 **Progression of Symptoms**
 
@@ -43,7 +43,7 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
 
 **Etiology**
 
-- **Causative Agents:** Lepeophtheirus salmonis and Caligus elongatus [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
+- **Causative Agents:** *Lepeophtheirus salmonis* and *Caligus elongatus* [1](https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html)[2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
 
 - **Transmission Methods:**
     - **Direct Contact:** Spread between infested and healthy fish through close proximity.
@@ -101,7 +101,7 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
     - **Norway:** Sea lice are a persistent issue in Norwegian salmon farms, prompting ongoing research and management efforts [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
     - **Scotland:** Scottish fish farms have faced challenges with sea lice, leading to the development of innovative control strategies [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388) [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
     - **Canada:** Canadian farms, particularly in British Columbia, have implemented various measures to manage sea lice, including the use of cleaner fish and advanced monitoring technologies [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
-    - **Chile:** Sea louse infections on salmon farms are caused by the species Caligus rogercressyi [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
+    - **Chile:** Sea louse infections on salmon farms are caused by the species *Caligus rogercresseyi* [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
 
 - **Response Strategies and Outcomes:**
 	
@@ -117,7 +117,7 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
 #### Chile
 
 - **Sea Lice Incidence in Chile:**
-    - Sea louse infections on salmon farms in Chile are caused by the species Caligus rogercressyi [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
+    - Sea louse infections on salmon farms in Chile are caused by the species *Caligus rogercresseyi* [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
 
 - **Treatment & Management:**
     - Chile has implemented synchronized sea lice treatments [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
@@ -161,7 +161,7 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
     - The global cost of sea lice control is estimated at around $1 billion US annually, including treatment costs, health input, medicines, and impact on salmon growth rates [9](https://thefishsite.com/articles/solving-salmon-aquacultures-1-billion-question-sea-lice-jim-treasurer).
 
 - **Treatment Regimes:**
-    - Use of emamectin benzoate against infestations of Lepeophtheirus salmonis on farmed Atlantic salmon from 2002–2006 [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
+    - Use of emamectin benzoate against infestations of *Lepeophtheirus salmonis* on farmed Atlantic salmon from 2002–2006 [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
 
 ## Research and References
 
@@ -169,9 +169,9 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
 
 Recent studies on sea lice in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
-1. **"Sea lice management measures for farmed Atlantic salmon (Salmo salar) in Scotland: Costs and effectiveness"**  
+1. **"Sea lice management measures for farmed Atlantic salmon (*Salmo salar*) in Scotland: Costs and effectiveness"**  
     Authors: Boerlage, A. S., et al.  
-    Reference: Boerlage, A. S., et al. (2024). Sea lice management measures for farmed Atlantic salmon (Salmo salar) in Scotland: Costs and effectiveness. Aquaculture, 576, 739768.  
+    Reference: Boerlage, A. S., et al. (2024). Sea lice management measures for farmed Atlantic salmon (*Salmo salar*) in Scotland: Costs and effectiveness. Aquaculture, 576, 739768.  
     [Link to study](https://www.sciencedirect.com/science/article/pii/S0044848623010487)
 2. **"Considering elements of natural strategies to control salmon lice in aquaculture"**  
     Authors: Anne Stene1,*, Christina Carrozzo Hellevik2 , Helene Børretzen Fjørtoft1 , Gaspard Philis3
@@ -197,7 +197,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-15
 
-**Tags:**  #SeaLice, #Salmonoids, #Trout, #AtlanticSalmon, #Norway, #Scotland, #Chile, #parasiticdisease, #parasite, #lepeophtheirussalmonis, #caligusrogercresseyi
+**Tags:**  #SeaLice, #Salmonids, #Trout, #AtlanticSalmon, #Norway, #Scotland, #Chile, #parasiticdisease, #parasite, #lepeophtheirussalmonis, #caligusrogercresseyi
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
 [[Paranucleosporosis]]

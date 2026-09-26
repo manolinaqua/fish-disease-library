@@ -29,18 +29,18 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Physical Signs:**
     - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of hyphae on the skin, fins, gills, and eggs of affected fish [2](https://doi.org/10.3390/jof9100982) [6](https://doi.org/10.1038/s41598-024-80075-0). These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
-    - **Hemorrhagic ulcers:** Beneath the mycelial mat, the underlying skin develops reddened, hemorrhagic ulcers exposing the dermis and, in advanced cases, underlying muscle tissue [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
+    - **Haemorrhagic ulcers:** Beneath the mycelial mat, the underlying skin develops reddened, haemorrhagic ulcers exposing the dermis and, in advanced cases, underlying muscle tissue [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
     - **Fin erosion:** Fin margins become ragged and necrotic at sites where mycelial colonization is established [6](https://doi.org/10.1038/s41598-024-80075-0).
     - **Egg infection:** *Saprolegnia* is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3](https://doi.org/10.1111/jfd.12368).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy and isolation:** Infected fish exhibit reduced activity and may separate from the school [6](https://doi.org/10.1038/s41598-024-80075-0).
     - **Flashing/rubbing:** Fish rub against tank walls or substrates, likely in response to skin irritation caused by hyphal penetration [6](https://doi.org/10.1038/s41598-024-80075-0) [7](https://doi.org/10.3390/microorganisms12081733).
-    - **Loss of appetite:** Reduced feeding behavior and progressive weight loss accompany active infection [18](https://doi.org/10.1017/S0031182022001093).
+    - **Loss of appetite:** Reduced feeding behaviour and progressive weight loss accompany active infection [18](https://doi.org/10.1017/S0031182022001093).
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage — wounds from handling, fin nips, or ectoparasite attachment provide primary entry points. Behavioral changes at this stage may be subtle [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
+- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage — wounds from handling, fin nips, or ectoparasite attachment provide primary entry points. Behavioural changes at this stage may be subtle [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
 - **Advanced Stages:** Mycelial colonies expand and coalesce; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and death [5](https://doi.org/10.1111/jfd.12175) [6](https://doi.org/10.1038/s41598-024-80075-0).
 - **Impact on Fish Health:** Saprolegniasis compromises the cutaneous barrier, leading to electrolyte imbalance and osmotic stress. The altered skin microbiome associated with infection — reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7](https://doi.org/10.3390/microorganisms12081733). Mortality can be high in crowded hatchery and farm settings [18](https://doi.org/10.1017/S0031182022001093).
 
