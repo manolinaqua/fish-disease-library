@@ -60,7 +60,7 @@ Internal changes are dominated by white, partly protruding nodules (granulomas) 
 
 **Etiology**
 
-- **Causative Agent:** Members of the genus *Francisella* are non-motile, Gram-negative, strictly aerobic, facultatively intracellular coccobacilli [2](https://doi.org/10.1186/1297-9716-42-47) [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/). They are pleomorphic, ranging from coccoid forms to small rods, and measure about 1.45 × 0.35 µm within the cytoplasmic vacuoles of phagocytes. <!-- TODO cite: size not found in [1] or [2]; check Birkbeck 2007 [4] or Bohle 2009 [6] -->
+- **Causative Agent:** Members of the genus *Francisella* are non-motile, Gram-negative, strictly aerobic, facultatively intracellular coccobacilli [2](https://doi.org/10.1186/1297-9716-42-47) [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/).
 - **Growth Requirements:** *F. noatunensis* is fastidious and, like all fish-pathogenic *Francisella*, requires cysteine. It cannot be cultured on routine media such as tryptone soya agar or blood agar without added cysteine. Isolates from both cod and salmon were recovered on cysteine heart agar with 5% ovine blood [2](https://doi.org/10.1186/1297-9716-42-47). Fish-pathogenic strains do not grow at 37 °C [2](https://doi.org/10.1186/1297-9716-42-47).
 - **Transmission Methods:**
     - **Horizontal Transmission:** Transmission is mainly horizontal and closely linked to the water. Fish-to-fish contact is not necessary: cod can be infected via effluent water from tanks holding infected fish. Recovery of the bacterium from the gut of cohabitant cod suggests the faecal-oral route may be important [2](https://doi.org/10.1186/1297-9716-42-47).
