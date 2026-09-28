@@ -99,8 +99,8 @@ Several diseases produce multi-organ granulomas similar to francisellosis [2](ht
 
 **Prevention Strategies**
 
-- **Vaccination:** As of 2011, no commercial vaccine was available, and trial whole-cell vaccines tested in cod in Norway gave no satisfactory protection [2](https://doi.org/10.1186/1297-9716-42-47). <!-- TODO: check current vaccine status (2024+) -->
-- **Biosecurity:** <!-- TODO -->
+- **Vaccination:** No commercial vaccine is available against *F. noatunensis* [7](https://doi.org/10.3390/vaccines9010034). In Norway, several trial whole-cell vaccines (bacterins) were tested in cod, both in experimental challenges and in the field, and none gave significant protection [2](https://doi.org/10.1186/1297-9716-42-47). Membrane vesicles from the bacterium, which had protected zebrafish in earlier trials, induced no protective immunity when tested in Atlantic cod [7](https://doi.org/10.3390/vaccines9010034). Because the disease is chronic, the usual measure of vaccine efficacy (survival of vaccinated versus unvaccinated fish) may be misleading: vaccinated fish can survive the observation period while remaining infected, with the onset of disease merely delayed [2](https://doi.org/10.1186/1297-9716-42-47).
+- **Biosecurity:** Biosecurity in cod farming is demanding. In Norway there are few broodstock and juvenile facilities, sea cages allow close contact with wild fish, and there are no requirements for the quality or disinfection of intake water at facilities for marine species, no specific rules on fish movements or fallowing, and no mandatory screening programmes for infectious diseases. Until these knowledge gaps are closed, the Norwegian Veterinary Institute advises a precautionary approach to reduce the spread of infection to both farmed and wild fish [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 ### Case Studies
 <!-- TODO -->
@@ -110,10 +110,15 @@ Several diseases produce multi-organ granulomas similar to francisellosis [2](ht
 ### Disease Impact by Country
 
 #### Norway
-<!-- TODO: current situation from Fiskehelserapporten -->
+
+- **Status:** Francisellosis is a nationally listed disease in Norway (category F) [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **History:** Francisellosis played a central role in the collapse of Norwegian cod farming around 2012, together with competition from wild-caught whitefish and problems with early sexual maturation [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Recent Detections:** Francisellosis was confirmed at one cod farming site in 2025. The report's biosecurity chapter states that the disease was found at the same site in Nordmøre in both 2024 and 2025, although its official table of listed diseases records no site in 2024. In February 2026, francisellosis was suspected at a site in Stad municipality. The disease has a smouldering course, similar to bacterial kidney disease in salmonids, and has often been present in a population for a long time by the time it is detected [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Outlook:** Cod farming is growing again, with 8.7 million cod stocked in 2025 (6.3 million in 2024) and about 19,700 tonnes harvested. The Norwegian Veterinary Institute describes *F. noatunensis* as a warm-loving pathogen that has recently re-emerged in Norwegian cod farming, and expects it to find better conditions as cod farming expands and sea temperatures rise [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 #### Chile
-<!-- TODO: current situation from Sernapesca -->
+
+- **Freshwater Detections (2025):** In national surveillance, *F. noatunensis* was identified in 8 positive diagnostic reports from freshwater farms (5 in Araucanía and 3 in Los Lagos), and *Francisella* spp. in 4 more (3 in Araucanía and 1 in Los Lagos). All were from Atlantic salmon, and the agent does not appear among the positive reports from seawater farms. These numbers are small compared with the most frequently detected agents in fresh water, such as piscine orthoreovirus (PRV) and *Flavobacterium psychrophilum* [9](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
 
 ## Research and References
 
@@ -128,7 +133,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-09-27
+**Last Modified:** 2026-09-28
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
@@ -154,3 +159,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [5] Olsen, A. B., Mikalsen, J., Rode, M., Alfjorden, A., Hoel, E., Straum-Lie, K., Haldorsen, R., & Colquhoun, D. J. (2006). A novel systemic granulomatous inflammatory disease in farmed Atlantic cod, *Gadus morhua* L., associated with a bacterium belonging to the genus *Francisella*. *Journal of Fish Diseases*, *29*, 307–311. https://doi.org/10.1111/j.1365-2761.2006.00714.x
 
 [6] Bohle, H., Tapia, E., Martínez, A., Rozas, M., Figueroa, A., & Bustos, P. (2009). *Francisella philomiragia*, bacteria asociada con altas mortalidades en salmones del Atlántico (*Salmo salar*) cultivados en balsas-jaulas en el lago Llanquihue. *Archivos de Medicina Veterinaria*, *41*(3), 237–244. https://doi.org/10.4067/S0301-732X2009000300008
+
+[7] Mertes, V., Bekkelund, A. K., Lagos, L., Ciani, E., Colquhoun, D., Haslene-Hox, H., Sletta, H., Sørum, H., & Winther-Larsen, H. C. (2021). The use of extracellular membrane vesicles for immunization against francisellosis in Nile tilapia (*Oreochromis niloticus*) and Atlantic cod (*Gadus morhua* L.). *Vaccines*, *9*(1), 34. https://doi.org/10.3390/vaccines9010034
+
+[8] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fiskehelserapporten 2025* [Norwegian Fish Health Report 2025] (Veterinærinstituttets rapportserie nr. 5a/2026; Chapter 4.4, Smitterisiko oppdrettsfisk – villfisk, and Chapter 12, Helse og velferd hos torsk i oppdrett, by K. Bjørklund, M. Gjessing, H. Nilsen, S. Patel, & K. Gismervik). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
+
+[9] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
