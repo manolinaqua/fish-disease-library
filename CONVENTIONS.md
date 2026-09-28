@@ -1,9 +1,13 @@
-# Chapter Naming & Structure Conventions
+# Chapter Conventions
 
-This document is the naming and structure standard referenced by `README.md`. It exists
-because the library grew to 25+ chapters with no written naming rule, and four
-incompatible patterns emerged as a result. New chapters and renames of existing ones
-should follow this spec.
+This document is the single source of truth for how a chapter is named, structured,
+tagged, cited and linked. `README.md`, `CONTRIBUTING.md`, the pull request template and
+`Fish Disease Library/_Disease Chapter Template.md` point here instead of restating these
+rules; if one of them disagrees with this file, this file wins and the other one is the
+bug. New chapters and edits to existing ones should follow this spec.
+
+It exists because the library grew to 25+ chapters with no written rules, and
+incompatible patterns emerged as a result.
 
 ## 1. Naming
 
@@ -74,9 +78,9 @@ chapter.
 ```
 ## Overview
 ### What is <Disease>?
-## Clinical Signs
+## Clinical Signs of <Disease>
 ### Common Signs
-### Causes
+### Causes of <Disease>
 ### Diagnosis
 ### Treatment and Prevention
 ### Case Studies
@@ -87,16 +91,27 @@ chapter.
 ### Latest Research Findings
 ## Conclusion
 ### Call to Action
+---
+**Last Modified:** <YYYY-MM-DD>
+##### Other <Category>
+[[<Related chapter>]]
+**Citations:**
 ```
 
-Notes:
-- **"Clinical Signs", not "Symptoms".** Animals do not report symptoms.
-- Causes, Diagnosis, Treatment and Case Studies are `###` under `## Clinical Signs`'s
-  sibling level — they are not children of Clinical Signs. Keep heading depth flat and
-  consistent; do not promote some to `##` and leave others at `###` within the same file.
+`<Disease>` is the chapter title as written in frontmatter, including its parenthetical
+agent.
 
-This structure builds on `draft/disease-chapter-template` (see
-`Fish Disease Library/_Disease Chapter Template.md`).
+Notes:
+- **"Clinical Signs", not "Symptoms".** Animals do not report symptoms. This applies to
+  body text as well as headings.
+- Common Signs, Causes, Diagnosis, Treatment and Prevention, and Case Studies are all
+  `###` subsections of `## Clinical Signs of <Disease>`, matching the outline in
+  `README.md`. Do not promote some of them to `##`.
+- The footer after `---` holds, in this order: the date of the last substantive edit,
+  links to the other chapters in the same category folder, and the citation list (§5).
+  It has no inline `**Tags:**` line (§4).
+- `Fish Disease Library/_Disease Chapter Template.md` is this outline with placeholders.
+  Start new chapters from it.
 
 ## 4. Frontmatter
 
@@ -113,10 +128,29 @@ tags:
   - <CamelCase tags>
 ```
 
+`title` and `description` feed search and navigation on the
+[Fish Disease Library website](https://fishdiseases.manolinaqua.com/). `description` is
+the 1-2 sentence summary shown in search results: name the disease, the affected species,
+and what the reader will learn.
+
+`tags` are CamelCase with no spaces and include, at minimum: the disease name, the
+pathogen, each affected species, and exactly one category tag matching `category`:
+
+| `category` | Category tag |
+|---|---|
+| Bacterial | `BacterialDiseases` |
+| Viral | `ViralDiseases` |
+| Parasitic | `ParasiticDiseases` |
+| Fungal & Oomycete | `FungalOomyceteDiseases` |
+| Environmental & Physical | `EnvironmentalConditions` |
+
 Keep a single source of tags. Do not also maintain a separate inline `**Tags:**` line at
-the foot of the file — the two drift out of sync in practice.
+the foot of the file; the two drift out of sync in practice.
 
 ## 5. Style
+
+Anything not covered below follows Obsidian's
+[style guide](https://help.obsidian.md/Contributing+to+Obsidian/Style+guide).
 
 - **One locale.** This library uses **British English** for medical/veterinary terms
   (`anaemia`, `haemorrhagic`, `septicaemia`, `oedema`) since "septicaemia" was already the
@@ -126,7 +160,13 @@ the foot of the file — the two drift out of sync in practice.
 - **One italic marker** for scientific names: `*Genus species*`. Do not mix `*…*` and
   `_…_` in the same file.
 - **One reference label**: `**Citations:**` followed by a bracketed, numbered list in
-  APA style with DOIs where available, per `README.md`'s existing citation rule.
+  [APA style](https://apastyle.apa.org/instructional-aids/reference-examples.pdf), with
+  DOIs where available.
+- **Inline citations** are the source's number linked to its URL, placed right after the
+  claim: `...in Norway.[1](https://doi.org/...)`. The number matches the entry in the
+  `**Citations:**` list.
+- **Latest Research Findings** is a numbered list. Each entry has a bold title, an
+  `Authors:` line, a `Reference:` line in APA, and a `[Link to study](url)`.
 - Every scientific binomial is italicised on every mention, including in headings and
   table cells.
 - Common (vernacular) virus names are **not** italicised and are written in lower case

@@ -1,23 +1,32 @@
 ---
-title: <Disease Name>
+title: <Disease Name (Causative Agent)>
+type: disease
+aliases:
+  - <Acronym>
+  - <Vernacular name>
+pathogen: <Genus species>
+category: <Bacterial | Viral | Parasitic | Fungal & Oomycete | Environmental & Physical>
 description: <1–2 sentences. Shown in search results — name the disease, affected species, and what the reader will learn.>
 tags:
   - <DiseaseName>          # CamelCase, no spaces
   - <PathogenName>
   - <AffectedSpecies>
-  - <CategoryTag>          # BacterialDiseases | ViralDiseases | ParasiticDiseases
+  - <CategoryTag>          # BacterialDiseases | ViralDiseases | ParasiticDiseases | FungalOomyceteDiseases | EnvironmentalConditions
 ---
+<!-- Rules for every part of this file: CONVENTIONS.md (single source of truth).
+     Naming §1 · type: disease vs pathogen §2 · structure §3 · frontmatter §4 · style & citations §5 · links §6
+     An agent that causes more than one named disease gets a type: pathogen page instead (§2), not this template. -->
 ## Overview
 
-### What is <Disease Name>?
+### What is <Disease Name (Causative Agent)>?
 <!-- What it is, which species it affects, where it occurs. Cite inline: [1](url) -->
 
-## Clinical Signs of <Disease Name>
+## Clinical Signs of <Disease Name (Causative Agent)>
 
 ### Common Signs
 <!-- Bullets grouped in bold, e.g. **Physical Signs:**, **Behavioural Signs:** -->
 
-### Causes of <Disease Name>
+### Causes of <Disease Name (Causative Agent)>
 
 ### Diagnosis
 
@@ -41,3 +50,14 @@ tags:
 
 ### Call to Action
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
+
+---
+
+**Last Modified:** <YYYY-MM-DD>
+
+##### Other <Category folder name>
+<One wikilink per line to each other chapter in the same folder>
+
+**Citations:**
+<!-- Numbered, APA, DOIs where available. Numbers match the inline [n](url) citations. -->
+[1] <Author, A. A. (Year). Title. *Journal*, *vol*(issue), pages. https://doi.org/...>
