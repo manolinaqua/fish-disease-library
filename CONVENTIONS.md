@@ -141,7 +141,7 @@ pathogen, each affected species, and exactly one category tag matching `category
 | Bacterial | `BacterialDiseases` |
 | Viral | `ViralDiseases` |
 | Parasitic | `ParasiticDiseases` |
-| Fungal & Oomycete | `FungalOomyceteDiseases` |
+| Fungal & Oomycete | not yet defined; set when Saprolegniasis moves to this category (see `tools/rename-map.tsv`) |
 | Environmental & Physical | `EnvironmentalConditions` |
 
 Keep a single source of tags. Do not also maintain a separate inline `**Tags:**` line at

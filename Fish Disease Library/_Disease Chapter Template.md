@@ -11,7 +11,7 @@ tags:
   - <DiseaseName>          # CamelCase, no spaces
   - <PathogenName>
   - <AffectedSpecies>
-  - <CategoryTag>          # BacterialDiseases | ViralDiseases | ParasiticDiseases | FungalOomyceteDiseases | EnvironmentalConditions
+  - <CategoryTag>          # BacterialDiseases | ViralDiseases | ParasiticDiseases | EnvironmentalConditions  (Fungal & Oomycete: see CONVENTIONS §4)
 ---
 <!-- Rules for every part of this file: CONVENTIONS.md (single source of truth).
      Naming §1 · type: disease vs pathogen §2 · structure §3 · frontmatter §4 · style & citations §5 · links §6
