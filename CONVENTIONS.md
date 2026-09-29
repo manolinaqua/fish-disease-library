@@ -107,9 +107,20 @@ Notes:
 - Common Signs, Causes, Diagnosis, Treatment and Prevention, and Case Studies are all
   `###` subsections of `## Clinical Signs of <Disease>`, matching the outline in
   `README.md`. Do not promote some of them to `##`.
-- The footer after `---` holds, in this order: the date of the last substantive edit,
-  links to the other chapters in the same category folder, and the citation list (§5).
-  It has no inline `**Tags:**` line (§4).
+- The footer after `---` holds, in this order: the `**Last Modified:**` date, links to
+  the other chapters in the same category folder, and the citation list (§5). It has no
+  inline `**Tags:**` line (§4).
+- **`Last Modified` is required.** It tells readers how current the chapter is (and how
+  far to trust it when citing the library), and tells contributors which chapters are due
+  a review. Update it whenever you change the content (new information, corrected facts,
+  new citations); formatting and typo fixes do not count.
+- **No information is better than bad information.** If you have no sourced information
+  for a section, keep its heading and use this line as its only content, instead of
+  filling it with unsourced text:
+
+  ```
+  *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+  ```
 - `Fish Disease Library/_Disease Chapter Template.md` is this outline with placeholders.
   Start new chapters from it.
 
@@ -133,8 +144,23 @@ tags:
 the 1-2 sentence summary shown in search results: name the disease, the affected species,
 and what the reader will learn.
 
-`tags` are CamelCase with no spaces and include, at minimum: the disease name, the
-pathogen, each affected species, and exactly one category tag matching `category`:
+`tags` power search and filtering on the website, so they only work if the same thing is
+always tagged the same way. They are CamelCase with no spaces and include, at minimum: the
+disease name, the pathogen, each affected species, the countries the chapter reports on,
+and exactly one category tag matching `category`. Before creating a new tag, check whether
+another chapter already uses one for the same thing (`AtlanticSalmon`, not `SalmoSalar` in
+one chapter and `AtlanticSalmon` in another).
+
+```yaml
+tags:
+  - Furunculosis           # disease
+  - AeromonasSalmonicida   # pathogen
+  - AtlanticSalmon         # affected species, one tag each
+  - RainbowTrout
+  - Norway                 # countries the chapter reports on
+  - Chile
+  - BacterialDiseases      # category tag, from the table below
+```
 
 | `category` | Category tag |
 |---|---|
@@ -144,8 +170,8 @@ pathogen, each affected species, and exactly one category tag matching `category
 | Fungal & Oomycete | not yet defined; set when Saprolegniasis moves to this category (see `tools/rename-map.tsv`) |
 | Environmental & Physical | `EnvironmentalConditions` |
 
-Keep a single source of tags. Do not also maintain a separate inline `**Tags:**` line at
-the foot of the file; the two drift out of sync in practice.
+Tags live only in the frontmatter. Do not add a `**Tags:**` line at the foot of the
+file; keeping two copies means they drift out of sync.
 
 ## 5. Style
 
@@ -157,8 +183,8 @@ Anything not covered below follows Obsidian's
   majority spelling in filenames (`Salmonid Rickettsial Septicaemia`). Everyday prose can
   stay in whichever English the contributor writes naturally; only the veterinary
   vocabulary needs to be consistent.
-- **One italic marker** for scientific names: `*Genus species*`. Do not mix `*…*` and
-  `_…_` in the same file.
+- **One italic marker** for scientific names: `*Genus species*`. Do not use `_…_` or
+  HTML `<i>…</i>`.
 - **One reference label**: `**Citations:**` followed by a bracketed, numbered list in
   [APA style](https://apastyle.apa.org/instructional-aids/reference-examples.pdf), with
   DOIs where available.

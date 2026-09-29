@@ -10,12 +10,15 @@ description: <1–2 sentences. Shown in search results — name the disease, aff
 tags:
   - <DiseaseName>          # CamelCase, no spaces
   - <PathogenName>
-  - <AffectedSpecies>
+  - <AffectedSpecies>      # one tag per species
+  - <Country>              # countries the chapter reports on
   - <CategoryTag>          # BacterialDiseases | ViralDiseases | ParasiticDiseases | EnvironmentalConditions  (Fungal & Oomycete: see CONVENTIONS §4)
 ---
 <!-- Rules for every part of this file: CONVENTIONS.md (single source of truth).
      Naming §1 · type: disease vs pathogen §2 · structure §3 · frontmatter §4 · style & citations §5 · links §6
-     An agent that causes more than one named disease gets a type: pathogen page instead (§2), not this template. -->
+     An agent that causes more than one named disease gets a type: pathogen page instead (§2), not this template.
+     No sourced information for a section? Keep the heading and use only this line (§3):
+     *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).* -->
 ## Overview
 
 ### What is <Disease Name (Causative Agent)>?
@@ -53,7 +56,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** <YYYY-MM-DD>
+**Last Modified:** <YYYY-MM-DD>  <!-- update on every content change (§3) -->
 
 ##### Other <Category folder name>
 <One wikilink per line to each other chapter in the same folder>
