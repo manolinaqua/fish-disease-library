@@ -110,7 +110,7 @@ Diagnostic methods for *Tenacibaculum* infections primarily involve culture isol
 
 **Differential Diagnosis**
 
-- **Distinguishing Tenacibaculosis from Other Diseases:** *Tenacibaculum* spp. can often be in the wounds with other bacterium such as [[Moritella Viscosa]] [26](https://www.vetinst.no/sykdom-og-agens/vintersar](https://www.vetinst.no/sykdom-og-agens/vintersar and *Aliivibrio wodanis* and different Vibrio-species) [47](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/. Laboratory confirmation (e.g., PCR or culture) is required for differentiation.
+- **Distinguishing Tenacibaculosis from Other Diseases:** *Tenacibaculum* spp. can often be in the wounds with other bacterium such as [[Moritella Viscosa]], *Aliivibrio wodanis* and different *Vibrio* species.[26](https://www.vetinst.no/sykdom-og-agens/vintersar)[47](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) Laboratory confirmation (e.g., PCR or culture) is required for differentiation.
 - Clinically, *Tenacibaculum* spp. infections in salmonids are typically  characterized by primarily surface-associated erosive lesions affecting the skin, fins, and mouth, sometimes with a yellowish appearance due to bacterial growth. In contrast, infections caused by *Moritella viscosa* more often present as deep ulcerative lesions and may involve systemic infection [48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
 - Infections are often with multiple strains or even *Tenacibaculum* species, which also results in poor treatment efficacy  [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/) [4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/).
 

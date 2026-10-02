@@ -108,8 +108,8 @@ Notes:
   `###` subsections of `## Clinical Signs of <Disease>`, matching the outline in
   `README.md`. Do not promote some of them to `##`.
 - The footer after `---` holds, in this order: the `**Last Modified:**` date, links to
-  the other chapters in the same category folder, and the citation list (§5). It has no
-  inline `**Tags:**` line (§4).
+  the other chapters in the same category folder, and the citation list (§5). Existing
+  chapters may still have an inline `**Tags:**` line there; see §4.
 - **`Last Modified` is required.** It tells readers how current the chapter is (and how
   far to trust it when citing the library), and tells contributors which chapters are due
   a review. Update it whenever you change the content (new information, corrected facts,
@@ -170,8 +170,8 @@ tags:
 | Fungal & Oomycete | not yet defined; set when Saprolegniasis moves to this category (see `tools/rename-map.tsv`) |
 | Environmental & Physical | `EnvironmentalConditions` |
 
-Tags live only in the frontmatter. Do not add a `**Tags:**` line at the foot of the
-file; keeping two copies means they drift out of sync.
+Tags live in the frontmatter. Until the website displays frontmatter tags, do not remove
+existing inline `**Tags:**` lines; once it does, they will be removed in a clean-up PR.
 
 ## 5. Style
 
