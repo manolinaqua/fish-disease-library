@@ -130,17 +130,33 @@ Several diseases produce multi-organ granulomas similar to francisellosis [2](ht
 ## Research and References
 
 ### Latest Research Findings
-<!-- TODO: 2024+ studies only -->
+
+Recent studies on *F. noatunensis* (2025–2026) have focused on how the host immune system detects the bacterium and on the genetic regulation of the pathogen itself:
+
+1. **"TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod"**
+    Authors: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., et al.
+    Reference: *Frontiers in Immunology*, 2026; *17*, 1798290.
+    Key findings: Atlantic cod has lost the MHC II system and the cell-surface Toll-like receptors that mammals use to detect bacteria. The teleost-specific receptors TLR14 and TLR25, thought to compensate at the cell surface, were found mainly in endolysosomes, where they colocalised with internalised *F. noatunensis* subsp. *noatunensis*. Only TLR25 moved to the perinuclear region on infection and triggered up-regulation of the pro-inflammatory cytokines IL-6 and IL-18.
+    [DOI: 10.3389/fimmu.2026.1798290](https://doi.org/10.3389/fimmu.2026.1798290)
+
+2. **"Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*"**
+    Authors: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., et al.
+    Reference: *Aquaculture*, 2025; *594*, 741356.
+    Key findings: A comparison of 23 *F. noatunensis* and 77 *P. salmonis* genomes identified non-coding RNAs shared by both pathogens and others unique to each. Unique to *F. noatunensis* were two riboswitch families (flavin mononucleotide and lysine) and a small RNA antisense to the urease gene *ureB*, which may help the bacterium adapt to acidic environments, as a similar RNA does in *Helicobacter pylori*.
+    [DOI: 10.1016/j.aquaculture.2024.741356](https://doi.org/10.1016/j.aquaculture.2024.741356)
 
 ## Conclusion
-<!-- TODO -->
+
+Francisellosis caused by *F. noatunensis* is a chronic, granulomatous disease that is easy to miss and hard to control. Infection can become highly prevalent before fish show any outward signs, the agent grows only on cysteine-enriched media, and the multi-organ nodules it produces resemble those of piscirickettsiosis, atypical furunculosis and mycobacteriosis, so diagnosis depends on culture, histopathology and PCR. Because the bacterium lives inside host cells and affected fish stop feeding, antibiotics are unlikely to clear an infected population, and no vaccine has yet given significant protection in cod. Prevention therefore rests on biosecurity: the Norwegian outbreaks show that a few strains, moved with live fish between farms, caused most cases.
+
+The disease is regaining relevance. In Norway, cod farming is expanding again and francisellosis has re-emerged, with warmer seas expected to favour the pathogen. In Chile, *F. noatunensis* subsp. *chilensis* is still detected in freshwater Atlantic salmon farms, although in small numbers. Recent research has focused on basic biology, such as how cod detect the bacterium and how the pathogen regulates its genes, rather than on new vaccines or treatments, leaving control of the disease dependent on early detection and limiting the movement of infected fish.
 
 ### Call to Action
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
 
 ---
 
-**Last Modified:** 2026-09-28
+**Last Modified:** 2026-10-02
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (BKD)]]
@@ -174,3 +190,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [9] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
 
 [10] Brevik, Ø. J., Ottem, K. F., & Nylund, A. (2011). Multiple-locus, variable number of tandem repeat analysis (MLVA) of the fish-pathogen *Francisella noatunensis*. *BMC Veterinary Research*, *7*, 5. https://doi.org/10.1186/1746-6148-7-5
+
+[11] Bjørnestad, S. A., Krokene, P., Solbakken, M. H., Gosain, T. P., Jakobsen, K. S., Jentoft, S., Bakke, O., & Progida, C. (2026). TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod. *Frontiers in Immunology*, *17*, 1798290. https://doi.org/10.3389/fimmu.2026.1798290
+
+[12] Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., Santander, J., Maracaja-Coutinho, V., & Yañez, A. J. (2025). Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*. *Aquaculture*, *594*, 741356. https://doi.org/10.1016/j.aquaculture.2024.741356
