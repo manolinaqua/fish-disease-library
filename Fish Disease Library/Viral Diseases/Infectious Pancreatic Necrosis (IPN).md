@@ -43,6 +43,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 - **Early Stages:** Sudden and progressive increase in mortality at first feeding of fry, particularly in faster-growing individuals [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
 - **Advanced Stages:** Pronounced physical symptoms such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Carrier state:** Fish may survive IPNV infection and become asymptomatic carriers. Carrier fish can harbour and intermittently shed the virus without obvious clinical signs, particularly during periods of stress, creating a potential source of infection for susceptible fish [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 - **Impact on Fish Health:** IPN can cause substantial tissue damage in several organs, particularly the pancreas. Pancreatic necrosis can impair the production of enzymes needed for digestion and nutrient absorption. Consequently, affected fish may show poor feed utilisation, reduced growth, and poor body condition. Mortality varies among outbreaks and may be very high, particularly in susceptible fry and post-smolts. IPN severely compromises immune function and overall vitality, making fish susceptible to secondary infections [3](https://pubmed.ncbi.nlm.nih.gov/32033004/) [8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/). 
 
@@ -50,16 +51,18 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 **Etiology**
 
-- **Causative Agent:** Infectious Pancreatic Necrosis Virus (IPNV), an Aquabirnavirus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+- **Causative Agent:** Infectious Pancreatic Necrosis Virus (IPNV), in the genus _Aquabirnavirus_ (family _Birnaviridae_) [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
 
 - **Transmission Methods:**
-    - **Horizontal Transmission:** Spread through infected water and equipment [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
-    - **Vertical Transmission:** From parent to progeny through infected eggs [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Horizontal Transmission:** Spread between fish through contaminated water and equipment [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn). The virus is environmentally robust and may persist outside the host, making eradication difficult [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). 
+    - **Vertical Transmission:** IPNV may be transmitted from parent to progeny through infected eggs [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). Vertical transmission has been demonstrated in brook trout and rainbow trout, while its role in Atlantic salmon remains uncertain [9](https://pmc.ncbi.nlm.nih.gov/articles/PMC5006305/).
 
 
 **Risk Factors**
 
-- **Environmental Factors:** Outbreaks can occur at water temperatures between 4B0C and 18B0C, with stress factors such as high stocking densities and fluctuations in water temperature and salinity increasing susceptibility [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Environmental Factors:** Outbreaks can occur at water temperatures between 4°C and 18°C, with stress factors such as high stocking densities, handling, fluctuations in water temperature and salinity increasing susceptibility [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+
+- **Host factors**: Young fish—particularly fry and fish at first feeding—are most susceptible; Atlantic salmon post-smolts may also be at increased risk shortly after seawater transfer [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 - **Farm Management Practices:** Movement of equipment from infected sites and improper handling of mortalities and wastes can facilitate the spread of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
@@ -184,5 +187,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [6] https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap18.pdf
 [7] https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/
+[9] https://pmc.ncbi.nlm.nih.gov/articles/PMC5006305/
 - - -
 
