@@ -70,17 +70,18 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioural symptoms [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+- **Clinical Examination:** Observation of physical and behavioural symptoms; susceptible fish, especially fry or post-smolts, show an acute increase in mortality together with compatible clinical signs. Clinical findings alone are not specific and require laboratory confirmation. [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
 
 - **Laboratory Tests:**
-    - **PCR (Polymerase Chain Reaction):** Detects IPNV genetic material in fish tissues [3](https://pubmed.ncbi.nlm.nih.gov/32033004/).
-    - **Virus Isolation:** Culturing the virus in tissue culture [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - **Histopathology and immunohistochemistry:** A diagnosis of clinical IPN is supported by histopathological detection of characteristic necrosis in the exocrine pancreas and/or liver in formalin-fixed tissues, together with immunohistochemical detection of IPNV antigen in affected lesions [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - **Real-time PCR (Polymerase Chain Reaction):** Detects IPNV genetic material in fish tissues [3](https://pubmed.ncbi.nlm.nih.gov/32033004/). Head kidney or mid-kidney are commonly sampled; however, a positive result alone does not confirm clinical IPN because healthy fish can be carriers [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - **Virus Isolation:** IPNV can be isolated from fish tissues using susceptible cell lines, such as CHSE-214 cells, and subsequently identified by molecular or immunological methods [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn). Virus isolation demonstrates the presence of replication-competent infectious virus, and can be used to estimate infectious virus titre.
     - **ELISA and Antibody Neutralization:** For identification of the virus [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 
 **Differential Diagnosis**
 
-- **Distinguishing IPN from Other Diseases:** It is crucial to differentiate IPN from diseases with similar symptoms, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Distinguishing IPN from Other Diseases:** It is crucial to differentiate IPN from diseases with similar symptoms, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf). In fry, _Flavobacterium psychrophilum_ and _Yersinia ruckeri_ infections may produce similar signs or lesions [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 ### Treatment and Prevention
 
