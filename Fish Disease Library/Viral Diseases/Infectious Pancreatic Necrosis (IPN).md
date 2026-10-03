@@ -92,14 +92,22 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Testing of broodstock and destruction of eggs from infected parents [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
-    - Avoiding movement of equipment from infected sites [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - Testing of broodstock and eggs for IPNV, and destruction of eggs from infected parents [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - Desinfection of eggs to reduce virus contamination on the egg surface. 
+    - Maintain strict hygiene, cleaning, and disinfection procedures in hatcheries and smolt facilities [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). Efforts to eliminate site-specific (“house”) IPNV strains during the freshwater phase have been associated with fewer IPN outbreaks in fry and post-smolts after seawater transfer [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - IPNV is highly resistant to low pH, elevated temperatures and UV-radiation, which contributes to its persistence in the environment. However, it can be inactivated by validated disinfection procedures using agents such as ozone, formalin, or iodine [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - Restricting movement of fish and equipment between sites [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
-- **Vaccination Strategies:** A provisional marketing authorization has been granted for a vaccine against IPN [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+
+- **Vaccination Strategies:** A provisional marketing authorization has been granted for a vaccine against IPN for Atlantic salmon, but protection may be incomplete and outbreaks can still occur [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 - **Farm Management Practices:**
-    - Maintaining high water quality and low stocking density [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+    - Reduce factors that promote clinical disease by minimising handling stress, avoiding excessive stocking density, maintaining stable environmental conditions, and applying sound water-quality and fish-health monitoring practices [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
     - Implementing strict protocols regarding movement, water sources, and stock replacement [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
+    - Ensure fish have robust smolt quality and documented seawater tolerance before transfer - close health monitoring during and after transfer is important.
+
+- **Selective breeding**: 
+    - Selective breeding for IPNV resistance, including use of quantitative trait loci (QTL)-associated resistance, has also contributed to the long-term reduction in IPN outbreaks in farmed Atlantic salmon in Norway [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 ### Case Studies
 
