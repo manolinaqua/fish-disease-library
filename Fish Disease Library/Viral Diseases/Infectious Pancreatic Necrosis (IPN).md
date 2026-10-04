@@ -95,7 +95,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
     - Testing of broodstock and eggs for IPNV, and destruction of eggs from infected parents [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
     - Desinfection of eggs to reduce virus contamination on the egg surface. 
     - Maintain strict hygiene, cleaning, and disinfection procedures in hatcheries and smolt facilities [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). Efforts to eliminate site-specific (“house”) IPNV strains during the freshwater phase have been associated with fewer IPN outbreaks in fry and post-smolts after seawater transfer [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
-    - IPNV is highly resistant to low pH, elevated temperatures and UV-radiation, which contributes to its persistence in the environment. However, it can be inactivated by validated disinfection procedures using agents such as ozone, formalin, or iodine [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - IPNV is highly resistant to low pH,  elevated temperatures and UV-radiation, which contributes to its persistence in the environment. However, it can be inactivated by validated disinfection procedures using agents such as ozone, formalin, or iodine [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
     - Restricting movement of fish and equipment between sites [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
 
 
@@ -128,18 +128,22 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 #### Norway
 
 - **IPN Incidence in Norway:**
-    - IPN has been a significant problem in Norwegian salmon farming, particularly affecting post-smolts after transfer to sea water [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://pubmed.ncbi.nlm.nih.gov/32033004/).
-    - In recent years, the prevalence of IPNV infection has been very high in farmed Atlantic salmon in sea water [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - IPN has been a significant problem  in Norwegian salmon farming, particularly affecting fry, smolts, and post-smolts after seawater transfer [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://pubmed.ncbi.nlm.nih.gov/32033004/).
+    - The number of outbreaks declined markedly from around 2010, largely alongside the use of genetically resistant fish and strengthened IPNV control in hatcheries and smolt facilities [10](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)[11](https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/).
+    - After several years of low outbreak numbers, IPN increased in 2025, with 40 reported cases—nearly three times the number reported in 2024 [10](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf). Recent outbreaks in QTL-selected fish have been associated with a potentially new IPNV variant with genetic changes in the region used for viral characterisation [11](https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/).
 
 - **Geographical Spread:**
-    - IPN is widespread in Norwegian salmon farms, affecting both freshwater and seawater environments [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://pubmed.ncbi.nlm.nih.gov/32033004/).
+    - IPN is widespread in Norwegian salmon farms, affecting both freshwater and seawater environments [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://pubmed.ncbi.nlm.nih.gov/32033004/). 
+    - Recent reports from 2026 indicate a relative concentration of reported cases from central Norway northwards to Troms [11](https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/).
 
 - **Economic Impact:**
     - IPN has caused considerable mortalities in Atlantic salmon post-smolts, leading to significant economic losses for the Norwegian salmon industry [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://pubmed.ncbi.nlm.nih.gov/32033004/).
 
 - **Treatment & Management:**
-    - A provisional marketing authorization has been granted for a vaccine against IPN in Norway [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)
-    - Strict biosecurity measures are implemented to prevent the spread of the virus between farms [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)
+    - There is no specific treatment for IPN. Prevention has relied on a combination of genetic selection for IPN resistance (QTL-selected fish), control of IPNV in hatcheries and smolt facilities, biosecurity, good smolt quality, and stress reduction [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn) [3](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn).
+    - Vaccination is commonly used in Norwegian Atlantic salmon and may reduce losses during outbreaks, but it does not reliably prevent infection, carrier status, or virus shedding [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn)[11](https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/).
+    
+    
 #### Scotland
 
 - **IPN Incidence in Scotland:**
@@ -177,7 +181,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-07-26
+**Last Modified:** 2026-10-04
 
 **Tags:** #InfectiousPancreaticNecrosis, #IPN, #IPNV, #InfectiousPancreaticNecrosisVirus #Birnaviridae, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
@@ -197,5 +201,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [7] https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/
 [9] https://pmc.ncbi.nlm.nih.gov/articles/PMC5006305/
+[10] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+[11] https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/
 - - -
 
