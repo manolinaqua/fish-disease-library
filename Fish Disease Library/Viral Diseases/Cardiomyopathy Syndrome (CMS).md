@@ -19,22 +19,23 @@ tags:
 ## Overview
 
 ### What is CMS?
-Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
+Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed Atlantic salmon (*Salmo salar*). It is commonly known as “hjertesprekk” **(“heart rupture”)** in Norwegian because cardiac rupture is a characteristic finding in advanced cases. It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, Ireland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). Although CMS-like cardiac lesions have also been reported in **wild** Atlantic salmon and PMCV has been detected in wild individuals, available investigations do not indicate that wild salmon constitute a significant reservoir of the virus [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms). 
 
 ## Clinical Signs of Cardiomyopathy Syndrome
 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Cardiac Lesions:** Inflammation and necrosis of the heart muscle, often visible as white or pale streaks.
-    - **Anaemia:** Pale gills and organs due to reduced red blood cells.
-    - **Ascites:** Accumulation of fluid in the abdominal cavity.
-    - **Exophthalmia:** Bulging eyes can be observed in affected fish.
+    - **Cardiac lesion and rupture:** Inflammation and necrosis of the heart muscle detected microscopically. Enlargement of the heart atrium. In advanced cases, rupture of the atrial wall causes cardiac arrest and results in the accumulation of blood and blood clots in the pericardial cavity [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **Liver changes**: Darkened, severely discolored, or mottled liver, frequently covered by a fibrin layer due to prolonged circulatory dysfunction [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **Ascites:** Accumulation of fluid in the abdominal cavity is a classical sign of circulatory failure. It is sometimes accompanied by abdominal distension [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **Exophthalmia:** Bulging eyes can be observed in affected fish [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)
+    - **Skin haemorrhages and oedema**: In terminal stages, small pinpoint haemorrhages, particularly on the underside of the abdomen, and fluid accumulation in the scale pockets, which may cause raised scales [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **Absence of External Signs and Good Body Condition**: Affected fish are frequently the  largest, healthiest-looking individuals in the sea cage, showing no outward symptoms prior to sudden death [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
 
 - **Behavioural Changes:**
-    - **Lethargy:** Reduced activity and swimming stamina.
-    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss.
-    - **Abnormal Swimming Patterns:** Fish may display erratic or weakened swimming due to cardiac damage [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/).
+    - **Loss of Appetite:** Some affected fish may reduce or stop feeding. However, many fish remain in good body condition and show few obvious clinical signs before sudden death [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
+    - **Abnormal Swimming Patterns:** Some affected fish may swim sluggishly, although many show few or no obvious behavioural changes before death. [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
 
 
 **Progression of Symptoms**
@@ -190,6 +191,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [8] https://www.sciencedirect.com/science/article/pii/S0167587719304465
 [9] https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon
 [10] https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204
-
+[11] https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms
+[12] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/
 - - - 
 
