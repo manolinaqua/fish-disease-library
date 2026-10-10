@@ -19,7 +19,7 @@ tags:
 ## Overview
 
 ### What is CMS?
-Cardiomyopathy Syndrome (CMS) is a severe viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). CMS primarily affects Atlantic salmon but can also impact other salmonids, such as rainbow trout (*Oncorhynchus mykiss*) and brown trout (*Salmo trutta*).
+Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine myocarditis virus (PMCV), leading to inflammation and necrosis of the heart muscle. First identified in Norway in the late 1980s, CMS has since been reported in other major salmon farming regions, including Scotland, Ireland, the Faroe Islands, and Canada, causing significant economic losses [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). Although CMS-like cardiac lesions have also been reported in **wild** Atlantic salmon and PMCV has been detected in wild individuals, available investigations do not indicate that wild salmon constitute a significant reservoir of the virus [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)
 
 ## Clinical Signs of Cardiomyopathy Syndrome
 
@@ -190,6 +190,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [8] https://www.sciencedirect.com/science/article/pii/S0167587719304465
 [9] https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon
 [10] https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204
+[11] https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms
 
 - - - 
 
