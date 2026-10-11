@@ -63,15 +63,24 @@ Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed
 
 - **Transmission Methods:**
     
-    - **Horizontal transmission (from fish to fish)**: Waterborne transmission of PMCV has been demonstrated in cohabitation experiments. Field observations suggest that the virus may also spread between cages within a farm. However, how PMCV is introduced to farms and transmitted under field conditions, including between farms, remains incompletely understood [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/) [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)
+    - **Horizontal transmission (from fish to fish)**: Waterborne transmission of PMCV has been demonstrated in cohabitation experiments. Field observations suggest that the virus may also spread between cages within a farm. However, how PMCV is introduced to farms and transmitted under field conditions, including between farms, remains incompletely understood [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)
     - Vertical transmission (parent to offspring) of PMCV has been suspected and is being investigated [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)
     
 
 **Risk Factors**
 
-- **Environmental Factors:** Poor water quality, high stocking densities, and stressful conditions can increase susceptibility to CMS.
+- **Environmental Factors:** Poor water quality, high stocking densities, and stressful conditions can increase susceptibility to CMS [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms). Mortality spikes are usually triggered by physical exertion and handling stress—particularly mechanical or thermal delousing, crowding, sorting, or pumping [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms). 
 
 - **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of PMCV [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
+
+- **Fish size**: The risk of a CMS outbreak increases directly with the duration of the marine growth phase. CMS primarily strikes large, high-value salmon during their second year at sea, though outbreaks in smaller post-smolts (100–300g) have also been recorded [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/).
+
+- **Previous Infections:** Salmon cohorts that have previously suffered from **Pancreas Disease (PD)** or **Heart and Skeletal Muscle Inflammation (HSMB)** carry a significantly higher risk of developing CMS [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
+- **Hatchery Supplier Effect:** Field data shows a strong correlation between CMS outbreaks and specific freshwater hatcheries, with fish from the same smolt suppliers repeatedly showing higher disease incidence year after year at sea [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
+- **Stocking Season (Sea Transfer Window):** Fish transferred to sea cages in the **autumn carry a higher risk** of developing CMS compared to spring-stocked smolts [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
 
 ### Diagnosis
 
