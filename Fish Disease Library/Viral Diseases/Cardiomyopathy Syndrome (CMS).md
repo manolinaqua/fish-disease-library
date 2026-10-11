@@ -33,18 +33,26 @@ Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed
     - **Skin haemorrhages and oedema**: In terminal stages, small pinpoint haemorrhages, particularly on the underside of the abdomen, and fluid accumulation in the scale pockets, which may cause raised scales [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
     - **Absence of External Signs and Good Body Condition**: Affected fish are frequently the  largest, healthiest-looking individuals in the sea cage, showing no outward symptoms prior to sudden death [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
 
-- **Behavioural Changes:**
-    - **Loss of Appetite:** Some affected fish may reduce or stop feeding. However, many fish remain in good body condition and show few obvious clinical signs before sudden death [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
-    - **Abnormal Swimming Patterns:** Some affected fish may swim sluggishly, although many show few or no obvious behavioural changes before death. [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
+- **Behavioural Changes:** Fish affected by CMS may show few or no obvious behavioural changes before sudden death. In cases with a more prolonged clinical course, changes may become apparent, including reduced appetite and sluggish swimming.
+    - **Loss of Appetite:** Affected fish may reduce or stop feeding, particularly during a more prolonged disease course. In acute cases, fish may continue feeding until sudden death [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
+    - **Reduced activity:** Some affected fish may become lethargic or swim sluggishly [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/)
 
 
 **Progression of Symptoms**
 
-- **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy.
+- **Early Stages:** Cardiac lesions may develop without obvious clinical signs. PMCV can be detected before clinical disease develops [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms) [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
 
-- **Advanced Stages:** More pronounced physical symptoms, including cardiac lesions and anaemia, leading to increased mortality if not managed.
+- **Advanced Stages:** 
+    -  **Acute (Sudden Collapse):** 
+        - Sudden cardiac rupture or acute heart failure occurs, most often triggered during routine stress handling events, such as delousing operations, leading to a sudden high increase in mortalities [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms) [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/).
+        - Autopsies frequently reveal fresh, intact feed in the stomach and intestine, confirming abrupt mortality [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/).
+    - **Protracted form**:
+        - The heart gradually weakens, and affected fish may develop reduced appetite, sluggish swimming, protruding eyes and haemorrhages on the underside of the abdomen [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/) [3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/). 
+        - Mortality may remain slightly or moderately elevated over an extended period, resulting in substantial cumulative losses [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+        - Internal findings may include substantial fluid accumulation in the abdominal cavity and a markedly discoloured liver, consistent with circulatory dysfunction [12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/).
 
-- **Impact on Fish Health:** CMS severely compromises heart function, making fish more susceptible to secondary infections and reducing overall vitality [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/).
+
+- **Impact on Fish Health:** CMS severely compromises heart function and reduces the fish’s ability to tolerate stress and physical exertion. Because cardiac tissue is structurally weakened, routine handling operations—such as delousing, crowding, or sorting—frequently trigger acute heart collapse or rupture. Consequently, CMS stands as one of the primary infectious drivers of pre-harvest mortality and economic loss in Norwegian marine salmon farming [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/)[11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)[12](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/) [13](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
 
 
 ### Causes of Cardiomyopathy Syndrome
@@ -193,5 +201,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [10] https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204
 [11] https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms
 [12] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/
+[13] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 - - - 
 
