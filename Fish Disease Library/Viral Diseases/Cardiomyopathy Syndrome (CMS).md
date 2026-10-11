@@ -63,8 +63,8 @@ Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed
 
 - **Transmission Methods:**
     
-    - **Direct Contact:** Spread between infected and healthy fish through close proximity.
-    - **Waterborne:** The virus can be transmitted through water, potentially spreading from one farm to another [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/).
+    - **Horizontal transmission (from fish to fish)**: Waterborne transmission of PMCV has been demonstrated in cohabitation experiments. Field observations suggest that the virus may also spread between cages within a farm. However, how PMCV is introduced to farms and transmitted under field conditions, including between farms, remains incompletely understood [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/) [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms)
+    - Vertical transmission (parent to offspring) of PMCV has been suspected and is being investigated [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)
     
 
 **Risk Factors**
