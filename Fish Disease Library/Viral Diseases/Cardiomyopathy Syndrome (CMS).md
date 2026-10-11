@@ -85,19 +85,21 @@ Cardiomyopathy Syndrome (CMS) is a severe viral cardiac disease affecting farmed
 ### Diagnosis
 
 **Diagnostic Methods**
+Diagnosis of CMS is based on clinical history, necropsy findings and characteristic histopathological changes in the heart, supported by detection of PMCV RNA.
 
-- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of CMS.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of CMS. However, affected fish may show few obvious signs, so clinical examination alone cannot confirm the diagnosis [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
 
 - **Laboratory Tests:**
     
-    - **PCR (Polymerase Chain Reaction):** Detects PMCV genetic material in fish tissues.
-    - **Histopathology:** Microscopic examination of heart tissues to identify characteristic lesions of CMS.
-    - **Immunohistochemistry:** Detects viral antigens in tissue samples [2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/)[5](https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.12735).
+    - **Histopathology:** Microscopic tissue examination serves as the primary definitive diagnostic tool for CMS. It identifies characteristic severe inflammation and cellular necrosis localized primarily within the inner spongy myocardium of the atrium and ventricle, while leaving the compact outer heart layer relatively intact [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **RT-qPCR (Real-time quantitative PCR):** Detects PMCV genetic material in fish tissues. It is essential for routine population screening, and monitoring viral load before clinical outbreaks occur [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+    - **Immunohistochemistry:** Detects viral antigens in tissue samples [5](https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.12735).
+    - **In Situ Hybridization (ISH / RNAscope):** Advanced staining techniques visualize PMCV RNA directly inside active heart tissue lesions [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
     
 
 **Differential Diagnosis**
 
-- **Distinguishing CMS from Other Diseases:** It is crucial to differentiate CMS from other diseases with similar symptoms, such as Heart and Skeletal Muscle Inflammation (HSMI) and Pancreas Disease (PD) [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/).
+- **Distinguishing CMS from Other Diseases:** It is crucial to differentiate CMS from other diseases that cause cardiac lesions, such as Heart and Skeletal Muscle Inflammation (HSMI) and Pancreas Disease (PD) [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/). Unlike PD, CMS produces no tissue necrosis in the exocrine pancreas, and unlike HSMI, CMS does not affect skeletal muscle tissue. These distinct differences in lesion distribution allow pathologists to definitively differentiate the conditions during histopathological examination [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
 
 ### Treatment and Prevention
 
