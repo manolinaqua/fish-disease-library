@@ -105,8 +105,7 @@ Diagnosis of CMS is based on clinical history, necropsy findings and characteris
 
 **Treatment Options**
 
-- **Current Treatments:** There are no effective antiviral treatments available for CMS. Management focuses on preventing the spread and mitigating the impact through biosecurity measures and supportive care.
-
+- **Current Treatments:** There are no effective antiviral treatments available for CMS. Management focuses on limiting mortality and protecting fish welfare by minimising handling, physical exertion and other stressful events, and mitigating the impact through biosecurity measures and supportive care.
 - **Experimental Treatments:** Ongoing research into potential antiviral agents and other therapeutic approaches [2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
 
 **Preventive Measures**
@@ -117,8 +116,15 @@ Diagnosis of CMS is based on clinical history, necropsy findings and characteris
 
 - **Farm Management Practices:**
     - Reducing stocking densities to decrease the risk of virus transmission.
-    - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
+    - Regular health monitoring and early detection programs to identify and manage outbreaks promptly. RT-qPCR can be used to monitor PMCV infection in fish groups [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
     - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections [1](https://pubmed.ncbi.nlm.nih.gov/29064107/)[2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[3](https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/).
+    - Handling and other stressful procedures should be minimised following a CMS diagnosis. Grading, transfer and delousing can increase mortality because affected fish tolerate stress and physical exertion poorly. Management should aim to minimise these pressures until the fish can be harvested [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
+- **Genomic Selection:** Breeding companies offer salmon eggs selected for increased resistance to CMS using quantitative trait loci (QTL) markers and genomic selection. In experimental challenge tests, fish carrying favourable QTL variants showed lower PMCV loads and less cardiac damage than fish carrying unfavourable variants. However, this should not be presented as complete protection against infection or outbreaks [2](https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/)[11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
+- **Functional Feeds:** Specialized anti-inflammatory cardiac feeds ("functional feeds") can be administered during risk periods to reduce myocardial tissue damage and possibly lessen mortality during outbreaks [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
+
+- **Vaccination Status:** There is currently no commercial vaccine available against PMCV, although vaccine development remains an active area of research [11](https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms).
 
 ### Case Studies
 
