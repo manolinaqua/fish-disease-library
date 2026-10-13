@@ -48,8 +48,7 @@ First, comment or open a new Issue on the [Github website](https://github.com/ma
 #### Step 4: Making edits in Obsidian
 - Simply start typing and making your changes. You can 'Cmd /Ctrl Z' if you want to go back
 - Obsidian **useful tips and tricks:**
-	- Use [ ] brackets immediately followed by ( ) for in text references with the weblink 
-	- Use [[]] double brackets when mentioning another disease in the library, in order to link to that disease e.g [[Moritella Viscosa]]
+	- How to write citations, links to other chapters, headings and tags is described in [CONVENTIONS.md](CONVENTIONS.md). New chapters start from `Fish Disease Library/_Disease Chapter Template.md`.
 	- Find and 'Replace' is found under the 3 dots (...) option in the top right corner
 	- For further tips about Obsidian have a look at [this tutorial]([https://www.youtube.com/watch?v=z4AbijUCoKU](https://www.youtube.com/watch?v=z4AbijUCoKU)
 - If it’s been a few days since your last edit, use “Fetch origin” in GitHub Desktop to pull in any updates to existing files.
