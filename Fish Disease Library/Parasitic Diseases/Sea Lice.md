@@ -206,18 +206,31 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 [1] https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html
+
 [2] https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388
+
 [3] https://www.theguardian.com/environment/2023/nov/03/sea-lice-outbreak-icelandic-salmon-farm-welfare-disaster-footage-shows
+
 [4] https://thefishsite.com/disease-guide/sea-lice
+
 [5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3675643/
+
 [6] https://www.sciencedirect.com/science/article/pii/S0044848623010487
+
 [7] https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/
+
 [8] https://www.int-res.com/articles/aei2022/14/q014p181.pdf
+
 [9] https://thefishsite.com/articles/solving-salmon-aquacultures-1-billion-question-sea-lice-jim-treasurer
+
 [10] https://www.salmonbusiness.com/new-report-tears-into-norways-traffic-light-system-for-lice-control-finds-no-benefits-for-wild-fish/
+
 [11] https://blog.manolinaqua.com/en/norway-sea-lice-traffic-light-2024
+
 [12] https://www.intrafish.com/salmon/norways-new-traffic-light-system-could-provide-21-000-metric-tons-of-growth/2-1-1608570?zephr_sso_ott=lwkxiH
+
 [13] https://hatcheryfm.com/fish/norway-sets-new-aquaculture-traffic-lights/
+
 [14] https://www.salmonbusiness.com/how-does-norways-traffic-light-system-for-salmon-farming-work/
 
 - - - 

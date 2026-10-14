@@ -248,24 +248,42 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Citations:**
 
 [1] Gulla, S., Colquhoun, D., Olsen, A., Spilsberg, B., Lagesen, K., Åkesson, C. P., Strøm, S., Manji, F., Birkbeck, T., & Nilsen, H. (2023). Phylogeography and host specificity of Pasteurellaceae pathogenic to sea-farmed fish in the north-east Atlantic. *Frontiers in Microbiology, 14*, 1236290. [https://doi.org/10.3389/fmicb.2023.1236290](https://doi.org/10.3389/fmicb.2023.1236290)
+
 [2] Alarcón, M., Gulla, S., Røsaeg, M. V., Rønneseth, A., Wergeland, H., Poppe, T., Nilsen, H., & Colquhoun, D. (2016). Pasteurellosis in lumpsucker *Cyclopterus lumpus*, farmed in Norway. *Journal of Fish Diseases, 39*(4), 441–457. [https://doi.org/10.1111/jfd.12366](https://doi.org/10.1111/jfd.12366)
+
 [3] Ellul, R. M., Walde, C., Haugland, G. T., Wergeland, H., & Rønneseth, A. (2019). Pathogenicity of *Pasteurella* sp. in lumpsuckers (*Cyclopterus lumpus* L.). *Journal of Fish Diseases, 42*(1), 35–46. [https://doi.org/10.1111/jfd.12905](https://doi.org/10.1111/jfd.12905)
+
 [4] Birkbeck, T. H., Laidler, L. A., Grant, A. N., & Cox, D. I. (2002). *Pasteurella skyensis* sp. nov., isolated from Atlantic salmon (*Salmo salar* L.). *International Journal of Systematic and Evolutionary Microbiology, 52*(3), 699–704. [https://doi.org/10.1099/00207713-52-3-699](https://doi.org/10.1099/00207713-52-3-699)
+
 [5] Strøm, S. B. & Nilsen, H. K. (2021). *Pasteurella skyensis* in Atlantic salmon (*Salmo salar* L.) in Western Norway. *Bulletin of the European Association of Fish Pathologists*, *41 (4)*, 160-68. [https://doi.org/10.48045/001c.31534](https://doi.org/10.48045/001c.31534) 
+
 [6] *Pasteurellosis in Fish - Norwegian Veterinary Institute*. Retrieved May 21, 2026, from [https://www.vetinst.no/en/diseases/pasteurellosis-in-fish](https://www.vetinst.no/en/diseases/pasteurellosis-in-fish)
+
 [7] Nilsen, H. K., Olsen, A. B., Birkbeck, T. H., Manji, F., Colquhoun, D. J., & Gulla, S. (2025). Reclassification of *Pasteurella skyensis* as *Phocoenobacter skyensis* comb. nov. and description of *Phocoenobacter atlanticus* sp. nov. isolated from diseased Atlantic salmon (*Salmo salar*) and lumpfish (*Cyclopterus lumpus*). *International Journal of Systematic and Evolutionary Microbiology*, *75*(4), 006729. [https://doi.org/10.1099/ijsem.0.006729](https://doi.org/10.1099/ijsem.0.006729)
+
 [8] Sandlund, N., Rønneseth, A., Ellul, R. M., Nylund, S., & Sandlund, L. (2021). *Pasteurella* spp. Infections in Atlantic salmon and lumpsucker. *Journal of Fish Diseases*, jfd.13381. [https://doi.org/10.1111/jfd.13381](https://doi.org/10.1111/jfd.13381)
+
 [9] Stige, L. C., Colquhoun, D. J., & Oliveira, V. H. S. (2025). Associations between delousing practices and pasteurellosis in farmed Atlantic salmon. *Journal of Fish Diseases*, 48, e14085. [https://doi.org/10.1111/jfd.14085](https://doi.org/10.1111/jfd.14085)
 [10] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC og ­Sommerset I. Fiskehelserapporten 2025, Veterinærinstituttets rapportserie nr. 5a/2026, utgitt av Veterinærinstituttet 2026. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025//attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf)
+
 [11] Ellul, R., Bulla, J., Brudal, E., Colquhoun, D., Wergeland, H., & Rønneseth, A. (2019). Protection and antibody reactivity in lumpsucker (*Cyclopterus lumpus* L.) following vaccination against *Pasteurella* sp. *Fish and Shellfish Immunology*, *95*, 650–658. [https://doi.org/10.1016/j.fsi.2019.11.016](https://doi.org/10.1016/j.fsi.2019.11.016)
+
 [12] Strand, D. A., Wiik-Nielsen, J., Mohammad, S., Nilsen, H., Langhelle, B., Holmeset, M., Patel, S., Log Persson, H., & Colquhoun, D. (2026). Environmental DNA screening of *Phocoenobacter atlanticus* subsp. *atlanticus* in Atlantic salmon aquaculture. *PLOS ONE*, *21*(4), e0347930. [https://doi.org/10.1371/JOURNAL.PONE.0347930](https://doi.org/10.1371/JOURNAL.PONE.0347930)
+
 [13] Ellul, R., Kalatzis, P. G., Frantzen, C., Haugland, G. T., Gulla, S., Colquhoun, D. J., Middelboe, M., Wergeland, H. I., & Rønneseth, A. (2021). Genomic Analysis of *Pasteurella atlantica* Provides Insight on Its Virulence Factors and Phylogeny and Highlights the Potential of Reverse Vaccinology in Aquaculture. *Microorganisms 2021, Vol. 9, Page 1215*, *9*(6), 1215. [https://doi.org/10.3390/MICROORGANISMS9061215](https://doi.org/10.3390/MICROORGANISMS9061215)
+
 [14] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC og Sommerset I. Fiskehelserapporten 2024, Veterinærinstituttets rapportserie nr. 1a/2025, utgitt av Veterinærinstituttet 2025. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/fiskehelserapporten-2024//attachment/inline/a9141dc4-f516-47be-9261-5efe946bc579:54f6073452f4b7923f3355f3afc8e11308075a28/Fiskehelserapporten%202024_Utgave%202.pdf](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/fiskehelserapporten-2024/_/attachment/inline/a9141dc4-f516-47be-9261-5efe946bc579:54f6073452f4b7923f3355f3afc8e11308075a28/Fiskehelserapporten%202024_Utgave%202.pdf)
+
 [15] Kverme, K. O., Kallekleiv, M., Larsen, K., Rønneseth, A., Wergeland, H. I., Samuelsen, O. B., & Haugland, G. T. (2022). Antibacterial treatment of lumpfish (*Cyclopterus lumpus*) experimentally challenged with *Vibrio anguillarum*, atypical *Aeromonas salmonicida* and *Pasteurella atlantica*. *Journal of Fish Diseases*, *45*(1), 153–163. [https://doi.org/10.1111/jfd.13545](https://doi.org/10.1111/jfd.13545)
+
 [16] Akvaveterinærenes forening, & Tekna. (2024). *Retningslinjer for hygienekontroll av fartøy innen akvakultur*. [https://www.tekna.no/fag-og-nettverk/miljo-og-biovitenskap/tekna-havbruk/retningslinjer-for-hygienekontroll-av-fartoy-innen-akvakultur/](https://www.tekna.no/fag-og-nettverk/miljo-og-biovitenskap/tekna-havbruk/retningslinjer-for-hygienekontroll-av-fartoy-innen-akvakultur/)
+
 [17] Tangen, K., & Erdal, A. (2026). *HØRING – Forslag til listeføring av ILAV HPR0 og pasteurellose*. [https://hoering.mattilsynet.no/hoering/3823](https://hoering.mattilsynet.no/hoering/3823)
+
 [18] Valheim, M., Håstein, T., Myhr, E., Speilberg, L., & Ferguson, H. W. (2000). Varracalbmi: A new bacterial panophthalmitis in farmed Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*, *23*(1), 61–70. [https://doi.org/10.1046/j.1365-2761.2000.00209.x](https://doi.org/10.1046/j.1365-2761.2000.00209.x)
+
 [19] Ellul, R. M., Tselepidaki, H., Dahle, H., Skaar, H., Frantzen, C., Haugland, G. T., & Rønneseth, A. (2026). Virulence factors of *Phocoenobacter atlanticus* subspecies *atlanticus*: in search of vaccine targets. *Frontiers in Microbiology*, *17*, 1793695. [https://doi.org/10.3389/FMICB.2026.1793695](https://doi.org/10.3389/FMICB.2026.1793695)
+
 [20] Soares, S., Murray, W., Garden, A., Mcintosh, R., Duguid, S., & Munro, E. (2019). Significant mortality in farmed Atlantic salmon (*Salmo salar* L.) associated with *Pasteurella skyensis* in Scotland. *19th International Conference on Diseases of Fish and Shellfish*, 264. [https://eafp.org/wp-content/uploads/2020/01/2019-porto-19-eafp-abstract-book.pdf](https://eafp.org/wp-content/uploads/2020/01/2019-porto-19-eafp-abstract-book.pdf)
 
 - - - 

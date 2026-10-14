@@ -187,8 +187,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 [1] https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf
+
 [2] https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf
+
 [3] https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/bacterial-kidney-disease
+
 [4] https://www.int-res.com/articles/dao2004/59/d059p125.pdf
 [5] https://food.ec.europa.eu/document/download/e0fa9624-88b7-438a-83a0-294a2622d593_en?filename=sci-com_scah_out36_en.pdf
 [6] http://www.ango.co/aquaculture-diagnostic-kits/bacterial-kidney-disease-bkd-elisa-kit
