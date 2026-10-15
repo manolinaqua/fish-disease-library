@@ -142,23 +142,20 @@ Diagnosis of CMS is based on clinical history, necropsy findings and characteris
 #### Norway
 
 - **CMS Incidence in Norway:**
-    - CMS is widespread along the entire Norwegian coast [9](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
-    - In 2023, cardiomyopathy syndrome (CMS) was one of the five most common infectious diseases causing mortality in farmed salmon [9](https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon).
     - CMS is now considered one of the most important problems for the Norwegian aquaculture industry [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
+    - In 2025, cardiomyopathy syndrome (CMS) was among the five most important factors contributing to mortality and reduced welfare in farmed Atlantic salmon during seawater production. [9](https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon)
+    - Official diagnostic surveillance recorded a sharp increase in CMS cases, rising to 114 diagnosed sites across Norway (up from 78 sites the previous year) [13](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+    - CMS is not categorized as a reportable disease in Norway, meaning there is no mandatory state-enforced eradication or stamping-out protocol.
 
 - **Geographical Spread:**
-    - CMS affects salmon farms along the entire Norwegian coast [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
-    - In 2023, there were large geographical differences in mortality rates across Norway's 13 salmon production areas [6](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168).
+    - CMS affects salmon farms along the entire Norwegian coast [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204)
+    - In recent years, CMS cases have declined in northern Norway, while most cases have occurred in central and southern Norway [13](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
 
 - **Economic Impact:**
     - CMS most often affects large salmon in their last year at sea, leading to major financial consequences [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
     - In 2023, 62.8 million salmon (16.7%) died in the sea phase of production, the highest recorded mortality rate so far [6](https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168)[9](https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon).
 
-- **Treatment & Management:**
-    - Research has confirmed that CMS is a contagious disease that can affect salmon at various life stages, including pre-smolts, post-smolts, and early sea phases [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
-    - CMS-sick salmon do not seem able to fight the PMCV infection or get rid of the virus, and heart inflammation does not appear to heal over time [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
-    - Heart samples are the best for detecting PMCV-specific RNA in fish with clear CMS changes [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
-    - Early detection may be possible through plasma from blood samples and tissue samples from the central kidney [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
+
 #### Scotland
 
 - **CMS Incidence:**
@@ -182,6 +179,11 @@ Diagnosis of CMS is based on clinical history, necropsy findings and characteris
     Reference: Baojian Sun, et. al. Science Direct. 2024. Volume 147.
     [Link to article](https://pubmed.ncbi.nlm.nih.gov/29064107/)
 
+**Recent Research Findings**
+- Research has confirmed that CMS is a contagious disease that can affect salmon at various life stages, including pre-smolts, post-smolts, and early sea phases [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
+- CMS-sick salmon do not seem able to fight the PMCV infection or get rid of the virus, and heart inflammation does not appear to heal over time [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
+- Heart samples are the best for detecting PMCV-specific RNA in fish with clear CMS changes [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
+- Early detection may be possible through plasma from blood samples and tissue samples from the central kidney [10](https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204).
 
 These studies represent advancements in understanding the prevalence, transmission, and impact of Cardiomyopathy Syndrome (CMS) in salmon farming, particularly in Norway and other European countries with significant salmon farming industries.
 
@@ -195,7 +197,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-08-15
+**Last Modified:** 2026-10-13
 
 **Tags:** #CardiomyopathySyndrome, #CMS, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #BrownTrout, #Piscinemyocarditisvirus, #PMCV, #Norway, #Scotland, #Canada, #FaroeIslands, #ViralDisease, #Virus 
 ##### Viral Diseases
