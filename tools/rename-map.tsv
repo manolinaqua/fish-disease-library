@@ -1,0 +1,27 @@
+current_path	proposed_path	notes
+Fish Disease Library/Bacterial Diseases/Bacterial Kidney Disease (BKD).md	Fish Disease Library/Bacterial Diseases/Bacterial Kidney Disease (Renibacterium salmoninarum).md	add alias BKD
+Fish Disease Library/Bacterial Diseases/Furunculosis (Aeromonas spp.).md	Fish Disease Library/Bacterial Diseases/Furunculosis (Aeromonas salmonicida).md	fixes filename/frontmatter title mismatch
+Fish Disease Library/Bacterial Diseases/Moritella Viscosa.md	Fish Disease Library/Bacterial Diseases/Winter Ulcer Disease (Moritella viscosa).md	MERGE TARGET: absorb Winter Wounds.md content, keep this file's body/citations, resolve $750M vs NOK 100M contradiction
+Fish Disease Library/Bacterial Diseases/Winter Wounds.md	(delete after merge)	MERGE SOURCE: content folds into Moritella Viscosa.md target above; add "Winter Wounds", "Winter Ulcer" as aliases on the merged page
+Fish Disease Library/Vintersår.md	(delete)	0-byte orphan file, no inbound links; add "Vintersår" as alias on the merged page instead
+Fish Disease Library/Bacterial Diseases/Pasteurellosis.md	Fish Disease Library/Bacterial Diseases/Pasteurellosis (Photobacterium damselae subsp. piscicida).md	also: add missing tags: key
+Fish Disease Library/Bacterial Diseases/Salmonid Rickettsial Septicaemia (SRS).md	Fish Disease Library/Bacterial Diseases/Salmonid Rickettsial Septicaemia (Piscirickettsia salmonis).md	add alias SRS
+Fish Disease Library/Bacterial Diseases/Tenacibaculosis (Tenacibaculum spp).md	Fish Disease Library/Bacterial Diseases/Tenacibaculosis (Tenacibaculum spp.).md	adds missing period on spp.; fixes 2 broken inbound links elsewhere
+Fish Disease Library/Bacterial Diseases/Vibriosis.md	Fish Disease Library/Bacterial Diseases/Vibriosis (Vibrio and Aliivibrio spp.).md	also: replace hardcoded published-site URLs in footer with wikilinks
+Fish Disease Library/Bacterial Diseases/Yersiniosis (enteric redmouth disease).md	(unchanged)	kept as named by chapter author (PR #86)
+Fish Disease Library/Viral Diseases/Cardiomyopathy Syndrome (CMS).md	Fish Disease Library/Viral Diseases/Cardiomyopathy Syndrome (Piscine myocarditis virus).md	add alias CMS
+Fish Disease Library/Viral Diseases/Heart and Muscle Inflammation (HSMI).md	Fish Disease Library/Viral Diseases/Heart and Skeletal Muscle Inflammation (Piscine orthoreovirus-1).md	fixes dropped "Skeletal"; add alias HSMI; merge in HSMI-relevant content from PRV.md, see PRV split note
+Fish Disease Library/Viral Diseases/Infectious Pancreatic Necrosis (IPN).md	(unchanged)	exception 2 in CONVENTIONS.md
+Fish Disease Library/Viral Diseases/Infectious Salmon Anemia (ISA).md	(unchanged, pending locale decision)	exception 2 in CONVENTIONS.md
+Fish Disease Library/Viral Diseases/Pancreas Disease (PD).md	Fish Disease Library/Viral Diseases/Pancreas Disease (Salmonid alphavirus).md	add alias PD
+Fish Disease Library/Viral Diseases/Piscine Reovirus (PRV).md	(split, do not rename directly)	SPLIT: becomes a type:pathogen "Piscine orthoreovirus" page plus rescued Jaundice Syndrome and EIBS chapters; fix sea-lice-treatment error and off-topic research section during the split, not after
+Fish Disease Library/Parasitic Diseases/Amoebic Gill Disease (AGD).md	Fish Disease Library/Parasitic Diseases/Amoebic Gill Disease (Neoparamoeba perurans).md	VERIFY current genus (Neoparamoeba vs Paramoeba) before renaming
+Fish Disease Library/Parasitic Diseases/Gyrodactylus salaris.md	Fish Disease Library/Parasitic Diseases/Gyrodactylosis (Gyrodactylus salaris).md	also fix 2 broken wikilinks in this file (Salmon Lice -> Sea Lice, remove/replace Proliferative Kidney Disease (PKD))
+Fish Disease Library/Parasitic Diseases/Paranucleosporosis.md	Fish Disease Library/Parasitic Diseases/Paranucleosporosis (Paranucleospora theridion).md	VERIFY species epithet before renaming; also fix wrong-disease tags (currently starts with Parvicapsulosis)
+Fish Disease Library/Parasitic Diseases/Parvicapsulosis.md	Fish Disease Library/Parasitic Diseases/Parvicapsulosis (Parvicapsula pseudobranchicola).md
+Fish Disease Library/Parasitic Diseases/Proliferative Gill Disease.md	(unchanged)	exception 3 in CONVENTIONS.md, own text says "various pathogens"
+Fish Disease Library/Parasitic Diseases/Saprolegniasis.md	Fish Disease Library/Fungal & Oomycete Diseases/Saprolegniasis (Saprolegnia spp.).md	also moves category: Saprolegnia is an oomycete, not a parasite
+Fish Disease Library/Parasitic Diseases/Sea Lice.md	Fish Disease Library/Parasitic Diseases/Sea Lice Infestation (Lepeophtheirus salmonis, Caligus spp.).md
+Fish Disease Library/Environmental & Physical Conditions/Gas Bubble Disease.md	(unchanged)	exception 1 in CONVENTIONS.md
+Fish Disease Library/Environmental & Physical Conditions/Hemorrhagic Diathesis.md	(unchanged)	exception 1 in CONVENTIONS.md
+Fish Disease Library/Environmental & Physical Conditions/Nephrocalcinosis.md	(unchanged)	exception 1 in CONVENTIONS.md; still fix "Nephocalcinosis" heading typo and case-mismatch wikilink

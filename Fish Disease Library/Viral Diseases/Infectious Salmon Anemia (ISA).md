@@ -1,11 +1,11 @@
 ---
 title: Infectious Salmon Anemia (ISA)
-description: Learn about Infectious Salmon Anemia (ISA) in aquaculture fish like Atlantic salmon. Characterized by pale gills, swollen organs, and high mortality rates, ISA is caused by the Infectious Salmon Anemia Virus (ISAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+description: Learn about Infectious Salmon Anemia (ISA) in aquaculture fish like Atlantic salmon. Characterized by pale gills, swollen organs, and high mortality rates, ISA is caused by the infectious salmon anemia virus (ISAV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - InfectiousSalmonAnemia
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -22,23 +22,23 @@ Last E: Tony Chen (June 2025)
 ---
 ## Overview
 
-### What is ISA
+### What is ISA?
 
-Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (Salmo salar). Caused by the Infectious Salmon Anemia Virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (Oncorhynchus mykiss) and sea trout (Salmo trutta L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (*Salmo salar*). Caused by the infectious salmon anemia virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (*Oncorhynchus mykiss*) and sea trout (*Salmo trutta* L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
 
-## Symptoms of Infectious Salmon Anemia
+## Clinical Signs of Infectious Salmon Anemia
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
-    - **Pale gills:** This is indicative of severe anemia and one of the earliest signs of ISA [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - **Pale gills:** This is indicative of severe anaemia and one of the earliest signs of ISA [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
     - **Swollen and darkened organs:** The liver may appear darkened, and there may be accumulation of fluid in the body cavity (ascites) [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Hemorrhages:** Internal bleeding in organs, including blood spots in the eyes [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+    - **Haemorrhages:** Internal bleeding in organs, including blood spots in the eyes [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
     - **Exophthalmia:** Bulging eyes are often observed in affected fish [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Infected fish exhibit reduced activity levels [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 **Progression of Symptoms**
 
@@ -68,7 +68,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms, especially if the hematocrit is less than 10% [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Clinical Examination:** Observation of physical and behavioural symptoms, especially if the hematocrit is less than 10% [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 - **Laboratory Tests:**
     - **PCR:** RT-PCR is used to detect viral nucleic acids [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
@@ -79,12 +79,12 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 **Differential Diagnosis**
 
-- **Distinguishing ISA from Other Diseases:** It is crucial to differentiate ISA from other causes of anemia and hemorrhages, as well as conditions like winter ulcer and septicemias caused by Moritella viscosa [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Distinguishing ISA from Other Diseases:** It is crucial to differentiate ISA from other causes of anaemia and haemorrhages, as well as conditions like winter ulcer and septicaemias caused by *Moritella viscosa* [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 ### Treatment and Prevention
 
 **Treatment Options**
-- Vaccines are currently available from pharmaceutical suppliers to the industry. [^1]
+- Vaccines are currently available from pharmaceutical suppliers to the industry. [16](https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner)
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
@@ -190,7 +190,7 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
     - An epizootic in Scotland in 1998-1999 cost an estimated $32 million (U.S.) to eradicate [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
     - Recurring outbreaks have continued to impact the industry economically [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
-- **Treatment & Management:*
+- **Treatment & Management:**
     - Scotland has implemented strict biosecurity measures to control ISA, including culling infected fish and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 
 
@@ -200,9 +200,9 @@ Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predomi
 
 Recent studies on Infectious Salmon Anemia (ISA) in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
-1. Chase‑Topping, M., Pooley, C., Moghadam, H. K., Hillestad, B., Lillehammer, M., Sveen, L., & Wilson, A. (2021, January 9). Impact of vaccination and selective breeding on the transmission of Infectious salmon anemia virus. Aquaculture, 535, Article 736365. https://doi.org/10.1016/j.aquaculture.2021.736365
-2. Mikalsen, A. B., Sindre, H., Torgersen, J., & Rimstad, E. (2005). Protective effects of a DNA vaccine expressing the infectious salmon anemia virus hemagglutinin‑esterase in Atlantic salmon. _Vaccine, 23_(41), 4895–4905. https://doi.org/10.1016/j.vaccine.2005.05.025
-3. Wolf, K. (1976). Prevention and control of viral diseases of salmonids. _Journal of the Fisheries Research Board of Canada, 33_(4), 1059–1066. https://pubs.usgs.gov/publication/70162252
+1. Chase‑Topping, M., Pooley, C., Moghadam, H. K., Hillestad, B., Lillehammer, M., Sveen, L., & Wilson, A. (2021, January 9). Impact of vaccination and selective breeding on the transmission of Infectious salmon anaemia virus. Aquaculture, 535, Article 736365. https://doi.org/10.1016/j.aquaculture.2021.736365
+2. Mikalsen, A. B., Sindre, H., Torgersen, J., & Rimstad, E. (2005). Protective effects of a DNA vaccine expressing the infectious salmon anaemia virus hemagglutinin‑esterase in Atlantic salmon. *Vaccine, 23*(41), 4895–4905. https://doi.org/10.1016/j.vaccine.2005.05.025
+3. Wolf, K. (1976). Prevention and control of viral diseases of salmonids. *Journal of the Fisheries Research Board of Canada, 33*(4), 1059–1066. https://pubs.usgs.gov/publication/70162252
 
 These studies represent advancements in understanding the prevention, control, and economic impact of ISA in various regions, particularly in Norway and other countries with significant salmon farming industries.
 
@@ -219,7 +219,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-7-26
 
-**Tags:** #InfectiousSalmonAnemia, #ISA, #ISAV, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaTrout, #Norway, #Scotland, #FaroeIslands, #Chile, #Canada, #ViralDisease, #Virus 
+**Tags:** #InfectiousSalmonAnemia, #ISA, #ISAV, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaTrout, #Norway, #Scotland, #FaroeIslands, #Chile, #Canada, #ViralDisease, #Virus 
 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
@@ -228,7 +228,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pancreas Disease (PD)]]
 [[Piscine Reovirus (PRV)]]
 
-**Resources:**
+**Citations:**
 [1] https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf
 [2] https://www.vetinst.no/en/diseases/infectious-salmon-anemia
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/
@@ -244,7 +244,4 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/?utm_source=chatgpt.com
 [14] https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf
 [15] https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007
-
----
-
-[^1]: https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner
+[16] https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner

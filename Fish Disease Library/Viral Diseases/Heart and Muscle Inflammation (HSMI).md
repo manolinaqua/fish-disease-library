@@ -1,11 +1,11 @@
 ---
 title: Heart and Muscle Inflammation (HSMI)
-description: Learn about Heart and Skeletal Muscle Inflammation (HSMI) in aquaculture fish like Atlantic salmon. Characterized by muscle lesions, cardiac damage, and lethargy, HSMI is caused by Piscine orthoreovirus (PRV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+description: Learn about Heart and Skeletal Muscle Inflammation (HSMI) in aquaculture fish like Atlantic salmon. Characterized by muscle lesions, cardiac damage, and lethargy, HSMI is caused by piscine orthoreovirus (PRV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - HeartandSkeletalMuscleInflammation
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - CohoSalmon
@@ -15,22 +15,22 @@ tags:
 ## Overview
 
 ### What is HSMI?
-Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease affecting farmed Atlantic salmon (Salmo salar). It is caused by the Piscine orthoreovirus (PRV), leading to severe inflammation of the heart and skeletal muscles. First detected in Norway in 1999, HSMI has since been reported in other major salmon farming regions, including Scotland and Canada, causing substantial economic losses. HSMI primarily affects Atlantic salmon but has also been observed in other salmonid species, including rainbow trout (Oncorhynchus mykiss) and coho salmon (Oncorhynchus kisutch) [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
+Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease affecting farmed Atlantic salmon (*Salmo salar*). It is caused by the piscine orthoreovirus (PRV), leading to severe inflammation of the heart and skeletal muscles. First detected in Norway in 1999, HSMI has since been reported in other major salmon farming regions, including Scotland and Canada, causing substantial economic losses. HSMI primarily affects Atlantic salmon but has also been observed in other salmonid species, including rainbow trout (*Oncorhynchus mykiss*) and coho salmon (*Oncorhynchus kisutch*) [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/15264718/)[3](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
 
-## Symptoms of Heart and Skeletal Muscle Inflammation
+## Clinical Signs of Heart and Skeletal Muscle Inflammation
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Muscle Lesions:** Inflammation and degradation of skeletal muscles, often visible as pale or white streaks.
     - **Cardiac Damage:** Inflammation and damage to the heart muscle, affecting its function.
-    - **Anemia:** Pale gills and organs due to reduced red blood cells.
+    - **Anaemia:** Pale gills and organs due to reduced red blood cells.
     - **Pericardial Effusion:** Accumulation of fluid around the heart.
     - **Other Signs:** Pale heart, yellow liver, ascites, swollen spleen, and petechiae in the perivisceral fat [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[2](https://pubmed.ncbi.nlm.nih.gov/15264718/).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and swimming stamina.
-    - **Loss of Appetite:** Decreased feeding behavior and subsequent weight loss.
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss.
     - **Abnormal Swimming Patterns:** Fish may display erratic or weakened swimming due to muscle damage [1](https://www.int-res.com/articles/dao2004/59/d059p217.pdf)[3](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
 
 **Progression of Symptoms**
@@ -61,7 +61,7 @@ Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease aff
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of HSMI.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of HSMI.
 
 - **Laboratory Tests:**
     - **PCR (Polymerase Chain Reaction):** Detects PRV genetic material in fish tissues.
@@ -130,11 +130,11 @@ Heart and Skeletal Muscle Inflammation (HSMI) is a significant viral disease aff
 
 ### Latest Research Findings
 
-1. **"Piscine orthoreovirus (PRV) replicates in Atlantic salmon (Salmo salar L.) erythrocytes ex vivo"**  
+1. **"Piscine orthoreovirus (PRV) replicates in Atlantic salmon (*Salmo salar* L.) erythrocytes ex vivo"**  
     Authors: Wessel, Ø., et al.  
     Reference: Wessel, Ø., et al. (2015). Veterinary Research, 46(1), 26.  
     [Link to study](https://veterinaryresearch.biomedcentral.com/articles/10.1186/s13567-015-0154-7)
-2. **"Experimental transmission of heart and skeletal muscle inflammation (HSMI) in Atlantic salmon Salmo salar"**  
+2. **"Experimental transmission of heart and skeletal muscle inflammation (HSMI) in Atlantic salmon *Salmo salar*"**  
     Authors: Kongtorp, R. T., et al.  
     Reference: Kongtorp, R. T., et al. (2004). Diseases of Aquatic Organisms, 59(2), 105-112.  
     [Link to study](https://www.int-res.com/abstracts/dao/v59/n2/p105-112/)
@@ -157,7 +157,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Title:** Heart and Skeletal Muscle Inflammation
 **Date:** 2024-07-12
-**Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonoids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
+**Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Infectious Pancreatic Necrosis (IPN)]]

@@ -5,7 +5,7 @@ tags:
   - PiscineReovirus
   - Virus
   - ViralDisease
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - ChinookSalmon
@@ -19,11 +19,11 @@ tags:
 ## Overview
 
 ### What is Piscine Reovirus (PRV)?
-Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid species, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and Pacific salmon species. PRV is associated with diseases such as Heart and Skeletal Muscle Inflammation (HSMI) in farmed Atlantic salmon and jaundice syndrome in Chinook salmon. First identified in Norway in the 1990s, PRV has since been detected in many aquaculture regions worldwide, including Canada, Scotland, Chile, and Japan [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384080/).
+Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid species, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and Pacific salmon species. PRV is associated with diseases such as Heart and Skeletal Muscle Inflammation (HSMI) in farmed Atlantic salmon and jaundice syndrome in Chinook salmon. First identified in Norway in the 1990s, PRV has since been detected in many aquaculture regions worldwide, including Canada, Scotland, Chile, and Japan [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384080/).
 
-## Symptoms of Piscine Reovirus Infection
+## Clinical Signs of Piscine Reovirus Infection
 
-## Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     
@@ -36,7 +36,7 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
         
     - **Jaundice Syndrome:**
         - **Yellowing:** Jaundice observed in skin, gills, and eyes.
-        - **Anemia:** Pale gills and organs.
+        - **Anaemia:** Pale gills and organs.
         - **Liver and Kidney Degeneration:** Necrotic lesions in liver and kidney [2](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
         
 
@@ -49,7 +49,7 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
 
 - **Impact on Fish Health:** PRV infections can compromise immune function and overall vitality, potentially increasing susceptibility to secondary infections [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384080/).
 
-## Causes of Piscine Reovirus Infection
+### Causes of Piscine Reovirus Infection
 
 **Etiology**
 
@@ -66,11 +66,11 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
 
 - **Farm Management Practices:** High-density aquaculture settings may facilitate virus spread.
 
-## Diagnosis
+### Diagnosis
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioral symptoms indicative of PRV infection.
+- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of PRV infection.
 
 - **Laboratory Tests:**
     - **RT-qPCR:** Detects PRV genetic material in fish tissues.
@@ -81,7 +81,7 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
 
 - **Distinguishing PRV from Other Diseases:** It is crucial to differentiate PRV-associated conditions from diseases with similar symptoms, such as Erythrocytic Inclusion Body Syndrome (EIBS) [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
 
-## Treatment and Prevention
+### Treatment and Prevention
 
 **Treatment Options**
 
@@ -93,7 +93,7 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
     - Implementing strict quarantine measures for new stock to prevent the introduction of PRV.
     - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
 
-## Case Studies
+### Case Studies
 
 **Real-World Examples**
 
@@ -101,7 +101,7 @@ Piscine Orthoreovirus (PRV) is a viral pathogen that primarily affects salmonid 
     
     - **Pacific Northwest:** PRV has been detected in both wild and farmed salmonids since at least 1987, possibly as early as 1977 [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
     - **Canada:** PRV was found in 95% or more of escaped farmed Atlantic salmon in Washington State and British Columbia [5](https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1148-2).
-    - **Japan:** PRV-2 has been associated with EIBS and jaundice/anemia in farmed coho salmon [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
+    - **Japan:** PRV-2 has been associated with EIBS and jaundice/anaemia in farmed coho salmon [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
 
 - **Research Outcomes:**
     
@@ -142,7 +142,7 @@ These findings highlight the complex nature of PRV infections and the need for c
     - The costs associated with managing outbreaks and implementing biosecurity measures have also added to the economic burden [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
 
 - **Treatment & Management:**
-    - The Norwegian industry has implemented various control measures, including early detection, biosecurity protocols, and treatments such as freshwater baths and hydrogen peroxide[1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf)[2](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
+    - There are no specific antiviral treatments for PRV; the Norwegian industry instead relies on early detection and biosecurity protocols to limit spread[1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf)[2](https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html).
     - Research is ongoing to develop vaccines and other preventive strategies to mitigate the impact of PRV [4](https://www.dnr.wa.gov/sites/default/files/publications/PRV%20whitepaper%20revised%20Sept%202017.pdf)[1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf).
 
 
@@ -152,14 +152,18 @@ These findings highlight the complex nature of PRV infections and the need for c
 
 Recent studies on PRV in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
 
-1. **"Effect of vaccines against pancreas disease in farmed Atlantic salmon"**  
-    Authors: Røsæg, M. V., et al.  
-    Reference: Røsæg, M. V., et al. (2021). Effect of vaccines against pancreas disease in farmed Atlantic salmon. Journal of Fish Diseases, 44(11), 1695-1707.  
-    [Link to study](https://pubmed.ncbi.nlm.nih.gov/34402092/)
-2. **"Prevention and control of viral diseases of salmonids"**  
-    Authors: Wolf, K.  
-    Reference: Wolf, K. (1976). Prevention and control of viral diseases of salmonids. Journal of the Fisheries Research Board of Canada, 33(4), 1059-1066.  
-    [Link to study](https://pubs.usgs.gov/publication/70162252)
+1. **"Consequences of Piscine orthoreovirus genotype 1 (PRV-1) infections in Chinook salmon, coho salmon and rainbow trout"**  
+    Authors: Purcell, M. K., Powers, R. L., Taksdal, T., McKenney, D., Conway, C. M., Elliott, D. G., Polinski, M., Garver, K., & Winton, J.  
+    Reference: Purcell, M. K., et al. (2020). Journal of Fish Diseases, 43(7), 719–728. https://doi.org/10.1111/jfd.13182  
+    [Link to study](https://pmc.ncbi.nlm.nih.gov/articles/PMC7384080/)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384080/)
+
+    PRV-1 replicated in all three Pacific salmonid species tested but caused no notable disease or HSMI-consistent lesions, suggesting the Pacific strain poses lower disease risk than virulent Norwegian strains.
+2. **"High-load reovirus infections do not imply physiological impairment in salmon"**  
+    Authors: Zhang, Y., Polinski, M. P., Morrison, P. R., Brauner, C. J., Farrell, A. P., & Garver, K. A.  
+    Reference: Zhang, Y., et al. (2019). Frontiers in Physiology, 10, 114. https://doi.org/10.3389/fphys.2019.00114  
+    [Link to study](https://pmc.ncbi.nlm.nih.gov/articles/PMC6425399/)[6](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6425399/)
+
+    Atlantic salmon with extremely high PRV viral loads showed no sustained impairment in respiratory capacity, indicating viral detection alone does not imply disease.
 
 These studies represent advancements in understanding the prevention, control, and economic impact of PRV in various regions, particularly in Norway and other countries with significant salmon farming industries.
 
@@ -175,7 +179,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-07-26
 
-**Tags:** #PiscineReovirus, #PRV, #HSMI, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Chile, #Canada, #Scotland, #FaroeIslands, #ViralDisease, #Virus 
+**Tags:** #PiscineReovirus, #PRV, #HSMI, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Chile, #Canada, #Scotland, #FaroeIslands, #ViralDisease, #Virus 
 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]

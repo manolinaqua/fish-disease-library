@@ -6,7 +6,7 @@ This open-source library brings together scientific knowledge, diagnostic tools,
 ![[attachments/Fish Icon - 2 1.png]]
 ## Getting Started
 
-To get started, explore our list of top diseases featured. Each entry includes detailed information on symptoms, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.
+To get started, explore our list of top diseases featured. Each entry includes detailed information on clinical signs, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.
 
 ## About the Library
 
@@ -15,7 +15,7 @@ Manolin's Fish Disease Library (beta) is a dynamic resource designed to centrali
 ## What’s Inside
 
 - Detailed descriptions of common and emerging fish diseases
-- Symptoms, causes, and diagnosis guidance
+- Clinical signs, causes, and diagnosis guidance
 - Research on treatments and prevention strategies
 - Scientific references and supporting resources
 

@@ -9,10 +9,11 @@ We’re especially grateful to those who have volunteered their time, expertise,
 - Kelly Haugen (https://github.com/kelly-haugen)
 - Natalie Brennan (https://github.com/natty367)
 - Samaneh Mousavi (https://github.com/SamanehM99)
+- Agustín Piña Elgueda (https://github.com/agustinpina)
 
 ## Outside contributors
 - Kyle Rogers (https://github.com/kyro5555)
-- Agustín Piña Elgueda (https://github.com/agustinpina)
+- REllulbio (https://github.com/REllulbio)
  
 
 ![[manolin_logo_black.png]]

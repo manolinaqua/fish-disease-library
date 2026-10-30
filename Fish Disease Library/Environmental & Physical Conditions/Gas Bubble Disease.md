@@ -4,7 +4,7 @@ description: Learn about Gas Bubble Disease (GBD) in fish, a non-infectious cond
 tags:
   - GasBubbleDisease
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -14,28 +14,28 @@ tags:
 ## Overview
 
 ### What is Gas Bubble Disease (GBD)?
-Gas Bubble Disease (GBD), or Gas Bubble Trauma, is a non-infectious condition that affects various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other freshwater and marine fish. It is caused by supersaturation of water with gases such as nitrogen or oxygen, leading to the formation of gas bubbles in the blood and tissues of fish [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/). GBD can result in significant economic losses due to high mortality rates and impaired fish health. The disease can manifest in a chronic form at around 103% total gas pressure (TGP) and in an acute form when TGP exceeds 110-115% [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
+Gas Bubble Disease (GBD), or Gas Bubble Trauma, is a non-infectious condition that affects various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other freshwater and marine fish. It is caused by supersaturation of water with gases such as nitrogen or oxygen, leading to the formation of gas bubbles in the blood and tissues of fish [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/). GBD can result in significant economic losses due to high mortality rates and impaired fish health. The disease can manifest in a chronic form at around 103% total gas pressure (TGP) and in an acute form when TGP exceeds 110-115% [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
-## Symptoms of Gas Bubble Disease
+## Clinical Signs of Gas Bubble Disease
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
     - **Gas Bubbles:** Visible gas bubbles under the skin, in the eyes, gills, fins, and other tissues [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
     - **Exophthalmia:** Protruding or bulging eyes due to gas bubbles [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
-    - **Hemorrhages:** Reddened areas on the skin, fins, and internal organs due to ruptured blood vessels [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
+    - **Haemorrhages:** Reddened areas on the skin, fins, and internal organs due to ruptured blood vessels [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
     - **Abdominal Distension:** Swollen abdomen due to gas accumulation in internal organs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
-    - **Loss of Appetite:** Decreased feeding behavior and significant weight loss [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
+    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
     - **Abnormal Swimming Patterns:** Erratic or sluggish swimming due to discomfort and distress from gas bubbles [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
 
 **Progression of Symptoms**
 
 - **Early Stages:** Subtle signs such as reduced feed intake and slight lethargy [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
-- **Advanced Stages:** Pronounced physical symptoms including visible gas bubbles, exophthalmia, and hemorrhages, leading to high mortality if not managed [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
+- **Advanced Stages:** Pronounced physical symptoms including visible gas bubbles, exophthalmia, and haemorrhages, leading to high mortality if not managed [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
 - **Impact on Fish Health:** GBD severely compromises the ability of fish to function normally, leading to stress, reduced growth rates, and higher susceptibility to secondary infections [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf)[3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
@@ -66,7 +66,7 @@ Gas Bubble Disease (GBD), or Gas Bubble Trauma, is a non-infectious condition th
 
 **Differential Diagnosis**
 
-- **Distinguishing GBD from Other Conditions:** It is crucial to differentiate GBD from other conditions with similar symptoms, such as bacterial infections that cause hemorrhages and other physical abnormalities [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf)[3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
+- **Distinguishing GBD from Other Conditions:** It is crucial to differentiate GBD from other conditions with similar symptoms, such as bacterial infections that cause haemorrhages and other physical abnormalities [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf)[3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
 
 ### Treatment and Prevention
 
@@ -142,7 +142,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2024-08-14
 
-**Tags:** #GasBubbleDisease, #Salmonoids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Canada, #Chile, #Scotland, #environmentalconditions
+**Tags:** #GasBubbleDisease, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Canada, #Chile, #Scotland, #environmentalconditions
 ##### Other Environmental & Physical Conditions
 [[Hemorrhagic Diathesis]]
 [[Nephrocalcinosis]]
