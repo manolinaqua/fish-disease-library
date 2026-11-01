@@ -17,7 +17,7 @@ tags:
 ## Overview
 
 ### What are Winter Wounds?
-Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (*Salmo salar*), typically occurring during the colder months. These wounds are primarily caused by bacterial infections, particularly *Moritella viscosa*, and are exacerbated by cold water temperatures, significantly impacting fish health and welfare [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon). Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. While primarily affecting Atlantic salmon, other salmonid species can also suffer from similar conditions under cold water temperatures.
+Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (*Salmo salar*), typically occurring during the seawater phase. The condition is characterized by superficial to deep skin lesions that develop primarily during the late autumn, winter, and early spring when seawater temperatures drop below 7°C–10°C [7](https://www.mdpi.com/2673-9917/3/3/15). These wounds are primarily caused by bacterial infections, particularly *Moritella viscosa*, and are exacerbated by cold water temperatures, significantly impacting fish health and welfare [1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon). Classical winter ulcer disease is caused by the bacterium _Moritella viscosa_. Other bacteria, particularly _Tenacibaculum_ spp., can cause similar lesions or occur alongside _M. viscosa_ in mixed infections [8](https://www.vetinst.no/sykdom-og-agens/vintersar). Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. While primarily affecting Atlantic salmon, other salmonid species can also suffer from similar conditions under cold water temperatures. 
 
 ## Clinical Signs of Winter Wounds
 
@@ -170,5 +170,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [4] https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon
 [5] https://www.researchgate.net/figure/Examples-of-wounds-winter-ulcers-that-result-in-a-downgrading_fig2_297677152
 [6] https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/
+[7] https://www.mdpi.com/2673-9917/3/3/15
+[8] https://www.vetinst.no/sykdom-og-agens/vintersar
 
 - - - 
