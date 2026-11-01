@@ -24,12 +24,14 @@ Winter wounds, also known as winter ulcers or winter sores, are a common conditi
 ### Common Signs
 
 - **Physical Signs:**
-    - **Skin Lesions:** Open sores or ulcers on the skin, often starting on the scales and potentially reaching muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+    - **Skin Lesions:** Open sores or ulcers on the skin, often oval shaped, ranging from small, superficial lesions to extensive, deep ulcers that expose or involve the underlying muscle. In severe cases, ulcers may penetrate the abdominal wall and open into the abdominal cavity [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon) [8](https://www.vetinst.no/sykdom-og-agens/vintersar). 
     - **Inflammation:** Reddened and swollen areas around the wounds.
-    - **Superficial to Deep Wounds:** Ranging from superficial wounds to deep ulcers affecting muscle tissue [2](https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon)[4](https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon).
+    - **Healing lesions**: Recovering ulcers may develop a smooth,  whitish rim of newly formed skin around their edges [9](https://pharmaq.com/en/archive/winter-lesions-and-their-diagnostics-and-management/).
+    - **Septicaemia:** In severe cases, bacteria enters the bloodstream resulting in systemic infection. Internal findings may include haemorrhages in the organs and an enlarged spleen. Liver haemorrhages may appear as small pinpoint spots (petechiae) [8](https://www.vetinst.no/sykdom-og-agens/vintersar)
+
 
 - **Behavioural Changes:**
-    - **Reduced Activity:** Fish may show signs of discomfort and reduced mobility due to wounds.
+    - **Reduced Activity:** Infected fish become lethargic and disoriented, often floating or swimming aimlessly near the surface of the cage [10](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
 
 **Progression of Symptoms**
 
@@ -172,5 +174,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [6] https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/
 [7] https://www.mdpi.com/2673-9917/3/3/15
 [8] https://www.vetinst.no/sykdom-og-agens/vintersar
-
+[9] https://pharmaq.com/en/archive/winter-lesions-and-their-diagnostics-and-management/
+[10] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/
 - - - 
