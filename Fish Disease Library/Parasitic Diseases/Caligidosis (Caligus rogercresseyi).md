@@ -27,7 +27,7 @@ Caligidosis is the infestation of fish by *Caligus rogercresseyi*, a sea louse (
 
 It occurs in all farmed salmonids and in native wild fish such as róbalo, pejerrey and lenguado. Atlantic salmon (*Salmo salar*) and rainbow trout (*Oncorhynchus mykiss*) are the most susceptible, and coho salmon (*Oncorhynchus kisutch*) the least. Infestations were first reported in rainbow trout in Los Lagos in the 1980s, in Atlantic salmon in Aysén in the 1990s, and in Magallanes in 2017.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3)[3](https://doi.org/10.3389/fvets.2020.615039)
 
-Its life cycle has eight stages: three planktonic (two nauplii and the infective copepodid), four chalimus stages attached to the host, and the adult.[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3) Temperatures above 4.2 °C and salinities above 24 ppt speed up its development and favour its proliferation.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)
+Its life cycle has eight stages, three of them planktonic (see Causes).[1](https://faolex.fao.org/docs/pdf/chi112982.pdf)[2](https://doi.org/10.1038/s41598-021-92425-3) Temperatures above 4.2 °C and salinities above 24 ppt speed up its development and favour its proliferation.[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf)
 
 ## Clinical Signs of Caligidosis (*Caligus rogercresseyi*)
 
@@ -39,7 +39,7 @@ At its attachment and feeding sites, the parasite can break the skin and cause s
 
 **Physiological and Behavioural Signs**
 
-Infestation disrupts the osmotic barrier of the skin and reduces appetite and feed conversion.[3](https://doi.org/10.3389/fvets.2020.615039) Under experimental conditions, fin damage was associated with higher plasma glucose and cortisol, both stress indicators, which earlier work linked to more than six adult parasites per fish. [5](https://doi.org/10.3390/ani10071166)
+Infestation disrupts the osmotic barrier of the skin and reduces appetite and feed conversion.[3](https://doi.org/10.3389/fvets.2020.615039) Under experimental conditions, fin damage was associated with higher plasma glucose and cortisol, both stress indicators, which earlier work linked to more than six adult parasites per fish.[5](https://doi.org/10.3390/ani10071166)
 
 **Secondary Infections**
 
@@ -84,7 +84,7 @@ The Instituto de Fomento Pesquero (IFOP) has monitored antiparasitic resistance 
 
 **Pharmacological and Non-Pharmacological Treatments**
 
-Chile introduced rules for the integrated pest management of sea lice in 2007, but medicines remain the main control tool, and non-pharmacological treatments have been available since 2016. In 2021, 7.72 g of medicines were prescribed per tonne of harvested salmon, mostly azamethiphos (47%) and hexaflumuron (45.5%), plus 5,532 t of hydrogen peroxide.[17](https://doi.org/10.1111/raq.12815) 
+Chile introduced rules for the integrated pest management of sea lice in 2007, but medicines remain the main control tool, and non-pharmacological treatments have been available since 2016. In 2021, 7.72 g of medicines were prescribed per tonne of harvested salmon, mostly azamethiphos (47%) and hexaflumuron (45.5%), plus 5,532 t of hydrogen peroxide.[17](https://doi.org/10.1111/raq.12815)
 
 **Declining Efficacy**
 
@@ -92,7 +92,7 @@ Producer-reported efficacy fell significantly between 2016 and 2021 for the thre
 
 **Hydrogen Peroxide**
 
-Hydrogen peroxide is applied as an immersion bath and was the most used product by weight in 2025. In 20-minute exposures, its EC50 for *C. rogercresseyi* was 709.8 ppm, and 825 ppm immobilised all lice, so mobile stages are likely to detach from the fish. Males recovered after about 30 minutes and females after about an hour, and recovered lice infested fish as well as unexposed ones. Exposed eggs had lower survival to the copepodid stage.[27](https://doi.org/10.1111/jfd.12691) In infested Atlantic salmon bathed for 20 minutes at 0, 600, 800 or 1,200 ppm, lice detachment rose with concentration, and females from treated groups produced less viable larvae.[28](https://doi.org/10.1016/j.aquaculture.2020.735170) Variants in cuticle and secretome genes are associated with differences in sensitivity to hydrogen peroxide and may become markers for field monitoring.[29](https://doi.org/10.1016/j.aquaculture.2023.739470)
+Hydrogen peroxide is applied as an immersion bath. Because of this route of administration, far larger quantities are used than of other antiparasitics (12,947 t in 2025), so its tonnage is not directly comparable with theirs.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf) In 20-minute exposures, its EC50 for *C. rogercresseyi* was 709.8 ppm, and 825 ppm immobilised all lice, so mobile stages are likely to detach from the fish. Males recovered after about 30 minutes and females after about an hour, and recovered lice infested fish as well as unexposed ones. Exposed eggs had lower survival to the copepodid stage.[27](https://doi.org/10.1111/jfd.12691) In infested Atlantic salmon bathed for 20 minutes at 0, 600, 800 or 1,200 ppm, lice detachment rose with concentration, and females from treated groups produced less viable larvae.[28](https://doi.org/10.1016/j.aquaculture.2020.735170) Variants in cuticle and secretome genes are associated with differences in sensitivity to hydrogen peroxide and may become markers for field monitoring.[29](https://doi.org/10.1016/j.aquaculture.2023.739470)
 
 **Freshwater Baths**
 
@@ -144,11 +144,11 @@ The weekly share of CAV at 3.0 OF or more ranged from 8.4% (week 49, December) t
 
 **Antiparasitic Use in 2025**
 
-Sernapesca reports antiparasitic use for the 315 production cycles whose harvest ended in 2025: 195 of Atlantic salmon, 107 of coho salmon and 13 of rainbow trout. These products mainly target *C. rogercresseyi*, together with non-pharmacological immersion treatments, whose use rose by 36.1% from 2024 (from 495 to 674 uses). Hydrogen peroxide is reported separately because of its much larger volumes and lower environmental impact, as it breaks down quickly into water and oxygen.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
+Sernapesca reports antiparasitic use for the 315 production cycles whose harvest ended in 2025: 195 of Atlantic salmon, 107 of coho salmon and 13 of rainbow trout. These products mainly target *C. rogercresseyi*. Non-pharmacological immersion treatments rose by 36.1% from 2024 (from 495 to 674 uses). Hydrogen peroxide is reported separately because of its much larger volumes and lower environmental impact, as it breaks down quickly into water and oxygen.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
 The other antiparasitics (azamethiphos, emamectin benzoate, deltamethrin and hexaflumuron) totalled 3.03 t, a national index of 2.52 g per tonne produced and 41.26% lower than in 2024. Azamethiphos and hexaflumuron made up 91.2% of this use. All are given as immersion baths except emamectin benzoate, which is given in feed. Use was concentrated in Atlantic salmon and, to a lesser extent, rainbow trout, with none in coho salmon, which Sernapesca links to its lower susceptibility.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
-Hydrogen peroxide was applied as immersion baths, mainly in Atlantic salmon in Los Lagos and Aysén. The 12,947 t used give an index of 10,795 g per tonne produced, with no significant change from 2024 (0.87%), and Sernapesca considers it an effective, lower-impact option against caligidosis.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
+Hydrogen peroxide was applied as immersion baths, only in Atlantic salmon, in Los Lagos and Aysén. The 12,947 t used give an index of 10,795 g per tonne produced, with no significant change from 2024 (0.87%), and Sernapesca considers it an effective, lower-impact option against caligidosis.[10](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf)
 
 | Species | Closed cycles | Antiparasitics other than hydrogen peroxide (index, g/t) | Hydrogen peroxide (index, g/t) |
 |---|---|---|---|
@@ -199,7 +199,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-01
+**Last Modified:** 2026-11-02
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
