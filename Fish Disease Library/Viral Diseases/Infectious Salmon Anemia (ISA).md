@@ -241,7 +241,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [10] https://webharvest.gov/peth04/20041029043154/http://www.lsc.usgs.gov/FHB/leaflets/FHB85.pdf
 [11] https://georgiastrait.org/press/nightmare-in-new-brunswick-a-lesson-for-bc/
 [12]https://inspection.canada.ca/en/animal-health/aquatic-animals/diseases/reportable-diseases/isa/facts
-[13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/?utm_source=chatgpt.com
+[13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story
 [14] https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf
 [15] https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007
 [16] https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner

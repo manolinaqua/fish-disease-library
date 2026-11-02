@@ -87,7 +87,7 @@ Yersiniosis is a serious septicemic bacterial disease, caused by the bacterium 
 
 **Risk Factors**
 
-- **Environmental Factors:** Poor water quality, high stocking densities, and stress conditions can increase the severity of an outbreak in chronically infected fish [9]( https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323856249000063)
+- **Environmental Factors:** Poor water quality, high stocking densities, and stress conditions can increase the severity of an outbreak in chronically infected fish [9](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780323856249000063)
 
 - **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the bacterium  [1](https://www.agriculture.gov.au/sites/default/files/documents/anzsdp-yersiniosis.pdf). Delousing of latently infected fish (= infected but showing no signs, until triggered) can result in shedding and because of stress likely trigger a clinical outbreak [10](https://www.fhf.no/prosjekter/prosjektbasen/901505/)
 
