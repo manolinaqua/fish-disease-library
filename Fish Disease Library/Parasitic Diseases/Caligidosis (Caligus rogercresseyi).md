@@ -39,13 +39,13 @@ At its attachment and feeding sites, the parasite can break the skin and cause s
 
 **Physiological and Behavioural Signs**
 
-Infestation disrupts the osmotic barrier of the skin and reduces appetite and feed conversion.[3](https://doi.org/10.3389/fvets.2020.615039) In the same experiment, fin damage was associated with higher plasma glucose and cortisol, both stress indicators, which earlier work linked to more than six adult parasites per fish. The authors could not separate direct parasite damage from the effect of stress.[5](https://doi.org/10.3390/ani10071166)
+Infestation disrupts the osmotic barrier of the skin and reduces appetite and feed conversion.[3](https://doi.org/10.3389/fvets.2020.615039) Under experimental conditions, fin damage was associated with higher plasma glucose and cortisol, both stress indicators, which earlier work linked to more than six adult parasites per fish. [5](https://doi.org/10.3390/ani10071166)
 
 **Secondary Infections**
 
 Skin damage opens the way to pathogens and increases susceptibility to bacterial and viral infections.[2](https://doi.org/10.1038/s41598-021-92425-3)[4](http://www.sernapesca.cl/sites/default/files/res.ex_.60-2022.pdf) The best documented interaction is with [[Salmonid Rickettsial Septicaemia (SRS)]], caused by *Piscirickettsia salmonis*. In a coinfection experiment, Atlantic salmon exposed to *P. salmonis* and to lice copepodids reached 100% mortality, against 46% (251 of 545 fish) with *P. salmonis* alone.[6](https://doi.org/10.1371/journal.pone.0095397) In vaccinated fish, coinfection cut accumulated survival from 42.7% to 5.2% and raised the bacterial load, which may help explain why vaccines perform worse in sea cages.[34](https://doi.org/10.1038/s41598-017-18180-6) On Chilean farms, adult lice abundance over 10 weeks was associated with SRS cumulative mortality over the next 10 weeks, equally in Atlantic salmon and rainbow trout.[35](https://doi.org/10.1016/j.prevetmed.2019.104771) In a 2014 to 2021 cohort, the level of ovigerous females was a key predictor of weekly SRS mortality risk and of the first SRS outbreak of a production cycle.[36](https://doi.org/10.1111/jfd.70097)
 
-The louse can also carry the virus that causes [[Infectious Salmon Anemia (ISA)]]. In experiments, it transmitted the virus to naïve Atlantic salmon even 48 hours after leaving its host, but the virus did not appear to replicate in the louse or reach its larvae. It therefore acts as a mechanical, not a biological, vector, raising the risk of spread within a farm and to other farms in the same hydrographic area.[37](https://doi.org/10.1016/j.aquaculture.2013.10.016)
+In experiments, it transmitted the virus that causes [[Infectious Salmon Anemia (ISA)]] to naïve Atlantic salmon even 48 hours after leaving its host, but the virus did not appear to replicate in the louse or reach its larvae. It therefore acts as a mechanical, not a biological, vector, raising the risk of spread within a farm and to other farms in the same hydrographic area.[37](https://doi.org/10.1016/j.aquaculture.2013.10.016)
 
 ### Causes of Caligidosis (*Caligus rogercresseyi*)
 
@@ -84,7 +84,7 @@ The Instituto de Fomento Pesquero (IFOP) has monitored antiparasitic resistance 
 
 **Pharmacological and Non-Pharmacological Treatments**
 
-Chile introduced rules for the integrated pest management of sea lice in 2007, but medicines remain the main control tool, and non-pharmacological treatments have been available since 2016. In 2021, 7.72 g of medicines were prescribed per tonne of harvested salmon, mostly azamethiphos (47%) and hexaflumuron (45.5%), plus 5,532 t of hydrogen peroxide.[17](https://doi.org/10.1111/raq.12815) Current use and the rules on treatment windows, rotation and usage caps are covered under Data Insights.
+Chile introduced rules for the integrated pest management of sea lice in 2007, but medicines remain the main control tool, and non-pharmacological treatments have been available since 2016. In 2021, 7.72 g of medicines were prescribed per tonne of harvested salmon, mostly azamethiphos (47%) and hexaflumuron (45.5%), plus 5,532 t of hydrogen peroxide.[17](https://doi.org/10.1111/raq.12815) 
 
 **Declining Efficacy**
 
@@ -92,7 +92,7 @@ Producer-reported efficacy fell significantly between 2016 and 2021 for the thre
 
 **Hydrogen Peroxide**
 
-Hydrogen peroxide is applied as an immersion bath and was the most used product by weight in 2025 (see Data Insights). In 20-minute exposures, its EC50 for *C. rogercresseyi* was 709.8 ppm, and 825 ppm immobilised all lice, so mobile stages are likely to detach from the fish. Males recovered after about 30 minutes and females after about an hour, and recovered lice infested fish as well as unexposed ones. Exposed eggs had lower survival to the copepodid stage.[27](https://doi.org/10.1111/jfd.12691) In infested Atlantic salmon bathed for 20 minutes at 0, 600, 800 or 1,200 ppm, lice detachment rose with concentration, and females from treated groups produced less viable larvae.[28](https://doi.org/10.1016/j.aquaculture.2020.735170) Variants in cuticle and secretome genes are associated with differences in sensitivity to hydrogen peroxide and may become markers for field monitoring.[29](https://doi.org/10.1016/j.aquaculture.2023.739470)
+Hydrogen peroxide is applied as an immersion bath and was the most used product by weight in 2025. In 20-minute exposures, its EC50 for *C. rogercresseyi* was 709.8 ppm, and 825 ppm immobilised all lice, so mobile stages are likely to detach from the fish. Males recovered after about 30 minutes and females after about an hour, and recovered lice infested fish as well as unexposed ones. Exposed eggs had lower survival to the copepodid stage.[27](https://doi.org/10.1111/jfd.12691) In infested Atlantic salmon bathed for 20 minutes at 0, 600, 800 or 1,200 ppm, lice detachment rose with concentration, and females from treated groups produced less viable larvae.[28](https://doi.org/10.1016/j.aquaculture.2020.735170) Variants in cuticle and secretome genes are associated with differences in sensitivity to hydrogen peroxide and may become markers for field monitoring.[29](https://doi.org/10.1016/j.aquaculture.2023.739470)
 
 **Freshwater Baths**
 
@@ -199,7 +199,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-10-20
+**Last Modified:** 2026-11-01
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
