@@ -125,9 +125,9 @@ GBD progresses through three characteristic stages [14](https://www.tandfonline.
  
   + **United States — Klamath River (2024):** Hundreds of thousands of newly hatched Chinook salmon fry died from GBD during the largest dam removal project in U.S. history. Rapid changes in river hydrodynamics caused acute gas supersaturation that overwhelmed the newly hatched fry before they could access compensatory depth, illustrating the particular vulnerability of early life stages to rapid TGP changes [4](https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project) 
 
-  + **United States — Columbia/Snake River System (ongoing):** Downstream supersaturation from hydroelectric dam spillways has caused recurring GBD mortality in migrating salmonids since the 1960s, with TGP of 120–140% documented immediately below major dams. NOAA research confirms that approximately 47% of steelhead displaying acute GBD signs can recover when provided access to compensatory depth, underpinning management strategies that rely on fish behaviour to mitigate exposure [9](https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf) [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243).
+  + **United States — Columbia/Snake River System (ongoing):** Downstream supersaturation from hydroelectric dam spillways has caused recurring GBD mortality in migrating juvenile salmonids since the 1960s. During high-spill years, TDG below Snake River dams has approached 140%, well above the 120% state limit. In a NOAA field experiment, about 47% of hatchery steelhead released with external GBD signs no longer showed them after migrating to the next dam and passing through its turbine intake and bypass system, consistent with depth compensation during passage. The authors note that this loss of signs means monitoring at dams can underestimate exposure [9](https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf) [8](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243).
 
-  + **Norway — Hydropower-Associated Supersaturation (1980s–present):** Gas supersaturation linked to hydropower operations has been documented across Norwegian river systems since the late 1980s, notably contributing to Atlantic salmon population decline in the Vosso watercourse [10](https://bora.uib.no/bora-xmlui/handle/1956/15374). Field studies in two Norwegian rivers recorded significant mortality in landlocked Atlantic salmon commencing at 108.3% TDG (depth-compensated), with mortality escalating sharply above 110% [16](https://link.springer.com/article/10.1007/s10750-020-04439-z). A controlled study exposing landlocked "bleke" Atlantic salmon to 111% TGP found that 90% developed clinical GBD signs within six days despite zero mortality over the study period, suggesting that sublethal field exposures may carry welfare costs not reflected in mortality statistics [12](https://www.nature.com/articles/s41598-024-53637-5).
+  + **Norway — Hydropower-Associated Supersaturation (1980s–present):** Gas supersaturation linked to hydropower operations has been documented across Norwegian river systems since the late 1980s, notably contributing to Atlantic salmon population decline in the Vosso watercourse [10](https://bora.uib.no/bora-xmlui/handle/1956/15374). Caged-smolt field studies in two Norwegian rivers recorded the onset of mortality and GBD signs in Atlantic salmon smolts at an average of 108.3% TDG (maximum 111.0%, measured at 0.55 m depth) over two days, with mortality differing significantly from controls from 110.2% TDG, suggesting Atlantic salmon may be more sensitive than Pacific salmonids [16](https://link.springer.com/article/10.1007/s10750-020-04439-z). A controlled study exposing landlocked "bleke" Atlantic salmon to 111% TGP found that 90% developed clinical GBD signs within six days despite zero mortality over the study period, suggesting that sublethal field exposures may carry welfare costs not reflected in mortality statistics [12](https://www.nature.com/articles/s41598-024-53637-5).
 
   + **Norway — RAS Oxygen Supplementation, Nofima Marin (2010):** Controlled experiments at a Norwegian research hatchery demonstrated GBD development in juvenile Atlantic salmon pre-smolts under progressive dissolved oxygen supersaturation. Subcutaneous gas bubbles appeared after 14 days at 160% O₂, with 10% of fish developing confirmed GBD at the 130–160% O₂ exposure level and approximately 50% affected at 190% O₂ after 16 days, confirming that oxygen-specific GBD represents a quantifiable risk in intensive salmon RAS production [2](https://www.sciencedirect.com/science/article/pii/S0044848610002875).
  
@@ -204,13 +204,13 @@ Recent studies on Gas Bubble Disease in farmed fish have substantially advanced 
    [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142)
  
 6. **"Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers"**
-   Authors: Pulg, U., et al.
-   Reference: Pulg, U., et al. (2020). Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. *Hydrobiologia*, *847*(8), 1775–1789.
+   Authors: Stenberg, S. K., Velle, G., Pulg, U., & Skoglund, H.
+   Reference: Stenberg, S. K., Velle, G., Pulg, U., & Skoglund, H. (2022). Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. *Hydrobiologia*, *849*(2), 527–538.
    [Link to study](https://link.springer.com/article/10.1007/s10750-020-04439-z)
  
 7. **"Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*)"**
-   Authors: Lemarié, G., et al.
-   Reference: Lemarié, G., et al. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*). *Aquaculture*, *311*(1–4), 194–203.
+   Authors: Lemarié, G., Hosfeld, C. D., Breuil, G., & Fivelstad, S.
+   Reference: Lemarié, G., Hosfeld, C. D., Breuil, G., & Fivelstad, S. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*). *Aquaculture*, *318*(1–2), 191–198.
    [Link to study](https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511)
  
 8. **"Establishment of a fish model to study gas-bubble lesions"**
@@ -219,8 +219,8 @@ Recent studies on Gas Bubble Disease in farmed fish have substantially advanced 
    [Link to study](https://www.nature.com/articles/s41598-022-10539-8)
  
 9. **"Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth?"**
-   Authors: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J.
-   Reference: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J. (2020). Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth? *Canadian Journal of Fisheries and Aquatic Sciences*, *77*(3), 506–514.
+   Authors: Pleizier, N. K., Nelson, C., Cooke, S. J., & Brauner, C. J.
+   Reference: Pleizier, N. K., Nelson, C., Cooke, S. J., & Brauner, C. J. (2020). Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth? *Canadian Journal of Fisheries and Aquatic Sciences*, *77*(3), 556–563.
    [Link to study](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243)
 
 These studies represent advancements in understanding the prevention, control, and economic impact of Gas Bubble Disease in various regions, particularly in Norway and other European countries with significant salmon farming industries.
