@@ -190,40 +190,44 @@ Recent studies on Gas Bubble Disease in farmed fish have substantially advanced 
  
 3. **"A meta-analysis of gas bubble trauma in fish"**
    Authors: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J.
-   Reference:  A meta‐analysis of gas bubble trauma in fish. Fish and Fisheries, 21(6), 1175-1194.
+   Reference: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J. (2020). A meta-analysis of gas bubble trauma in fish. *Fish and Fisheries*, *21*(6), 1175–1194.
    [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/faf.12496)
  
-5. **"Documentation of welfare and quality effects on farmed salmon during crowding, loading and transport directly from the deep (Bottom-Up)"**
+4. **"Documentation of welfare and quality effects on farmed salmon during crowding, loading and transport directly from the deep (Bottom-Up)"**
    Project leader: Silje Stensby-Skjærvik
    Reference: Ongoing. Forskningsfondet for fiskeri og akvakultur.
    [Link to study](https://www.fhf.no/prosjekter/prosjektbasen/901974/)
  
-6. **"Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.)"**
+5. **"Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.)"**
    Authors: Stensby-Skjærvik, O., et al.
    Reference: Stensby-Skjærvik, O., et al. (2025). Assessment of diagnostic tools to detect acute gas bubble disease in Atlantic salmon (*Salmo salar* L.). *Journal of Fish Diseases*, *48*(5), e14142.
    [Link to study](https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142)
  
-7. **"Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers"**
+6. **"Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers"**
    Authors: Pulg, U., et al.
    Reference: Pulg, U., et al. (2020). Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. *Hydrobiologia*, *847*(8), 1775–1789.
    [Link to study](https://link.springer.com/article/10.1007/s10750-020-04439-z)
  
-8. **"Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*)"**
+7. **"Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*)"**
    Authors: Lemarié, G., et al.
    Reference: Lemarié, G., et al. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (*Dicentrarchus labrax*). *Aquaculture*, *311*(1–4), 194–203.
    [Link to study](https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511)
  
-9. **"Establishment of a fish model to study gas-bubble lesions"**
+8. **"Establishment of a fish model to study gas-bubble lesions"**
    Authors: Velázquez-Wallraf, A., et al.
    Reference: Velázquez-Wallraf, A., et al. (2022). Establishment of a fish model to study gas-bubble lesions. *Scientific Reports*, *12*, 6592.
    [Link to study](https://www.nature.com/articles/s41598-022-10539-8)
  
-10. **"Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth?"**
+9. **"Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth?"**
    Authors: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J.
    Reference: Pleizier, N. K., Algera, D., Cooke, S. J., & Brauner, C. J. (2020). Understanding gas bubble trauma in an era of hydropower expansion: How do fish compensate at depth? *Canadian Journal of Fisheries and Aquatic Sciences*, *77*(3), 506–514.
    [Link to study](https://cdnsciencepub.com/doi/abs/10.1139/cjfas-2019-0243)
 
 These studies represent advancements in understanding the prevention, control, and economic impact of Gas Bubble Disease in various regions, particularly in Norway and other European countries with significant salmon farming industries.
+
+### Additional Resources
+
+- **Podcast (in Norwegian):** *Gassboblesyke - små bobler, store konsekvenser* ("Gas bubble disease: small bubbles, big consequences"). [Listen on Spotify](https://open.spotify.com/episode/7qeJ5giDGKdph8KuvLHHqh)
 
 ## Conclusion
 
