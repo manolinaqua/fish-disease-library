@@ -6,7 +6,7 @@ This open-source library brings together scientific knowledge, diagnostic tools,
 ![[attachments/Fish Icon - 2 1.png]]
 ## Getting Started
 
-To get started, explore our list of top diseases featured. Each entry includes detailed information on symptoms, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.
+To get started, explore our list of top diseases featured. Each entry includes detailed information on clinical signs, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.
 
 ## About the Library
 
@@ -15,7 +15,7 @@ Manolin's Fish Disease Library (beta) is a dynamic resource designed to centrali
 ## What’s Inside
 
 - Detailed descriptions of common and emerging fish diseases
-- Symptoms, causes, and diagnosis guidance
+- Clinical signs, causes, and diagnosis guidance
 - Research on treatments and prevention strategies
 - Scientific references and supporting resources
 
@@ -24,6 +24,8 @@ Manolin's Fish Disease Library (beta) is a dynamic resource designed to centrali
 The Fish Disease Library is an open-source project dedicated to community collaboration. We welcome contributions from fish health experts, researchers, and aquaculture professionals. Whether you have new disease data, improved diagnostic methods, research to reference, or treatment updates, your input can help keep the library current and valuable for everyone.
 
 To contribute, please visit our [GitHub repository](https://github.com/manolinaqua/fish-disease-library) and follow the contribution guidelines. Together, we can build a stronger, more comprehensive resource to support global aquaculture health.
+
+For significant contributions, we're currently offering honorariums structured based on the significance of the addition. To find out more details, please look at our [[Honorarium Program]].
 
 # Sponsors
 

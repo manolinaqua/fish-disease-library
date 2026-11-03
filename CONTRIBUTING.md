@@ -19,7 +19,9 @@ All downloads are free and don't require payment.
 
 #### Step 2: Clone the repository
 - Clone your newly forked version of the repository onto your computer. 
-	- You can find instructions on how to [clone your repository here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
+	- You can find instructions on how to [clone your repository here](https://docs.github.com/en/desktop/adding-and-cloning-repositories/cloning-a-repository-from-github-to-github-desktop)
+		- Copy the HTTPS format
+		- Press Clone, if you are happy where the folder sits on your computer - change it if not then press Clone
 
 #### Step 3: Open the repository in Obsidian
 - When you open Obsidian you should see an option to **Open folder as vault**. Click it.
@@ -28,22 +30,61 @@ All downloads are free and don't require payment.
 - **Important:** Before hitting Select make sure you have the `Fish Disease Libary` selected. So the final vault location should be `<your file system>/fish-disease-library/Fish Disease Library`
 	- If this step is not followed then links will not update appropriate.
 
-#### Step 4: Make edits and then "commit" your work
+#### You are now set up and ready to contribute!
+- Your Obsidian vault should look exactly the same as the [Fish Disease Library website](https://fishdiseases.manolinaqua.com/welcome.html). 
+- Your Github desktop should be empty (*if not see picture below)*. 
+	- As you edit in Obsidian the files changed will be listed on the left and the exact text changes on the right.
+	- 'Current branch' should be Main.
 
-- Whenever you make updates or create a new file be sure to save the updates you made in Obsidian.
-- To get your updates into **Github** you need perform a "commit". To do so add a short comment describing what you did and press the **commit file to branch** button.
+If it looks like this, right click on the orange dot and 'Dismiss Changes'
+![[Example of phantom changes.png]]
+
+
+
+
+## Editing, committing and making pull requests
+First, comment or open a new Issue on the [Github website](https://github.com/manolinaqua/fish-disease-library/issues) to say what you are working on and a estimated timeline. This is to coordinate and try avoid two people working on the same thing. If you are unsure, just comment or ask on the issue and someone will comment back.
+
+#### Step 4: Making edits in Obsidian
+- Simply start typing and making your changes. You can 'Cmd /Ctrl Z' if you want to go back
+- Obsidian **useful tips and tricks:**
+	- How to write citations, links to other chapters, headings and tags is described in [CONVENTIONS.md](CONVENTIONS.md). New chapters start from `Fish Disease Library/_Disease Chapter Template.md`.
+	- Find and 'Replace' is found under the 3 dots (...) option in the top right corner
+	- For further tips about Obsidian have a look at [this tutorial]([https://www.youtube.com/watch?v=z4AbijUCoKU](https://www.youtube.com/watch?v=z4AbijUCoKU)
+- If it’s been a few days since your last edit, use “Fetch origin” in GitHub Desktop to pull in any updates to existing files.
+	- **Note:** New diseases or sections may not appear automatically in your Obsidian/fork. To update your copy, you’ll need to sync it with the main repository.
+		- You can do this by navigating to your fork on GitHub (e.g., `https://github.com/<your-username>/fish-disease-library`) and clicking **“Sync fork.”**
+		- It’s recommended to sync your fork before making any changes, especially if some time has passed since your last update. Otherwise conflicts could occur. 
+
+#### Step 5: "Commit" your work
+
+- To get your updates into **Github** you need perform a "commit" from Github desktop
+- You'll see your changed files (pictured), then simply write a title e.g 'Update of *disease name*' and short description of the changes you made. 
+- Press the blue **commit file to main** button.
 	- Learn more about commits [here](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop#write-a-commit-message-and-push-your-changes)
-![Commit](./imgs/commit.png)
+ ![[commit.png]]
 
-#### Create a pull request in github
+- Then click the blue '**Push origin'** button on the right (pictured)
 
-- After you've made your edits, go to your github fork of the fish disease library on the github webpage. It is a link like the one below.
+![[Example pushing changes to Git website.png]]
+
+
+- This puts your changes on the public GitHub, but to draw attention and get your changes approved to go live in the library, you need to make a Pull Request when you are finished.
+
+#### 6. Create a pull request in GitHub
+
+- After you've made your edits, go to the GitHub webpage and click on your profile in the top right hand corner. This is your fork of the fish disease library on the github webpage (pictured). It is a link like the one below
 	- `https://github.com/<your user name>/fish-disease-library`
-- You should see a message similar to this on the top of your repo.
-![Pull Prompt](./imgs/pull_prompt.png)
-- Click the green button and you should see a menu similar to below. Make sure that the **base repository: manolinaqua/fish-disease-library** is selected on the left drop down.
+- Notice the commits you have made are there, click 'Contribute' then 'Open pull Request'
+
+![[Example opening a PR request.png]]
+
+- You should then see a menu similar to below. Make sure that the **base repository: manolinaqua/fish-disease-library** is selected on the left drop down.
+	- If there are conflicts (for example if you had not 'fetch origin' and the file you were working on was already changed by someone else), then you will need to go through and resolve conflicts.
 ![Pull Info](./imgs/pull_branch.png)
 - Then simply add a brief title stating what you did and follow the template in the description.
+	- Marking the [ ] boxes with an X (you might need to remove a space)
+	- Make sure to add the link of the issue you were addressing
 - Once complete click the **Create pull request** button, sit back, and wait for someone to review it!
 
 More information on Github's pull request process can be found here. [Example](https://docs.github.com/en/get-started/start-your-journey/hello-world)

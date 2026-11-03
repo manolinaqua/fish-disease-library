@@ -17,22 +17,10 @@ Follow the steps in the next section to contribute!
 
 ## Format of the Library
 
-For each disease, we follow a standard framework of information to keep things consistent across the platform. At a highlevel, these are the categories that we have for each disease:
+Every chapter follows the same framework so the library stays consistent: an Overview, Clinical Signs (with Causes, Diagnosis, Treatment and Prevention, and Case Studies), Data Insights, Research and References, and a Conclusion.
 
-1. Overview
-2. Symptoms
-    1. Causes
-    2. Diagnosis
-    3. Treatments and Prevention
-    4. Cases Studies
-3. Data Insights
-4. Latest Research and References
+The full rules for naming, section structure, frontmatter, tags, citations (APA) and links live in one place: **[CONVENTIONS.md](CONVENTIONS.md)**. Start a new chapter from the [disease chapter template](<Fish Disease Library/_Disease Chapter Template.md>), which is those rules with placeholders.
 
-When creating citiations we use **[APA](https://apastyle.apa.org/instructional-aids/reference-examples.pdf) style**, ensure that any new citations follow this format.
-
-Other than that, we follow the general style guide recommended by Obsidian's [Style guide](https://help.obsidian.md/Contributing+to+Obsidian/Style+guide).
-
-Feel free to look at an existing disease page to get a sense of how things should be formatted.
 ## How to Contribute
  
 Read this document to get detailed instructions on how to get set up and started.

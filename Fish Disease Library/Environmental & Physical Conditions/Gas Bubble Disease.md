@@ -4,7 +4,7 @@ description: Learn about Gas Bubble Disease (GBD) in fish, a non-infectious cond
 tags:
   - GasBubbleDisease
   - environmentalconditions
-  - Salmonoids
+  - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
@@ -26,18 +26,18 @@ The underlying physics follow Henry's Law: gas solubility in water is proportion
 
 GBD can manifest as a **chronic form** at around 103% TGP, characterised by slow, symptom-free mortality particularly in larvae and fry, or as an **acute form** when TGP exceeds 110–115%, producing rapid onset of clinical signs and heavy mortality [3](https://pubmed.ncbi.nlm.nih.gov/9289892/). Recent experimental work demonstrated that Atlantic salmon and brown trout parr develop acute GBD with median lethal times of 4–15 hours at 120% TGP, while rainbow trout parr are more tolerant (LT50 = 25 hours at equivalent levels) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556). GBD results in significant economic losses through direct mortality, impaired growth, and elevated susceptibility to secondary infections [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [13](https://onlinelibrary.wiley.com/doi/10.1111/faf.12496).
 
-## Symptoms of Gas Bubble Disease
+## Clinical Signs of Gas Bubble Disease
 
-### Common Symptoms
+### Common Signs
 
 - **Physical Signs:**
   + **Gas Bubbles:** Visible gas bubbles under the skin, in the eyes, gills, fins, lateral line, and buccal cavity. In larvae and fry, bubbles may appear between the yolk sac membrane and the perivitelline space, causing buoyancy disruption and forced surface gathering [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
   + **Exophthalmia:** Protruding or bulging eyes, often unilateral, due to gas accumulation in periorbital tissues. This is one of the most diagnostically recognisable external signs of GBD [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
-  + **Hemorrhages:** Reddened areas on the skin, fin bases, gills, and internal organs caused by vascular gas emboli rupturing capillaries. Petechial hemorrhages on gill lamellae are a consistent histopathological finding [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
+  + **Haemorrhages:** Reddened areas on the skin, fin bases, gills, and internal organs caused by vascular gas emboli rupturing capillaries. Petechial haemorrhages on gill lamellae are a consistent histopathological finding [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/).
   + **Fin Erosion:** Gas emboli in fin capillaries cause progressive erosion and whitening of fin tips, particularly in the pectoral and caudal fins, and are often the first grossly visible sign in parr [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
   + **Abdominal Distension:** Swollen abdomen due to gas accumulation in internal organs, particularly the swim bladder and gastrointestinal tract. Hyperinflation of the swim bladder produces permanent buoyancy dysfunction and is a critical cause of larval mortality in sea bream and sea bass larviculture [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf).
 
-- **Behavioral Changes:**
+- **Behavioural Changes:**
   + **Abnormal Buoyancy and Surface Gathering:** Fish float at the water surface, unable to swim down. In acute episodes, fish may jump repeatedly from the water, a response attributed to activation of nociceptors in the gill vasculature [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
   + **Loss of Appetite:** Decreased feeding behaviour and significant weight loss. Even sublethal supersaturation impairs nutrient digestibility and reduces growth rates in rainbow trout [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
   + **Abnormal Swimming Patterns:** Erratic swimming, loss of equilibrium, convulsions, and violent head-shaking in acute cases. Flared opercula, gaping mouth, and darkened skin are common terminal signs [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
@@ -48,7 +48,7 @@ GBD can manifest as a **chronic form** at around 103% TGP, characterised by slow
 GBD progresses through three characteristic stages [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2):
 
 * **Early Stages:** Microscopic bubbles will appear on the gills [5](https://veterinaryvisioncenter.com/theres-something-in-the-water-gas-bubble-disease-in-fish/) Gas pressure equilibration in tissues with nonlethal cavitation; subtle signs including mild lethargy, slightly reduced feed intake, and early fin-tip whitening. Morbidity increases but mortality remains low [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [14](https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2).
-* **Advanced Stages:** Rapid and heavy mortality with pronounced physical symptoms including visible gas bubbles, exophthalmia, and hemorrhages. Without correction of the supersaturation source, mass die-offs occur within hours at TGP ≥ 120% [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
+* **Advanced Stages:** Rapid and heavy mortality with pronounced physical symptoms including visible gas bubbles, exophthalmia, and haemorrhages. Without correction of the supersaturation source, mass die-offs occur within hours at TGP ≥ 120% [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [11](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556).
 * **Impact on Fish Health:** GBD severely compromises normal fish function, causing stress, reduced growth rates, swim bladder dysfunction, impaired osmoregulation, and elevated susceptibility to secondary bacterial, viral, and parasitic infections. Fish that survive acute exposure are more vulnerable to GBD upon any subsequent supersaturation event, as tissue damage from prior episodes accelerates re-development of lesions [1](https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf) [3](https://pubmed.ncbi.nlm.nih.gov/9289892/) [9](https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf).
 
 ### Causes of Gas Bubble Disease
@@ -237,9 +237,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-03-29
+**Last Modified:** 2026-11-03
  
-**Tags:** [#GasBubbleDisease](https://fishdiseases.manolinaqua.com/?query=tag:GasBubbleDisease), [#Salmonoids](https://fishdiseases.manolinaqua.com/?query=tag:Salmonoids), [#Salmon](https://fishdiseases.manolinaqua.com/?query=tag:Salmon), [#AtlanticSalmon](https://fishdiseases.manolinaqua.com/?query=tag:AtlanticSalmon), [#Trout](https://fishdiseases.manolinaqua.com/?query=tag:Trout), [#RainbowTrout](https://fishdiseases.manolinaqua.com/?query=tag:RainbowTrout), [#Norway](https://fishdiseases.manolinaqua.com/?query=tag:Norway), [#Canada](https://fishdiseases.manolinaqua.com/?query=tag:Canada), [#Chile](https://fishdiseases.manolinaqua.com/?query=tag:Chile), [#Scotland](https://fishdiseases.manolinaqua.com/?query=tag:Scotland), [#Iceland](https://fishdiseases.manolinaqua.com/?query=tag:Iceland), [#Mediterranean](https://fishdiseases.manolinaqua.com/?query=tag:Mediterranean), [#SeaBream](https://fishdiseases.manolinaqua.com/?query=tag:SeaBream), [#SeaBass](https://fishdiseases.manolinaqua.com/?query=tag:SeaBass), [#environmentalconditions](https://fishdiseases.manolinaqua.com/?query=tag:environmentalconditions)
+**Tags:** [#GasBubbleDisease](https://fishdiseases.manolinaqua.com/?query=tag:GasBubbleDisease), [#Salmonids](https://fishdiseases.manolinaqua.com/?query=tag:Salmonids), [#Salmon](https://fishdiseases.manolinaqua.com/?query=tag:Salmon), [#AtlanticSalmon](https://fishdiseases.manolinaqua.com/?query=tag:AtlanticSalmon), [#Trout](https://fishdiseases.manolinaqua.com/?query=tag:Trout), [#RainbowTrout](https://fishdiseases.manolinaqua.com/?query=tag:RainbowTrout), [#Norway](https://fishdiseases.manolinaqua.com/?query=tag:Norway), [#Canada](https://fishdiseases.manolinaqua.com/?query=tag:Canada), [#Chile](https://fishdiseases.manolinaqua.com/?query=tag:Chile), [#Scotland](https://fishdiseases.manolinaqua.com/?query=tag:Scotland), [#Iceland](https://fishdiseases.manolinaqua.com/?query=tag:Iceland), [#Mediterranean](https://fishdiseases.manolinaqua.com/?query=tag:Mediterranean), [#SeaBream](https://fishdiseases.manolinaqua.com/?query=tag:SeaBream), [#SeaBass](https://fishdiseases.manolinaqua.com/?query=tag:SeaBass), [#environmentalconditions](https://fishdiseases.manolinaqua.com/?query=tag:environmentalconditions)
  
 ##### Other Environmental & Physical Conditions
  

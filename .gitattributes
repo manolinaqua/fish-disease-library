@@ -1,0 +1,24 @@
+* text=auto
+
+# Obsidian / docs
+*.md text eol=lf
+
+# R ecosystem
+*.R text eol=lf
+*.Rmd text eol=lf
+*.qmd text eol=lf
+
+# Config / code
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.pdf binary
