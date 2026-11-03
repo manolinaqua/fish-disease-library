@@ -148,7 +148,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Farm Management Practices:**
     - Reduced stocking densities to decrease stress and transmission [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Site fallowing periods to break the infection cycle [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
-    - Control of sea lice coinfection which overrides vaccine protection. While *Caligus* infestation levels increased significantly over the years, SRS mortality risk remained constant, suggesting complex interactions [27](https://doi.org/10.1111/jfd.70097) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
+    - Control of sea lice coinfection which overrides vaccine protection. In Chilean farms (2014–2021), the level of egg-laying (ovigerous) female *Caligus* was a key predictor of weekly SRS mortality risk and of the first SRS outbreak of a production cycle, even though overall SRS mortality risk stayed constant while infestation levels rose [27](https://doi.org/10.1111/jfd.70097) [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/).
     - Broodstock injection with antibiotics before seawater departure [2](https://pmc.ncbi.nlm.nih.gov/articles/PMC9714679/) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia).
     - Knowledge gaps regarding reservoirs and transmission mechanisms have hindered the development of effective long-term control strategies [31](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose#:~:text=Piscirickettsiose%20er%20en%20alvorlig%20bakteriesykdom%20hos%20laksefisk.%20Sykdommen,og%20Irland%20betyr%20at%20fiskehelsepersonell%20m%C3%A5%20v%C3%A6re%20oppmerksomme.).
 ### Case Studies
@@ -229,8 +229,8 @@ Recent studies on SRS/Piscirickettsiosis have focused on understanding vaccine f
 
 1. **"Epidemiology of Salmonid Rickettsial Septicaemia (SRS) in Farmed Salmon: The Role of Sea Lice Infestations in Mortality Risk"**
     Authors: Benjamín Diethelm-Varela, Nicolhole Atero, Francisca Córdova-Bührle, Enrico L. Rezende, Stefan Gelcich, Osvaldo Sandoval, Carlos Navarro, Fernando O. Mardones.
-    Reference: Journal of Fish Diseases, 2025; 0:e70097
-    Key findings: SRS mortality risk had a strong seasonal component, with mortalities being significantly higher in the warmer seasons. While *Caligus* infestation levels increased significantly over the years, SRS mortality risk remained constant.
+    Reference: Journal of Fish Diseases, 2026; 49(5):e70097
+    Key findings: SRS mortality risk had a strong seasonal component, with mortalities being significantly higher in the warmer seasons. While *Caligus* infestation levels increased significantly over the years, SRS mortality risk remained constant. The level of egg-laying female sea lice was a key predictor of both weekly SRS mortality risk and the hazard of the first SRS outbreak of a production cycle.
     [DOI: 10.1111/jfd.70097](https://doi.org/10.1111/jfd.70097)
 
 2. **"Cohabitation of *Piscirickettsia salmonis* genogroups (LF-89 and EM-90): synergistic effect on growth dynamics"**
@@ -332,7 +332,7 @@ Effective SRS management requires an integrated approach combining robust biosec
 
 ---
 
-**Last Modified:** 2026-05-10
+**Last Modified:** 2026-10-20
 
 **Tags:** #SRS, #Piscirickettsiosis, #PiscirickettsiaSalmonis, #Salmonids, #Salmon, #AtlanticSalmon, #CohoSalmon, #Trout, #RainbowTrout, #Chile, #Norway, #Canada, #Scotland, #BacterialDiseases, #Bacteria
 
@@ -398,7 +398,7 @@ Effective SRS management requires an integrated approach combining robust biosec
 
 [26] Carril, G., Morales-Lange, B., Løvoll, M., et al. (2024). Salmonid rickettsial septicaemia (SRS) disease dynamics and Atlantic salmon immune response to *Piscirickettsia salmonis* LF-89 and EM-90 co-infection. *Veterinary Research*, *55*, 102. https://doi.org/10.1186/s13567-024-01356-0
 
-[27] Diethelm-Varela, B., Atero, N., Córdova-Bührle, F., et al. (2025). Epidemiology of salmonid rickettsial septicaemia (SRS) in farmed salmon: the role of sea lice infestations in mortality risk. *Journal of Fish Diseases*, e70097. https://doi.org/10.1111/jfd.70097
+[27] Diethelm-Varela, B., Atero, N., Córdova-Bührle, F., Rezende, E. L., Gelcich, S., Sandoval, O., Navarro, C., & Mardones, F. O. (2026). Epidemiology of salmonid rickettsial septicemia (SRS) in farmed salmon: The role of sea lice infestations in mortality risk. *Journal of Fish Diseases*, *49*(5), Article e70097. https://doi.org/10.1111/jfd.70097
 
 [28] Islam, S. I., Shahed, K., Linh, N. V., et al. (2025). Pathogenomic insights into *Piscirickettsia salmonis*. *Animals*, *15*(8), 1176. https://doi.org/10.3390/ani15081176
 

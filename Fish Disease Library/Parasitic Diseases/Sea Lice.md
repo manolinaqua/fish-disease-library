@@ -101,7 +101,7 @@ Sea lice are parasitic copepods that infest farmed and wild fish, notably Atlant
     - **Norway:** Sea lice are a persistent issue in Norwegian salmon farms, prompting ongoing research and management efforts [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
     - **Scotland:** Scottish fish farms have faced challenges with sea lice, leading to the development of innovative control strategies [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388) [6](https://www.sciencedirect.com/science/article/pii/S0044848623010487).
     - **Canada:** Canadian farms, particularly in British Columbia, have implemented various measures to manage sea lice, including the use of cleaner fish and advanced monitoring technologies [2](https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388).
-    - **Chile:** Sea louse infections on salmon farms are caused by the species *Caligus rogercresseyi* [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
+    - **Chile:** Sea louse infections on salmon farms are caused by the species *Caligus rogercresseyi*, covered in detail in [[Caligidosis (Caligus rogercresseyi)]] [7](https://nasco.int/document/drug-resistance-in-sea-lice-and-integrated-lice-management-strategies/).
 
 - **Response Strategies and Outcomes:**
 	
@@ -200,6 +200,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Tags:**  #SeaLice, #Salmonids, #Trout, #AtlanticSalmon, #Norway, #Scotland, #Chile, #parasiticdisease, #parasite, #lepeophtheirussalmonis, #caligusrogercresseyi
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
+[[Caligidosis (Caligus rogercresseyi)]]
 [[Paranucleosporosis]]
 [[Parvicapsulosis]]
 [[Proliferative Gill Disease]]
