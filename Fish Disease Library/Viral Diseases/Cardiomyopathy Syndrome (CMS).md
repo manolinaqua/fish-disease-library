@@ -208,18 +208,31 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**
+
 [1] https://pubmed.ncbi.nlm.nih.gov/29064107/
+
 [2] https://www.bmkgenetics.com/salmon-genetic-traits/cardiomyopathy-syndrome-cms/
+
 [3] https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/cardiomyopathy-syndrome/
+
 [4] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3094960/
+
 [5] https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.12735
+
 [6] https://www.fishfarmingexpert.com/fish-health-report-2023-norwegian-veterinary-institute/norways-fish-health-report-2023-what-killed-nearly-17-of-farmed-salmon/1741168
+
 [7] https://pubmed.ncbi.nlm.nih.gov/38257853/
+
 [8] https://www.sciencedirect.com/science/article/pii/S0167587719304465
+
 [9] https://weareaquaculture.com/news/aquaculture/norway-records-its-highest-mortality-rate-of-sea-phase-salmon
+
 [10] https://www.fishfarmingexpert.com/camilla-fritsvold-cardiomyopathy-syndrome-norwegian-university-of-life-sciences/cms-is-a-contagious-disease-new-study-confirms/1186204
+
 [11] https://www.vetinst.no/sykdom-og-agens/kardiomyopatisyndrom-cms
+
 [12] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/cms/
+
 [13] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 - - - 
 

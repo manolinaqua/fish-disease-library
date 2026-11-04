@@ -252,28 +252,51 @@ For more information on managing fish diseases and enhancing fish health, subscr
  
 **Citations:**
 [1] Alaska Department of Fish and Game. Disease of Wild and Cultured Fishes in Alaska. "Gas Bubble Disease" pg 108 and 109. https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/gas_bubble_disease.pdf Accessed June, 2026.
+
 [2] Espmark, Å. M., Hjelde, K., & Baeverfjord, G. (2010). Development of gas bubble disease in juvenile Atlantic salmon exposed to water supersaturated with oxygen. Aquaculture, 306(1-4), 198-204. https://www.sciencedirect.com/science/article/pii/S0044848610002875
+
 [3] Bohl M. (1997). Gasblasenkrankheit der Fische [Gas bubble disease of fish]. Tierarztliche Praxis, 25(3), 284–288. https://pubmed.ncbi.nlm.nih.gov/9289892/
+
 [4] M.Singh (5th March, 2024) "Hundreds of thousands of salmon dead from ‘gas bubble disease’ in US river" The Guardian. https://www.theguardian.com/environment/2024/mar/05/salmon-klamath-river-dam-removal-project Accessed June, 2026.
+
 [5] Veterinary Vision Center. June 1st, 2022. "There’s Something In The Water: Gas Bubble Disease In Fish" Veterinary Vision Centerhttps://veterinaryvisioncenter.com/theres-something-in-the-water-gas-bubble-disease-in-fish/ Accessed August, 2026
+
 [6] Marking, L. L. (1987). Gas supersaturation in fisheries: causes, concerns, and cures (Vol. 9). US Department of the Interior, Fish and Wildlife Service. https://books.google.no/books?hl=en&lr=&id=3iVBRZ-NeswC&oi=fnd&pg=PA1&dq=Gas+Supersaturation+in+Fisheries:+Causes,+Concerns,+and+Cures.&ots=HVoidpQ8UX&sig=z3a2zGvlsggKydBV6dgaqI7xBe4&redir_esc=y#v=onepage&q&f=false (Accessed August, 2026)
+
 [7] Noble, C., Gismervik, K., Iversen, M. H., Kolarevic, J., Nilsson, J., Stien, L. H., ... & Nofima, A. S. (2020). Welfare indicators for farmed rainbow trout: tools for assessing fish welfare. https://www.storre.stir.ac.uk/bitstream/1893/31242/1/Welfare%20Indicators%20for%20farmed%20rainbow%20trout-Noble%20et%20al.-May%202020.pdf 
+
 [8] Pleizier, N. K., Nelson, C., Cooke, S. J., & Brauner, C. J. (2021). Correction: Understanding gas bubble trauma in an era of hydropower expansion: how do fish compensate at depth?. Canadian Journal of Fisheries and Aquatic Sciences, 78(10), 1563-1563. https://cdnsciencepub.com/doi/full/10.1139/cjfas-2021-0207
+
 [9] Monk, B. H., Absolon, R. F., & Dawley, E. M. (1997). Changes in Gas Bubble Disease Signs and Survival of Migrating Juvenile Salmonids Experimentally Exposed to Supersaturated Gasses: Annual Report 1996. Bonneville Power Administration. https://www.webapps.nwfsc.noaa.gov/assets/26/6581_07202010_120759_Monk.et.al.1997-rev.pdf
+
 [10] Sondre Kvalsvik Stenberg (2016). Effects of gas supersaturation on migrating Atlantic salmon smolt (Salmo salar) in Evangervatnet. https://link.springer.com/article/10.1007/s10750-020-04439-z
+
 [11] Isaksen, T. E., Pulg, U., Lennox, R. J., Stranzl, S. F., Bye-Ingebrigtsen, E., Handegård, R., & Velle, G. (2026). Tolerance to total dissolved gas supersaturation in Atlantic salmon, brown trout, rainbow trout, and European minnow. Plos one, 21(2), e0342556. https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0342556
+
 [12] Höglund, E., Loland, L.Z., Høgberget, R. et al. No additional stress of sublethal gas supersaturation in a landlocked population of Atlantic salmon (Salmo salar) exposed to environmental acidification. Sci Rep 14, 3482 (2024). https://doi.org/10.1038/s41598-024-53637-5 https://www.nature.com/articles/s41598-024-53637-5
+
 [13] Pleizier NK, Algera D, Cooke SJ, Brauner CJ. A meta-analysis of gas bubble trauma in fish. Fish Fish. 2020; 21: 1175–1194.  https://onlinelibrary.wiley.com/doi/10.1111/faf.12496
+
 [14] Bouck, G. R. (1980). Etiology of Gas Bubble Disease. Transactions of the American Fisheries Society, 109(6), 703–707. https://doi.org/10.1577/1548-8659(1980)109<703:EOGBD>2.0.CO;2 https://www.tandfonline.com/doi/abs/10.1577/1548-8659(1980)109%3C703:EOGBD%3E2.0.CO%3B2
+
 [15] Lemarié, G., Hosfeld, C. D., Breuil, G., & Fivelstad, S. (2011). Effects of hyperoxic water conditions under different total gas pressures in European sea bass (Dicentrarchus labrax). Aquaculture, 318(1-2), 191-198. https://www.sciencedirect.com/science/article/abs/pii/S0044848611002511
+
 [16]  Stenberg, S.K., Velle, G., Pulg, U. et al. Acute effects of gas supersaturation on Atlantic salmon smolt in two Norwegian rivers. Hydrobiologia 849, 527–538 (2022). https://doi.org/10.1007/s10750-020-04439-z https://link.springer.com/article/10.1007/s10750-020-04439-z
+
 [17] Moldal T, Wiik-Nielsen J, Oliveira VHS, Svendsen JC and Sommerset I. _Norwegian Fish Health Report, 2024_. Published by the Norwegian Veterinary Institute 2025. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/
+
 [18] Velázquez-Wallraf, A., Fernández, A., Caballero, M.J. et al. Establishment of a fish model to study gas-bubble lesions. Sci Rep 12, 6592 (2022). https://doi.org/10.1038/s41598-022-10539-8 https://www.nature.com/articles/s41598-022-10539-8
+
 [19] Muniesa A, Basurco B, Aguilera C, et al. Mapping the knowledge of the main diseases affecting sea bass and sea bream in Mediterranean. Transbound Emerg Dis. 2020; 67: 1089–1100. https://doi.org/10.1111/tbed.13482 
+
 [20] C.Boyd (PhD) (2nd July 2012). Effective management avoids gas bubble trauma. Global Seafood Alliance. https://www.globalseafood.org/advocate/effective-management-avoids-gas-bubble-trauma/ Accessed August 2026.
+
 [21] Stensby-Skjærvik, S., Boissonnot, L., Dalum, A.S., Storsul, T., Hess-Erga, O.K., Calabrese, S., Segadal, K., Andersen, L., Wahl-Ovesen, H. and Rønnestad, I. (2025), Assessment of Diagnostic Tools to Detect Acute Gas Bubble Disease in Atlantic Salmon (Salmo salar L.). J Fish Dis, 48: e14142. https://onlinelibrary.wiley.com/doi/abs/10.1111/jfd.14142
+
 [22] SeaFish - Development Aquaculture. May 2002. "CONTROL OF SUPERSATURATION IN THE HATCHERY" https://www.seafish.org/media/arsjwgs0/sr488.pdf Accessed August, 2026
+
 [23] Machova, J., Faina, R., Randak, T., Valentova, O., Steinbach, C., Kroupova, H. K., & Svobodova, Z. (2017). Fish death caused by gas bubble disease: a case report. Veterinární medicína, 62(4), 231-237. https://www.agriculturejournals.cz/pdfs/vet/2017/04/09.pdf
+
 [24]  Forskningsfondet for fiskeri og akvakultur. Project Leader: Ole-Kristian Hess-Erga (NIVA) Project number:901788 Title: "New wellboat knowledge – biological risk factors when using wellboats for the transport and processing of salmon (NYBRØK)" https://www.fhf.no/prosjekter/prosjektbasen/901788/ Accessed August 2026
 
 - - - 

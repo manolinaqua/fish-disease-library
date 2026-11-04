@@ -196,14 +196,23 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Sea Lice]]
 
 **Citations:**
+
 [1] https://pubmed.ncbi.nlm.nih.gov/18521535/
+
 [2] https://onlinelibrary.wiley.com/doi/full/10.1111/raq.12426
+
 [3] https://www.researchgate.net/figure/Salmo-salar-L-Atlantic-salmon-with-proliferative-gill-inflammation-PGI-Haemalum-and_fig2_7385165
+
 [4] https://www.mdpi.com/2076-2607/9/12/2605
+
 [5] https://onlinelibrary.wiley.com/doi/pdf/10.1111/raq.12426
+
 [6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6776330/
+
 [7] https://www.sciencedirect.com/science/article/abs/pii/S0044848609004530
+
 [8] https://link.springer.com/article/10.1007/s00705-008-0117-7
+
 [9] https://pubmed.ncbi.nlm.nih.gov/37684418/
 
 - - - 

@@ -192,16 +192,27 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**
+
 [1] https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn
+
 [2] https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis
+
 [3] https://pubmed.ncbi.nlm.nih.gov/32033004/
+
 [4] https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf
+
 [5] https://www.sciencedirect.com/topics/biochemistry-genetics-and-molecular-biology/infectious-pancreatic-necrosis-virus
+
 [6] https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap18.pdf
+
 [7] https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn
+
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/
+
 [9] https://pmc.ncbi.nlm.nih.gov/articles/PMC5006305/
+
 [10] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
+
 [11] https://ilaks.no/sitatsjekk-naer-tredobling-i-sykdomsutbruddene-jeg-er-redd-for-at-dette-bare-er-starten/
 - - -
 

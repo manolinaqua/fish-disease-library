@@ -206,6 +206,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Proliferative Gill Disease]]
 
 **Citations:**
+
 [1] https://www.nhm.ac.uk/discover/the-problem-of-sea-lice-in-salmon-farms.html
 
 [2] https://www.adfg.alaska.gov/index.cfm?adfg=wildlifenews.view_article&articles_id=388

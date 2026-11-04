@@ -189,12 +189,19 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pancreas Disease (PD)]]
 
 **Citations:**
+
 [1] https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/piscine_orthoreovirus.pdf
+
 [2] https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html
+
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7384080/
+
 [4] https://www.dnr.wa.gov/sites/default/files/publications/PRV%20whitepaper%20revised%20Sept%202017.pdf
+
 [5] https://virologyj.biomedcentral.com/articles/10.1186/s12985-019-1148-2
+
 [6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6425399/
+
 [7] https://www.nature.com/articles/s41598-019-40025-7
 
 ---

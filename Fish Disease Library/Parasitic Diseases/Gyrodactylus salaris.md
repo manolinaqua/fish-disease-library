@@ -12,10 +12,6 @@ tags:
   - RainbowTrout
   - ArcticChar
 ---
-
-
------
-
 ## Overview
 
 ### What is *Gyrodactylus salaris*?

@@ -1,9 +1,6 @@
 Welcome to [Manolin’s](https://manolinaqua.com/) Aquaculture Fish Disease Library - your comprehensive resource for understanding and managing fish diseases in the aquaculture and fish farming industry.
 
 This open-source library brings together scientific knowledge, diagnostic tools, and best practices to support fish health professionals, researchers, and aquaculture practitioners. Our goal is to empower you with reliable, up-to-date information to help manage and prevent fish diseases effectively.
-
-- - - 
-![[attachments/Fish Icon - 2 1.png]]
 ## Getting Started
 
 To get started, explore our list of top diseases featured. Each entry includes detailed information on clinical signs, causes, treatment options, and preventive measures. Use the search function to find specific diseases or browse through the categories to discover more.

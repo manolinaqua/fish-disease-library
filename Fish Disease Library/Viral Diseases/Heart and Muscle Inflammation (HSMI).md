@@ -184,19 +184,33 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**
+
 [1] https://pubmed.ncbi.nlm.nih.gov/15264718/
+
 [2] https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487
+
 [3] https://www.dfo-mpo.gc.ca/science/aah-saa/species-especes/aq-health-sante/prv-rp-eng.html
+
 [4] https://www.mdpi.com/journal/pathogens/special_issues/Heart_and_Skeletal_Muscle_Inflammation
+
 [5] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2901333/
+
 [6] https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb
+
 [7] https://www.mdpi.com/2076-0817/9/2/143
+
 [8] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/
+
 [9] https://www.mccpacific.org/wp-content/uploads/2018/11/di-cicco-miller-et-al_FACETS_2018_piscine-orthoreovirus-atlantic-pacific-salmon-aquaculture-chinook.pdf
+
 [10] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2022/fish-health-report-2021/_/attachment/inline/3a529735-e485-4bf7-b05b-5677a46b6b09:31cb9146509882b4dc2c60dc915a1be6195ae015/Norwegian%20Fish%20Health%20Report%202021.pdf
+
 [11] https://pubmed.ncbi.nlm.nih.gov/32632958/
+
 [12] https://pubmed.ncbi.nlm.nih.gov/29926926/ 
+
 [13] https://pubmed.ncbi.nlm.nih.gov/30392768/ 
+
 [14] https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 - - - 
 
