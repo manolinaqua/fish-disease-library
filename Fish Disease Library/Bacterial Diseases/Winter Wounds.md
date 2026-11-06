@@ -73,8 +73,17 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Yersiniosis (enteric redmouth disease)]]
 
 **Citations:**
+
 [1] https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/
-[2] https://www.mdpi.com/2673-9917/3/3/15
-[3] https://www.vetinst.no/sykdom-og-agens/vintersar
-[4] https://www.havbrukslare.no/bakterieinfeksjoner
+
+[2] https://thefishsite.com/articles/new-research-could-help-reduce-winter-ulcers-in-farmed-salmon
+
+[3] https://www.intrafish.com/salmon/winter-sores-cost-norwegian-salmon-farmers-750-million-a-year-what-can-be-done-to-prevent-them-/2-1-1483232
+
+[4] https://weareaquaculture.com/news/aquaculture/norwegian-researchers-in-the-battle-against-winter-ulcers-in-salmon
+
+[5] https://www.researchgate.net/figure/Examples-of-wounds-winter-ulcers-that-result-in-a-downgrading_fig2_297677152
+
+[6] https://nofima.com/results/vaccinating-salmon-against-winter-ulcers/
+
 - - - 

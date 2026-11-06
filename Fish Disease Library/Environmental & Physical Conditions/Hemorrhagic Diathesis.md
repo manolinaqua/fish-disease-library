@@ -141,15 +141,25 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Nephrocalcinosis]]
 
 **Citations:**
+
 [1] https://pubmed.ncbi.nlm.nih.gov/3672803/
+
 [2] https://journals.sagepub.com/doi/abs/10.1177/030098588702400503
+
 [3] https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon
+
 [4] https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/viral-hemorrhagic-septicemia
+
 [5] https://en.wikipedia.org/wiki/Bleeding_diathesis
+
 [6] https://pubmed.ncbi.nlm.nih.gov/12718466/
+
 [7] https://www.int-res.com/articles/dao2003/54/d054p015.pdf
+
 [8] https://pubmed.ncbi.nlm.nih.gov/26754927/
+
 [9] https://www.nature.com/articles/s41598-021-93874-6
+
 [10] https://www.intrafish.com/salmon/the-situation-is-serious-grieg-and-leroy-among-salmon-farmers-hit-by-western-norway-disease-outbreak/2-1-1522248
 
 - - -

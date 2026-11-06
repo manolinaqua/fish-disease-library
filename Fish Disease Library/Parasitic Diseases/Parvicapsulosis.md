@@ -194,13 +194,21 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Sea Lice]]
 
 **Citations:**
+
 [1] https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4
+
 [2] https://www.int-res.com/articles/dao2003/54/d054p259.pdf
+
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/
+
 [4] https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269
+
 [5] https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9
+
 [6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/
+
 [7] https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html
+
 [8] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122293/
 
 - - -

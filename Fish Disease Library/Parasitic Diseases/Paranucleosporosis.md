@@ -162,8 +162,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Sea Lice]]
 
 **Citations:**
+
 [1] https://www.gillhealthinitiative.org/2017sessions
+
 [2] https://pubmed.ncbi.nlm.nih.gov/23047190/
+
 [3] https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2018/03/foi-18-00469/documents/61e5bc60-215d-49d2-bd95-1114e1f03d16/61e5bc60-215d-49d2-bd95-1114e1f03d16/govscot%3Adocument
 
 ---

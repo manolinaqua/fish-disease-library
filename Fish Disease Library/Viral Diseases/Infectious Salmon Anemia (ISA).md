@@ -229,19 +229,35 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Piscine Reovirus (PRV)]]
 
 **Citations:**
+
 [1] https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf
+
 [2] https://www.vetinst.no/en/diseases/infectious-salmon-anemia
+
 [3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/
+
 [4] https://www.aphis.usda.gov/sites/default/files/isa_standards.pdf
+
 [5] https://www.aphis.usda.gov/sites/default/files/isa-proceedings.pdf
+
 [6] https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2018.00308/full
+
 [7] https://onlinelibrary.wiley.com/doi/full/10.1111/jfd.13538
+
 [8] https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks
+
 [9] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467415/
+
 [10] https://webharvest.gov/peth04/20041029043154/http://www.lsc.usgs.gov/FHB/leaflets/FHB85.pdf
+
 [11] https://georgiastrait.org/press/nightmare-in-new-brunswick-a-lesson-for-bc/
+
 [12]https://inspection.canada.ca/en/animal-health/aquatic-animals/diseases/reportable-diseases/isa/facts
-[13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/?utm_source=chatgpt.com
+
+[13] https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story
+
 [14] https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf
+
 [15] https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007
+
 [16] https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner

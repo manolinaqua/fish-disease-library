@@ -137,7 +137,7 @@ tags:
 
 - **Response Strategies:**
     - **Norway:** Implementation of enhanced biosecurity and handling measures focused on reducing mechanical stress, regular health monitoring, and vaccinations [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
-    - **Scotland:** Development of national guidelines to monitor fish health and undergo inspections when it is a non-listed disease, like *M. viscosa* [30](https://www.gov.scot/policies/fish-health-inspectorate/ )
+    - **Scotland:** Development of national guidelines to monitor fish health and undergo inspections when it is a non-listed disease, like *M. viscosa* [30](https://www.gov.scot/policies/fish-health-inspectorate/)
     - **Canada:** Adoption of best practices for handling, water quality management, and early detection to reduce the impact of winter ulcers [16](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952770.pdf).
 
 - **Lessons Learned:** While research continues to improve treatment and prevention options, it is important to reduce stress, transfer robust smolt into the sea and monitor fish health closely. 

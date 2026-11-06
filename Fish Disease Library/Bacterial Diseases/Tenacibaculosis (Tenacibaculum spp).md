@@ -92,7 +92,7 @@ Disease from *T. maritimum* peaks in a 15–26°C range but varies by location/f
 	- For *T. finnmarkense* transferring salmonid smolts to seawater during periods of low temperature increases risk of tenacibaculosis infection. Consequently, the disease is most prevalent in Norway during the early spring and late autumn transfer windows, when water temperatures are at their lowest [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/) [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 	- For *T. dicentrarchi* skin or gill damage increase disease susceptabilty, potentially warmer temperatures [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
 	- For *T. ovolyticum* risks include bad hygiene or presence of  disease on eggs, cold deep sea water, possible equipment contamination [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/). 
-	- For *T. soleae*, it is primarily associated with marine aquaculture of flatfish species such as sole, turbot, and brill, particularly in southern Europe (e.g., Spain), where it has caused significant disease outbreaks and economic losses [45](https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article?utm_source=chatgpt.com).
+	- For *T. soleae*, it is primarily associated with marine aquaculture of flatfish species such as sole, turbot, and brill, particularly in southern Europe (e.g., Spain), where it has caused significant disease outbreaks and economic losses [45](https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article).
 
 
 ### Diagnosis
@@ -433,7 +433,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [44] Småge SB, Brevik ØJ, Frisch K, Watanabe K, Duesund H, et al. (2018) Correction: Concurrent jellyfish blooms and tenacibaculosis outbreaks in Northern Norwegian Atlantic salmon (*Salmo salar*) farms. PLOS ONE 13(1): e0190762. [https://doi.org/10.1371/journal.pone.0190762](https://doi.org/10.1371/journal.pone.0190762)(https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0187476)
 
-[45] Castro, N., et al. (2014). "First Isolation and Characterization of *Tenacibaculum soleae* from Sea Bass *Dicentrarchus labrax*." Fish Pathology 49(1): 16-22. [https://doi.org/10.3147/jsfp.49.16](https://doi.org/10.3147/jsfp.49.16) (https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article?utm_source=chatgpt.com)
+[45] Castro, N., et al. (2014). "First Isolation and Characterization of *Tenacibaculum soleae* from Sea Bass *Dicentrarchus labrax*." Fish Pathology 49(1): 16-22. [https://doi.org/10.3147/jsfp.49.16](https://doi.org/10.3147/jsfp.49.16) (https://www.jstage.jst.go.jp/article/jsfp/49/1/49_16/_article)
 
 [46] Nowlan JP, Lumsden JS, Russell S (2021). Quantitative PCR for *Tenacibaculum dicentrarchi* and *T. finnmarkense*. J Fish Dis 44(5):655-659. [doi: 10.1111/jfd.13357.](https://doi.org/10.3147/jsfp.49.16) ([Quantitative PCR for *Tenacibaculum dicentrarchi* and *T. finnmarkense* - PubMed](https://pubmed.ncbi.nlm.nih.gov/33645841/))
 

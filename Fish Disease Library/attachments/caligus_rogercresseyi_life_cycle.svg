@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 420" width="1000" height="420" font-family="Helvetica, Arial, sans-serif">
+  <rect width="1000" height="420" fill="#ffffff"/>
+
+  <!-- bands -->
+  <rect x="150" y="50" width="400" height="190" rx="14" fill="#e8f1fa" stroke="#9bbfe0"/>
+  <text x="350" y="76" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d4f7c">Free-living (planktonic)</text>
+  <rect x="570" y="50" width="410" height="190" rx="14" fill="#fdf0e3" stroke="#e4b98a"/>
+  <text x="775" y="76" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a4a0f">Parasitic (attached to the host)</text>
+
+  <!-- eggs -->
+  <rect x="20" y="115" width="110" height="70" rx="10" fill="#f4f4f4" stroke="#999"/>
+  <text x="75" y="145" text-anchor="middle" font-size="15" font-weight="bold" fill="#333">Eggs</text>
+  <text x="75" y="165" text-anchor="middle" font-size="12" fill="#555">in egg sacs</text>
+
+  <!-- stages -->
+  <rect x="165" y="115" width="100" height="70" rx="10" fill="#ffffff" stroke="#4a86b8" stroke-width="1.5"/>
+  <text x="215" y="155" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d4f7c">Nauplius I</text>
+  <rect x="285" y="115" width="100" height="70" rx="10" fill="#ffffff" stroke="#4a86b8" stroke-width="1.5"/>
+  <text x="335" y="155" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d4f7c">Nauplius II</text>
+  <rect x="405" y="115" width="130" height="70" rx="10" fill="#ffffff" stroke="#c0392b" stroke-width="2.5"/>
+  <text x="470" y="143" text-anchor="middle" font-size="15" font-weight="bold" fill="#1d4f7c">Copepodid</text>
+  <text x="470" y="164" text-anchor="middle" font-size="12" font-weight="bold" fill="#c0392b">infective stage</text>
+
+  <rect x="585" y="115" width="150" height="70" rx="10" fill="#ffffff" stroke="#c8884a" stroke-width="1.5"/>
+  <text x="660" y="143" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a4a0f">Chalimus I–IV</text>
+  <text x="660" y="164" text-anchor="middle" font-size="12" fill="#555">frontal filament</text>
+  <rect x="765" y="95" width="200" height="110" rx="10" fill="#ffffff" stroke="#c8884a" stroke-width="1.5"/>
+  <text x="865" y="122" text-anchor="middle" font-size="15" font-weight="bold" fill="#8a4a0f">Adult</text>
+  <text x="865" y="147" text-anchor="middle" font-size="12" fill="#555">male</text>
+  <text x="865" y="165" text-anchor="middle" font-size="12" fill="#555">female without egg sacs</text>
+  <text x="865" y="183" text-anchor="middle" font-size="12" fill="#555">ovigerous female</text>
+
+  <!-- arrows forward -->
+  <line x1="130" y1="150" x2="163" y2="150" stroke="#444" stroke-width="2"/>
+  <line x1="265" y1="150" x2="283" y2="150" stroke="#444" stroke-width="2"/>
+  <line x1="385" y1="150" x2="403" y2="150" stroke="#444" stroke-width="2"/>
+  <line x1="535" y1="150" x2="583" y2="150" stroke="#444" stroke-width="2"/>
+  <line x1="735" y1="150" x2="763" y2="150" stroke="#444" stroke-width="2"/>
+
+  <polygon points="163,150 152,144 152,156" fill="#444"/>
+  <polygon points="283,150 272,144 272,156" fill="#444"/>
+  <polygon points="403,150 392,144 392,156" fill="#444"/>
+  <polygon points="583,150 572,144 572,156" fill="#444"/>
+  <polygon points="763,150 752,144 752,156" fill="#444"/>
+  <polygon points="75,187 69,198 81,198" fill="#444"/>
+
+  <!-- return arrow -->
+  <path d="M865 205 L865 275 L75 275 L75 187" fill="none" stroke="#444" stroke-width="2"/>
+  <text x="470" y="298" text-anchor="middle" font-size="13" fill="#333">Ovigerous females release the eggs, which hatch as nauplii I and restart the cycle</text>
+
+  <!-- timing -->
+  <rect x="150" y="330" width="700" height="60" rx="10" fill="#f7f7f7" stroke="#cfcfcf"/>
+  <text x="500" y="355" text-anchor="middle" font-size="13" font-weight="bold" fill="#333">Time to complete the cycle depends on water temperature</text>
+  <text x="300" y="376" text-anchor="middle" font-size="13" fill="#333">10 °C: about 45 days</text>
+  <text x="500" y="376" text-anchor="middle" font-size="13" fill="#333">12 °C: about 32 days</text>
+  <text x="700" y="376" text-anchor="middle" font-size="13" fill="#333">15 °C: about 26 days</text>
+</svg>

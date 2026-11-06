@@ -194,18 +194,31 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Sea Lice]]
 
 **Citations:**
+
 [1] https://thefishsite.com/disease-guide/amoebic-gill-disease-agd
+
 [2] https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466
+
 [3] https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease
+
 [4] https://en.wikipedia.org/wiki/Amoebic_gill_disease
+
 [5] https://www.mdpi.com/2673-6772/2/4/23
+
 [6] https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/7AGDgillissuesinScotlandIndustryperspectiveBerrill.pdf
+
 [7] https://www.frdc.com.au/sites/default/files/products/2012-712-DLD-RTG.pdf
+
 [8] https://www.fishfarmermagazine.com/2024/02/14/mowi-scotland-battling-back-against-severe-biological-issues/
+
 [9] https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/20LongitudinalstudyNorwayHytterod.pdf
+
 [10] https://www.gillhealthinitiative.org/2017sessions
+
 [11] https://www.fishfarmermagazine.com/2023/07/07/salmon-evolution-reports-success-in-tackling-agd/
+
 [12] https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498
+
 [13] https://onlinelibrary.wiley.com/doi/full/10.1111/are.13627
 
 - - - 
