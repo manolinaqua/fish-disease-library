@@ -22,16 +22,16 @@ Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is
 ### Common Signs
 
 - **Physical Signs:**
-    - **Haemorrhages:** Visible bleeding in the skin, fins, gills, and internal organs [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
-    - **Exophthalmia:** Protruding or bulging eyes.
-    - **Anaemia:** Pale gills indicative of reduced red blood cell count.
-    - **Skin Lesions:** Ulcers or open sores due to bleeding.
-    - **Swollen Abdomen:** Abdominal distension due to internal bleeding or fluid accumulation.
+    - **Haemorrhages in musculature, peritoneum and internal organs**: Petechial (spot-like) and ecchymotic (larger patches) hemorrhages throughout the visceral fat, peritoneum, gastrointestinal tract, liver, swim bladder, heart, and skeletal muscle [4](https://fishhistopathology.com/?p=833)[5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538)
+    - **Skin haemorrhages:** Petechial bleeding under the belly and at the fin bases [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+    - **Anaemia:** Pale gills indicative of reduced red blood cell count [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1)
+    - **Exophthalmia:** Protruding or bulging eyes can sometimes occur [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538)
+    - **Swollen Abdomen (ascites):** Abdominal distension due to fluid accumulation [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+    - **Dark skin colouration** [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538) 
 
 - **Behavioural Changes:**
-    - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss.
-    - **Abnormal Swimming Patterns:** Erratic or sluggish swimming due to weakness and distress.
+    - **Lethargy:** Reduced activity and slow swimming [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538).
+    - **Abnormal Swimming Patterns:** Surface swimming and loss of equalibrium [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/). 
 
 **Progression of Symptoms**
 
@@ -147,4 +147,8 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [3] 1. Åkerblå AS. (n.d.). _HSS – hemorragisk smolt syndrom_. Akvademiet. https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/
 
+ [4] Sandoval, C. (2019, February 27). _Haemorrhagic smolt syndrome (HSS) – Gross pathology_. Fish Pathology. https://fishhistopathology.com/?p=833
+ 
+[5] Rodger, H. D., & Richards, R. H. (1998). Haemorrhagic smolt syndrome: A severe anaemic condition in farmed salmon in Scotland. _Veterinary Record, 142_(20), 538–541 https://doi.org/10.1136/vr.142.20.538
+ 
 - - -
