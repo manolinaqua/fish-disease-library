@@ -27,6 +27,7 @@ Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is
     - **Anaemia:** Pale gills indicative of reduced red blood cell count [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1)
     - **Exophthalmia:** Protruding or bulging eyes can sometimes occur [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538)
     - **Swollen Abdomen (ascites):** Abdominal distension due to fluid accumulation [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+    - **A pale or yellowish liver** [2](https://www.mdpi.com/2079-7737/9/1/1)  
     - **Dark skin colouration** [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538) 
 
 - **Behavioural Changes:**
@@ -34,12 +35,11 @@ Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is
     - **Abnormal Swimming Patterns:** Surface swimming and loss of equalibrium [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/). 
 
 **Progression of Symptoms**
+The progression of clinical signs in HSS has not been clearly described, but the reported timing of onset and resolution is outlined below.
+- **Onset**: The onset of clinical signs appear in freshwater pre-smolts and smolts, primarily around the smoltification period, but has also been observed in freshwater tanks mixed with seawater [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/). 
+- **Mortality & Resolution:** Mortality is generally low (usually <5%) [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538). Symptoms typically resolve spontaneously within a few weeks following transfer to seawater or introduction of salinity [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/). 
 
-- **Early Stages:** Subtle signs such as reduced feed intake, slight lethargy, and small haemorrhages.
-
-- **Advanced Stages:** Pronounced physical symptoms, including extensive haemorrhages, exophthalmia, and skin lesions, leading to high mortality if not managed [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
-
-- **Impact on Fish Health:** Hemorrhagic Diathesis severely compromises immune function and overall vitality, making fish susceptible to secondary infections and reduced growth rates.
+- **Impact on Fish Health:** Haemorrhagic smolt syndrome (HSS) represents a major fish welfare concern and is consistently ranked in Nowegian official surveys as one of the most important causes of mortality and reduced welfare among Atlantic salmon in freshwater hatcheries [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). Mortality is generally low, although substantial losses can occur in severe cases. HSS has also been associated with impaired antibody responses, including lower levels of vaccine-specific antibodies in affected fish, suggesting that the syndrome may compromise humoral immunity [2](https://www.mdpi.com/2079-7737/9/1/1)  
 
 ### Causes of Hemorrhagic Diathesis
 
