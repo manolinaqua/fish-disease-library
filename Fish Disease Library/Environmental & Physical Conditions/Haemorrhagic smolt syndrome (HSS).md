@@ -1,6 +1,6 @@
 ---
-title: Hemorrhagic Diathesis
-description: Learn about Hemorrhagic Diathesis in fish, a condition causing increased bleeding due to viral infections, nutritional deficiencies, and stress. Discover symptoms, causes, diagnosis, treatment, and prevention strategies for improved aquaculture health.
+title: Haemorrhagic smolt syndrome (HSS)
+description: Learn about Haemorrhagic smolt syndrome in fish, is a bleeding disorder affecting Atlantic salmon, where the cause remains unknown. Discover symptoms, possible causes, diagnosis, treatment, and prevention strategies for improved aquaculture health.
 tags:
   - HemorrhagicDiathesis
   - environmentalconditions
@@ -14,8 +14,8 @@ tags:
 ---
 ## Overview
 
-### What is Hemorrhagic Diathesis?
-Hemorrhagic Diathesis is a condition characterized by an increased tendency for bleeding, affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other freshwater and marine fish. The condition can be caused by multiple factors, including viral infections, nutritional deficiencies, and environmental stressors.[1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+### What is Haemorrhagic smolt syndrome?
+Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is a bleeding disorder affecting Atlantic salmon  (*Salmo salar*) during the late freshwater stage, often around the smoltification process, and can lead to mortality and production losses [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1). It is characterised by haemorrhages in internal organs and skeletal muscle, often accompanied by anaemia [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). The exact cause remains unknown: an infectious etiology has not been established; however, disturbances in osmoregulation associated with smoltification have been proposed as a primary contributing mechanism [2](https://www.mdpi.com/2079-7737/9/1/1)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
 
 ## Clinical Signs of Hemorrhagic Diathesis
 
@@ -141,25 +141,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Nephrocalcinosis]]
 
 **Citations:**
+[1] Sommerset, I., Olsen, A. B., Nilsen, A., Gjessing, M., Kraugerud, M., Lie, K.-I., Hosfeld, C. D., Fivelstad, S., Mayer, I., Weltzien, F. A., Remø, S. C., Folkedal, O., Pedersen, A. Ø., Fjelldal, P. G., & Waagbø, R. (2020). Nefrokalsinose og hemoragisk smoltsyndrom – årsakssamanhengar og moglegheiter for førebygging. _Norsk veterinærtidsskrift_, (5). https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging
 
-[1] https://pubmed.ncbi.nlm.nih.gov/3672803/
+[2] Krasnov, A., Sommerset, I., Søfteland, T., Afanasyev, S., Boysen, P., & Lund, H. (2020). Consequences of haemorrhagic smolt syndrome (HSS) for the immune status of Atlantic salmon (_Salmo salar_ L.) (case study). _Biology, 9_(1) https://doi.org/10.3390/biology9010001
 
-[2] https://journals.sagepub.com/doi/abs/10.1177/030098588702400503
-
-[3] https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon
-
-[4] https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/viral-hemorrhagic-septicemia
-
-[5] https://en.wikipedia.org/wiki/Bleeding_diathesis
-
-[6] https://pubmed.ncbi.nlm.nih.gov/12718466/
-
-[7] https://www.int-res.com/articles/dao2003/54/d054p015.pdf
-
-[8] https://pubmed.ncbi.nlm.nih.gov/26754927/
-
-[9] https://www.nature.com/articles/s41598-021-93874-6
-
-[10] https://www.intrafish.com/salmon/the-situation-is-serious-grieg-and-leroy-among-salmon-farmers-hit-by-western-norway-disease-outbreak/2-1-1522248
+[3] 1. Åkerblå AS. (n.d.). _HSS – hemorragisk smolt syndrom_. Akvademiet. https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/
 
 - - -

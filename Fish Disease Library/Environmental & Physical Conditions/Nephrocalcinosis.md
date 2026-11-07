@@ -83,7 +83,7 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
 
 - **Distinguishing Nephrocalcinosis from Other Conditions:** 
 	- **Urocystolithiasis**, which is the formation of stones of plugs in the urinary bladder. This can occur from nephrocalcinosis but also from other reasons. In severe cases it can lead to complete blockage of the urinary tract [14](https://onlinelibrary.wiley.com/doi/10.1111/jfd.70099). 
-	- **Hemorrhagic Smolt Syndrome (HSS)/[[Hemorrhagic Diathesis]](HD)**: can often occur simutaneously, though looking at time series, nephrocalcinosis was mainly found earlier  [7](https://www.fhf.no/prosjekter/prosjektbasen/901588/)
+	- **Hemorrhagic Smolt Syndrome (HSS)/[[Haemorrhagic smolt syndrome (HSS)]](HD)**: can often occur simutaneously, though looking at time series, nephrocalcinosis was mainly found earlier  [7](https://www.fhf.no/prosjekter/prosjektbasen/901588/)
 	- **BKD:** Kidney damage caused by nephrocalcinosis can, in some cases, resemble visible findings associated with the notifiable (in Norway) disease [[Bacterial Kidney Disease (BKD)]] [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf). 
 	- **Chronic granulomatous inflammation with secondary calcification** (= an enclosing of a problem the fish can’t remove, which then becomes mineralized with calcium) can appear the same as nephrocalcinosis when using x-ray radiography  [6b](https://pmc.ncbi.nlm.nih.gov/articles/PMC9804365/)
 
@@ -171,7 +171,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ##### Other Environmental & Physical Conditions
 [[Gas Bubble Disease]]
-[[Hemorrhagic Diathesis]]
+[[Haemorrhagic smolt syndrome (HSS)]]
 
 **Citations:**
 [1] Damsgård, B., Bjørklund, F., Johnsen, H. K., & Toften, H. (2011). Short- and long-term effects of fish density and specific water flow on the welfare of Atlantic cod, *Gadus morhua*. *Aquaculture*, 322-323, 184–190. (https://www.webofscience.com/wos/woscc/full-record/WOS:000302314800024)
