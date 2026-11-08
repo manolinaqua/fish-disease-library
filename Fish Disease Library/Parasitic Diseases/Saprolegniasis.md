@@ -140,16 +140,13 @@ The economic significance of saprolegniasis increased after malachite green, pre
 #### Chile
 
 - **Saprolegniasis Incidence:**
-    - In Chile, saprolegniasis is not tracked as a standalone notifiable disease but is reported collectively under the category **"Micosis"** within the Programa Sanitario General de Manejo y Clasificación de Mortalidad (PSGM), the official mortality classification system operated by SERNAPESCA [20](https://www.sernapesca.cl).
-    - During 2025, mycosis was the **leading infectious cause of mortality in freshwater Atlantic salmon**, accounting for **60.2% of all infectious deaths**, ahead of flavobacteriosis (24.9%) [20](https://www.sernapesca.cl). This represented an increase of **+7.5 percentage points** compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20](https://www.sernapesca.cl).
-    - In freshwater coho salmon, mycosis was the **second infectious cause of mortality** (34.4%), and showed the **largest relative increase of any pathogen category: +18%** compared to 2024, while IPN declined by 12.9% [20](https://www.sernapesca.cl).
-    - In rainbow trout, mycosis was a minor infectious cause (3.3%), with flavobacteriosis dominant (95.1%) [20](https://www.sernapesca.cl).
+    - In Chile, saprolegniasis is not reported as a standalone disease. Freshwater mortality is recorded under the category **"Micosis"** (mycosis) of SERNAPESCA's mortality classification system (PSGM), which is declared by each hatchery and excludes eggs [20](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - In 2025, infectious causes accounted for 8.4% of all freshwater mortality in Atlantic salmon. Within that share, mycosis was the **leading infectious cause (60.2%)**, ahead of flavobacteriosis (24.9%), and increased by 7.5% compared with 2024, while mortality from IPN and flavobacteriosis decreased [20](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - In freshwater coho salmon, mycosis was the **second infectious cause of mortality** (34.4%), after flavobacteriosis (51.9%). It increased by 18% compared with 2024, while IPN decreased by 12.9% and flavobacteriosis by 3.1% [20](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - In rainbow trout, mycosis was a minor infectious cause (3.3%), with flavobacteriosis dominant (95.1%) [20](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
 
-- **Economic Impact:**
-    - The consistent increase in mycosis-attributed mortality across Atlantic salmon and coho salmon in 2025 indicates growing pressure from Saprolegniasis in Chilean freshwater hatcheries and grow-out facilities. Chile operates approximately 140 active freshwater centers annually, concentrated in Los Lagos (67), Araucanía (36), and Los Ríos (28) regions [20](https://www.sernapesca.cl).
-
-- **Treatment & Management:**
-    - Chile does not have an approved specific treatment protocol for Saprolegniasis equivalent to those in Europe. Management relies on general biosecurity measures, water quality maintenance, and mortality reduction strategies within the PSGM framework. The upward trend in mycosis mortality in 2025 highlights the need for dedicated surveillance and treatment options in the Chilean freshwater sector [20](https://www.sernapesca.cl).
+- **Production Context:**
+    - Chile had a maximum of 140 active freshwater farms in 2025 (June), concentrated in Los Lagos (67), Araucanía (36), and Los Ríos (28) [20](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
 
 #### India
 
@@ -274,7 +271,7 @@ Future research priorities include: in vivo validation of emerging therapeutants
 
 [19] Matras, M., Stachnik, M., Kycko, A., Wasiak, M., Paździor, E., Maj-Paluch, J., Borzym, E., & Reichert, M. (2024). Etiology of ulcerative dermal necrosis (UDN) in brown trout (*Salmo trutta* Morpha *trutta*) — Preliminary results. *Pathogens*, *13*(3), 251. https://doi.org/10.3390/pathogens13030251
 
-[20] SERNAPESCA. (2025). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Servicio Nacional de Pesca y Acuicultura, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl
+[20] SERNAPESCA. (2026). *Informe de situación sanitaria de la salmonicultura año 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
 
 [21] Rzeszutek, E., Díaz-Moreno, S. M., & Bulone, V. (2019). Identification and characterization of the chitin synthase genes from the fish pathogen *Saprolegnia parasitica*. *Frontiers in Microbiology*, *10*, 2873. https://doi.org/10.3389/fmicb.2019.02873
 
