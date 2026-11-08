@@ -7,7 +7,7 @@ aliases:
   - Winter disease
 pathogen: Saprolegnia spp.
 category: Parasitic
-description: Learn about saprolegniasis, a water mould disease caused by oomycetes of the genus Saprolegnia that affects freshwater salmonids, their eggs and other farmed fish. Covers clinical signs, diagnosis, treatment and prevention, with data from Scotland, Chile and India.
+description: Learn about saprolegniasis, a water mould disease caused by oomycetes of the genus Saprolegnia that affects freshwater salmonids, their eggs and other farmed fish. Covers clinical signs, diagnosis, treatment and prevention, with data from Scotland, Norway, Chile and India.
 tags:
   - Saprolegniasis
   - Saprolegnia
@@ -18,6 +18,7 @@ tags:
   - BrownTrout
   - StripedCatfish
   - Scotland
+  - Norway
   - Chile
   - India
   - ParasiticDiseases
@@ -137,6 +138,15 @@ The economic significance of saprolegniasis increased after malachite green, pre
 - **Diagnostic Insights:**
     - Water sampling alone (spore counts) proved insufficient to predict outbreaks; S2 was isolated predominantly from fish rather than water samples, indicating that fish-derived diagnostics are essential for accurate surveillance and early warning [1](https://doi.org/10.3390/jof10010057).
 
+#### Norway
+
+- **Saprolegniasis Incidence:**
+    - In Norway, problems associated with *Saprolegnia* are most pronounced in hatcheries. Saprolegniasis is usually diagnosed and treated in the field without laboratory confirmation, so the Norwegian Veterinary Institute records only a few cases each year and these do not reflect the true extent of the problem; in 2025, no cases were detected in submissions from farmed fish [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025/_/attachment/inline/4e7d310d-0620-439c-a2cf-caac02253620:b124880858959e1f6b61fbe45e1137e7e31fc0f9/Fish%20Health%20Report%202025.pdf).
+    - In the 2025 annual fish health survey, 7 of 62 respondents reported that saprolegniasis had caused mortality in salmon in the freshwater phase, 5 of 60 reported negative effects on welfare, and 4 of 57 reported an increasing occurrence. Overall, the disease is perceived as a relatively minor problem that continues to be effectively controlled through preventive measures [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025/_/attachment/inline/4e7d310d-0620-439c-a2cf-caac02253620:b124880858959e1f6b61fbe45e1137e7e31fc0f9/Fish%20Health%20Report%202025.pdf).
+
+- **Treatment & Management:**
+    - Formalin is the most cost-effective agent and, in most cases, the first choice of treatment during an outbreak, although its use in aquaculture is controversial and remains under evaluation within the EU regulatory system. Prevention relies on gentle handling during grading, transfer and vaccination, good hygiene and water quality, and the frequent removal of dead eggs and residual organic material during incubation [22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025/_/attachment/inline/4e7d310d-0620-439c-a2cf-caac02253620:b124880858959e1f6b61fbe45e1137e7e31fc0f9/Fish%20Health%20Report%202025.pdf).
+
 #### Chile
 
 - **Saprolegniasis Incidence:**
@@ -209,7 +219,7 @@ Recent studies on saprolegniasis have focused on strain biology, molecular surve
 
 ## Conclusion
 
-Saprolegniasis remains one of the most economically damaging infectious diseases in freshwater aquaculture worldwide, affecting salmonids, catfish, ornamental fish, and eggs. The withdrawal of malachite green from use in food fish production has left a persistent therapeutic gap: current approved alternatives (hydrogen peroxide, bronopol, formalin, and salt baths) provide partial control but are generally less effective, and the number of fully approved products varies substantially across jurisdictions [12](https://doi.org/10.1111/jfd.12923).
+Saprolegniasis remains one of the most economically damaging infectious diseases in freshwater aquaculture worldwide, affecting salmonids, tilapia, catfish, and fish eggs. The withdrawal of malachite green from use in food fish production has left a persistent therapeutic gap: current approved alternatives (hydrogen peroxide, bronopol, formalin, and salt baths) provide partial control but are generally less effective, and the number of fully approved products varies substantially across jurisdictions [12](https://doi.org/10.1111/jfd.12923).
 
 Effective management of saprolegniasis in modern aquaculture requires integrated strategies: rigorous biosecurity including regular egg disinfection, prompt removal of dead organic material, and minimization of handling stress; molecular surveillance tools capable of detecting and quantifying *S. parasitica* at the strain level in both fish and water [8](https://doi.org/10.3390/microorganisms10112186) [1](https://doi.org/10.3390/jof10010057); and exploitation of the heritable component of resistance in Atlantic salmon breeding programs [11](https://doi.org/10.1111/jfd.13664). Novel therapeutant candidates (linalool, chlorhexidine, boric acid, and plant-derived extracts) offer promising leads, but require robust in vivo validation and regulatory approval before widespread aquaculture use.
 
@@ -274,5 +284,7 @@ Future research priorities include: in vivo validation of emerging therapeutants
 [20] SERNAPESCA. (2026). *Informe de situación sanitaria de la salmonicultura año 2025*. Servicio Nacional de Pesca y Acuicultura. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
 
 [21] Rzeszutek, E., Díaz-Moreno, S. M., & Bulone, V. (2019). Identification and characterization of the chitin synthase genes from the fish pathogen *Saprolegnia parasitica*. *Frontiers in Microbiology*, *10*, 2873. https://doi.org/10.3389/fmicb.2019.02873
+
+[22] Skaar, I. (2026). Fungal diseases of salmonids. In T. Moldal, J. Wiik-Nielsen, V. H. S. Oliveira, J. C. Svendsen, & I. Sommerset (Eds.), *Norwegian fish health report 2025* (Report series No. 5b/2025, pp. 168–169). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025/_/attachment/inline/4e7d310d-0620-439c-a2cf-caac02253620:b124880858959e1f6b61fbe45e1137e7e31fc0f9/Fish%20Health%20Report%202025.pdf
 
 ---
