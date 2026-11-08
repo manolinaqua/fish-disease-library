@@ -27,9 +27,9 @@ tags:
 
 ### What is Saprolegniasis?
 
-Saprolegniasis (also known as water mold disease, cotton mold disease, or winter disease) is a destructive infectious disease of freshwater fish and fish eggs caused by oomycetes of the genus *Saprolegnia* [18](https://doi.org/10.1017/S0031182022001093). The primary causative agents are *Saprolegnia parasitica*, *S. diclina*, and *S. ferax*, with *S. parasitica* widely regarded as the most virulent species in salmonid aquaculture [1](https://doi.org/10.3390/jof10010057) [3](https://doi.org/10.1111/jfd.12368). Although traditionally grouped with fungal diseases, *Saprolegnia* species are oomycetes belonging to the kingdom Stramenopila (Chromista) — they are evolutionarily distinct from true fungi, differing in cell wall composition (cellulose rather than chitin), a diploid life cycle, and the production of biflagellate zoospores [2](https://doi.org/10.3390/jof9100982).
+Saprolegniasis (also known as water mould disease, cotton wool disease, or winter disease) is a destructive infectious disease of freshwater fish and fish eggs caused by oomycetes of the genus *Saprolegnia* [18](https://doi.org/10.1017/S0031182022001093). The primary causative agents are *Saprolegnia parasitica*, *S. diclina*, and *S. ferax*, with *S. parasitica* widely regarded as the most virulent species in salmonid aquaculture [1](https://doi.org/10.3390/jof10010057) [3](https://doi.org/10.1111/jfd.12368). Although traditionally grouped with fungal diseases, *Saprolegnia* species are oomycetes belonging to the kingdom Stramenopila (Chromista). They are evolutionarily distinct from true fungi, differing in cell wall composition (cellulose rather than chitin), a diploid life cycle, and the production of biflagellate zoospores [2](https://doi.org/10.3390/jof9100982).
 
-Saprolegniasis affects a broad range of freshwater fish species, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), iridescent catfish (*Pangasianodon hypophthalmus*), and various ornamental fish, as well as salmonid eggs in hatcheries [6](https://doi.org/10.1038/s41598-024-80075-0) [3](https://doi.org/10.1111/jfd.12368). The disease is globally distributed in freshwater aquaculture systems across Europe, North America, and Asia [18](https://doi.org/10.1017/S0031182022001093).
+Saprolegniasis affects a broad range of freshwater fish species, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), brown trout (*Salmo trutta*), striped catfish (*Pangasianodon hypophthalmus*), and various ornamental fish, as well as salmonid eggs in hatcheries [6](https://doi.org/10.1038/s41598-024-80075-0) [3](https://doi.org/10.1111/jfd.12368). The disease is globally distributed in freshwater aquaculture systems across Europe, North America, and Asia [18](https://doi.org/10.1017/S0031182022001093).
 
 The economic significance of saprolegniasis increased sharply after the ban of malachite green in food fish production in the European Union (2002) and in most other countries during the early 2000s. Previously the cornerstone treatment, malachite green's removal from use prompted urgent search for alternative treatments and increased reliance on biosecurity measures [13](https://doi.org/10.1371/journal.pone.0091878) [15](https://doi.org/10.1016/j.sjbs.2020.04.008). Annual losses attributable to saprolegniasis in global freshwater aquaculture are estimated in the tens of millions of dollars, with hatchery egg losses being particularly severe [16](https://doi.org/10.3389/fmicb.2025.1723326).
 
@@ -38,9 +38,9 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 ### Common Signs
 
 - **Physical Signs:**
-    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of hyphae on the skin, fins, gills, and eggs of affected fish [2](https://doi.org/10.3390/jof9100982) [6](https://doi.org/10.1038/s41598-024-80075-0). These superficial mycelial colonies are visible to the naked eye and grow rapidly under favorable conditions.
+    - **Cotton-like mycelial growth:** The hallmark clinical sign is the appearance of white to grey, cotton-wool-like tufts of hyphae on the skin, fins, gills, and eggs of affected fish [2](https://doi.org/10.3390/jof9100982) [6](https://doi.org/10.1038/s41598-024-80075-0). These superficial mycelial colonies are visible to the naked eye and grow rapidly under favourable conditions.
     - **Haemorrhagic ulcers:** Beneath the mycelial mat, the underlying skin develops reddened, haemorrhagic ulcers exposing the dermis and, in advanced cases, underlying muscle tissue [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
-    - **Fin erosion:** Fin margins become ragged and necrotic at sites where mycelial colonization is established [6](https://doi.org/10.1038/s41598-024-80075-0).
+    - **Fin erosion:** Fin margins become ragged and necrotic at sites where mycelial colonisation is established [6](https://doi.org/10.1038/s41598-024-80075-0).
     - **Egg infection:** *Saprolegnia* is a major cause of egg mortality in salmonid hatcheries. Infected eggs develop a characteristic white mycelial halo; *S. parasitica* penetrates the intact chorion, while *S. diclina* destroys the chorion surface [3](https://doi.org/10.1111/jfd.12368).
 
 - **Behavioural Changes:**
@@ -50,20 +50,20 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage — wounds from handling, fin nips, or ectoparasite attachment provide primary entry points. Behavioural changes at this stage may be subtle [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
+- **Early Stages:** Infection begins as small, discrete focal patches of whitish mycelium at sites of prior skin damage. Wounds from handling, fin nips, or ectoparasite attachment provide the primary entry points. Behavioural changes at this stage may be subtle [5](https://doi.org/10.1111/jfd.12175) [7](https://doi.org/10.3390/microorganisms12081733).
 - **Advanced Stages:** Mycelial colonies expand and coalesce; deep ulceration of the dermis and underlying muscle develops. In severe cases, hyphal invasion spreads to deeper tissues, causing osmoregulatory failure, systemic infection, and death [5](https://doi.org/10.1111/jfd.12175) [6](https://doi.org/10.1038/s41598-024-80075-0).
-- **Impact on Fish Health:** Saprolegniasis compromises the cutaneous barrier, leading to electrolyte imbalance and osmotic stress. The altered skin microbiome associated with infection — reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas* — further predisposes fish to secondary infections [7](https://doi.org/10.3390/microorganisms12081733). Mortality can be high in crowded hatchery and farm settings [18](https://doi.org/10.1017/S0031182022001093).
+- **Impact on Fish Health:** Saprolegniasis compromises the cutaneous barrier, leading to electrolyte imbalance and osmotic stress. The altered skin microbiome associated with infection (reduced bacterial diversity and increased opportunistic taxa such as *Aeromonas*) further predisposes fish to secondary infections [7](https://doi.org/10.3390/microorganisms12081733). Mortality can be high in crowded hatchery and farm settings [18](https://doi.org/10.1017/S0031182022001093).
 
 ### Causes of Saprolegniasis
 
-**Etiology**
+**Aetiology**
 
 - **Causative Agent:** *Saprolegnia parasitica* is the primary pathogen in freshwater salmonid aquaculture. Phylogenetic analysis of the ITS region has identified at least five phylotypes of *S. parasitica* (S2–S6); phylotype S2 is overwhelmingly dominant in Scottish Atlantic salmon farms, accounting for 91.1% of all *S. parasitica* isolates recovered during epizootic periods [1](https://doi.org/10.3390/jof10010057). In Nova Scotia, both S1 and S2 strains co-circulate; S1 exhibits persistent zoospore motility and is consistently more virulent than S2 in experimental challenges, while S2 zoospores encyst and germinate more rapidly [4](https://doi.org/10.1111/jfd.70028). *Saprolegnia diclina* clade IIIA is also frequently isolated from diseased eggs and employs a distinct infection strategy [3](https://doi.org/10.1111/jfd.12368). Morphologically, *S. parasitica* produces non-septate branching hyphae, zoosporangia, secondary zoospores, encysted spores, and persistent vegetative gemmae; culture conditions significantly influence the formation of these structures [2](https://doi.org/10.3390/jof9100982).
 
 - **Transmission Methods:**
     - **Zoospore Dispersal:** *Saprolegnia* reproduces asexually by releasing biflagellate primary zoospores from zoosporangia. These encyst, re-germinate as secondary zoospores, and ultimately encyst again before germinating into new hyphae. Zoospores are chemotactically attracted to fish skin exudates and damaged tissue [2](https://doi.org/10.3390/jof9100982) [4](https://doi.org/10.1111/jfd.70028).
-    - **Direct Contact:** Infected fish and eggs release enormous numbers of zoospores into the water column, directly exposing neighboring healthy fish and eggs [5](https://doi.org/10.1111/jfd.12175) [3](https://doi.org/10.1111/jfd.12368).
-    - **Environmental Reservoirs:** *Saprolegnia* persists as saprotrophic mycelium on decaying organic matter — dead fish, uneaten feed, and feces — in tank substrates and biofilms, providing ongoing zoospore production even in the absence of visibly diseased hosts [18](https://doi.org/10.1017/S0031182022001093).
+    - **Direct Contact:** Infected fish and eggs release enormous numbers of zoospores into the water column, directly exposing neighbouring healthy fish and eggs [5](https://doi.org/10.1111/jfd.12175) [3](https://doi.org/10.1111/jfd.12368).
+    - **Environmental Reservoirs:** *Saprolegnia* persists as saprotrophic mycelium on decaying organic matter (dead fish, uneaten feed, and faeces) in tank substrates and biofilms, providing ongoing zoospore production even in the absence of visibly diseased hosts [18](https://doi.org/10.1017/S0031182022001093).
 
 **Risk Factors**
 
@@ -98,7 +98,7 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Emerging Treatments:**
     - **Boric acid:** Inhibits *Saprolegnia* spore germination and mycelial growth in vitro, and effectively controls saprolegniasis in Atlantic salmon eyed eggs and yolk sac fry in vivo without adverse effects on hatchability or survival [13](https://doi.org/10.1371/journal.pone.0091878).
-    - **Linalool:** A natural terpene alcohol found in various essential oils, linalool exerts dual activity — directly disrupting *S. parasitica* cell membranes and inhibiting protein synthesis, while simultaneously stimulating host complement and coagulation cascades, wound healing, and immune cell responses [17](https://doi.org/10.7554/eLife.100393).
+    - **Linalool:** A natural terpene alcohol found in various essential oils, linalool exerts dual activity, directly disrupting *S. parasitica* cell membranes and inhibiting protein synthesis, while simultaneously stimulating host complement and coagulation cascades, wound healing, and immune cell responses [17](https://doi.org/10.7554/eLife.100393).
     - **Plant extracts:** Ethanolic extracts of pomegranate (*Punica granatum*) and thyme (*Thymus vulgaris*) significantly suppress mycelial growth of *S. diclina* at concentrations with low fish toxicity, representing promising natural alternatives to chemical fungicides [15](https://doi.org/10.1016/j.sjbs.2020.04.008).
     - **Chlorhexidine:** Identified by virtual screening against a cytochrome P450 fusion protein unique to *Saprolegnia*, chlorhexidine demonstrated strong anti-*Saprolegnia* activity in vitro (MIC₅₀ of 10.93 µg/ml), positioning it as a lead candidate for further in vivo development [16](https://doi.org/10.3389/fmicb.2025.1723326).
     - **Clotrimazole:** The imidazole antifungal arrested both spore and hyphal growth of *S. parasitica* isolated from catfish at a concentration of 2 mg/L, suggesting potential utility in non-salmonid aquaculture systems [6](https://doi.org/10.1038/s41598-024-80075-0).
@@ -120,9 +120,9 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-    - **Scotland — Atlantic Salmon Hatcheries and Farms:** A two-year surveillance study of 14 aquaculture sites in Scotland recovered 412 oomycete and fungal isolates from fish and water. *Saprolegnia* accounted for 66% of all oomycetes isolated, and *S. parasitica* phylotype S2 was overwhelmingly dominant — found at 12 of 14 sites, representing 91.1% of *S. parasitica* isolates during epizootic periods. The study demonstrated that water-column spore counts alone were insufficient to predict outbreak risk, highlighting the need for fish-derived sampling and molecular diagnostics [1](https://doi.org/10.3390/jof10010057).
-    - **India — Cage-Cultured Iridescent Catfish:** *Saprolegnia parasitica* was isolated and characterized from cage-reared *Pangasianodon hypophthalmus* farmed in freshwater reservoirs in India. The pathogen displayed temperature-sensitive growth optimum of 12–24°C, consistent with heightened risk during cooler winter months. Clotrimazole was identified as an effective treatment candidate at 2 mg/L against both spore and hyphal stages [6](https://doi.org/10.1038/s41598-024-80075-0).
-    - **Wild Salmonids — Ulcerative Dermal Necrosis (UDN):** UDN produces severe ulcerative skin lesions in migrating wild Atlantic salmon and sea trout returning to rivers to spawn. Historically associated with *Saprolegnia* as a secondary colonizer of damaged skin, recent investigations confirm a complex, multifactorial etiology: the physiological transition from saltwater to freshwater triggers changes in skin physiology that increase susceptibility, with *Saprolegnia* acting as an opportunistic pathogen on compromised tissue [19](https://doi.org/10.3390/pathogens13030251).
+    - **Scotland (Atlantic salmon hatcheries and farms):** A two-year surveillance study of 14 aquaculture sites in Scotland recovered 412 oomycete and fungal isolates from fish and water. *Saprolegnia* accounted for 66% of all oomycetes isolated, and *S. parasitica* phylotype S2 was overwhelmingly dominant, found at 12 of 14 sites and representing 91.1% of *S. parasitica* isolates during epizootic periods. The study demonstrated that water-column spore counts alone were insufficient to predict outbreak risk, highlighting the need for fish-derived sampling and molecular diagnostics [1](https://doi.org/10.3390/jof10010057).
+    - **India (cage-cultured striped catfish):** *Saprolegnia parasitica* was isolated and characterized from cage-reared *Pangasianodon hypophthalmus* farmed in freshwater reservoirs in India. The pathogen displayed temperature-sensitive growth optimum of 12–24°C, consistent with heightened risk during cooler winter months. Clotrimazole was identified as an effective treatment candidate at 2 mg/L against both spore and hyphal stages [6](https://doi.org/10.1038/s41598-024-80075-0).
+    - **Wild salmonids (ulcerative dermal necrosis, UDN):** UDN produces severe ulcerative skin lesions in migrating wild Atlantic salmon and sea trout returning to rivers to spawn. Historically associated with *Saprolegnia* as a secondary coloniser of damaged skin, recent investigations confirm a complex, multifactorial aetiology: the physiological transition from saltwater to freshwater triggers changes in skin physiology that increase susceptibility, with *Saprolegnia* acting as an opportunistic pathogen on compromised tissue [19](https://doi.org/10.3390/pathogens13030251).
 
 - **Lessons Learned:** Effective management requires integrated approaches combining molecular surveillance of both water and fish, early removal of infected material, stress minimization, and timely application of approved treatments. Single-intervention strategies are insufficient for reliable control [1](https://doi.org/10.3390/jof10010057) [18](https://doi.org/10.1017/S0031182022001093).
 
@@ -146,9 +146,9 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 
 - **Saprolegniasis Incidence:**
     - In Chile, saprolegniasis is not tracked as a standalone notifiable disease but is reported collectively under the category **"Micosis"** within the Programa Sanitario General de Manejo y Clasificación de Mortalidad (PSGM), the official mortality classification system operated by SERNAPESCA [20](https://www.sernapesca.cl).
-    - During 2025, mycosis was the **leading infectious cause of mortality in freshwater Atlantic salmon**, accounting for **60.2% of all infectious deaths** — ahead of Flavobacteriosis (24.9%) [20](https://www.sernapesca.cl). This represented an increase of **+7.5 percentage points** compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20](https://www.sernapesca.cl).
+    - During 2025, mycosis was the **leading infectious cause of mortality in freshwater Atlantic salmon**, accounting for **60.2% of all infectious deaths**, ahead of flavobacteriosis (24.9%) [20](https://www.sernapesca.cl). This represented an increase of **+7.5 percentage points** compared to 2024, the largest year-on-year increase recorded among infectious causes in that species [20](https://www.sernapesca.cl).
     - In freshwater coho salmon, mycosis was the **second infectious cause of mortality** (34.4%), and showed the **largest relative increase of any pathogen category: +18%** compared to 2024, while IPN declined by 12.9% [20](https://www.sernapesca.cl).
-    - In rainbow trout, mycosis was a minor infectious cause (3.3%), with Flavobacteriosis dominant (95.1%) [20](https://www.sernapesca.cl).
+    - In rainbow trout, mycosis was a minor infectious cause (3.3%), with flavobacteriosis dominant (95.1%) [20](https://www.sernapesca.cl).
 
 - **Economic Impact:**
     - The consistent increase in mycosis-attributed mortality across Atlantic salmon and coho salmon in 2025 indicates growing pressure from Saprolegniasis in Chilean freshwater hatcheries and grow-out facilities. Chile operates approximately 140 active freshwater centers annually, concentrated in Los Lagos (67), Araucanía (36), and Los Ríos (28) regions [20](https://www.sernapesca.cl).
@@ -159,73 +159,67 @@ The economic significance of saprolegniasis increased sharply after the ban of m
 #### India
 
 - **Saprolegniasis Incidence:**
-    - *Saprolegnia parasitica* has been confirmed as a significant pathogen of iridescent catfish (*Pangasianodon hypophthalmus*) in cage aquaculture systems in Indian freshwater reservoirs, representing a threat to one of South Asia's most economically important aquaculture species [6](https://doi.org/10.1038/s41598-024-80075-0).
+    - *Saprolegnia parasitica* has been confirmed as a significant pathogen of striped catfish (*Pangasianodon hypophthalmus*) in cage aquaculture systems in Indian freshwater reservoirs, representing a threat to one of South Asia's most economically important aquaculture species [6](https://doi.org/10.1038/s41598-024-80075-0).
 
 - **Economic Impact:**
     - The pathogen causes substantial mortality in catfish hatcheries and among juvenile fish, particularly during winter months when water temperatures fall within the pathogen's optimal growth range of 12–24°C [6](https://doi.org/10.1038/s41598-024-80075-0).
 
 - **Treatment & Management:**
-    - In vitro sensitivity testing identified clotrimazole (MIC: 2 mg/L) as effective against both spore and hyphal stages, while commonly available compounds — boric acid, fluconazole, sodium thiosulfate, and potassium permanganate — showed negligible activity against *S. parasitica* isolates from this system [6](https://doi.org/10.1038/s41598-024-80075-0).
+    - In vitro sensitivity testing identified clotrimazole (MIC: 2 mg/L) as effective against both spore and hyphal stages, while commonly available compounds (boric acid, fluconazole, sodium thiosulfate, and potassium permanganate) showed negligible activity against *S. parasitica* isolates from this system [6](https://doi.org/10.1038/s41598-024-80075-0).
 
 ## Research and References
 
 ### Latest Research Findings
 
-#### Pathogenesis and Strain Biology
+Recent studies on saprolegniasis have focused on strain biology, molecular surveillance, alternative treatments and genetic resistance:
 
-1. **"*Saprolegnia parasitica* S1 and S2 Strains Differ in Zoospore Transition Timing and Pathogenicity Against Juvenile Atlantic Salmon (*Salmo salar*)"**
+1. **"*Saprolegnia parasitica* S1 and S2 strains differ in zoospore transition timing and pathogenicity against juvenile Atlantic salmon (*Salmo salar*)"**
     Authors: Duston, J., Sarowar, M. N., Schmidt-Schaun, T., & Astatkie, T.
-    Reference: *Journal of Fish Diseases*, 2025.
-    Key findings: S1 exhibited persistent zoospore motility and was consistently more virulent than S2 across challenge experiments through smolting season; susceptibility was independent of smolt status.
-    [DOI: 10.1111/jfd.70028](https://doi.org/10.1111/jfd.70028)
+    Reference: Duston, J., Sarowar, M. N., Schmidt-Schaun, T., & Astatkie, T. (2025). *Saprolegnia parasitica* S1 and S2 strains differ in zoospore transition timing and pathogenicity against juvenile Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases*.
+    Key findings: S1 exhibited persistent zoospore motility and was consistently more virulent than S2 across challenge experiments through the smolting season; susceptibility was independent of smolt status.
+    [Link to study](https://doi.org/10.1111/jfd.70028)
 
-2. **"*Saprolegnia diclina* IIIA and *S. parasitica* Employ Different Infection Strategies When Colonizing Eggs of Atlantic Salmon, *Salmo salar* L."**
+2. **"*Saprolegnia diclina* IIIA and *S. parasitica* employ different infection strategies when colonizing eggs of Atlantic salmon, *Salmo salar* L."**
     Authors: Songe, M. M., Willems, A., Wiik-Nielsen, J., Thoen, E., Evensen, Ø., van West, P., & Skaar, I.
-    Reference: *Journal of Fish Diseases*, 2015.
-    Key findings: *S. diclina* destroys the egg chorion (necrotrophic strategy), while *S. parasitica* penetrates intact chorion (facultative biotrophic strategy) — two fundamentally different infection mechanisms in the same host.
-    [DOI: 10.1111/jfd.12368](https://doi.org/10.1111/jfd.12368)
+    Reference: Songe, M. M., Willems, A., Wiik-Nielsen, J., Thoen, E., Evensen, Ø., van West, P., & Skaar, I. (2015). *Saprolegnia diclina* IIIA and *S. parasitica* employ different infection strategies when colonizing eggs of Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*.
+    Key findings: *S. diclina* destroys the egg chorion (necrotrophic strategy), while *S. parasitica* penetrates the intact chorion (facultative biotrophic strategy). These are two fundamentally different infection mechanisms in the same host.
+    [Link to study](https://doi.org/10.1111/jfd.12368)
 
-#### Diagnostics and Surveillance
-
-3. **"Specific Phylotypes of *Saprolegnia parasitica* Associated with Atlantic Salmon Freshwater Aquaculture"**
+3. **"Specific phylotypes of *Saprolegnia parasitica* associated with Atlantic salmon freshwater aquaculture"**
     Authors: Shreves, K. V., Saraiva, M., Ruba, T., Miller, C., Scott, E. M., McLaggan, D., & van West, P.
-    Reference: *Journal of Fungi*, 2024; *10*(1), 57.
+    Reference: Shreves, K. V., Saraiva, M., Ruba, T., Miller, C., Scott, E. M., McLaggan, D., & van West, P. (2024). Specific phylotypes of *Saprolegnia parasitica* associated with Atlantic salmon freshwater aquaculture. *Journal of Fungi*, *10*(1), 57.
     Key findings: A single phylotype (S2) dominates *Saprolegnia* epizootics in Scottish salmon farms; water-column spore counts alone are insufficient to predict outbreaks.
-    [DOI: 10.3390/jof10010057](https://doi.org/10.3390/jof10010057)
+    [Link to study](https://doi.org/10.3390/jof10010057)
 
-4. **"Detection and Quantification of the Oomycete *Saprolegnia parasitica* in Aquaculture Environments"**
+4. **"Detection and quantification of the oomycete *Saprolegnia parasitica* in aquaculture environments"**
     Authors: Korkea-aho, T., Wiklund, T., Engblom, C., Vainikka, A., & Viljamaa-Dirks, S.
-    Reference: *Microorganisms*, 2022; *10*(11), 2186.
-    Key findings: A validated real-time qPCR assay detected 100% of *S. parasitica*-positive water and mucus samples; suitable as both a diagnostic and environmental surveillance tool.
-    [DOI: 10.3390/microorganisms10112186](https://doi.org/10.3390/microorganisms10112186)
+    Reference: Korkea-aho, T., Wiklund, T., Engblom, C., Vainikka, A., & Viljamaa-Dirks, S. (2022). Detection and quantification of the oomycete *Saprolegnia parasitica* in aquaculture environments. *Microorganisms*, *10*(11), 2186.
+    Key findings: A validated real-time qPCR assay detected 100% of *S. parasitica*-positive water and mucus samples, making it suitable as both a diagnostic and an environmental surveillance tool.
+    [Link to study](https://doi.org/10.3390/microorganisms10112186)
 
-#### Alternative and Emerging Treatments
-
-5. **"Linalool Combats *Saprolegnia parasitica* Infections Through Direct Killing of Microbes and Modulation of Host Immune System"**
+5. **"Linalool combats *Saprolegnia parasitica* infections through direct killing of microbes and modulation of host immune system"**
     Authors: Tang, T., Zhong, W., Tang, P., Dai, R., Guo, J., Gao, Z., & Andayi, W. A.
-    Reference: *eLife*, 2025; *14*.
-    Key findings: Linalool disrupts *S. parasitica* cell membranes and inhibits protein synthesis, while enhancing host complement, coagulation, wound healing, and beneficial gut microbiota — a multi-target natural alternative to chemical fungicides.
-    [DOI: 10.7554/eLife.100393](https://doi.org/10.7554/eLife.100393)
+    Reference: Tang, T., Zhong, W., Tang, P., Dai, R., Guo, J., Gao, Z., & Andayi, W. A. (2025). Linalool combats *Saprolegnia parasitica* infections through direct killing of microbes and modulation of host immune system. *eLife*, *14*.
+    Key findings: Linalool disrupts *S. parasitica* cell membranes and inhibits protein synthesis, while enhancing host complement, coagulation, wound healing and beneficial gut microbiota, making it a multi-target natural alternative to chemical fungicides.
+    [Link to study](https://doi.org/10.7554/eLife.100393)
 
-6. **"Consensus Scoring-Guided Virtual Screening Identifies Potent Anti-Saprolegniasis Compounds Targeting a P450 Fusion Protein"**
+6. **"Consensus scoring-guided virtual screening identifies potent anti-saprolegniasis compounds targeting a P450 fusion protein"**
     Authors: Ali, M. A., Javaid, A., Muvva, C., Murugan, N. A., & Srivastava, V.
-    Reference: *Frontiers in Microbiology*, 2026; *16*, 1723326.
-    Key findings: Chlorhexidine, identified by FDA-approved drug screening against a *Saprolegnia*-specific P450 protein, showed MIC₅₀ of 10.93 µg/ml in vitro — a promising candidate for therapeutic development.
-    [DOI: 10.3389/fmicb.2025.1723326](https://doi.org/10.3389/fmicb.2025.1723326)
+    Reference: Ali, M. A., Javaid, A., Muvva, C., Murugan, N. A., & Srivastava, V. (2026). Consensus scoring-guided virtual screening identifies potent anti-saprolegniasis compounds targeting a P450 fusion protein. *Frontiers in Microbiology*, *16*, 1723326.
+    Key findings: Chlorhexidine, identified by screening FDA-approved drugs against a *Saprolegnia*-specific P450 protein, showed an MIC₅₀ of 10.93 µg/ml in vitro, making it a promising candidate for therapeutic development.
+    [Link to study](https://doi.org/10.3389/fmicb.2025.1723326)
 
-#### Genetics and Host Resistance
-
-7. **"Resistance to *Saprolegnia parasitica* Infection: A Heritable Trait in Atlantic Salmon"**
+7. **"Resistance to *Saprolegnia parasitica* infection: A heritable trait in Atlantic salmon"**
     Authors: Misk, E., Gonen, S., & Garber, A. F.
-    Reference: *Journal of Fish Diseases*, 2022.
-    Key findings: Heritability of *Saprolegnia* resistance estimated at 0.25 across 105 pedigreed Atlantic salmon families; susceptible families showed a 1509% higher hazard of death compared to resistant families, confirming the potential of selective breeding to reduce saprolegniasis impact.
-    [DOI: 10.1111/jfd.13664](https://doi.org/10.1111/jfd.13664)
+    Reference: Misk, E., Gonen, S., & Garber, A. F. (2022). Resistance to *Saprolegnia parasitica* infection: A heritable trait in Atlantic salmon. *Journal of Fish Diseases*.
+    Key findings: Heritability of *Saprolegnia* resistance was estimated at 0.25 across 105 pedigreed Atlantic salmon families; susceptible families showed a 1509% higher hazard of death than resistant families, confirming the potential of selective breeding to reduce the impact of saprolegniasis.
+    [Link to study](https://doi.org/10.1111/jfd.13664)
 
 ## Conclusion
 
-Saprolegniasis remains one of the most economically damaging infectious diseases in freshwater aquaculture worldwide, affecting salmonids, catfish, ornamental fish, and eggs. The withdrawal of malachite green from use in food fish production has left a persistent therapeutic gap: current approved alternatives — hydrogen peroxide, bronopol, formalin, and salt baths — provide partial control but are generally less effective, and the number of fully approved products varies substantially across jurisdictions [18](https://doi.org/10.1017/S0031182022001093).
+Saprolegniasis remains one of the most economically damaging infectious diseases in freshwater aquaculture worldwide, affecting salmonids, catfish, ornamental fish, and eggs. The withdrawal of malachite green from use in food fish production has left a persistent therapeutic gap: current approved alternatives (hydrogen peroxide, bronopol, formalin, and salt baths) provide partial control but are generally less effective, and the number of fully approved products varies substantially across jurisdictions [18](https://doi.org/10.1017/S0031182022001093).
 
-Effective management of saprolegniasis in modern aquaculture requires integrated strategies: rigorous biosecurity including regular egg disinfection, prompt removal of dead organic material, and minimization of handling stress; molecular surveillance tools capable of detecting and quantifying *S. parasitica* at the strain level in both fish and water [8](https://doi.org/10.3390/microorganisms10112186) [1](https://doi.org/10.3390/jof10010057); and exploitation of the heritable component of resistance in Atlantic salmon breeding programs [11](https://doi.org/10.1111/jfd.13664). Novel therapeutant candidates — linalool, chlorhexidine, boric acid, and plant-derived extracts — offer promising leads, but require robust in vivo validation and regulatory approval before widespread aquaculture use.
+Effective management of saprolegniasis in modern aquaculture requires integrated strategies: rigorous biosecurity including regular egg disinfection, prompt removal of dead organic material, and minimization of handling stress; molecular surveillance tools capable of detecting and quantifying *S. parasitica* at the strain level in both fish and water [8](https://doi.org/10.3390/microorganisms10112186) [1](https://doi.org/10.3390/jof10010057); and exploitation of the heritable component of resistance in Atlantic salmon breeding programs [11](https://doi.org/10.1111/jfd.13664). Novel therapeutant candidates (linalool, chlorhexidine, boric acid, and plant-derived extracts) offer promising leads, but require robust in vivo validation and regulatory approval before widespread aquaculture use.
 
 Future research priorities include: in vivo validation of emerging therapeutants across multiple host species; further characterization of *Saprolegnia* phylotype diversity and its relationship to virulence and geographic distribution; development of point-of-care molecular diagnostics for on-farm use; elucidation of host immune responses to guide immunostimulant strategies; and streamlined regulatory pathways to accelerate translation of research into farm practice.
 
@@ -237,50 +231,53 @@ Future research priorities include: in vivo validation of emerging therapeutants
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
+[[Caligidosis (Caligus rogercresseyi)]]
+[[Gyrodactylus salaris]]
 [[Paranucleosporosis]]
 [[Parvicapsulosis]]
 [[Proliferative Gill Disease]]
 [[Sea Lice]]
+[[Spironucleosis salmonicida]]
 
 **Citations:**
 
-[1] Shreves, K. V., Saraiva, M., Ruba, T., Miller, C., Scott, E. M., McLaggan, D., & van West, P. (2024). Specific phylotypes of *Saprolegnia parasitica* associated with Atlantic salmon freshwater aquaculture. *Journal of Fungi*, *10*(1), 57. https://doi.org/10.3390/jof10010057 · [Full text](https://citations.gxl.ai/papers/PMC10820671)
+[1] Shreves, K. V., Saraiva, M., Ruba, T., Miller, C., Scott, E. M., McLaggan, D., & van West, P. (2024). Specific phylotypes of *Saprolegnia parasitica* associated with Atlantic salmon freshwater aquaculture. *Journal of Fungi*, *10*(1), 57. https://doi.org/10.3390/jof10010057
 
-[2] Erdei, N., Hardy, T., Verebélyi, V., Weiperth, A., Baska, F., & Eszterbauer, E. (2023). New insights into the morphological diversity of *Saprolegnia parasitica* (Oomycota) strains under in vitro culture conditions. *Journal of Fungi*, *9*(10), 982. https://doi.org/10.3390/jof9100982 · [Full text](https://citations.gxl.ai/papers/PMC10607735)
+[2] Erdei, N., Hardy, T., Verebélyi, V., Weiperth, A., Baska, F., & Eszterbauer, E. (2023). New insights into the morphological diversity of *Saprolegnia parasitica* (Oomycota) strains under in vitro culture conditions. *Journal of Fungi*, *9*(10), 982. https://doi.org/10.3390/jof9100982
 
-[3] Songe, M. M., Willems, A., Wiik-Nielsen, J., Thoen, E., Evensen, Ø., van West, P., & Skaar, I. (2015). *Saprolegnia diclina* IIIA and *S. parasitica* employ different infection strategies when colonizing eggs of Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12368 · [Full text](https://citations.gxl.ai/papers/PMC4973706)
+[3] Songe, M. M., Willems, A., Wiik-Nielsen, J., Thoen, E., Evensen, Ø., van West, P., & Skaar, I. (2015). *Saprolegnia diclina* IIIA and *S. parasitica* employ different infection strategies when colonizing eggs of Atlantic salmon, *Salmo salar* L. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12368
 
-[4] Duston, J., Sarowar, M. N., Schmidt-Schaun, T., & Astatkie, T. (2025). *Saprolegnia parasitica* S1 and S2 strains differ in zoospore transition timing and pathogenicity against juvenile Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.70028 · [Full text](https://citations.gxl.ai/papers/PMC12757898)
+[4] Duston, J., Sarowar, M. N., Schmidt-Schaun, T., & Astatkie, T. (2025). *Saprolegnia parasitica* S1 and S2 strains differ in zoospore transition timing and pathogenicity against juvenile Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.70028
 
-[5] Songe, M. M., Thoen, E., Evensen, Ø., & Skaar, I. (2014). In vitro passages impact on virulence of *Saprolegnia parasitica* to Atlantic salmon, *Salmo salar* L. parr. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12175 · [Full text](https://citations.gxl.ai/papers/PMC4263310)
+[5] Songe, M. M., Thoen, E., Evensen, Ø., & Skaar, I. (2014). In vitro passages impact on virulence of *Saprolegnia parasitica* to Atlantic salmon, *Salmo salar* L. parr. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12175
 
-[6] Rathod, S. K., Das, B. K., Tandel, R. S., Chatterjee, S., Das, N., Tripathi, G., Kumar, S., Panda, S. K., Patil, P. K., & Manna, S. K. (2024). Isolation and characterization of *Saprolegnia parasitica* from cage-reared *Pangasianodon hypophthalmus* and its sensitivity to different antifungal compounds. *Scientific Reports*, *14*, 30829. https://doi.org/10.1038/s41598-024-80075-0 · [Full text](https://citations.gxl.ai/papers/PMC11681207)
+[6] Rathod, S. K., Das, B. K., Tandel, R. S., Chatterjee, S., Das, N., Tripathi, G., Kumar, S., Panda, S. K., Patil, P. K., & Manna, S. K. (2024). Isolation and characterization of *Saprolegnia parasitica* from cage-reared *Pangasianodon hypophthalmus* and its sensitivity to different antifungal compounds. *Scientific Reports*, *14*, 30829. https://doi.org/10.1038/s41598-024-80075-0
 
-[7] Pavić, D., Geček, S., Miljanović, A., Grbin, D., & Bielen, A. (2024). Characterization of bacterial communities on trout skin and eggs in relation to *Saprolegnia parasitica* infection status. *Microorganisms*, *12*(8), 1733. https://doi.org/10.3390/microorganisms12081733 · [Full text](https://citations.gxl.ai/papers/PMC11357440)
+[7] Pavić, D., Geček, S., Miljanović, A., Grbin, D., & Bielen, A. (2024). Characterization of bacterial communities on trout skin and eggs in relation to *Saprolegnia parasitica* infection status. *Microorganisms*, *12*(8), 1733. https://doi.org/10.3390/microorganisms12081733
 
-[8] Korkea-aho, T., Wiklund, T., Engblom, C., Vainikka, A., & Viljamaa-Dirks, S. (2022). Detection and quantification of the oomycete *Saprolegnia parasitica* in aquaculture environments. *Microorganisms*, *10*(11), 2186. https://doi.org/10.3390/microorganisms10112186 · [Full text](https://citations.gxl.ai/papers/PMC9694653)
+[8] Korkea-aho, T., Wiklund, T., Engblom, C., Vainikka, A., & Viljamaa-Dirks, S. (2022). Detection and quantification of the oomycete *Saprolegnia parasitica* in aquaculture environments. *Microorganisms*, *10*(11), 2186. https://doi.org/10.3390/microorganisms10112186
 
-[9] Chanu, K. V., Thakuria, D., Pant, V., Bisht, S., & Tandel, R. S. (2022). Development of multiplex PCR assay for species-specific detection and identification of *Saprolegnia parasitica*. *Biotechnology Reports*, *35*, e00758. https://doi.org/10.1016/j.btre.2022.e00758 · [Full text](https://citations.gxl.ai/papers/PMC9398915)
+[9] Chanu, K. V., Thakuria, D., Pant, V., Bisht, S., & Tandel, R. S. (2022). Development of multiplex PCR assay for species-specific detection and identification of *Saprolegnia parasitica*. *Biotechnology Reports*, *35*, e00758. https://doi.org/10.1016/j.btre.2022.e00758
 
-[10] Ghosh, S., Straus, D. L., Good, C., & Phuntumart, V. (2021). Development and comparison of loop-mediated isothermal amplification with quantitative PCR for the specific detection of *Saprolegnia* spp. *PLoS ONE*, *16*(12), e0250808. https://doi.org/10.1371/journal.pone.0250808 · [Full text](https://citations.gxl.ai/papers/PMC8668100)
+[10] Ghosh, S., Straus, D. L., Good, C., & Phuntumart, V. (2021). Development and comparison of loop-mediated isothermal amplification with quantitative PCR for the specific detection of *Saprolegnia* spp. *PLoS ONE*, *16*(12), e0250808. https://doi.org/10.1371/journal.pone.0250808
 
-[11] Misk, E., Gonen, S., & Garber, A. F. (2022). Resistance to *Saprolegnia parasitica* infection: A heritable trait in Atlantic salmon. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.13664 · [Full text](https://citations.gxl.ai/papers/PMC9544413)
+[11] Misk, E., Gonen, S., & Garber, A. F. (2022). Resistance to *Saprolegnia parasitica* infection: A heritable trait in Atlantic salmon. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.13664
 
-[12] Tedesco, P., Fioravanti, M. L., & Galuppi, R. (2018). In vitro activity of chemicals and commercial products against *Saprolegnia parasitica* and *Saprolegnia delica* strains. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12923 · [Full text](https://citations.gxl.ai/papers/PMC7379612)
+[12] Tedesco, P., Fioravanti, M. L., & Galuppi, R. (2018). In vitro activity of chemicals and commercial products against *Saprolegnia parasitica* and *Saprolegnia delica* strains. *Journal of Fish Diseases*. https://doi.org/10.1111/jfd.12923
 
-[13] Ali, S. E., Thoen, E., Evensen, Ø., & Skaar, I. (2014). Boric acid inhibits germination and colonization of *Saprolegnia* spores in vitro and in vivo. *PLoS ONE*, *9*(3), e91878. https://doi.org/10.1371/journal.pone.0091878 · [Full text](https://citations.gxl.ai/papers/PMC3974685)
+[13] Ali, S. E., Thoen, E., Evensen, Ø., & Skaar, I. (2014). Boric acid inhibits germination and colonization of *Saprolegnia* spores in vitro and in vivo. *PLoS ONE*, *9*(3), e91878. https://doi.org/10.1371/journal.pone.0091878
 
-[14] Hu, K., Ma, R.-R., Cheng, J.-M., Ye, X., Sun, Q., Yuan, H.-L., Liang, N., Fang, W.-H., Li, H.-R., & Yang, X.-L. (2016). Analysis of *Saprolegnia parasitica* transcriptome following treatment with copper sulfate. *PLoS ONE*, *11*(2), e0147445. https://doi.org/10.1371/journal.pone.0147445 · [Full text](https://citations.gxl.ai/papers/PMC4760756)
+[14] Hu, K., Ma, R.-R., Cheng, J.-M., Ye, X., Sun, Q., Yuan, H.-L., Liang, N., Fang, W.-H., Li, H.-R., & Yang, X.-L. (2016). Analysis of *Saprolegnia parasitica* transcriptome following treatment with copper sulfate. *PLoS ONE*, *11*(2), e0147445. https://doi.org/10.1371/journal.pone.0147445
 
-[15] Mostafa, A. A., Al-Askar, A. A., & Yassin, M. T. (2020). Anti-saprolegnia potency of some plant extracts against *Saprolegnia diclina*, the causative agent of saprolegniasis. *Saudi Journal of Biological Sciences*, *27*(7), 1924–1930. https://doi.org/10.1016/j.sjbs.2020.04.008 · [Full text](https://citations.gxl.ai/papers/PMC7254045)
+[15] Mostafa, A. A., Al-Askar, A. A., & Yassin, M. T. (2020). Anti-saprolegnia potency of some plant extracts against *Saprolegnia diclina*, the causative agent of saprolegniasis. *Saudi Journal of Biological Sciences*, *27*(7), 1924–1930. https://doi.org/10.1016/j.sjbs.2020.04.008
 
-[16] Ali, M. A., Javaid, A., Muvva, C., Murugan, N. A., & Srivastava, V. (2026). Consensus scoring-guided virtual screening identifies potent anti-saprolegniasis compounds targeting a P450 fusion protein. *Frontiers in Microbiology*, *16*, 1723326. https://doi.org/10.3389/fmicb.2025.1723326 · [Full text](https://citations.gxl.ai/papers/PMC12868208)
+[16] Ali, M. A., Javaid, A., Muvva, C., Murugan, N. A., & Srivastava, V. (2026). Consensus scoring-guided virtual screening identifies potent anti-saprolegniasis compounds targeting a P450 fusion protein. *Frontiers in Microbiology*, *16*, 1723326. https://doi.org/10.3389/fmicb.2025.1723326
 
-[17] Tang, T., Zhong, W., Tang, P., Dai, R., Guo, J., Gao, Z., & Andayi, W. A. (2025). Linalool combats *Saprolegnia parasitica* infections through direct killing of microbes and modulation of host immune system. *eLife*, *14*. https://doi.org/10.7554/eLife.100393 · [Full text](https://citations.gxl.ai/papers/PMC11970904)
+[17] Tang, T., Zhong, W., Tang, P., Dai, R., Guo, J., Gao, Z., & Andayi, W. A. (2025). Linalool combats *Saprolegnia parasitica* infections through direct killing of microbes and modulation of host immune system. *eLife*, *14*. https://doi.org/10.7554/eLife.100393
 
-[18] Buchmann, K. (2022). Control of parasitic diseases in aquaculture. *Parasitology*, *150*(1), 1–18. https://doi.org/10.1017/S0031182022001093 · [Full text](https://citations.gxl.ai/papers/PMC10090776)
+[18] Buchmann, K. (2022). Control of parasitic diseases in aquaculture. *Parasitology*, *150*(1), 1–18. https://doi.org/10.1017/S0031182022001093
 
-[19] Matras, M., Stachnik, M., Kycko, A., Wasiak, M., Paździor, E., Maj-Paluch, J., Borzym, E., & Reichert, M. (2024). Etiology of ulcerative dermal necrosis (UDN) in brown trout (*Salmo trutta* Morpha *trutta*) — Preliminary results. *Pathogens*, *13*(3), 251. https://doi.org/10.3390/pathogens13030251 · [Full text](https://citations.gxl.ai/papers/PMC10974025)
+[19] Matras, M., Stachnik, M., Kycko, A., Wasiak, M., Paździor, E., Maj-Paluch, J., Borzym, E., & Reichert, M. (2024). Etiology of ulcerative dermal necrosis (UDN) in brown trout (*Salmo trutta* Morpha *trutta*) — Preliminary results. *Pathogens*, *13*(3), 251. https://doi.org/10.3390/pathogens13030251
 
 [20] SERNAPESCA. (2025). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Servicio Nacional de Pesca y Acuicultura, Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl
 
