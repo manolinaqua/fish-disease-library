@@ -14,10 +14,10 @@ tags:
 ---
 ## Overview
 
-### What is Haemorrhagic smolt syndrome?
+### What is Haemorrhagic Smolt Syndrome?
 Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is a bleeding disorder affecting Atlantic salmon  (*Salmo salar*) during the late freshwater stage, often around the smoltification process, and can lead to mortality and production losses [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1). It is characterised by haemorrhages in internal organs and skeletal muscle, often accompanied by anaemia [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). The exact cause remains unknown: an infectious etiology has not been established; however, disturbances in osmoregulation associated with smoltification have been proposed as a primary contributing mechanism [2](https://www.mdpi.com/2079-7737/9/1/1)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
 
-## Clinical Signs of Hemorrhagic Diathesis
+## Clinical Signs of Haemorrhagic Smolt Syndrome
 
 ### Common Signs
 
@@ -41,13 +41,13 @@ The progression of clinical signs in HSS has not been clearly described, but the
 
 - **Impact on Fish Health:** Haemorrhagic smolt syndrome (HSS) represents a major fish welfare concern and is consistently ranked in Nowegian official surveys as one of the most important causes of mortality and reduced welfare among Atlantic salmon in freshwater hatcheries [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). Mortality is generally low, although substantial losses can occur in severe cases. HSS has also been associated with impaired antibody responses, including lower levels of vaccine-specific antibodies in affected fish, suggesting that the syndrome may compromise humoral immunity [2](https://www.mdpi.com/2079-7737/9/1/1)  
 
-### Causes of Hemorrhagic Diathesis
+### Causes of Haemorrhagic Smolt Syndrome
 
 **Etiology**
 
-- **Potential Causative Agents:**
-    - **Nutritional Deficiencies:** Lack of essential vitamins and minerals, particularly Vitamin C.
-    - **Environmental Stressors:** Poor water quality, high stocking densities, and handling stress.
+- **Unknown etiology**: The exact cause of Haemorrhagic Smolt  Syndrome (HSS) remains unknown. In 2003, electron microscopy by Nylund et al. revealed two types of virus-like particles in HSS-affected tissues, leading researchers to suspect a viral origin [6](https://doi.org/10.3354/dao054015). However, clinical diagnostic screening and experimental transmission trials indicate that it is a **non-infectious disorder** [2](https://www.mdpi.com/2079-7737/9/1/1) [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538). No bacterial or viral pathogen has been established as the causative agent to this day.  
+- **Potential contributing factors**: The prevailing scientific hypothesis links HSS to physiological strain and an inability to properly balance ion regulation during smoltification. This osmoregulatory imbalance is thought to cause vascular fragility and leakage of blood cells (_diathesis_) into surrounding tissues [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/)[5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538). Further research is needed to determine what underlying mechanisms trigger the syndrome and how they lead to haemorrhage.
+- **Links to Nephrocalcinosis**: Nephrocalcinosis (kidney calcification) is often reported as an additional finding in fish with HSS. Although the two are distinct conditions, their co-occurrence has raised questions about possible shared contributing factors or interactions. These relationships remain unclear, but their frequent co-occurrence may suggest they are driven by shared environmental and operational stressors in freshwater hatcheries—such as osmoregulatory strain during smoltification and water quality issues [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)
 
 **Risk Factors**
 
@@ -150,5 +150,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
  [4] Sandoval, C. (2019, February 27). _Haemorrhagic smolt syndrome (HSS) – Gross pathology_. Fish Pathology. https://fishhistopathology.com/?p=833
  
 [5] Rodger, H. D., & Richards, R. H. (1998). Haemorrhagic smolt syndrome: A severe anaemic condition in farmed salmon in Scotland. _Veterinary Record, 142_(20), 538–541 https://doi.org/10.1136/vr.142.20.538
+
+[6] Nylund, A., Plarre, H., Hodneland, K., Devold, M., Aspehaug, V., Aarseth, M., Koren, C., & Watanabe, K. (2003). Haemorrhagic smolt syndrome (HSS) in Norway: Pathology and associated virus-like particles. _Diseases of Aquatic Organisms, 54_(1), 15–27. https://doi.org/10.3354/dao054015
  
 - - -
