@@ -78,22 +78,17 @@ The progression of clinical signs in HSS has not been clearly described, but the
 **Treatment Options**
 
 - **Current Treatments:**
-    - **Nutritional Supplements:** Providing balanced diets with adequate levels of essential vitamins and minerals, particularly Vitamin C.
-    - **Water Quality Management:** Improving water conditions to reduce stress and support recovery.
-    - **Supportive Care:** Reducing stocking densities and minimizing handling stress.
-
-- **Experimental Treatments:** Research is ongoing into potential antiviral agents and other therapeutic approaches.
+    - There are no current treatments against HSS. Management of HSS focuses on supporting physiological adaptation around smoltification.
+-  **Management**: 
+     - **Seawater Transfer**: The most effective measure against HSS is  transferring the affected fish group to seawater. Once in seawater, clinical symptoms, internal hemorrhaging, and mortality typically cease spontaneously within a few weeks. However, fish with extensive haemorrhages may still die shortly after transfer and transfer should therefore not be presented as a guaranteed treatment [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+     - **Salinity Management in Freshwater**: Mixing seawater into freshwater tanks or administering salt-enriched feed may be considered under the guidance of fish health personnel. The choice of measure should take account of the fish’s smoltification status and overall health [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
 
 **Preventive Measures**
 
-- **Biosecurity Protocols:**
-    - Implementing strict quarantine measures for new stock to prevent the introduction of viral infections.
-    - Regular disinfection of equipment and facilities to minimize the risk of contamination.
-    
 - **Farm Management Practices:**
-    - Ensuring balanced nutrition to prevent dietary deficiencies.
-    - Reducing stocking densities to decrease the risk of disease transmission and stress.
-    - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
+    - **Stable Environmental Conditions**: Maintain stable, appropriate  rearing conditions during the freshwater phase, particularly as fish approach smoltification [7](https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom).
+    - **Clear Smoltification Signals**: Provide appropriate light, temperature and salinity regimes to support smoltification [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+    - **Size-graded groups**: Maintain reasonably uniform size groups during freshwater production [3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
 
 ### Case Studies
 
