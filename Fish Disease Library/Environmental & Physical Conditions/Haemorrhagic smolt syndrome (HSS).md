@@ -95,40 +95,42 @@ The progression of clinical signs in HSS has not been clearly described, but the
 **Real-World Examples**
 
 - **Notable Outbreaks:**
-	- *Uh oh! None listed at this time. Check back soon!*
+	- No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).
+
+
 
 ## Data Insights
 ### Disease Impact by Country
 
-*No country data insights added at this time. Check back soon!*
-
+No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md)
+    
 ## Research and References
 
 ### Latest Research Findings
 
-Recent studies on Hemorrhagic Diathesis in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
+Recent studies on Haemorrhagic Smolt Syndrome in salmonids have focused on various aspects of the disease, including its cause, preventive measure, immune consequences and pathology. Here are some notable recent research findings:
 
-1. **"Haemorrhagic smolt syndrome (HSS) in Norway: pathology and associated virus-like particles"**  
-    Authors: A. Nylund, et al.  
-    Reference: A. Nylund, et al. (2003). Haemorrhagic smolt syndrome (HSS) in Norway: pathology and associated virus-like particles. Dis Aquat Organ, 54(1), 15-27.
-    [Link to study](https://pubmed.ncbi.nlm.nih.gov/12718466/)
-2. **”Disseminated Intravascular Coagulation in “Hitra Disease” (Haemorrhagic Syndrome) in Farmed Atlantic Salmon”**  
-    Authors: R. Salte, P. Nafstad, T. Åsgård, et. al.
-    Reference: R. Salte, et. al (1987). Disseminated Intravascular Coagulation in “Hitra Disease” (Haemorrhagic Syndrome) in Farmed Atlantic. SalmonSage Journals, 24(5), 378-385.
-    [Link to study](https://pubmed.ncbi.nlm.nih.gov/3672803/)
+1. **“Consequences of Haemorrhagic Smolt Syndrome (HSS) for the Immune Status of Atlantic salmon (_Salmo salar_ L.) (Case Study)”**  
+    Authors: A. Krasnov, I. Sommerset, T. Søfteland, S. Afanasyev, P. Boysen, H. Lund.  
+    Reference: A. Krasnov, et al. (2020). Consequences of Haemorrhagic Smolt Syndrome (HSS) for the Immune Status of Atlantic salmon (_Salmo salar_ L.) (Case Study). _Biology, 9_(1), 1.  
+    [Link to study](https://doi.org/10.3390/biology9010001)
+
+2. **“Nefrokalsinose og hemoragisk smoltsyndrom – årsakssamanhengar og moglegheiter for førebygging”** 
+    Authors: I. Sommerset, A. B. Olsen, A. Nilsen, M. Gjessing, et al.  
+    Reference: I. Sommerset, et al. (2020). Nefrokalsinose og hemoragisk smoltsyndrom – årsakssamanhengar og moglegheiter for førebygging. _Norsk veterinærtidsskrift_, (5).  
+    [Link to article](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)
 
 
 ## Conclusion
 
-Hemorrhagic Diathesis remains a significant challenge for aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, balanced nutrition, and regular health monitoring, fish health managers and veterinarians can mitigate the impact of Hemorrhagic Diathesis and ensure the sustainability of aquaculture operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage Hemorrhagic Diathesis and support the health and welfare of farmed fish.
-
+Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis, remains an important health and welfare concern in Atlantic salmon freshwater hatcheries. Though it's full cause is not properly known, recent research indicates it's most likely a non-infectious disorder rooted in osmoregulatory dysfunction rather than a contagious pathogen. Current management recommendations focus on maintaining stable environmental conditions and supporting coordinated smoltification through appropriate environmental signals. Further research is needed to clarify the underlying mechanisms, identify specific risk factors, and evaluate effective prevention and management strategies. 
 ### Call to Action
 
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
 
 ---
 
-**Last Modified:** 2024-07-26
+**Last Modified:** 2026-11-08
 
 **Tags:** #HemorrhagicDiathesis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemorrhagicSmoltSyndrome 
 
