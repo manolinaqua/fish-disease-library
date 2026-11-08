@@ -51,11 +51,11 @@ The progression of clinical signs in HSS has not been clearly described, but the
 
 **Risk Factors**
 
-- **Environmental Factors:** Poor water quality, high stocking densities, and stressful conditions can increase susceptibility to Hemorrhagic Diathesis.
+- **Smoltification-related physiological disturbances:** HSS occurs primarily around smoltification, and disturbances in physiological adaptation and osmoregulation have been proposed as contributing factors. The role of specific smoltification protocols, including photoperiod manipulation, in the development of HSS has not been clearly established. 
 
-- **Dietary Factors:** Imbalanced diets lacking essential nutrients can lead to the development of the condition.
+- **Large-smolt production**: HSS is often reported during the  production of large smolts. Inadequate adaptation to the physiological changes associated with smoltification has been proposed as a contributing factor, although the underlying mechanisms remain unclear [7](https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom).
 
-- **Infectious Agents:** Viral infections are a significant risk factor for Hemorrhagic Diathesis [4](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/viral-hemorrhagic-septicemia).
+- **Sudden Water Temperature Drops**: A temperature drop followed by prolonged exposure to very low freshwater temperatures (0.5–2 °C) was associated with increased mortality in one field case involving pre-existing HSS and concurrent nephrocalcinosis [2](https://www.mdpi.com/2079-7737/9/1/1).
 
 ### Diagnosis
 
@@ -152,5 +152,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [5] Rodger, H. D., & Richards, R. H. (1998). Haemorrhagic smolt syndrome: A severe anaemic condition in farmed salmon in Scotland. _Veterinary Record, 142_(20), 538–541 https://doi.org/10.1136/vr.142.20.538
 
 [6] Nylund, A., Plarre, H., Hodneland, K., Devold, M., Aspehaug, V., Aarseth, M., Koren, C., & Watanabe, K. (2003). Haemorrhagic smolt syndrome (HSS) in Norway: Pathology and associated virus-like particles. _Diseases of Aquatic Organisms, 54_(1), 15–27. https://doi.org/10.3354/dao054015
- 
+
+[7] Norges miljø- og biovitenskapelige universitet. (n.d.). _Produksjonslidelser_. Havbrukslære. [https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom](https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom)
 - - -
