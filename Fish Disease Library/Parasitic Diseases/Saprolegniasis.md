@@ -1,16 +1,26 @@
 ---
 title: Saprolegniasis
-description: Learn about Saprolegniasis, a fungal-like disease caused by Saprolegnia species (oomycetes) affecting freshwater fish and salmonid eggs. Discover symptoms, diagnosis, treatment options, and prevention strategies.
+type: disease
+aliases:
+  - Water mould disease
+  - Cotton wool disease
+  - Winter disease
+pathogen: Saprolegnia spp.
+category: Parasitic
+description: Learn about saprolegniasis, a water mould disease caused by oomycetes of the genus Saprolegnia that affects freshwater salmonids, their eggs and other farmed fish. Covers clinical signs, diagnosis, treatment and prevention, with data from Scotland, Chile and India.
 tags:
   - Saprolegniasis
-  - ParasiticDiseases
-  - Oomycete
   - Saprolegnia
+  - Oomycete
   - AtlanticSalmon
+  - CohoSalmon
   - RainbowTrout
+  - BrownTrout
+  - StripedCatfish
   - Scotland
-  - India
   - Chile
+  - India
+  - ParasiticDiseases
 ---
 
 ## Overview
