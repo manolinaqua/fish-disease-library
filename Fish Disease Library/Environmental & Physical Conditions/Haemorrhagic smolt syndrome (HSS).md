@@ -61,16 +61,17 @@ The progression of clinical signs in HSS has not been clearly described, but the
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Hemorrhagic Diathesis [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
+- **Clinical Examination:** HSS is suspected based on the production history, timing around smoltification, and findings such as anaemia and widespread haemorrhages in internal organs and skeletal muscle. These findings are not specific to HSS and should be investigated through laboratory examination.
 
 - **Laboratory Tests:**
-    - **PCR (Polymerase Chain Reaction):** Detects viral genetic material in fish tissues if a viral cause is suspected.
-    - **Histopathology:** Microscopic examination of tissues to identify characteristic lesions and haemorrhages [1](https://pubmed.ncbi.nlm.nih.gov/3672803/)[2](https://journals.sagepub.com/doi/abs/10.1177/030098588702400503)[3](https://www.researchgate.net/publication/19488738_Disseminated_Intravascular_Coagulation_in_Hitra_Disease_Hemorrhagic_Syndrome_in_Farmed_Atlantic_Salmon).
-    - **Nutritional Analysis:** Assessment of diet to identify potential deficiencies contributing to the condition.
+    - **Histopathology:** Microscopic examination of tissues is required for a definitive diagnosis. Bleeding into the renal tubules is a characteristic finding, together with haemorrhages in other tissue [2](https://www.mdpi.com/2079-7737/9/1/1). 
+    - **PCR & Virological Exclusion:** Diagnostic RT-PCR screening for viral pathogens is conducted not to confirm HSS, but to **rule out viral infections** that produce identical systemic bleeding patterns, particularly viral haemorrhagic septicaemia (VHS), infectious haematopoietic necrosis (IHN) and infectious salmon anaemia (ISA) [2](https://www.mdpi.com/2079-7737/9/1/1). 
+    - **Haematology (Blood Examination):** Assessment of haematocrit  levels to evaluate the severity of anaemia. Affected salmon exhibit a dramatic drop in haematocrit (falling from a normal ~35% down to 1.4–5%), indicating severe acute haemorrhagic anaemia [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538).
+    
 
 **Differential Diagnosis**
 
-- **Distinguishing Hemorrhagic Diathesis from Other Diseases:** It is crucial to differentiate Hemorrhagic Diathesis from diseases with similar symptoms, such as Bacterial Kidney Disease (BKD) and other haemorrhagic conditions.
+- **Distinguishing HSS from Other Diseases:** It is crucial to differentiate HSS from diseases with similar symptoms. The anaemia and widespread haemorrhages associated with HSS can resemble those seen in [[Infectious Salmon Anemia (ISA)]], viral haemorrhagic septicaemia (VHS) and infectious haematopoietic necrosis (IHN) [2](https://www.mdpi.com/2079-7737/9/1/1). Bacterial septicaemia, particularly [[Yersiniosis (enteric redmouth disease)]], should also be considered because it can cause overlapping findings, including internal haemorrhages. Laboratory investigations are needed to distinguish these conditions, with pathogen-specific testing and bacteriological examination selected according to the suspected cause.
 
 ### Treatment and Prevention
 
