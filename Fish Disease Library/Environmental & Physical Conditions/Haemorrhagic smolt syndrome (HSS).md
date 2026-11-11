@@ -1,6 +1,6 @@
 ---
 title: Haemorrhagic smolt syndrome (HSS)
-description: Learn about Haemorrhagic smolt syndrome in fish, is a bleeding disorder affecting Atlantic salmon, where the cause remains unknown. Discover symptoms, possible causes, diagnosis, treatment, and prevention strategies for improved aquaculture health.
+description: Learn about Haemorrhagic smolt syndrome (HSS) in fish. HSS is a bleeding disorder affecting farmed Atlantic salmon in the freshwater-phase, where the cause remains unknown. Discover symptoms, possible causes, diagnosis, treatment, and prevention strategies for improved aquaculture health.
 tags:
   - HemorrhagicDiathesis
   - environmentalconditions
@@ -15,7 +15,7 @@ tags:
 ## Overview
 
 ### What is Haemorrhagic Smolt Syndrome?
-Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is a bleeding disorder affecting Atlantic salmon  (*Salmo salar*) during the late freshwater stage, often around the smoltification process, and can lead to mortality and production losses [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1). It is characterised by haemorrhages in internal organs and skeletal muscle, often accompanied by anaemia [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). The exact cause remains unknown: an infectious etiology has not been established; however, disturbances in osmoregulation associated with smoltification have been proposed as a primary contributing mechanism [2](https://www.mdpi.com/2079-7737/9/1/1)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
+Haemorrhagic smolt syndrome (HSS), also known as haemorrhagic diathesis (HD), is a bleeding disorder affecting farmed Atlantic salmon (*Salmo salar*) during the late freshwater stage, often around the smoltification process, and can lead to mortality and production losses [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging)[2](https://www.mdpi.com/2079-7737/9/1/1). It is characterised by haemorrhages in internal organs and skeletal muscle, often accompanied by anaemia [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging). The exact cause remains unknown: an infectious etiology has not been established; however, disturbances in osmoregulation associated with smoltification have been proposed as a primary contributing mechanism [2](https://www.mdpi.com/2079-7737/9/1/1)[3](https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/).
 
 ## Clinical Signs of Haemorrhagic Smolt Syndrome
 
@@ -65,8 +65,8 @@ The progression of clinical signs in HSS has not been clearly described, but the
 
 - **Laboratory Tests:**
     - **Histopathology:** Microscopic examination of tissues is required for a definitive diagnosis. Bleeding into the renal tubules is a characteristic finding, together with haemorrhages in other tissue [2](https://www.mdpi.com/2079-7737/9/1/1). 
-    - **PCR & Virological Exclusion:** Diagnostic RT-PCR screening for viral pathogens is conducted not to confirm HSS, but to **rule out viral infections** that produce identical systemic bleeding patterns, particularly viral haemorrhagic septicaemia (VHS), infectious haematopoietic necrosis (IHN) and infectious salmon anaemia (ISA) [2](https://www.mdpi.com/2079-7737/9/1/1). 
-    - **Haematology (Blood Examination):** Assessment of haematocrit  levels to evaluate the severity of anaemia. Affected salmon exhibit a dramatic drop in haematocrit (falling from a normal ~35% down to 1.4–5%), indicating severe acute haemorrhagic anaemia [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538).
+    - **PCR & Pathogen Exclusion:** Diagnostic RT-PCR screening for bacterial and viral pathogens is conducted not to confirm HSS, but to **rule out bacterial or viral infections** that produce identical systemic bleeding patterns, particularly viral haemorrhagic septicaemia (VHS), infectious haematopoietic necrosis (IHN) and infectious salmon anaemia (ISA) [2](https://www.mdpi.com/2079-7737/9/1/1). 
+    - **Haematology (Blood Examination):** Assessment of haematocrit  levels to evaluate the severity of anaemia. Affected salmon exhibit a dramatic drop in haematocrit (in one case falling from a normal ~35% down to 1.4–5%), indicating severe acute haemorrhagic anaemia [5](https://bvajournals.onlinelibrary.wiley.com/doi/10.1136/vr.142.20.538).
     
 
 **Differential Diagnosis**
@@ -102,8 +102,14 @@ The progression of clinical signs in HSS has not been clearly described, but the
 ## Data Insights
 ### Disease Impact by Country
 
-No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md)
-    
+#### Norway
+  - In the annual Norwegian Veterinary Institute surveys (_Fiskehelserapporten_), fish health personnel and inspectors have consistently ranked HSS as the **#1 cause of mortality** among Atlantic salmon pre-smolts in land-based smolt facilities throughout the 2021–2025 period [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+  - Because HSS is a non-notifiable disorder, exact national case totals are not captured in government registries. However, diagnostic records from the Norwegian Veterinary Institute and Fish Vet Group confirmed HSS in at least 59 land-based facilities in 2019, with the actual nationwide figure presumed higher as data from other private laboratories were not included [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging).
+  - HSS is very frequently diagnosed alongside [[Nephrocalcinosis]] (kidney calcification) as a secondary concurrent finding in Norwegian land-based smolt facilities [1](https://nvt.vetnett.no/journal/2020/5/m-571/Nefrokalsinose_og_hemoragisk_smoltsyndrom_-_%C3%A5rsakssamanhengar_og_moglegheiter_for_f%C3%B8rebygging).
+
+
+No data currently available on other countries. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md)
+
 ## Research and References
 
 ### Latest Research Findings
@@ -130,7 +136,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-08
+**Last Modified:** 2026-11-11
 
 **Tags:** #HemorrhagicDiathesis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions, #HSS, #HemorrhagicSmoltSyndrome 
 
@@ -143,13 +149,15 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [2] Krasnov, A., Sommerset, I., Søfteland, T., Afanasyev, S., Boysen, P., & Lund, H. (2020). Consequences of haemorrhagic smolt syndrome (HSS) for the immune status of Atlantic salmon (_Salmo salar_ L.) (case study). _Biology, 9_(1) https://doi.org/10.3390/biology9010001
 
-[3] 1. Åkerblå AS. (n.d.). _HSS – hemorragisk smolt syndrom_. Akvademiet. https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/
+[3] 1. Åkerblå AS. (n.d.). _HSS – hemorragisk smolt syndrom_. Akvademiet. https://akvademiet.no/fiskesykdommer/settefiskrelatert-avgang/hss-hemorragisk-smolt-syndrom/. Accessed November 2026
 
- [4] Sandoval, C. (2019, February 27). _Haemorrhagic smolt syndrome (HSS) – Gross pathology_. Fish Pathology. https://fishhistopathology.com/?p=833
+ [4] Sandoval, C. (2019, February 27). _Haemorrhagic smolt syndrome (HSS) – Gross pathology_. Fish Pathology. https://fishhistopathology.com/?p=833. Accessed November 2026
  
 [5] Rodger, H. D., & Richards, R. H. (1998). Haemorrhagic smolt syndrome: A severe anaemic condition in farmed salmon in Scotland. _Veterinary Record, 142_(20), 538–541 https://doi.org/10.1136/vr.142.20.538
 
 [6] Nylund, A., Plarre, H., Hodneland, K., Devold, M., Aspehaug, V., Aarseth, M., Koren, C., & Watanabe, K. (2003). Haemorrhagic smolt syndrome (HSS) in Norway: Pathology and associated virus-like particles. _Diseases of Aquatic Organisms, 54_(1), 15–27. https://doi.org/10.3354/dao054015
 
-[7] Norges miljø- og biovitenskapelige universitet. (n.d.). _Produksjonslidelser_. Havbrukslære. [https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom](https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom)
+[7] Norges miljø- og biovitenskapelige universitet. (n.d.). _Produksjonslidelser_. Havbrukslære. [https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom](https://www.havbrukslare.no/produksjonslidelser#Hemoragisk-smoltsyndrom). Accessed November 2026
+
+[8] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (2026). _Fiskehelserapporten 2025_ (Rapport 5a/2026). Veterinærinstituttet. [https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025)
 - - -
