@@ -257,7 +257,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
  
 ##### Other Environmental & Physical Conditions
  
-[[Hemorrhagic Diathesis]]
+[[Haemorrhagic Smolt Syndrome (HSS)]]
 [[Nephrocalcinosis]]
  
 **Citations:**
