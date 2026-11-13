@@ -1,19 +1,38 @@
 ---
 title: Furunculosis (Aeromonas salmonicida)
-description: Learn about Furunculosis, a bacterial disease caused by Aeromonas salmonicida affecting Atlantic salmon and other salmonids worldwide. Discover symptoms, diagnosis, treatment options, and prevention strategies.
+type: disease
+aliases:
+  - Furunculosis
+  - Classical furunculosis
+  - Typical furunculosis
+  - Atypical furunculosis
+  - Furunkulose
+  - Atypisk furunkulose
+  - Furunculosis (Aeromonas spp.)
+pathogen: Aeromonas salmonicida
+category: Bacterial
+description: Learn about furunculosis, caused by Aeromonas salmonicida, in its classical form in Atlantic salmon and other salmonids and its atypical form in cod, lumpfish, wrasse and other marine species. Discover clinical signs, diagnosis, treatment, vaccination and prevention.
 tags:
   - Furunculosis
-  - BacterialDiseases
-  - Bacteria
-  - Aeromonas
   - AeromonasSalmonicida
+  - Aeromonas
   - AtlanticSalmon
-  - Salmonids
   - RainbowTrout
+  - BrownTrout
+  - ArcticChar
+  - AtlanticCod
+  - Lumpsucker
+  - Turbot
+  - Wrasse
+  - Salmonids
+  - Salmon
+  - Trout
+  - Bacteria
   - Norway
   - Scotland
   - Chile
   - Canada
+  - BacterialDiseases
 ---
 
 ## Overview
