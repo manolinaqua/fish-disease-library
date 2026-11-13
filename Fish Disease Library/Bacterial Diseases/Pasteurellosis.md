@@ -239,7 +239,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Tags:** #Pasteurellosis, #Salmonids, #Salmon, #AtlanticSalmon, #Lumpsucker, #Norway, #Scotland, #BacterialDiseases, #Bacteria 
 
 ##### Other Bacterial Diseases
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
 [[Tenacibaculosis (Tenacibaculum spp)]]
 [[Winter Wounds]]

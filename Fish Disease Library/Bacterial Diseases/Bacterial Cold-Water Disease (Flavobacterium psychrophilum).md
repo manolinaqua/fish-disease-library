@@ -240,7 +240,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Last Modified:** 2026-09-25
 
 ##### Other Bacterial Diseases
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Furunculosis (Aeromonas spp.)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]

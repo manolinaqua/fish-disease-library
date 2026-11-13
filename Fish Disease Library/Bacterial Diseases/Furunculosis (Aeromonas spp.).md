@@ -205,7 +205,7 @@ Furunculosis remains one of the most consequential bacterial diseases in global 
 **Tags:** #Furunculosis, #AeromonasSalmonicida, #BacterialDiseases, #Bacteria
 
 ##### Other Bacterial Diseases
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]

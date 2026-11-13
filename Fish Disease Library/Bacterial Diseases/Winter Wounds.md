@@ -66,7 +66,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Tags:** #FishDisease, #WinterWounds, #Salmonids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
 
 ##### Other Bacterial Diseases
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]

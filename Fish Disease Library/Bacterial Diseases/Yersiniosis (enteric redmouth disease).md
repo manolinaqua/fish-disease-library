@@ -292,7 +292,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Tags:** #Yersiniosis, #Yersiniaruckeri, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #BacterialDiseases, #Bacteria 
 
 ##### Other Bacterial Diseases
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]

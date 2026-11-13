@@ -334,7 +334,7 @@ Future research should prioritize: (a) characterization of emerging and novel *
 
 ##### Other Bacterial Diseases
 
-[[Bacterial Kidney Disease (BKD)]]
+[[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
