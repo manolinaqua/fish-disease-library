@@ -217,6 +217,10 @@ Furunculosis is historically one of the most economically important bacterial di
 
 Furunculosis remains one of the most consequential bacterial diseases in global salmonid aquaculture. The Norwegian vaccination success story of the early 1990s, which cut antibiotic use by roughly 99% remains a landmark example of how vaccination can transform disease management [1](https://doi.org/10.1111/1751-7915.12091). Yet the disease persists because of *A. salmonicida*'s ability to establish subclinical carrier states, its environmental persistence, incomplete protection from current vaccines against emerging antigenic variants, and the spread of plasmid-borne antimicrobial resistance genes [7](https://doi.org/10.1038/srep35617) [8](https://doi.org/10.7717/peerj.2595) [9](https://doi.org/10.3390/microorganisms9061201). Management today rests on universal pre-smolt vaccination, covert carrier screening by culture and PCR, and stress reduction during smoltification, with antibiotics reserved for confirmed outbreaks under susceptibility testing [1](https://doi.org/10.1111/1751-7915.12091) [2](https://doi.org/10.3389/fcimb.2025.1508135). 
 
+### Call to Action
+
+For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
+
 ---
 
 **Last Modified:** 2026-08-12
@@ -224,7 +228,9 @@ Furunculosis remains one of the most consequential bacterial diseases in global 
 **Tags:** #Furunculosis, #AeromonasSalmonicida, #BacterialDiseases, #Bacteria
 
 ##### Other Bacterial Diseases
+[[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
+[[Francisellosis (Francisella noatunensis)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
