@@ -295,8 +295,6 @@ Bacterial Kidney Disease, caused by *Renibacterium salmoninarum*, remains one of
 
 ### Call to Action
 
-Are you dealing with a suspected BKD case, interpreting ELISA or qPCR results, or planning a broodstock screening programme? Contact the Fish Disease Library team at [support@manolinaqua.com](mailto:support@manolinaqua.com) and we will help you find the information you need. Have field data or experience with BKD to share? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md) to contribute to this chapter.
-
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
 
 ---
