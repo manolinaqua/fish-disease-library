@@ -112,7 +112,7 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 
 **Differential Diagnosis**
 
-- **Distinguishing SRS from Other Diseases:** It is crucial to differentiate SRS from other conditions with similar clinical signs, including [[Infectious Salmon Anemia (ISA)]], which causes similar haemorrhaging, [[Bacterial Kidney Disease (Renibacterium salmoninarum)]], which also involves kidney pathology, [[Furunculosis (Aeromonas spp.)|furunculosis]], and [[Tenacibaculosis (Tenacibaculum spp)|tenacibaculosis]], which generates similar skin lesions [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
+- **Distinguishing SRS from Other Diseases:** It is crucial to differentiate SRS from other conditions with similar clinical signs, including [[Infectious Salmon Anemia (ISA)]], which causes similar haemorrhaging, [[Bacterial Kidney Disease (Renibacterium salmoninarum)]], which also involves kidney pathology, [[Furunculosis (Aeromonas salmonicida)|furunculosis]], and [[Tenacibaculosis (Tenacibaculum spp)|tenacibaculosis]], which generates similar skin lesions [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
 
 - **Chilean Regulatory Requirement (Sernapesca Resolution 1606/2021):** In Chile, PCR-based discrimination between SRS and Tenacibaculosis is mandatory. The updated Tenacibaculosis definition requires *Tenacibaculum* spp. identification by PCR, with external signs (fin erosion, oral/rostral lesions with yellow pigmentation, gill ulcers with yellowish coloration), **and explicitly excludes cases showing evident lesions of Piscirickettsiosis or Renibacteriosis**. This regulatory requirement addresses the high co-occurrence of these pathogens, ensuring proper epidemiological classification [22](https://www.sernapesca.cl/noticias/sernapesca-actualiza-definicion-de-enfermedad-tenacibaculosis/).
 
@@ -288,7 +288,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Francisellosis (Francisella noatunensis)]]
-[[Furunculosis (Aeromonas spp.)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Tenacibaculosis (Tenacibaculum spp)]]

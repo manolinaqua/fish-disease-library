@@ -88,7 +88,7 @@ Internal changes are dominated by white, partly protruding nodules (granulomas) 
 Several diseases produce multi-organ granulomas similar to francisellosis [2](https://doi.org/10.1186/1297-9716-42-47):
 
 - **Piscirickettsiosis** ([[Salmonid Rickettsial Septicaemia (SRS)]]): morphologically similar and also produces granulomatous lesions, especially in salmonids.
-- **Atypical furunculosis** ([[Furunculosis (Aeromonas spp.)]]): one of the most common systemic infections in farmed cod in Norway, macroscopically very similar to francisellosis, but readily distinguished by histology. Mixed infections with *F. noatunensis* are relatively common.
+- **Atypical furunculosis** ([[Furunculosis (Aeromonas salmonicida)]]): one of the most common systemic infections in farmed cod in Norway, macroscopically very similar to francisellosis, but readily distinguished by histology. Mixed infections with *F. noatunensis* are relatively common.
 - **Mycobacteriosis and nocardiosis:** both produce visible multi-organ granulomas.
 
 ### Treatment and Prevention
@@ -160,7 +160,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
-[[Furunculosis (Aeromonas spp.)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]

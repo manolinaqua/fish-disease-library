@@ -1,5 +1,4 @@
 current_path	proposed_path	notes
-Fish Disease Library/Bacterial Diseases/Furunculosis (Aeromonas spp.).md	Fish Disease Library/Bacterial Diseases/Furunculosis (Aeromonas salmonicida).md	fixes filename/frontmatter title mismatch
 Fish Disease Library/Bacterial Diseases/Moritella Viscosa.md	Fish Disease Library/Bacterial Diseases/Winter Ulcer Disease (Moritella viscosa).md	MERGE TARGET: absorb Winter Wounds.md content, keep this file's body/citations, resolve $750M vs NOK 100M contradiction
 Fish Disease Library/Bacterial Diseases/Winter Wounds.md	(delete after merge)	MERGE SOURCE: content folds into Moritella Viscosa.md target above; add "Winter Wounds", "Winter Ulcer" as aliases on the merged page
 Fish Disease Library/Vintersår.md	(delete)	0-byte orphan file, no inbound links; add "Vintersår" as alias on the merged page instead

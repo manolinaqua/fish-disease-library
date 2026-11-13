@@ -87,7 +87,7 @@ Bacterial Cold-Water Disease (BCWD, the term generally used in North America), a
     - **Tenacibaculosis** ([[Tenacibaculosis (Tenacibaculum spp)]]): causes skin erosions, ulcers, and eroded fins, head, and gills [29](https://doi.org/10.3390/ani11010125). It should be considered when ulcers appear after transfer to brackish or sea water, such as in coho salmon in estuaries [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
 - **Diseases with Overlapping Signs:**
     - **Yersiniosis** ([[Yersiniosis (enteric redmouth disease)]]): lethargy, darkening of the skin, exophthalmia, and haemorrhages in and around the mouth and throat [31](https://doi.org/10.1186/s13567-015-0238-4).
-    - **Furunculosis** ([[Furunculosis (Aeromonas spp.)]]): lethargy, darkened skin, exophthalmia, haemorrhages at the base of the fins, enlarged spleen, and skin lesions and ulcers [29](https://doi.org/10.3390/ani11010125).
+    - **Furunculosis** ([[Furunculosis (Aeromonas salmonicida)]]): lethargy, darkened skin, exophthalmia, haemorrhages at the base of the fins, enlarged spleen, and skin lesions and ulcers [29](https://doi.org/10.3390/ani11010125).
     - **Viral diseases of fry:** infectious pancreatic necrosis ([[Infectious Pancreatic Necrosis (IPN)]]) and infectious haematopoietic necrosis (IHN) both cause darkened skin and exophthalmia, with irregular swimming in IPN and lethargy in IHN [29](https://doi.org/10.3390/ani11010125).
     - **Whirling disease** (*Myxobolus cerebralis*): causes blacktail, spinal and cranial deformities, and exophthalmia in young rainbow trout. BCWD can also produce blacktail, spiral swimming, and spinal deformities, and both pathogens can be present in the same hatchery [30](https://doi.org/10.1111/jfd.13605).
     - **Saprolegniasis** ([[Saprolegniasis]]): a frequent cause of skin lesions in fresh water. In Chile, mycosis was the leading infectious cause of freshwater mortality in Atlantic salmon in 2025 [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
@@ -241,7 +241,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
-[[Furunculosis (Aeromonas spp.)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]

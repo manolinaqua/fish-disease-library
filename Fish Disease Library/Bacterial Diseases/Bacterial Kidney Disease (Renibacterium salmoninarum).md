@@ -96,7 +96,7 @@ White nodules, kidney swelling, anaemia and skin lesions are not specific to BKD
 | [[Nephrocalcinosis]] | Calcified deposits seen as white stripes or nodules in the kidney can resemble BKD [21](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf). |
 | [[Francisellosis (Francisella noatunensis)]] | White granulomas in the spleen, kidney and liver [23](https://doi.org/10.1186/1297-9716-42-47). |
 | [[Salmonid Rickettsial Septicaemia (SRS)]] | Kidney pathology and haemorrhages [22](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/). |
-| [[Furunculosis (Aeromonas spp.)]] | Skin lesions and boils [22](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/). |
+| [[Furunculosis (Aeromonas salmonicida)]] | Skin lesions and boils [22](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/). |
 | Infectious haematopoietic necrosis (IHN) | Systemic disease with kidney involvement [6](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd). |
 
 ### Causes of Bacterial Kidney Disease (Renibacterium salmoninarum)
@@ -154,7 +154,7 @@ ELISA is widely used for broodstock screening and surveillance, but it measures 
 
 **Differential Diagnosis**
 
-- **Distinguishing BKD from other diseases:** BKD must be differentiated from other conditions that cause white nodules, kidney swelling, anaemia or skin lesions, including [[Nephrocalcinosis]] [21](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf), [[Francisellosis (Francisella noatunensis)|francisellosis]] [23](https://doi.org/10.1186/1297-9716-42-47), [[Salmonid Rickettsial Septicaemia (SRS)|SRS]] and [[Furunculosis (Aeromonas spp.)|furunculosis]] [22](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/), and infectious haematopoietic necrosis (IHN) [6](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd). *R. salmoninarum* only grows on specialised media and is readily distinguished from other bacteria once isolated [6](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [7](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
+- **Distinguishing BKD from other diseases:** BKD must be differentiated from other conditions that cause white nodules, kidney swelling, anaemia or skin lesions, including [[Nephrocalcinosis]] [21](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf), [[Francisellosis (Francisella noatunensis)|francisellosis]] [23](https://doi.org/10.1186/1297-9716-42-47), [[Salmonid Rickettsial Septicaemia (SRS)|SRS]] and [[Furunculosis (Aeromonas salmonicida)|furunculosis]] [22](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/), and infectious haematopoietic necrosis (IHN) [6](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd). *R. salmoninarum* only grows on specialised media and is readily distinguished from other bacteria once isolated [6](https://thefishsite.com/disease-guide/bacterial-kidney-disease-bkd) [7](https://www.vetinst.no/sykdom-og-agens/bakteriell-nyresyke-bkd).
 
 ### Treatment and Prevention
 
@@ -308,7 +308,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Bacterial Diseases
 [[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Francisellosis (Francisella noatunensis)]]
-[[Furunculosis (Aeromonas spp.)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
