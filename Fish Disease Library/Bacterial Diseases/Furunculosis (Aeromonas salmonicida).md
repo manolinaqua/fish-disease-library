@@ -70,30 +70,45 @@ Furunculosis is historically one of the most economically important bacterial di
 
 ### Common Signs
 
-- **Physical Signs:**
-    - **Furuncles (Muscular Boils):** Characteristic raised, haemorrhagic swellings in the musculature that rupture to form deep, necrotic ulcers — most prominent in the subacute or chronic form of the disease, and in older/bigger fish; may be absent in peracute or acute presentations [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
-    - **Skin haemorrhages:** Petechial and ecchymotic haemorrhages may be observed on the ventral surface, at the bases of the pectoral fins, along the opercular margins, and around the vent. These findings are consistent with systemic bacteraemia/septicaemia [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330).
-    - **Exophthalmia:** Unilateral or bilateral protrusion of the eyes due to retrobulbar fluid accumulation is commonly observed [5](https://doi.org/10.3390/biology14101330).
-    - **Bloody Discharge from Vent:** Haemorrhagic enteritis can produce bloody mucoid discharge from the anus, a sign associated with acute and subacute disease [1](https://doi.org/10.1111/1751-7915.12091).
-    - **Splenomegaly and Hepatic Necrosis:** Post-mortem examination typically reveals a markedly enlarged, congested spleen and a friable liver with focal areas of necrosis [5](https://doi.org/10.3390/biology14101330).
-    - **Renal Oedema and Congestion:** The kidneys show oedema with petechial haemorrhages and congestion; renal softening and discoloration are common post-mortem findings in conjunction with hepatic and splenic pathology [5](https://doi.org/10.3390/biology14101330).
-    - **Internal haemorrhages:** Petechial to ecchymotic haemorrhages may be present in internal organs, particularly the liver, spleen, kidney and intestine; consistent with systemic septicaemia [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
-    - **Ascites:** Serous or blood-tinged fluid may accumulate in the abdominal cavity. This finding can accompany severe systemic disease and septicaemia [17](https://www.vetinst.no/sykdom-og-agens/furunkulose)
+Clinical signs differ between the two forms of the disease and between host species, so they are described separately below.
 
-- **Behavioural Changes:**
-    - **Lethargy:** Reduced swimming activity; affected fish isolate from the shoal and swim near the surface or cage edges [1](https://doi.org/10.1111/1751-7915.12091).
-    - **Loss of Appetite:** Rapid and marked decline in feed intake is often the first sign noticed by farm staff [1](https://doi.org/10.1111/1751-7915.12091).
-    - **Increased respiratory rate:** Affected fish may show respiratory distress; rapid opercular movements and increased ventilation rate, particularly during peracute and acute disease [1](https://doi.org/10.1111/1751-7915.12091).
-    - **Darkening of Skin:** Affected fish frequently display abnormal melanization (darkening) of body coloration [1](https://doi.org/10.1111/1751-7915.12091).
+**Classical furunculosis**
+
+- **Physical Signs:**
+    - **Furuncles:** Raised, bloody boils under the skin or deep in the musculature, containing a reddish-brown mass of bacteria, blood cells and broken-down muscle tissue. They are most common in larger fish, can open into skin ulcers, and are usually absent in the peracute form [17](https://www.vetinst.no/sykdom-og-agens/furunkulose) [19](https://snl.no/furunkulose_-_fisk).
+    - **Skin haemorrhages:** Haemorrhages on the fins and the ventral part of the body [5](https://doi.org/10.3390/biology14101330).
+    - **Exophthalmia:** Protruding eyes, seen both in hatchery outbreaks and in experimental infection [5](https://doi.org/10.3390/biology14101330) [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - **Darkening of the skin:** Particularly in hatchery outbreaks [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - **Fin rot and anal prolapse:** Fin rot can occur in the acute/subacute form, and anal prolapse is typical of the chronic form [19](https://snl.no/furunkulose_-_fisk).
+- **Internal Findings:**
+    - **Spleen:** Swollen and dark [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - **Haemorrhages:** Petechial haemorrhages on the peritoneum and internal organs, and ascites (fluid in the abdominal cavity) [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
+    - **Liver and kidney:** Focal necrosis in the liver, and oedema, congestion and petechial haemorrhages in the kidney [5](https://doi.org/10.3390/biology14101330).
+    - **Intestine:** Bloody discolouration of the intestine in the chronic form [19](https://snl.no/furunkulose_-_fisk).
+- **Behavioural Signs:**
+    - **Loss of appetite and abnormal swimming:** Anorexia and swimming disorders are typical signs [5](https://doi.org/10.3390/biology14101330).
+    - **Reduced activity:** In experimentally infected rainbow trout, fish first became less active and stayed at the bottom of the tank or near the water inflow. Later, they lost coordination and swam erratically, and fish with severe skin lesions rubbed their bodies against the tank walls ("flashing") [5](https://doi.org/10.3390/biology14101330).
+    - **Rapid breathing:** A very high respiration rate is common in hatchery outbreaks [17](https://www.vetinst.no/sykdom-og-agens/furunkulose).
 
 **Progression of Clinical Signs**
 
-- **Early Stages (Peracute):** Fish may die suddenly with minimal external signs — peracute disease presents as rapid systemic bacteraemia with internal haemorrhages and enlarged spleen but no furuncle formation. Mortality rises steeply over a 1–3 day period. The peracute form is usually seen at the parr-stage in hatcheries for salmon [1](https://doi.org/10.1111/1751-7915.12091) [5](https://doi.org/10.3390/biology14101330) [19](https://snl.no/furunkulose_-_fisk).
-- **Acute/subacute stage:** A septicaemic form with a more prolonged course and lower mortality than peracute disease. In acute disease, fish show lethargy, loss of appetite, and fin-base haemorrhages. Furuncles may form beneath the skin or deep in the musculature that  may progress to open ulcers. Fin rot, external ulcers, and focal necrosis in internal organs may occur, typically in larger fish; mortality usually develops within a few days [19](https://snl.no/furunkulose_-_fisk).
-- **Advanced Stages (Chronic):** In chronic infections the clinical course is more protracted, with fish surviving longer but serving as ongoing sources of pathogen shedding. Chronic furunculosis is typically associated with bloody discolouration of the intestine and anal prolapse, and generally occurs in older fish with relatively low mortality. [1](https://doi.org/10.1111/1751-7915.12091)[19](https://snl.no/furunkulose_-_fisk).
-- **Latent infection (carrier state):** Latently infected fish show no mortality or clinically apparent pathological changes, yet *Aeromonas salmonicida* can be isolated from internal organs. The prevalence of latent carriers may be high in some populations, creating an important reservoir for persistence and transmission of the pathogen. Stress events — such as seawater transfer (smoltification), handling, crowding, temperature change, or concurrent parasitic infestations — commonly trigger transition from latent carrier to clinically diseased states [19](https://snl.no/furunkulose_-_fisk).
-- **Impact on Fish Health:** Beyond direct mortality, furunculosis causes significant production losses through reduced growth, increased feed conversion ratio, carcass downgrades due to furuncle damage, and costs associated with treatment and mortality removal. Fish that survive clinical episodes may remain chronic carriers that re-shed the pathogen under subsequent stress events [1](https://doi.org/10.1111/1751-7915.12091).
-- **Atypical and Related-Agent Presentations:** Re-emergent atypical *A. salmonicida* outbreaks in Chilean Atlantic salmon have presented with periorbital haemorrhages, fin-base and abdominal haemorrhages, furuncles, skin ulcers, hepatic/splenic/renal petechiae, and haemorrhagic enteritis, a picture largely indistinguishable from typical disease on gross examination [25](https://doi.org/10.3390/microorganisms12010064). *Aeromonas piscicola*, a distinct species causing furunculosis-like disease in Chilean *S. salar*, produces a comparable disease picture under experimental challenge: focal cutaneous ulcerative lesions, marked visceral congestion, and septicaemia with mortality exceeding 80% by 4 days post-infection for the more virulent isolates [24](https://doi.org/10.3390/pathogens15040402).
+All four forms of classical furunculosis can occur in the same outbreak [19](https://snl.no/furunkulose_-_fisk).
+
+- **Peracute form:** High mortality with few or no specific signs, apart from small internal haemorrhages and an enlarged spleen. In hatcheries, fish turn dark, breathe rapidly, show moderate exophthalmia, and can die quickly with no other external signs [17](https://www.vetinst.no/sykdom-og-agens/furunkulose) [19](https://snl.no/furunkulose_-_fisk).
+- **Acute/subacute form:** A septicaemia with a somewhat longer course and lower mortality than the peracute form, seen mainly in larger fish. Furuncles, fin rot, skin ulcers and necrosis in internal organs can occur, and fish die within a few days [19](https://snl.no/furunkulose_-_fisk).
+- **Chronic form:** Also called the intestinal form. It mainly shows as bloody discolouration of the intestine and anal prolapse, with usually low mortality [19](https://snl.no/furunkulose_-_fisk).
+- **Latent infection (carrier state):** Fish show no mortality or visible changes, but *A. salmonicida* can be isolated from their internal organs, and the share of carriers can be high. Latent infections can develop into disease after stressful handling, transport or sorting [17](https://www.vetinst.no/sykdom-og-agens/furunkulose) [19](https://snl.no/furunkulose_-_fisk).
+
+**Atypical furunculosis**
+
+The clinical picture of atypical furunculosis varies with the host species and the bacterial strain [20](https://doi.org/10.3354/dao032049).
+
+- **Non-salmonid fish in general:** Infection mainly shows as skin ulcers. Internal organs are infrequently invaded, and muscle abscesses are only occasionally seen. Well-known examples are carp erythrodermatitis, goldfish ulcer disease and ulcer disease of flounder [19](https://snl.no/furunkulose_-_fisk) [20](https://doi.org/10.3354/dao032049).
+- **Atlantic salmon:** In the first outbreaks described in Chilean freshwater farms, fish showed superficial ulcers and a pale liver with or without petechial haemorrhages [31](https://doi.org/10.1111/j.1365-2761.2010.01142.x). In more recent Chilean outbreaks, fish showed haemorrhages around the eyes, at the fin bases and on the abdomen, furuncles, skin ulcers, petechial haemorrhages in internal organs, enlarged spleen and kidney, and haemorrhagic enteritis, a picture that can resemble classical furunculosis [25](https://doi.org/10.3390/microorganisms12010064).
+- **Atlantic cod:** Skin ulcers and widespread granulomas in internal organs [28](https://doi.org/10.1046/j.1365-2761.2002.00407.x). White nodules in the spleen and kidney make the disease look very similar to francisellosis at necropsy, but the two diseases are readily distinguished by histology: in atypical furunculosis, the bacteria form colonies in the centre of the granulomas [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf) [21](https://doi.org/10.1186/1297-9716-42-47).
+- **Ballan wrasse:** In experimental bath challenge, juvenile wrasse developed a systemic infection with enlarged liver and spleen, granulomatous hepatitis with bacterial colonies, and inflammation of the heart lining (endocarditis) [30](https://doi.org/10.1111/jfd.13312).
+- **Lumpfish:** Atypical *A. salmonicida* is frequently associated with disease and mortality in farmed lumpfish [29](https://doi.org/10.1016/j.fsi.2017.03.040). Microcolonies of bacteria can be seen in the heart [18](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf).
+- **Behavioural Signs:** In Chilean outbreaks in Atlantic salmon, affected fish showed reduced appetite and increased lethargy [25](https://doi.org/10.3390/microorganisms12010064).
 
 ### Causes of Furunculosis (*Aeromonas salmonicida*)
 
@@ -130,6 +145,7 @@ Furunculosis is historically one of the most economically important bacterial di
     - Clinical signs of furunculosis overlap substantially with those of other bacterial fish diseases causing septicaemia, including vibriosis (*Vibrio* spp.), yersiniosis (*Yersinia ruckeri*), bacterial kidney disease (BKD, *Renibacterium salmoninarum*), winter ulcer disease (*Moritella viscosa*), and haemorrhagic septicaemia caused by *Aeromonas hydrophila* (motile aeromonads). 
      - The non-motility of *A. salmonicida* subsp. *salmonicida* and the characteristic brown pigment on agar distinguish it from motile aeromonads; however, pigment production is not universal for all subspecies, so definitive identification requires laboratory testing (like qPCR).
     - In Atlantic cod, atypical furunculosis should be differentiated from francisellosis, caused by *Francisella noatunensis* subsp. *noatunensis*. Both diseases can produce chronic disease and internal nodules or granulomatous lesions. Histopathology together with culture and pathogen-specific PCR is therefore important for distinguishing these infections in cod [21](https://doi.org/10.1186/1297-9716-42-47).
+    - *Aeromonas piscicola*, a distinct species, causes furunculosis-like disease in Chilean Atlantic salmon. Under experimental challenge it produces focal skin ulcers, marked congestion of internal organs and septicaemia, with mortality above 80% by 4 days post-infection for the more virulent isolates [24](https://doi.org/10.3390/pathogens15040402).
     - Multiplex PCR can rapidly and simultaneously detect *A. salmonicida* subsp. *salmonicida*, *Flavobacterium psychrophilum*, and *Y. ruckeri* in a single reaction. It is therefore useful for targeted differential diagnosis, but additional culture, histopathology, and pathogen-specific molecular assays are needed to investigate other potential causes of disease [6](https://doi.org/10.4142/jvs.2010.11.3.235).
 
 ### Treatment and Prevention
@@ -315,5 +331,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [27] Menanteau-Ledouble, S., Kumar, G., Saleh, M., & El-Matbouli, M. (2016). *Aeromonas salmonicida*: Updates on an old acquaintance. *Diseases of Aquatic Organisms*, *120*(1), 49–68. https://doi.org/10.3354/dao03006
 
 [28] Magnadóttir, B., Bambir, S. H., Gudmundsdóttir, B. K., Pilström, L., & Helgason, S. (2002). Atypical *Aeromonas salmonicida* infection in naturally and experimentally infected cod, *Gadus morhua* L. *Journal of Fish Diseases*, *25*(10), 583–597. https://doi.org/10.1046/j.1365-2761.2002.00407.x
+
+[29] Rønneseth, A., Haugland, G. T., Colquhoun, D. J., Brudal, E., & Wergeland, H. I. (2017). Protection and antibody reactivity following vaccination of lumpfish (*Cyclopterus lumpus* L.) against atypical *Aeromonas salmonicida*. *Fish & Shellfish Immunology*, *64*, 383–391. https://doi.org/10.1016/j.fsi.2017.03.040
+
+[30] Papadopoulou, A., Garvey, K., Hill, T., Ramirez-Paredes, J. G., Monaghan, S. J., Baily, J. L., Davie, A., Katsiadaki, I., Verner-Jeffreys, D., Wallis, T., Migaud, H., & Adams, A. (2021). Novel atypical *Aeromonas salmonicida* bath challenge model for juvenile ballan wrasse (*Labrus bergylta*, Ascanius). *Journal of Fish Diseases*, *44*(6), 823–835. https://doi.org/10.1111/jfd.13312
+
+[31] Godoy, M., Gherardelli, V., Heisinger, A., Fernández, J., Olmos, P., Ovalle, L., Ilardi, P., & Avendaño-Herrera, R. (2010). First description of atypical furunculosis in freshwater farmed Atlantic salmon, *Salmo salar* L., in Chile. *Journal of Fish Diseases*, *33*(5), 441–449. https://doi.org/10.1111/j.1365-2761.2010.01142.x
 
 ---
