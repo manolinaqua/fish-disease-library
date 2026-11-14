@@ -9,11 +9,14 @@ tags:
   - Salmon
   - AtlanticSalmon
   - Norway
+  - Parvicapsulapseudobranchicola
 ---
 ## Overview
 
 ### What is Parvicapsulosis?
-Parvicapsulosis is a parasitic disease affecting various fish species in aquaculture, particularly Atlantic salmon (*Salmo salar*) and other salmonids. It is caused by the myxozoan parasite *Parvicapsula pseudobranchicola*, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Parvicapsulosis can lead to significant economic losses due to high mortality rates, reduced growth performance, and increased susceptibility to secondary infections. The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian salmonid farming [4](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269).
+Parvicapsulosis is a parasitic disease caused by the marine myxozoan _Parvicapsula pseudobranchicola_, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). The parasite has a two-host life cycle involving the marine polychaete worm _Chaetozone setosa_ as its definitive host and salmonids as intermediate hosts [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[10](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). It infects farmed and wild Atlantic salmon (_Salmo salar_), Arctic char (_Salvelinus alpinus_), sea trout (_Salmo trutta_), and rainbow trout (_Oncorhynchus mykiss_), but clinical disease has only been documented in farmed Atlantic salmon [7](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+
+Heavy infections can cause severe inflammation and destruction of pseudobranch tissue and are associated with impaired vision, reduced feeding, poor growth, and mortality [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian Atlantic salmon farming, particularly in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
 ## Clinical Signs of Parvicapsulosis
 
@@ -207,9 +210,14 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [6] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/
 
-[7] https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html
+[7] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/
 
 [8] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122293/
 
+[9] https://www.vetinst.no/sykdom-og-agens/parvicapsulose
+
+[10] https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub 
+
+[11] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/
 - - -
 
