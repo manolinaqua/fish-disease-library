@@ -16,23 +16,24 @@ tags:
 ### What is Parvicapsulosis?
 Parvicapsulosis is a parasitic disease caused by the marine myxozoan _Parvicapsula pseudobranchicola_, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). The parasite has a two-host life cycle involving the marine polychaete worm _Chaetozone setosa_ as its definitive host and salmonids as intermediate hosts [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[10](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). It infects farmed and wild Atlantic salmon (_Salmo salar_), Arctic char (_Salvelinus alpinus_), sea trout (_Salmo trutta_), and rainbow trout (_Oncorhynchus mykiss_), but clinical disease has only been documented in farmed Atlantic salmon [7](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
 
-Heavy infections can cause severe inflammation and destruction of pseudobranch tissue and are associated with impaired vision, reduced feeding, poor growth, and mortality [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian Atlantic salmon farming, particularly in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+Heavy infections can cause severe inflammation and destruction of pseudobranch tissue and are associated with impaired vision, reduced feeding, poor growth, and mortality [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian Atlantic salmon farming, particularly in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). There is currently no effective treatment for parvicapsulosis [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ## Clinical Signs of Parvicapsulosis
 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Pale Gills:** Indicative of anaemia and poor oxygen transport.
-    - **Inflamed Pseudobranchs:** Swollen and reddened pseudobranchs, often covered with a whitish matter [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
-    - **Excess Mucus Production:** Increased mucus on gills and pseudobranchs.
-    - **Haemorrhages:** Eye bleeding and reddened areas around the pseudobranchs and gills [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
-    - **Emaciation:** Significant weight loss and poor body condition.
+    - **Pseudobranch Lesions:** Affected pseudobranchs (small gill-like structures situated on the inner wall of each opeculum) show marked swelling and inflammation, often covered with a whitish or yellowish exudate, and may also be replaced by ulcers [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[12](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Eye Lesions & Blindness:** Damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, potentially causing impaired vision or blindness. Affected fish may also show crescent-shaped eye haemorrhages, cataracts, and protruding eyes (exophthalmia) [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **Anaemia**: Anaemia has been reported in fish affected by  parvicapsulosis, with reduced haematocrit levels [2](https://www.int-res.com/articles/dao2003/54/d054p259.pdf)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **Emaciation:** Significant weight loss and poor body condition, as  vision loss prevent them from feeding [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Dark skin discoloration**: Affected fish may show darkened skin pigmentation [12](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Liver discoloration:** Necropsy may reveal a pale or yellowish liver [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 - **Behavioural Changes:**
-    - **Lethargy:** Reduced activity and slow swimming.
-    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
-    - **Abnormal Swimming Patterns:** Erratic or sluggish swimming due to respiratory distress.
+    - **Lethargy & Surface Aggregation:** Affected fish gather near the surface of sea cages and show sluggish, unresponsive behaviour [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[12](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Abnormal Swimming Patterns:** Erratic or sluggish swimming occurs alongside a complete lack of response to visual challenges, approaching nets, or human presence due to total blindness [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 
 **Progression of Symptoms**
@@ -219,5 +220,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [10] https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub 
 
 [11] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/
+
+[12] https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway
 - - -
 
