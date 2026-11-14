@@ -2,14 +2,14 @@
 title: Haemorrhagic smolt syndrome (HSS)
 description: Learn about Haemorrhagic smolt syndrome (HSS) in fish. HSS is a bleeding disorder affecting farmed Atlantic salmon in the freshwater-phase, where the cause remains unknown. Discover symptoms, possible causes, diagnosis, treatment, and prevention strategies for improved aquaculture health.
 tags:
-  - HemorrhagicDiathesis
+  - HeamorrhagicDiathesis
   - environmentalconditions
   - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
   - RainbowTrout
-  - HemorrhagicSmoltSyndrome
+  - HeamorrhagicSmoltSyndrome
   - HSS
 ---
 ## Overview
