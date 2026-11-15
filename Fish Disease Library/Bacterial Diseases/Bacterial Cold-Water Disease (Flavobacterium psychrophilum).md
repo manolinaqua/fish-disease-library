@@ -28,10 +28,16 @@ tags:
   - GrassCarp
   - CrucianCarp
   - SilverCarp
+  - Ayu
   - Norway
   - Slovenia
   - Chile
   - UnitedStates
+  - Canada
+  - Denmark
+  - China
+  - Japan
+  - SouthKorea
 ---
 
 ## Overview
@@ -181,6 +187,51 @@ The disease has other names. Low-temperature disease was an early North American
 - **Treatment & Management:**
     - Flavobacteriosis was the leading reason for antimicrobial use in Chilean freshwater salmonid farming in 2025, accounting for 46.65% of freshwater use, ahead of renibacteriosis (BKD, 30.96%) and furunculosis (7.35%). Freshwater treatments relied on oxytetracycline (60.63%) and florfenicol (39.15%), mostly given in feed but also by immersion, and immersion treatments against flavobacteriosis drive the high use in the Los Ríos region. The freshwater phase accounted for only 1.17% of national antimicrobial use, and freshwater use fell by 34.1% compared with the previous year [26](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
     - MIC-based epidemiological cut-off analysis found non-wild-type frequencies of 70% for oxytetracycline and 38–45% for the quinolones oxolinic acid, flumequine, and enrofloxacin, while only 2% of isolates (8% by disk diffusion) showed reduced susceptibility to florfenicol. This resistance pattern is broadly consistent with the Slovenian data above despite the geographic distance between the two surveys [2](https://doi.org/10.3389/fmicb.2016.01880). An earlier study of 40 Chilean isolates, using a different interpretive cut-off, reported resistance in 90% to oxytetracycline, 92.5% to florfenicol, and 85% to oxolinic acid, and linked these levels to the large quantities of antimicrobials used to control *F. psychrophilum* outbreaks in Chilean farms [27](https://doi.org/10.1016/j.aquaculture.2012.04.034).
+
+#### United States
+
+- **Incidence:**
+    - The disease was first described in the United States, in rainbow trout in West Virginia and juvenile coho salmon in Washington [1](https://doi.org/10.1016/j.jare.2014.10.009). In Michigan's Great Lakes basin, *F. psychrophilum* was detected in almost all salmonid broodstocks sampled over five years (see Case Studies) [24](https://doi.org/10.1080/08997659.2015.1088488).
+
+- **Treatment & Management:**
+    - Nitrofurans and sulfonamides are not registered for use in food fish in the United States, and florfenicol was approved only shortly before 2011 [33](https://doi.org/10.2174/1874401X01104010040).
+
+#### Canada
+
+- **Incidence:**
+    - BCWD has a considerable economic impact on aquaculture in Ontario, where 75 isolates were collected over 16 years from farmed salmonids with tail rot, necrotic myositis, and osteochondrosis [41](https://doi.org/10.1139/w08-058).
+
+- **Treatment & Management:**
+    - Reduced susceptibility to florfenicol has been reported in 52.8% of Canadian isolates [4](https://doi.org/10.1111/jfd.14119).
+
+#### Denmark
+
+- **Incidence:**
+    - BCWD caused an average mortality of 34% in Danish rainbow trout farms [33](https://doi.org/10.2174/1874401X01104010040).
+
+- **Treatment & Management:**
+    - Oxolinic acid was used from 1986, but by 2000 all isolates were resistant, and 60 to 75% of isolates from 1994 to 1998 were resistant to oxytetracycline [33](https://doi.org/10.2174/1874401X01104010040). Florfenicol is now the drug of choice. Between 2019 and 2022, two isolates from a farm where florfenicol treatment failed showed reduced susceptibility and carried the *floR* gene. They belonged to a clonal complex (CC-ST90) not previously reported in the Nordic countries [43](https://doi.org/10.1111/jfd.70255).
+
+#### China
+
+- **Incidence:**
+    - The first published report linked *F. psychrophilum* to outbreaks in salmonid farms in four provinces, involving three host species. Isolates belonged to CC-ST10, common on other continents, and to three sequence types not reported elsewhere [40](https://doi.org/10.1128/spectrum.00330-21). It has also been isolated from farmed cyprinids with overwintering mortality syndrome [16](https://doi.org/10.3390/ani16101465) [17](https://doi.org/10.3389/fmicb.2026.1751566).
+
+- **Treatment & Management:**
+    - Chinese isolates showed reduced susceptibility to enrofloxacin, flumequine, and oxolinic acid, and moderate susceptibility to gentamicin, erythromycin, and florfenicol [40](https://doi.org/10.1128/spectrum.00330-21).
+
+#### Japan
+
+- **Incidence:**
+    - Besides salmonids, *F. psychrophilum* frequently affects ayu (*Plecoglossus altivelis*) in Japanese farms and rivers, causing heavy mortality and severe economic losses. Ayu isolates belong to sequence types distinct from those in salmonids, whereas isolates from Japanese coho salmon and rainbow trout match those found in the same species abroad [42](https://doi.org/10.1186/s13567-024-01326-6).
+
+#### South Korea
+
+- **Incidence:**
+    - The disease was not documented in Korean rainbow trout before September 2018. The first isolate was closely related to European strains, suggesting introduction through imported fertilised eggs [35](https://doi.org/10.3390/microorganisms11102546). The bacterium has also been isolated from farmed ayu in Korea [42](https://doi.org/10.1186/s13567-024-01326-6).
+
+- **Treatment & Management:**
+    - In the first Korean outbreak, oral enrofloxacin reduced mortality from 28% to 6%. The isolate was resistant to oxolinic acid and sulfamethoxazole/trimethoprim [35](https://doi.org/10.3390/microorganisms11102546).
 
 ## Research and References
 
@@ -345,5 +396,13 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [38] Servicio Agrícola y Ganadero (SAG). (2024). *Productos biológicos inmunológicos con registro provisional, uso en salmónidos* (última modificación: 3 de diciembre de 2024). https://sag.gob.cl/sites/default/files/lista_salmonidos_registro_provisional_03122024.pdf
 
 [39] Norwegian Medical Products Agency (DMP). (2025, October 30). *Approved medicines for use in fish*. https://www.dmp.no/en/veterinary-medicine/fish-medicine/approved-medicines-for-use-in-fish
+
+[40] Li, S., Chai, J., Knupp, C., Nicolas, P., Wang, D., Cao, Y., Deng, F., Chen, F., Lu, T., & Loch, T. P. (2021). Phenotypic and genetic characterization of *Flavobacterium psychrophilum* recovered from diseased salmonids in China. *Microbiology Spectrum*, *9*(2), e00330-21. https://doi.org/10.1128/spectrum.00330-21
+
+[41] Hesami, S., Allen, K. J., Metcalf, D., Ostland, V. E., MacInnes, J. I., & Lumsden, J. S. (2008). Phenotypic and genotypic analysis of *Flavobacterium psychrophilum* isolates from Ontario salmonids with bacterial coldwater disease. *Canadian Journal of Microbiology*, *54*(8), 619–629. https://doi.org/10.1139/w08-058
+
+[42] Fujiwara-Nagata, E., Rochat, T., Lee, B.-H., Lallias, D., Rigaudeau, D., & Duchaud, E. (2024). Host specificity and virulence of *Flavobacterium psychrophilum*: a comparative study in ayu (*Plecoglossus altivelis*) and rainbow trout (*Oncorhynchus mykiss*) hosts. *Veterinary Research*, *55*, 75. https://doi.org/10.1186/s13567-024-01326-6
+
+[43] Donati, V. L., & Madsen, L. (2026). Phenotypic florfenicol resistance in *floR*-harbouring *Flavobacterium psychrophilum* isolates (CC-ST90): A case study from Danish freshwater rainbow trout aquaculture. *Journal of Fish Diseases*, *49*(12), e70255. https://doi.org/10.1111/jfd.70255
 
 ---
