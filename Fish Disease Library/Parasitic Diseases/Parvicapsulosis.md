@@ -78,22 +78,15 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 
 **Treatment Options**
 
-- **Current Treatments:** There are no specific treatments for Parvicapsulosis. Management focuses on preventing the spread and mitigating the impact through biosecurity measures and supportive care.
-
-- **Experimental Treatments:** Research is ongoing into potential antiparasitic agents and other therapeutic approaches.
+- **Current Treatments:** There are no specific treatments for Parvicapsulosis. Management therefore focuses on limiting losses and protecting fish welfare rather than eliminating the parasite from infected fish.
 
 **Preventive Measures**
 
-- **Biosecurity Protocols:**
-    
-    - Implementing strict quarantine measures for new stock to prevent the introduction of *Parvicapsula*.
-    - Regular disinfection of equipment and facilities to minimize the risk of contamination.
-
 - **Farm Management Practices:**
     
-    - Reducing stocking densities to decrease the risk of parasite transmission.
-    - Regular health monitoring and early detection programs to identify and manage outbreaks promptly.
-    - Implementing all-in/all-out stocking practices to reduce the risk of spreading infections.
+    - **Environmental conditions and fish health**: Maintain good environmental conditions and stock healthy, robust smolt. Preventing and managing concurrent diseases may help reduce losses associated with parvicapsulosis [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+    - **Welfare monitoring**: Monitor fish for impaired feeding, poor condition, and abnormal swimming. Severely affected fish, particularly those with impaired vision and progressive emaciation, should be promptly removed and humanely euthanised to prevent prolonged suffering [11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Sea-transfer timing**: Consider local infection risk when planning smolt transfers - infection pressure in seawater peaks in August and September [11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
     
 
 ### Case Studies
@@ -103,13 +96,13 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 - **Notable Outbreaks:**
     
     - **Norway (2002):** Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification [4](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269).
-    - **Field Experiment in Western Finnmark:** A study followed Atlantic salmon infections from before sea-transfer to the end of production (604 days), providing insights into infection dynamics and tissue tropism [1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - **Field Experiment in Western Finnmark:** A study followed Atlantic salmon infections from before sea-transfer to the end of production (604 days), providing insights into infection dynamics and tissue tropism [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
     
 - **Response Strategies and Outcomes:**
     
-    - **Norway:** Implementation of biosecurity measures and development of diagnostic tools, including ISH assays for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **Norway:** Implementation of highly sensitive diagnostic tools, including real-time RT-PCR and and ISH assays for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4). Prompt removal and culling of surface-dwelling, lethargic fish, reduces pen burden, and maintains overall farm hygiene [11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
     
-- **Lessons Learned:** The importance of early detection, robust biosecurity, and coordinated response efforts in controlling Parvicapsulosis outbreaks. Further research is needed to understand the unknown life cycle of the parasite and the pathophysiological effects of pseudobranch infection on fish health [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+- **Lessons Learned:** Management focuses on reducing impact rather than curing infection. No effective treatment or specific preventive measures are currently available. Further research is needed to understand how infection can be prevented or its impact reduced, and the pathophysiological effects of pseudobranch infection on fish health [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
 ## Data Insights
 ### Disease Impact by Country
