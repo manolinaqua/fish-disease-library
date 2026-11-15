@@ -47,12 +47,11 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 
 **Etiology**
 
-- **Causative Agent:** *Parvicapsula pseudobranchicola* parasite [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
+- **Causative Agent:** *Parvicapsula pseudobranchicola*, a microscopic, multicellular marine parasite belonging to the class Myxosporea within the phylum Cnidaria [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9). 
 
 - **Transmission Methods:**
-    - **Direct Contact:** Spread between infected and healthy fish through close proximity.
-    - **Waterborne:** The parasite can spread through water, particularly in conditions of high fish density and poor water quality.
-    - **Unknown Life Cycle:** The complete life cycle of the parasite, including its alternate host, is currently unknown, preventing controlled challenge experiments [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - The parasite has a two-host life cycle involving salmonids as intermediate hosts and a marine polychaete worm as the final host [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). A recent study identified _Chaetozone setosa_ as the definitive host and provided experimental evidence supporting transmission to Atlantic salmon through exposure to actinospores [10](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). These findings help clarify the life cycle, although transmission dynamics under natural conditions require further investigation. 
+    - **Waterborne Actinospore Entry:** Infection is strictly waterborne. _C. setosa_ releases actinospores into the water column, which attach to the fish's skin using polar filaments discharged from polar capsules [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[10](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). 
 
 
 **Risk Factors**
