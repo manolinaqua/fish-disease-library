@@ -7,18 +7,27 @@ aliases:
   - Rainbow Trout Fry Syndrome
   - Bacterial Coldwater Disease
   - Flavobacteriosis
+  - Flavobakteriose
+  - Peduncle Disease
+  - Low-Temperature Disease
 pathogen: Flavobacterium psychrophilum
 category: Bacterial
 description: Learn about Bacterial Cold-Water Disease (BCWD) / Rainbow Trout Fry Syndrome (RTFS), caused by Flavobacterium psychrophilum in cold-water salmonid hatcheries worldwide. Discover clinical signs, diagnosis, treatment options, and prevention strategies.
 tags:
   - BacterialColdWaterDisease
   - RainbowTroutFrySyndrome
+  - Flavobacteriosis
   - BacterialDiseases
   - Bacteria
   - Flavobacterium
   - FlavobacteriumPsychrophilum
   - RainbowTrout
   - AtlanticSalmon
+  - CohoSalmon
+  - ChinookSalmon
+  - GrassCarp
+  - CrucianCarp
+  - SilverCarp
   - Norway
   - Slovenia
   - Chile
@@ -30,6 +39,8 @@ tags:
 ### What is Bacterial Cold-Water Disease (*Flavobacterium psychrophilum*)?
 
 Bacterial Cold-Water Disease (BCWD, the term generally used in North America), also known as Rainbow Trout Fry Syndrome (RTFS) in Europe, is caused by *Flavobacterium psychrophilum*, a Gram-negative, non-flagellated bacterium (family Flavobacteriaceae, phylum Bacteroidota) that is either non-motile or moves by gliding rather than via flagella [1](https://doi.org/10.1016/j.jare.2014.10.009). It is one of the three species recognized as the "big three" fish-pathogenic flavobacteria, alongside *F. columnare* (columnaris disease) and *F. branchiophilum* (bacterial gill disease) [1](https://doi.org/10.1016/j.jare.2014.10.009).
+
+The disease has other names. Low-temperature disease was an early North American term, and the bacterium was previously named *Cytophaga psychrophila* and *Flexibacter psychrophilus* [1](https://doi.org/10.1016/j.jare.2014.10.009). Peduncle disease refers to the ulcers that spread over the caudal peduncle [32](https://doi.org/10.1371/journal.pone.0039126). Flavobacteriosis is the name used in Chilean and Norwegian (*flavobakteriose*) surveillance reports [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf) [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 *F. psychrophilum* is a psychrophilic pathogen of cold-water salmonid hatcheries, principally rainbow trout (*Oncorhynchus mykiss*), Atlantic salmon (*Salmo salar*), and coho salmon (*O. kisutch*). It causes skin/gill lesions and systemic disease with reported mortality of 30–90% in juvenile fish, and has been reported from Europe, North America, Chile, Japan, Korea, and Australia [4](https://doi.org/10.1111/jfd.14119) [13](https://doi.org/10.1186/s13567-017-0448-z). Its host range is wider than salmonids: in China it has been isolated in recent years from farmed cyprinids (crucian carp, grass carp, and silver carp) and identified as a causal agent of overwintering mortality syndrome [16](https://doi.org/10.3390/ani16101465) [17](https://doi.org/10.3389/fmicb.2026.1751566).
 
@@ -313,5 +324,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [30] Avila, B. W., Winkelman, D. L., & Fetherman, E. R. (2022). Dual resistance to *Flavobacterium psychrophilum* and *Myxobolus cerebralis* in rainbow trout (*Oncorhynchus mykiss*, Walbaum). *Journal of Fish Diseases*, *45*(6), 801–813. https://doi.org/10.1111/jfd.13605
 
 [31] Kumar, G., Menanteau-Ledouble, S., Saleh, M., & El-Matbouli, M. (2015). *Yersinia ruckeri*, the causative agent of enteric redmouth disease in fish. *Veterinary Research*, *46*, 103. https://doi.org/10.1186/s13567-015-0238-4
+
+[32] Langevin, C., Blanco, M., Martin, S. A. M., Jouneau, L., Bernardet, J.-F., Houel, A., Lunazzi, A., Duchaud, E., Michel, C., Quillet, E., & Boudinot, P. (2012). Transcriptional responses of resistant and susceptible fish clones to the bacterial pathogen *Flavobacterium psychrophilum*. *PLoS ONE*, *7*(6), e39126. https://doi.org/10.1371/journal.pone.0039126
 
 ---
