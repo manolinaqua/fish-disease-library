@@ -50,18 +50,17 @@ The disease has other names. Low-temperature disease was an early North American
 
 - **Physical Signs:**
     - RTFS episodes tend to occur at 10–14 °C [13](https://doi.org/10.1186/s13567-017-0448-z), although outbreaks also occur at much lower temperatures. The first Norwegian Atlantic salmon case, for example, occurred below 5 °C [21](https://doi.org/10.3354/dao02390). Necrotic lesions are often seen on the skin surrounding the dorsal fin and tail. Affected fish show haemorrhage (mouth, dorsal fin, operculum, pelvic fin, trunk), splenomegaly with blurred spleen margins, trunk lesions, and an eroded tail and mouth [13](https://doi.org/10.1186/s13567-017-0448-z).
-    - Affected fish often show dark pigmentation on one or both sides of the body.
-    - Skin and muscle lesions are common and usually appear on the caudal peduncle, although they can occur elsewhere on the body. Early in the disease, especially in trout, a whitish discolouration appears at the margin of the adipose fin and gradually spreads until it almost completely surrounds the caudal peduncle.
-    - In some cases the adipose fin and the skin on the dorsal side of the peduncle become necrotic, exposing the underlying muscle. In extreme cases this progressive degeneration of skin and muscle can leave the vertebral column exposed.
-    - On gross examination, fish may also show unilateral or bilateral exophthalmia, gill lesions, and lesions with exposed muscle on the lateral and dorsal body and on the caudal peduncle.
+    - Affected fish often show increased dark pigmentation, particularly towards the tail ("black tail") [33](https://doi.org/10.2174/1874401X01104010040).
+    - Ulcerative lesions typically start around the adipose fin and progressively extend over the whole caudal peduncle [32](https://doi.org/10.1371/journal.pone.0039126). In severe cases the ulcer leaves the vertebral column fully exposed [1](https://doi.org/10.1016/j.jare.2014.10.009).
+    - Other reported signs include lower jaw ulcers, pale or necrotic gills, increased mucus production, exophthalmia, anaemia, ascites, and a pale liver and kidney [33](https://doi.org/10.2174/1874401X01104010040).
     - In coho salmon reaching the grow-out phase in estuarine water, clinical signs are similar to those of the freshwater phase. Affected fish show descaling, erosions, and single or multiple ulcers with yellow pigmentation and white or haemorrhagic borders. The yellow colour comes from flexirubin, a pigment characteristic of the genus *Flavobacterium* [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
-- **Behavioural Signs:** Fish are lethargic, gather in the corners of the tank, or swim in a spiral pattern.
+- **Behavioural Signs:** Fish are lethargic, and nervous disorders such as spiral swimming have been reported [33](https://doi.org/10.2174/1874401X01104010040).
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Disease onset is closely tied to water temperature. Experimentally raising water temperature accelerated the appearance of clinical disease, while increasing salinity delayed onset and improved survival, suggesting a window in early infection where environmental management can buy time for diagnosis and treatment [9](https://doi.org/10.1111/jfd.70037).
-- **Advanced Stages:** Untreated RTFS/BCWD progresses to the lesions described above, with high mortality. In the most advanced stages, fish may turn completely dark or dark only around the caudal peduncle, and some die without showing any external lesions.
-- **Chronic Cases:** Chronic infection can cause spinal deformities (scoliosis and lordosis), and *F. psychrophilum* can be isolated from the deformed vertebrae.
+- **Early Stages:** One of the first signs is whitish material along a fin margin, followed by progressive necrosis [33](https://doi.org/10.2174/1874401X01104010040).
+- **Advanced Stages:** Larger fish are more likely to develop the deep necrotic lesions of classic BCWD [33](https://doi.org/10.2174/1874401X01104010040). In rainbow trout fry, the disease mostly takes a septicaemic form (RTFS) with high mortality, and specific clinical signs may be absent or limited to ulcers with severe enlargement of the spleen [32](https://doi.org/10.1371/journal.pone.0039126).
+- **Chronic Cases:** Neurological signs such as spiral swimming and spinal deformities can persist long after an infection [33](https://doi.org/10.2174/1874401X01104010040). In an experimental study, rainbow trout infected as fry had more, and more severe, vertebral column deformities nine months later than uninfected controls, and these deformities were often visible externally [34](https://doi.org/10.1046/j.1365-2109.2001.00552.x).
 - **Impact on Fish Health:** Both live and dead fish shed *F. psychrophilum* into the water, but dead fish shed the bacterium at substantially higher rates and for longer durations than live fish, meaning that mortality events feed forward into further transmission pressure within a population if not managed promptly [10](https://doi.org/10.1128/spectrum.03601-23). In Chile's national surveillance, flavobacteriosis was the leading infectious cause of freshwater mortality in rainbow trout and coho salmon in 2025 [25](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf), and the leading reason for antimicrobial use in the freshwater phase [26](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
 
 ### Causes of Bacterial Cold-Water Disease (*Flavobacterium psychrophilum*)
@@ -326,5 +325,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [31] Kumar, G., Menanteau-Ledouble, S., Saleh, M., & El-Matbouli, M. (2015). *Yersinia ruckeri*, the causative agent of enteric redmouth disease in fish. *Veterinary Research*, *46*, 103. https://doi.org/10.1186/s13567-015-0238-4
 
 [32] Langevin, C., Blanco, M., Martin, S. A. M., Jouneau, L., Bernardet, J.-F., Houel, A., Lunazzi, A., Duchaud, E., Michel, C., Quillet, E., & Boudinot, P. (2012). Transcriptional responses of resistant and susceptible fish clones to the bacterial pathogen *Flavobacterium psychrophilum*. *PLoS ONE*, *7*(6), e39126. https://doi.org/10.1371/journal.pone.0039126
+
+[33] Barnes, M. E., & Brown, M. L. (2011). A review of *Flavobacterium psychrophilum* biology, clinical signs, and bacterial cold water disease prevention and treatment. *The Open Fish Science Journal*, *4*(1), 40–48. https://doi.org/10.2174/1874401X01104010040
+
+[34] Madsen, L., Arnbjerg, J., & Dalsgaard, I. (2001). Radiological examination of the spinal column in farmed rainbow trout *Oncorhynchus mykiss* (Walbaum): experiments with *Flavobacterium psychrophilum* and oxytetracycline. *Aquaculture Research*, *32*(3), 235–241. https://doi.org/10.1046/j.1365-2109.2001.00552.x
 
 ---
