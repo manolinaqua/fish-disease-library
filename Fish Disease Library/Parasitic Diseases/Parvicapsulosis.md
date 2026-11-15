@@ -33,16 +33,15 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 - **Behavioural Changes:**
     - **Lethargy & Surface Aggregation:** Affected fish gather near the surface of sea cages and show sluggish, unresponsive behaviour [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
     - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[12](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
-    - **Abnormal Swimming Patterns:** Erratic or sluggish swimming occurs alongside a complete lack of response to visual challenges, approaching nets, or human presence due to total blindness [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
+    - **Abnormal Swimming Patterns:** Erratic or sluggish swimming occurs alongside a complete lack of response to visual challenges, approaching nets, or human presence due to blindness [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 
 **Progression of Symptoms**
 
-- **Early Stages:** Mild signs such as reduced feed intake and slight lethargy.
+- The course of parvicapsulosis varies, and clinical signs do not necessarily follow a fixed sequence. Fish may become infected shortly after sea transfer, with disease developing slowly over approximately 4–6 months before clinical signs appear suddenly [11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). 
+- In a longitudinal field study, Nylund et al. (2018) followed an Atlantic salmon cohort transferred to sea in August in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Clinical parvicapsulosis occurred from December to early February, coinciding with high parasite densities and inflammation in the pseudobranchs [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). This illustrates the delayed onset of clinical disease following infection, although the timing may differ between populations.
 
-- **Advanced Stages:** Pronounced physical symptoms, including pale gills, inflamed pseudobranchs, and haemorrhages, leading to high mortality if left unchecked.
-
-- **Impact on Fish Health:** Parvicapsulosis severely compromises respiratory function and overall vitality, making fish susceptible to secondary infections and reduced growth rates. Heavy infections are associated with pseudobranch lesions, runting, and mortality in salmon populations [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+- **Impact on Fish Health:** Parvicapsulosis is associated with anaemia and severe damage to the pseudobranchs [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, leading to impaired vision or blindness [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Mortality varies and does not necessarily reflect the severity of visible lesions: fish with extensive changes may survive, while high mortality can occur in fish with less obvious changes. Losses may be greater when other diseases occur alongside parvicapsulosis [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ### Causes of Parvicapsulosis
 
