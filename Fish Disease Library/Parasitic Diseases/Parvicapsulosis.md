@@ -66,8 +66,8 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 - **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Parvicapsulosis.
 
 - **Laboratory Tests:**
-    - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
-    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in fish tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
+    - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in pseudobranchs, blood, kidney, and gill tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-017-2583-9).
     - **In Situ Hybridization (ISH):** A sensitive method for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 **Differential Diagnosis**
