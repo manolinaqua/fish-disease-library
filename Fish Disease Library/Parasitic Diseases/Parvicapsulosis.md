@@ -56,11 +56,8 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 
 **Risk Factors**
 
-- **Environmental Factors:** Poor water quality, high stocking densities, and stress conditions can increase susceptibility to Parvicapsulosis.
-
-- **Farm Management Practices:** Ineffective biosecurity measures and lack of routine health monitoring can facilitate the spread of the parasite.
-
-- **Seasonal Patterns:** Infection pressure appears to be high in August in certain regions [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+- **Sea Transfer Timing:** Infection pressure in seawater peaks during late summer and autumn (especially August and September) [11](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+- **Geographic Range:** Severe clinical outbreaks are heavily concentrated in Northern Norway (Troms and Finnmark) and Iceland, likely driven by local benthic polychaete habitats and marine environmental conditions [9](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ### Diagnosis
 
