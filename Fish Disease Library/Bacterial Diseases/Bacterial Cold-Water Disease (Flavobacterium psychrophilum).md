@@ -76,7 +76,7 @@ The disease has other names. Low-temperature disease was an early North American
 **Risk Factors**
 
 - **Environmental Factors:** In one experimental study, raising water temperature to 18 °C shortened the time to clinical disease, an unexpected result since outbreaks are typically reported at colder temperatures. In the same study, 1% salinity delayed onset and improved cohabitant survival (42.6% vs 17.9%) [9](https://doi.org/10.1111/jfd.70037). In the field, cases in coho salmon during the estuarine grow-out phase are explained by freshwater from rivers and rainfall lowering salinity. This helps infections that started in fresh water persist and spread horizontally, and creates conditions that favour new infections [28](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
-- **Farm Management Practices:** Prompt removal of dead and moribund fish is a key control point, since dead fish are disproportionate shedders of *F. psychrophilum* into hatchery and farm water [10](https://doi.org/10.1128/spectrum.03601-23).
+- **Farm Management Practices:** Handling and stress cause immunosuppression, and handling also causes skin lesions through which the bacterium can enter. In one Montana hatchery, outbreaks typically occurred three weeks after fish were handled or moved. Poor water quality and malnutrition have also been linked to outbreaks, and rainbow trout fed a diet high in oxidised lipids had higher mortality after challenge [33](https://doi.org/10.2174/1874401X01104010040). Dead fish shed far more bacteria than live fish, so mortalities left in tanks add to infection pressure [10](https://doi.org/10.1128/spectrum.03601-23).
 
 ### Diagnosis
 
@@ -115,7 +115,7 @@ The disease has other names. Low-temperature disease was an early North American
 - **Vaccines:**
     - **Subunit and Attenuated Candidates:** Vaccine development has been hampered by the bacterium's antigenic and genetic diversity. Candidate antigens (OmpH, OmpA, FspA, and lipopolysaccharide) have been identified using sera from convalescent rainbow trout, and an attenuated *exbD2* mutant strain achieved 81.8% relative percent survival (RPS) after intramuscular immunization and challenge [8](https://doi.org/10.1111/1751-7915.12099).
     - **Polyvalent Immersion Vaccine:** A polyvalent immersion vaccine combining three formalin-inactivated *F. psychrophilum* strains gave 84% RPS in rainbow trout fry against a heterologous strain challenge, with vaccinated fish also showing a delayed mortality onset compared to unvaccinated controls [13](https://doi.org/10.1186/s13567-017-0448-z).
-    - **Vaccine Implementation:** Commercial vaccines against *F. psychrophilum* remain available in only a limited number of countries (Chile, Norway), and none are suitable for the juvenile fry that bear the highest disease burden, leaving antibiotics as the primary recourse during an outbreak in most regions [13](https://doi.org/10.1186/s13567-017-0448-z). In Norway, an injectable vaccine for larger fish works well, but no immersion vaccine is on the market [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - **Vaccine Implementation:** Commercial vaccines exist in only a few countries, and none suit the juvenile fry that bear the highest disease burden, so antibiotics remain the main response to outbreaks [13](https://doi.org/10.1186/s13567-017-0448-z). In Chile, the Agricultural and Livestock Service (SAG) lists FLAVOMUNE (Veterquímica, immersion) and ALPHA JECT IPNV-Flavo 0,025 (Pharmaq, injection) [38](https://sag.gob.cl/sites/default/files/lista_salmonidos_registro_provisional_03122024.pdf). In Norway, the combination vaccine Flavo AVM6 (Pharmaq) is available for rainbow trout [39](https://www.dmp.no/en/veterinary-medicine/fish-medicine/approved-medicines-for-use-in-fish). Injectable vaccination works well in larger fish, but no immersion vaccine is on the market [20](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
     - **Autogenous Vaccines:** Because several serotypes and antigenic groups can co-circulate within a single farm, and each farm tends to have its own dominant serotype, autogenous (site-specific) vaccines built on each farm's dominant isolates have been recommended for Chilean salmonid farms [23](https://doi.org/10.1111/jfd.13828).
 
 - **Experimental Alternatives:**
@@ -124,12 +124,16 @@ The disease has other names. Low-temperature disease was an early North American
 **Preventive Measures**
 
 - **Biosecurity Protocols:**
-    - Iodine-based egg disinfection, standard in salmonid hatcheries, reduces surface bacterial load but does not sterilise eggs, and intra-ovum infection has been reported [11](https://doi.org/10.3390/microorganisms9050971).
+    - Iodine-based egg disinfection, standard in salmonid hatcheries, reduces surface bacterial load but does not sterilise eggs, and intra-ovum infection has been reported [11](https://doi.org/10.3390/microorganisms9050971). *F. psychrophilum* is very iodine tolerant, surviving at least 100 mg/L active iodine for 30 minutes, and ultraviolet (UV) disinfection needs doses of 126 mWs/cm² or more, since 42 mWs/cm² does not kill it [33](https://doi.org/10.2174/1874401X01104010040).
     - Experimental: bacteriophages showed short-term (24 h) control of *F. psychrophilum* on eyed eggs without affecting egg survival [11](https://doi.org/10.3390/microorganisms9050971).
     - Prompt removal of dead and moribund fish to reduce the disproportionate shedding load they contribute to hatchery and farm water [10](https://doi.org/10.1128/spectrum.03601-23).
+    - Using pathogen-free water, from protected sources or treated by filtration, UV, or ozonation [33](https://doi.org/10.2174/1874401X01104010040).
 
 - **Farm Management Practices:**
     - Managing water temperature and salinity where feasible, which experimentally influenced RTFS onset and fry survival [9](https://doi.org/10.1111/jfd.70037).
+    - Avoiding or minimising handling and stress, and reducing rearing densities [33](https://doi.org/10.2174/1874401X01104010040).
+    - Keeping water quality high (low organic load and nitrite) and feeding high-quality diets [33](https://doi.org/10.2174/1874401X01104010040).
+    - Screening broodstock, for example by ELISA and filtration-based fluorescent antibody tests, although this may be of little use if the rearing environment is already heavily contaminated [33](https://doi.org/10.2174/1874401X01104010040).
 
 - **Genetic Selection:**
     - Selective breeding for BCWD resistance is already applied in commercial rainbow trout lines. In one important breeding population, adding genomic information raised prediction accuracy for resistance from 0.27 (pedigree-based) to 0.36. The trait behaved as oligogenic there, with its largest association peaks on chromosomes Omy25 and Omy8 [14](https://doi.org/10.3389/fgene.2025.1582138).
@@ -337,5 +341,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [36] Wiklund, T., Madsen, L., Bruun, M. S., & Dalsgaard, I. (2000). Detection of *Flavobacterium psychrophilum* from fish tissue and water samples by PCR amplification. *Journal of Applied Microbiology*, *88*(2), 299–307. https://doi.org/10.1046/j.1365-2672.2000.00959.x
 
 [37] Long, A., Polinski, M. P., Call, D. R., & Cain, K. D. (2012). Validation of diagnostic assays to screen broodstock for *Flavobacterium psychrophilum* infections. *Journal of Fish Diseases*, *35*(6), 407–419. https://doi.org/10.1111/j.1365-2761.2012.01357.x
+
+[38] Servicio Agrícola y Ganadero (SAG). (2024). *Productos biológicos inmunológicos con registro provisional, uso en salmónidos* (última modificación: 3 de diciembre de 2024). https://sag.gob.cl/sites/default/files/lista_salmonidos_registro_provisional_03122024.pdf
+
+[39] Norwegian Medical Products Agency (DMP). (2025, October 30). *Approved medicines for use in fish*. https://www.dmp.no/en/veterinary-medicine/fish-medicine/approved-medicines-for-use-in-fish
 
 ---
