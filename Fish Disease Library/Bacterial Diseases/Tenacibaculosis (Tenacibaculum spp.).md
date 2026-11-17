@@ -170,7 +170,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 - **Biosecurity Protocols:**
     - Regular monitoring of fish health to detect and address (either by antibiotics or culling) early signs of infection [3](https://doi.org/10.3389/fcimb.2022.1068000) 
-    - Different strains of *T. maritimum* are locally sourced and not internationally, which helps with genetic tracking of outbreaks [1](https://doi.org/10.1128/AEM.01177-14).
+    - Genotyping shows no sign that *T. maritimum* strains have spread long distances through international fish movements; strains appear to be endemic to each area, which helps with tracking outbreaks [1](https://doi.org/10.1128/AEM.01177-14).
 
     
 - **Vaccines**:
@@ -182,7 +182,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - Minimising handling, crowding, and mechanical stress (e.g. during transport and delousing) reduces skin damage and infection entry points, especially when temperatures are below 8°C [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/). 
     - Using equipment and facilities designed to minimize skin abrasions and injuries.
     - Ensuring adequate nutrition to support immune function and wound healing.
-    - Implementing fallowing periods and site rotations to break the infection cycle [3](https://doi.org/10.3389/fcimb.2022.1068000)[12](https://doi.org/10.3354/dao071255)
+    - Controlling stocking density (avoiding overcrowding), reducing stress and avoiding overfeeding can prevent outbreaks or reduce their incidence [12](https://doi.org/10.3354/dao071255)
     - Salmonids that have been exposed to low-strength salinity appear to have a better ability to respond to an infection. [15](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
     - Seasonal awareness - Handling operations are often adjusted based on seasonal and temperature-related risk periods to reduce disease susceptibility. Transferring salmonids to seawater at temperatures above 5 °C has been shown to significantly reduce infection risk from *T. finnmarkense* [21](https://www.fhf.no/prosjekter/prosjektbasen/901434/)
 
@@ -199,11 +199,10 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - **Chile (since 2018):** Tenacibaculosis became an important problem in sea-farmed salmonids, with *T. dicentrarchi* as the main species. In 2018 it was added to Chile's list of high-risk diseases [40](https://infosalmon.cl/adl-diagnostic-chile-entrega-conocimiento-clave-sobre-tenacibaculosis-en-la-salmonicultura/).
 	    - **2020 new hosts**: The first clinical tenacibaculosis outbreaks in farmed rainbow trout and coho salmon worldwide were documented at five marine farms in the Los Lagos, Aysén and Magallanes Regions. Most isolates were more closely related to *T. finnmarkense* than to *T. dicentrarchi* [41](https://doi.org/10.1111/jfd.13213).
 
-    - **Europe (1990s):** First European cases in sea bass (*Dicentrarchus labrax*) cages, spreading from Japan [42](https://doi.org/10.3389/fimmu.2023.1254677). 
+    - **Europe:** The first European cases affected European sea bass (*Dicentrarchus labrax*) farms on the French Mediterranean coast; later cases were diagnosed in Italy, Greece and Turkey [42](https://doi.org/10.3389/fimmu.2023.1254677).
         - **2009–2010 Spain**: Three outbreaks in wedge sole at 20.5°C; *T. maritimum* isolated from ulcers [3](https://doi.org/10.3389/fcimb.2022.1068000) 
-        - **Italy/Greece/Turkey (2000s–2010s)**: Sea bass farms affected, raising aquaculture concerns [42](https://doi.org/10.3389/fimmu.2023.1254677).​
 
-- **Lessons Learned:** The importance of a supported early life then early detection, robust biosecurity, and coordinated response efforts in controlling Tenacibaculosis outbreaks [3](https://doi.org/10.3389/fcimb.2022.1068000)[12](https://doi.org/10.3354/dao071255).
+- **Lessons Learned:** Outbreaks are driven mainly by environmental conditions and stressors rather than by moving infected stock, so prevention relies on good husbandry: avoiding overcrowding, reducing stress and handling damage, and early diagnosis [12](https://doi.org/10.3354/dao071255)[43](https://www.mpi.govt.nz/dmsdocument/64254/direct).
 
 ## Data Insights
 ### Disease Impact by Country
@@ -211,42 +210,42 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### Canada
 
 - **Tenacibaculosis Incidence in Canada:**
-    - Mouthrot, caused by *T. maritimum*, is a significant issue for farmed Atlantic salmon in British Columbia, and its treatment is the industry's greatest use of antimicrobials [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
-    - Diagnosed every year since 2003 in BC, with 106 farm-level diagnoses in fish health audits from 2002 to 2018 [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
-    - In Atlantic Canada, tenacibaculosis in Atlantic salmon is caused by *T. finnmarkense*, with clinical signs similar to those described in Norway [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Mouthrot, caused by *T. maritimum*, is a significant issue for farmed Atlantic salmon in British Columbia, and its treatment is the industry's greatest use of antimicrobials [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Diagnosed every year since 2003 in BC, with 106 farm-level diagnoses in fish health audits from 2002 to 2018 [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - In Atlantic Canada, tenacibaculosis in Atlantic salmon is caused by *T. finnmarkense*, with clinical signs similar to those described in Norway [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
 
 - **Geographical Spread:**
-    - Mouthrot has been diagnosed in all BC Fish Health Surveillance Zones where audits took place, and also in farmed Chinook salmon; it has not been diagnosed in farmed coho salmon in BC [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
-    - Tenacibaculosis has also been described in wild-caught Chinook salmon held in captivity in BC [44](https://doi.org/10.1101/2023.02.17.529034)
+    - Mouthrot has been diagnosed in all BC Fish Health Surveillance Zones where audits took place, and also in farmed Chinook salmon; it has not been diagnosed in farmed coho salmon in BC [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Tenacibaculosis has also been described in wild-caught Chinook salmon held in captivity in BC [45](https://doi.org/10.1101/2023.02.17.529034)
 
 - **Economic Impact:**
     - Mouthrot typically occurs after smolts are transferred to sea and can cause up to 40% cumulative mortality in affected cages. In BC, the annual cost of outbreaks is estimated at $1.8 million, plus an estimated revenue loss of $3.8 million per year [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon)
 
 - **Treatment & Management:**
-    - Florfenicol and potentiated sulfonamides are typically used to treat mouthrot [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
-    - Research efforts focus on developing vaccines to prevent the disease [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon), [45](https://aquatechcenter.com/disease_challenge/mouth-rot/)
-    - In-feed immune boosting agents have been suggested, although none have been tested [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Florfenicol and potentiated sulfonamides are typically used to treat mouthrot [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Research efforts focus on developing vaccines to prevent the disease [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon), [46](https://aquatechcenter.com/disease_challenge/mouth-rot/)
+    - In-feed immune boosting agents have been suggested, although none have been tested [44](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
 
 #### Chile
 
 - **Tenacibaculosis Incidence in Chile:**
     - Tenacibaculosis has been on Chile's list of high-risk diseases (Lista 3, Enfermedades de Alto Riesgo) since 2018, so diagnoses in farms are under official surveillance [40](https://infosalmon.cl/adl-diagnostic-chile-entrega-conocimiento-clave-sobre-tenacibaculosis-en-la-salmonicultura/).
-    - *T. dicentrarchi* is the most virulent species and the one most often involved in outbreaks, while *T. maritimum* and *T. finnmarkense* play a minor role [40](https://infosalmon.cl/adl-diagnostic-chile-entrega-conocimiento-clave-sobre-tenacibaculosis-en-la-salmonicultura/). *T. ovolyticum*, *T. piscium* and *T. bernardetii* have also been reported in Chile [46](https://doi.org/10.1099/ijsem.0.006963).
-    - In 2025, tenacibaculosis was the second leading infectious cause of mortality in sea-farmed Atlantic salmon after SRS, accounting for 31.5% of infectious mortality. Its share rose compared with 2024 in Atlantic salmon (2.1%), rainbow trout (6.8%) and coho salmon (4.0%) [47](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
-    - *T. dicentrarchi* was the second most frequently detected pathogen in seawater farms in 2025, after piscine orthoreovirus (PRV) [47](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - *T. dicentrarchi* is the most virulent species and the one most often involved in outbreaks, while *T. maritimum* and *T. finnmarkense* play a minor role [40](https://infosalmon.cl/adl-diagnostic-chile-entrega-conocimiento-clave-sobre-tenacibaculosis-en-la-salmonicultura/). *T. ovolyticum*, *T. piscium* and *T. bernardetii* have also been reported in Chile [47](https://doi.org/10.1099/ijsem.0.006963).
+    - In 2025, tenacibaculosis was the second leading infectious cause of mortality in sea-farmed Atlantic salmon after SRS, accounting for 31.5% of infectious mortality. Its share rose compared with 2024 in Atlantic salmon (2.1%), rainbow trout (6.8%) and coho salmon (4.0%) [48](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - *T. dicentrarchi* was the second most frequently detected pathogen in seawater farms in 2025, after piscine orthoreovirus (PRV) [48](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
     - Outbreaks usually appear at two points in the sea phase: after seawater transfer and again once fish pass 1 kg. Predisposing factors include handling and transport stress, smoltification, changes in salinity and temperature, algal blooms, low oxygen and co-infection with *Piscirickettsia salmonis* [40](https://infosalmon.cl/adl-diagnostic-chile-entrega-conocimiento-clave-sobre-tenacibaculosis-en-la-salmonicultura/).
-    - A new species, *T. salmonis*, was isolated in 2018 from the gills of a diseased Atlantic salmon during a tenacibaculosis outbreak, but in an immersion challenge it did not cause significant mortality on its own [46](https://doi.org/10.1099/ijsem.0.006963).
+    - A new species, *T. salmonis*, was isolated in 2018 from the gills of a diseased Atlantic salmon during a tenacibaculosis outbreak, but in an immersion challenge it did not cause significant mortality on its own [47](https://doi.org/10.1099/ijsem.0.006963).
 
 - **Geographical Spread:**
-    - *Tenacibaculum* species have been isolated from marine salmon farms across Chilean Patagonia, from the Los Lagos Region to the Magallanes Region, almost 1,200 km from north to south [46](https://doi.org/10.1099/ijsem.0.006963).
+    - *Tenacibaculum* species have been isolated from marine salmon farms across Chilean Patagonia, from the Los Lagos Region to the Magallanes Region, almost 1,200 km from north to south [47](https://doi.org/10.1099/ijsem.0.006963).
 
 - **Economic Impact:**
-    - Chile's salmon industry is the most affected by infectious diseases among the top producing countries, with estimated revenue losses of over US$700 million a year [48](https://doi.org/10.3390/antibiotics14121177). Tenacibaculosis is the second leading infectious cause of mortality in sea-farmed Atlantic salmon, after SRS [47](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
+    - Chile's salmon industry is the most affected by infectious diseases among the top producing countries, with estimated revenue losses of over US$700 million a year [49](https://doi.org/10.3390/antibiotics14121177). Tenacibaculosis is the second leading infectious cause of mortality in sea-farmed Atlantic salmon, after SRS [48](https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf).
 
 - **Treatment & Management:**
-    - Chilean salmon farming uses large amounts of antibiotics compared with other producing countries, which raises concern about antimicrobial resistance [48](https://doi.org/10.3390/antibiotics14121177). Most of it targets SRS: in production cycles closed in 2025, 97.5% of antimicrobial use was for piscirickettsiosis, with smaller amounts for BKD and tenacibaculosis [49](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
-    - Florfenicol is the drug of choice for all bacterial diseases except tenacibaculosis, where tiamulin accounted for more than 24% of the antimicrobials used in 2025 [49](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
-    - No vaccine is currently available against *T. dicentrarchi* [39](https://doi.org/10.1111/jfd.70013). Research and industry efforts focus on vaccines, probiotics and regulatory measures such as density limits [48](https://doi.org/10.3390/antibiotics14121177).
+    - Chilean salmon farming uses large amounts of antibiotics compared with other producing countries, which raises concern about antimicrobial resistance [49](https://doi.org/10.3390/antibiotics14121177). Most of it targets SRS: in production cycles closed in 2025, 97.5% of antimicrobial use was for piscirickettsiosis, with smaller amounts for BKD and tenacibaculosis [50](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
+    - Florfenicol is the drug of choice for all bacterial diseases except tenacibaculosis, where tiamulin accounted for more than 24% of the antimicrobials used in 2025 [50](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
+    - No vaccine is currently available against *T. dicentrarchi* [39](https://doi.org/10.1111/jfd.70013). Research and industry efforts focus on vaccines, probiotics and regulatory measures such as density limits [49](https://doi.org/10.3390/antibiotics14121177).
     - Programs to reduce antibiotic use: the [Pincoy project](https://proyectopincoy.com/en/), for example, aims to reduce antibiotic use in Chilean salmon aquaculture.
 
 #### Norway
@@ -257,12 +256,12 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - A study from 2017-2020 confirmed the high diversity of *Tenacibaculum* strains (66) in Norway, with 95% of the strains isolated being previously unidentified [4](https://doi.org/10.1371/journal.pone.0259215).
     - Norwegian *T. maritimum* isolates have been associated with “crater disease” (“donut syndrome”) in lumpfish (*Cyclopterus lumpus*), a condition characterized by circular erosive skin lesions. It has been reported to be directly transmitted (horizontally) to salmon [15](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
     - In 2025, winter ulcers of any cause were recorded at 299 salmon farming sites in Norway. *Tenacibaculum* spp. were detected at 147 sites (165 in 2024), and 94 of these also had *Moritella viscosa*, so mixed infections are common [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
-    - The Tff-LDC variant of *T. finnmarkense* gv. *finnmarkense* continues to dominate among Norwegian salmon with tenacibaculosis [50](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
+    - The Tff-LDC variant of *T. finnmarkense* gv. *finnmarkense* continues to dominate among Norwegian salmon with tenacibaculosis [51](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
     - Official statistics likely underreport the true prevalence. Because tenacibaculosis and *M. viscosa* are not notifiable diseases and are easily diagnosed in the field, many cases are managed on-site without laboratory confirmation [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 - **Geographical Spread:**
     - *Tenacibaculum* spp. have been detected along the entire Norwegian coast, from Akershus in the southeast to Finnmark in the north [4](https://doi.org/10.1371/journal.pone.0259215). The north is most affected by Tenacibaculosis outbreaks, largely due to the colder water temperatures [4](https://doi.org/10.1371/journal.pone.0259215). In 2025, however, southern and central Norway appeared more affected than in previous years, when cases were spread fairly evenly along the coast [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
-    - Seawater monitoring at farms in production areas 3, 6 and 12 (2023 to 2026) showed that infection pressure from *T. finnmarkense* in the water rises at low sea temperatures, sometimes a few weeks before ulcer-related mortality increases. This suggests that qPCR screening of seawater could help farmers plan stressful operations [50](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
+    - Seawater monitoring at farms in production areas 3, 6 and 12 (2023 to 2026) showed that infection pressure from *T. finnmarkense* in the water rises at low sea temperatures, sometimes a few weeks before ulcer-related mortality increases. This suggests that qPCR screening of seawater could help farmers plan stressful operations [51](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
     - Several strains, such as *Tenacibaculum dicentrarchi*, are present within restricted areas, while others are found across different localities and hosts [15](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
 
 - **Economic Impact:**
@@ -278,19 +277,19 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### New Zealand
 
 - **Tenacibaculosis Incidence in New Zealand:**
-	- *T. maritimum* was first implicated in disease in farmed Chinook salmon (*Oncorhynchus tshawytscha*) in 2015, during investigation of summer mortality events at New Zealand King Salmon farms in the Marlborough Sounds. It was isolated from fish with skin ulcers and from apparently healthy fish [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- *T. maritimum* was first implicated in disease in farmed Chinook salmon (*Oncorhynchus tshawytscha*) in 2015, during investigation of summer mortality events at New Zealand King Salmon farms in the Marlborough Sounds. It was isolated from fish with skin ulcers and from apparently healthy fish [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 	- Experimental challenges showed that both *T. maritimum* and *T. dicentrarchi* cause disease in Chinook salmon [25](https://doi.org/10.1101/2024.03.06.583827)
 
 - **Geographical Spread:**
-	- *T. maritimum* is considered widespread in New Zealand's marine environment. It was detected in the Marlborough Sounds, Akaroa Harbour (Canterbury) and Big Glory Bay (Stewart Island) [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- *T. maritimum* is considered widespread in New Zealand's marine environment. It was detected in the Marlborough Sounds, Akaroa Harbour (Canterbury) and Big Glory Bay (Stewart Island) [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 
 - **Economic Impact:**
-	- Since the summer mortality events began in 2012, yearly cumulative mortality at New Zealand King Salmon farms has risen from about 25% to 30%. These events are multifactorial, with New Zealand rickettsia-like organism (NZ-RLO) and high water temperatures involved, and there is no evidence that *T. maritimum* is a primary pathogen [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- Since the summer mortality events began in 2012, yearly cumulative mortality at New Zealand King Salmon farms has risen from about 25% to 30%. These events are multifactorial, with New Zealand rickettsia-like organism (NZ-RLO) and high water temperatures involved, and there is no evidence that *T. maritimum* is a primary pathogen [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 
 - **Treatment & Management:**
-	- Since late 2022, New Zealand King Salmon vaccinates all fish going to sea with a bivalent autogenous vaccine against NZ-RLO1 and *T. maritimum* [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- Other practices include moving operations to cooler-water sites, reducing stocking densities and handling stress, and fallowing sites for at least 30 days [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- MPI movement controls in the Marlborough Sounds (in place since 2016) target NZ-RLO; no biosecurity measures are specifically in place for *T. maritimum* [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- Since late 2022, New Zealand King Salmon vaccinates all fish going to sea with a bivalent autogenous vaccine against NZ-RLO1 and *T. maritimum* [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- Other practices include moving operations to cooler-water sites, reducing stocking densities and handling stress, and fallowing sites for at least 30 days [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- MPI movement controls in the Marlborough Sounds (in place since 2016) target NZ-RLO; no biosecurity measures are specifically in place for *T. maritimum* [43](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 
 #### Europe
 - **Tenacibaculosis Incidence in Europe:**
@@ -357,7 +356,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-05-03
+**Last Modified:** 2026-11-17
 
 **Tags:** #Tenacibaculosis, #Tenacibaculummaritimum, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaBass, #SeaBream, #Norway, #Chile, #Canada, #BacterialDiseases, #Bacteria, #WinterWounds 
 
@@ -454,23 +453,23 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [42] Ferreira, I. A., Peixoto, D., Losada, A. P., Quiroga, M. I., do Vale, A., & Costas, B. (2023). Early innate immune responses in European sea bass (*Dicentrarchus labrax* L.) following *Tenacibaculum maritimum* infection. *Frontiers in Immunology*, *14*, 1254677. https://doi.org/10.3389/fimmu.2023.1254677
 
-[43] Wade, J., & Weber, L. (2020). *Characterization of* Tenacibaculum maritimum *and mouthrot to inform pathogen transfer risk assessments in British Columbia* (DFO Canadian Science Advisory Secretariat Research Document 2020/061). Fisheries and Oceans Canada. https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf
+[43] Ministry for Primary Industries. (2023). *Technical advice on: The risk of New Zealand rickettsia-like organism (NZ-RLO) and* Tenacibaculum maritimum *spread to the aquaculture industry and the environment*. https://www.mpi.govt.nz/dmsdocument/64254/direct
 
-[44] Di Cicco, E., Zinn, K. R., Johnston, S. D., Kaukinen, K. H., Li, S., Archambault, J. F., ... Miller, K. M. (2023). Tenacibaculosis in wild-caught, captive Chinook salmon (*Oncorhynchus tshawytscha*) in British Columbia, Canada [Preprint]. *bioRxiv*. https://doi.org/10.1101/2023.02.17.529034
+[44] Wade, J., & Weber, L. (2020). *Characterization of* Tenacibaculum maritimum *and mouthrot to inform pathogen transfer risk assessments in British Columbia* (DFO Canadian Science Advisory Secretariat Research Document 2020/061). Fisheries and Oceans Canada. https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf
 
-[45] Onda. (n.d.). *Mouth rot*. CAT-Center for Aquaculture Technologies. https://aquatechcenter.com/disease_challenge/mouth-rot/
+[45] Di Cicco, E., Zinn, K. R., Johnston, S. D., Kaukinen, K. H., Li, S., Archambault, J. F., ... Miller, K. M. (2023). Tenacibaculosis in wild-caught, captive Chinook salmon (*Oncorhynchus tshawytscha*) in British Columbia, Canada [Preprint]. *bioRxiv*. https://doi.org/10.1101/2023.02.17.529034
 
-[46] Avendaño-Herrera, R., Irgang, R., & Lopez, P. (2025). *Tenacibaculum salmonis* sp. nov., isolated from Atlantic salmon (*Salmo salar* L.) fish farmed in Chile. *International Journal of Systematic and Evolutionary Microbiology*, *75*(11), 006963. https://doi.org/10.1099/ijsem.0.006963
+[46] Onda. (n.d.). *Mouth rot*. CAT-Center for Aquaculture Technologies. https://aquatechcenter.com/disease_challenge/mouth-rot/
 
-[47] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026a). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
+[47] Avendaño-Herrera, R., Irgang, R., & Lopez, P. (2025). *Tenacibaculum salmonis* sp. nov., isolated from Atlantic salmon (*Salmo salar* L.) fish farmed in Chile. *International Journal of Systematic and Evolutionary Microbiology*, *75*(11), 006963. https://doi.org/10.1099/ijsem.0.006963
 
-[48] Farias, D. R., Ibarra, R., Tucca, F., Jaramillo-Torres, A., Cornejo, J., Ibieta, P., Mardones, F. O., & Avendaño-Herrera, R. (2025). Insights and lessons from Chilean salmon aquaculture on antimicrobial use. *Antibiotics*, *14*(12), 1177. https://doi.org/10.3390/antibiotics14121177
+[48] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026a). *Informe con antecedentes sanitarios de agua dulce y mar, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-Situacion-Sanitaria-Salmonicultura-Ano-2025.pdf
 
-[49] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
+[49] Farias, D. R., Ibarra, R., Tucca, F., Jaramillo-Torres, A., Cornejo, J., Ibieta, P., Mardones, F. O., & Avendaño-Herrera, R. (2025). Insights and lessons from Chilean salmon aquaculture on antimicrobial use. *Antibiotics*, *14*(12), 1177. https://doi.org/10.3390/antibiotics14121177
 
-[50] Gulla, S., Nilsen, H., Lagesen, K., Olsen, A. B., Spilsberg, B., Benedicenti, O., Mohammad, S. N., Suhel, F., Kuiper, R. V., Saghafian, M., Osnes, M. N., Pettersen-Dahl, S. A., Roalkvam, I., & Colquhoun, D. (2026). *Sårbakterier i sjøbasert lakseoppdrett: Spesialiserte inntrengere eller tilfeldig forbipasserende?* [Ulcer bacteria in sea-based salmon farming: Specialised invaders or random passers-by?] (Veterinærinstituttets rapportserie 23/2026; FHF project 901838). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett
+[50] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
 
-[51] Ministry for Primary Industries. (2023). *Technical advice on: The risk of New Zealand rickettsia-like organism (NZ-RLO) and* Tenacibaculum maritimum *spread to the aquaculture industry and the environment*. https://www.mpi.govt.nz/dmsdocument/64254/direct
+[51] Gulla, S., Nilsen, H., Lagesen, K., Olsen, A. B., Spilsberg, B., Benedicenti, O., Mohammad, S. N., Suhel, F., Kuiper, R. V., Saghafian, M., Osnes, M. N., Pettersen-Dahl, S. A., Roalkvam, I., & Colquhoun, D. (2026). *Sårbakterier i sjøbasert lakseoppdrett: Spesialiserte inntrengere eller tilfeldig forbipasserende?* [Ulcer bacteria in sea-based salmon farming: Specialised invaders or random passers-by?] (Veterinærinstituttets rapportserie 23/2026; FHF project 901838). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett
 
 [52] Çelik, P., Georgalas, V., & Çelik, İ. (2026). Epidemiological surveillance of bacterial pathogens in cultured European sea bass (*Dicentrarchus labrax*) along the Aegean coast of Türkiye. *PLOS One*, *21*(11), e0362366. https://doi.org/10.1371/journal.pone.0362366
 
