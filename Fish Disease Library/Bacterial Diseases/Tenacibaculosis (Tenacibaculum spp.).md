@@ -252,13 +252,14 @@ In Norway, antibiotics are rarely used against tenacibaculosis because of their 
     - Significant outbreaks have been reported, with *Tenacibaculum finnmarkense* being the most commonly isolated bacterium during these events, *T. dicentrarchi* noted in some post-smolt events [24](https://bora.uib.no/bora-xmlui/handle/1956/19440). 
     - A study from 2017-2020 confirmed the high diversity of *Tenacibaculum* strains (66) in Norway, with 95% of the strains isolated being previously unidentified [4](https://doi.org/10.1371/journal.pone.0259215).
     - Norwegian *T. maritimum* isolates have been associated with “crater disease” (“donut syndrome”) in lumpfish (*Cyclopterus lumpus*), a condition characterized by circular erosive skin lesions. It has been reported to be directly transmitted (horizontally) to salmon [16](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
+    - In a land-based Atlantic salmon facility in Norway (September to December 2024), *T. maritimum* was linked to mortality during an ulcerative outbreak in September, while *T. dicentrarchi* dominated in December, in fish ulcers and on the facility's structures. This is the first documented evidence of *T. maritimum* infecting Atlantic salmon in Norway. Repeated isolation from both fish and infrastructure suggests that land-based systems may allow the bacteria to persist in biofilms and reinfect fish [53](https://doi.org/10.1016/j.aqrep.2026.103507).
     - In 2025, winter ulcers of any cause were recorded at 299 salmon farming sites in Norway. *Tenacibaculum* spp. were detected at 147 sites (165 in 2024), and 94 of these also had *Moritella viscosa*, so mixed infections are common [35](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
-    - The Tff-LDC variant of *T. finnmarkense* gv. *finnmarkense* continues to dominate among Norwegian salmon with tenacibaculosis [53](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
+    - The Tff-LDC variant of *T. finnmarkense* gv. *finnmarkense* continues to dominate among Norwegian salmon with tenacibaculosis [54](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
     - Official statistics likely underreport the true prevalence. Because tenacibaculosis and *M. viscosa* are not notifiable diseases and are easily diagnosed in the field, many cases are managed on-site without laboratory confirmation [35](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 - **Geographical Spread:**
     - *Tenacibaculum* spp. have been detected along the entire Norwegian coast, from Akershus in the southeast to Finnmark in the north [4](https://doi.org/10.1371/journal.pone.0259215). The north is most affected by Tenacibaculosis outbreaks, largely due to the colder water temperatures [4](https://doi.org/10.1371/journal.pone.0259215). In 2025, however, southern and central Norway appeared more affected than in previous years, when cases were spread fairly evenly along the coast [35](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
-    - Seawater monitoring at farms in production areas 3, 6 and 12 (2023 to 2026) showed that infection pressure from *T. finnmarkense* in the water rises at low sea temperatures, sometimes a few weeks before ulcer-related mortality increases. This suggests that qPCR screening of seawater could help farmers plan stressful operations [53](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
+    - Seawater monitoring at farms in production areas 3, 6 and 12 (2023 to 2026) showed that infection pressure from *T. finnmarkense* in the water rises at low sea temperatures, sometimes a few weeks before ulcer-related mortality increases. This suggests that qPCR screening of seawater could help farmers plan stressful operations [54](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
     - Several strains, such as *Tenacibaculum dicentrarchi*, are present within restricted areas, while others are found across different localities and hosts [16](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
 
 - **Economic Impact:**
@@ -295,12 +296,12 @@ In Norway, antibiotics are rarely used against tenacibaculosis because of their 
 	- In France, *T. maritimum* accounted for only about half of the *Tenacibaculum* strains isolated from clinical cases [12](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
 
 - **Türkiye:**
-	- In a 2020 to 2025 surveillance of 748 cage-level disease outbreaks in sea bass at 19 farms on the Aegean coast, *T. maritimum* was the second most common bacterial cause (35.8% of outbreaks), after *Photobacterium damselae* subsp. *piscicida* (48.8%) [54](https://doi.org/10.1371/journal.pone.0362366)
-	- It was isolated from fish of all sizes (2.5 to 2,500 g); in larger fish, cases were linked to handling operations that caused mechanical damage [54](https://doi.org/10.1371/journal.pone.0362366)
+	- In a 2020 to 2025 surveillance of 748 cage-level disease outbreaks in sea bass at 19 farms on the Aegean coast, *T. maritimum* was the second most common bacterial cause (35.8% of outbreaks), after *Photobacterium damselae* subsp. *piscicida* (48.8%) [55](https://doi.org/10.1371/journal.pone.0362366)
+	- It was isolated from fish of all sizes (2.5 to 2,500 g); in larger fish, cases were linked to handling operations that caused mechanical damage [55](https://doi.org/10.1371/journal.pone.0362366)
 
 - **Treatment & Management:**
 	- Antibiotics in medicated feed or as bath treatments, which raises concerns on resistance [3](https://doi.org/10.3389/fcimb.2022.1068000) 
-	- Tenacibaculosis is rated as a high-impact disease in Mediterranean sea bass farming because it is difficult to treat [55](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf), and field results often do not match laboratory antibiotic susceptibility tests [12](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
+	- Tenacibaculosis is rated as a high-impact disease in Mediterranean sea bass farming because it is difficult to treat [56](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf), and field results often do not match laboratory antibiotic susceptibility tests [12](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
 
 #### Scotland
 - **Tenacibaculosis Incidence in Scotland:**
@@ -315,13 +316,13 @@ In Norway, antibiotics are rarely used against tenacibaculosis because of their 
 #### Australia (Tasmania)
 - **Tenacibaculosis Incidence in Australia (Tasmania):**
 	- The disease has affected Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), greenback flounder (*Rhombosolea tapirina*) and striped trumpeter (*Latris lineata*) [26](https://doi.org/10.3354/dao02329)
-	- In late February and early March 2023 there was a tenacibaculosis outbreak at a farm near Bruny Island [56](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- In late February and early March 2023 there was a tenacibaculosis outbreak at a farm near Bruny Island [57](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 - **Geographical Spread:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Economic Impact:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
-	- The Bruny Island outbreak was treated with 32.5 kg of in-feed oxytetracycline (OTC) [56](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- The Bruny Island outbreak was treated with 32.5 kg of in-feed oxytetracycline (OTC) [57](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 
 ## Research and References
 
@@ -470,10 +471,12 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [52] Servicio Nacional de Pesca y Acuicultura (SERNAPESCA). (2026b). *Informe sobre uso de antimicrobianos en la salmonicultura nacional, año 2025*. Subdirección de Acuicultura, Departamento de Salud Animal. https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf
 
-[53] Gulla, S., Nilsen, H., Lagesen, K., Olsen, A. B., Spilsberg, B., Benedicenti, O., Mohammad, S. N., Suhel, F., Kuiper, R. V., Saghafian, M., Osnes, M. N., Pettersen-Dahl, S. A., Roalkvam, I., & Colquhoun, D. (2026). *Sårbakterier i sjøbasert lakseoppdrett: Spesialiserte inntrengere eller tilfeldig forbipasserende?* [Ulcer bacteria in sea-based salmon farming: Specialised invaders or random passers-by?] (Veterinærinstituttets rapportserie 23/2026; FHF project 901838). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett
+[53] Lagadec, E., Pino-Martinez, E., Plarre, H., Nylund, A., & Handeland, S. O. (2026). Temporal dynamics of *Tenacibaculum maritimum* and *Tenacibaculum dicentrarchi* in a land-based Atlantic salmon (*Salmo salar*) facility in Norway. *Aquaculture Reports*, *48*, 103507. https://doi.org/10.1016/j.aqrep.2026.103507
 
-[54] Çelik, P., Georgalas, V., & Çelik, İ. (2026). Epidemiological surveillance of bacterial pathogens in cultured European sea bass (*Dicentrarchus labrax*) along the Aegean coast of Türkiye. *PLOS One*, *21*(11), e0362366. https://doi.org/10.1371/journal.pone.0362366
+[54] Gulla, S., Nilsen, H., Lagesen, K., Olsen, A. B., Spilsberg, B., Benedicenti, O., Mohammad, S. N., Suhel, F., Kuiper, R. V., Saghafian, M., Osnes, M. N., Pettersen-Dahl, S. A., Roalkvam, I., & Colquhoun, D. (2026). *Sårbakterier i sjøbasert lakseoppdrett: Spesialiserte inntrengere eller tilfeldig forbipasserende?* [Ulcer bacteria in sea-based salmon farming: Specialised invaders or random passers-by?] (Veterinærinstituttets rapportserie 23/2026; FHF project 901838). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett
 
-[55] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
+[55] Çelik, P., Georgalas, V., & Çelik, İ. (2026). Epidemiological surveillance of bacterial pathogens in cultured European sea bass (*Dicentrarchus labrax*) along the Aegean coast of Türkiye. *PLOS One*, *21*(11), e0362366. https://doi.org/10.1371/journal.pone.0362366
 
-[56] Burton, B. (2024, February 26). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
+[56] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
+
+[57] Burton, B. (2024, February 26). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
