@@ -241,7 +241,7 @@ In Norway, antibiotics are rarely used against tenacibaculosis because of their 
 
 - **Treatment & Management:**
     - Chilean salmon farming uses large amounts of antibiotics compared with other producing countries, which raises concern about antimicrobial resistance [51](https://doi.org/10.3390/antibiotics14121177). Most of it targets SRS: in production cycles closed in 2025, 97.5% of antimicrobial use was for piscirickettsiosis, with smaller amounts for BKD and tenacibaculosis [52](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
-    - Florfenicol is the drug of choice for all bacterial diseases except tenacibaculosis, where tiamulin accounted for more than 24% of the antimicrobials used in 2025 [52](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
+    - Florfenicol is the drug of choice for all bacterial diseases except tenacibaculosis, where tiamulin made up more than 24% of the antimicrobials used against it [52](https://www.sernapesca.cl/app/uploads/2026/03/Informe-de-uso-de-antimicrobianos-ano-2025.pdf).
     - No vaccine is currently available against *T. dicentrarchi* [40](https://doi.org/10.1111/jfd.70013). Research and industry efforts focus on vaccines, probiotics and regulatory measures such as density limits [51](https://doi.org/10.3390/antibiotics14121177).
     - Programs to reduce antibiotic use: the [Pincoy project](https://proyectopincoy.com/en/), for example, aims to reduce antibiotic use in Chilean salmon aquaculture.
 
