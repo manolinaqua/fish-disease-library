@@ -122,7 +122,6 @@ Disease from *T. maritimum* peaks in a 15–26°C range but varies by location/f
 	- For *T. ovolyticum* risks include bad hygiene or presence of disease on eggs, cold deep sea water, possible equipment contamination [24](https://doi.org/10.3390/pathogens9121029). 
 	- For *T. soleae*, it is primarily associated with marine aquaculture of flatfish species such as sole, turbot, and brill, particularly in southern Europe (e.g., Spain), where it has caused significant disease outbreaks and economic losses [27](https://doi.org/10.3147/jsfp.49.16).
 
-
 ### Diagnosis
 
 **Diagnostic Methods**
@@ -212,20 +211,21 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### Canada
 
 - **Tenacibaculosis Incidence in Canada:**
-    - Tenacibaculosis, particularly *T. maritimum* is a significant concern in Canada, particularly in British Columbia, where it affects both wild and farmed salmon populations [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf), [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon). Recurrent. *T. finnmarkense* and *T. dicentrarchi* also contribute to outbreaks, particularly in juveniles post-transfer to net-pens [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
-    - Diagnosed annually since 2003 across BC salmon farms, with 106 farm-level cases from 2002-2018 audits [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Mouthrot, caused by *T. maritimum*, is a significant issue for farmed Atlantic salmon in British Columbia, and its treatment is the industry's greatest use of antimicrobials [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Diagnosed every year since 2003 in BC, with 106 farm-level diagnoses in fish health audits from 2002 to 2018 [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - In Atlantic Canada, tenacibaculosis in Atlantic salmon is caused by *T. finnmarkense*, with clinical signs similar to those described in Norway [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
 
 - **Geographical Spread:**
-    - The disease is prevalent in marine net pen Atlantic salmon farms in British Columbia, with outbreaks also reported in other regions and in the wild [44](https://doi.org/10.1101/2023.02.17.529034).
+    - Mouthrot has been diagnosed in all BC Fish Health Surveillance Zones where audits took place, and also in farmed Chinook salmon; it has not been diagnosed in farmed coho salmon in BC [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Tenacibaculosis has also been described in wild-caught Chinook salmon held in captivity in BC [44](https://doi.org/10.1101/2023.02.17.529034)
 
 - **Economic Impact:**
-    - The annual cost associated with Tenacibaculosis outbreaks in British Columbia is estimated to be $1.8 million, with an additional revenue loss of $3.8 million per year [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon).
-    - A single outbreak can cost up to $500,000 CAD [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Mouthrot typically occurs after smolts are transferred to sea and can cause up to 40% cumulative mortality in affected cages. In BC, the annual cost of outbreaks is estimated at $1.8 million, plus an estimated revenue loss of $3.8 million per year [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon)
 
 - **Treatment & Management:**
-    - Management practices include the use of antibiotics during outbreaks, though there are concerns about resistance [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf) 
-    - Recent research efforts focus on developing vaccines to prevent the disease [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon), [45](https://aquatechcenter.com/disease_challenge/mouth-rot/)
-     - In-feed immune boosting agents have been suggested to help [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Florfenicol and potentiated sulfonamides are typically used to treat mouthrot [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
+    - Research efforts focus on developing vaccines to prevent the disease [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon), [45](https://aquatechcenter.com/disease_challenge/mouth-rot/)
+    - In-feed immune boosting agents have been suggested, although none have been tested [43](https://waves-vagues.dfo-mpo.gc.ca/library-bibliotheque/40952824.pdf)
 
 #### Chile
 
@@ -278,19 +278,20 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### New Zealand
 
 - **Tenacibaculosis Incidence in New Zealand:**
-	- On Chinook salmon (*Oncorhynchus tshawytscha*) farms, mainly in the Marlborough Sounds since the late 1980s, with increased relevance during summer mortality events from 2012 onward [51](https://www.mpi.govt.nz/dmsdocument/64254/direct), [25](https://doi.org/10.1101/2024.03.06.583827) 
-	
+	- *T. maritimum* was first implicated in disease in farmed Chinook salmon (*Oncorhynchus tshawytscha*) in 2015, during investigation of summer mortality events at New Zealand King Salmon farms in the Marlborough Sounds. It was isolated from fish with skin ulcers and from apparently healthy fish [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- Experimental challenges showed that both *T. maritimum* and *T. dicentrarchi* cause disease in Chinook salmon [25](https://doi.org/10.1101/2024.03.06.583827)
+
 - **Geographical Spread:**
-	- **Marlborough Sounds** main hotspot, with problems of co-infection with New Zealand Rickettsia-like Organism (NZ-RLO) and *T. maritimum* in Chinook salmon [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- **Akaroa Harbour** (Canterbury/South Island): Sporadic detections of NZ-RLO3 (lower pathogenicity), confirmed in targeted surveillance (2015–2017) [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- **Stewart Island** (Southland): No detections in surveillance sampling of farmed or wild salmon [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	
+	- *T. maritimum* is considered widespread in New Zealand's marine environment. It was detected in the Marlborough Sounds, Akaroa Harbour (Canterbury) and Big Glory Bay (Stewart Island) [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+
 - **Economic Impact:**
-	- As a "priority disease" for NZ King Salmon (the dominant producer), it prompted industry vaccination programs (2022 onward) and MPI biosecurity responses (Controlled Area Notices until 2023), indicating significant operational costs for containment, surveillance, and lost production [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	
+	- Since the summer mortality events began in 2012, yearly cumulative mortality at New Zealand King Salmon farms has risen from about 25% to 30%. These events are multifactorial, with New Zealand rickettsia-like organism (NZ-RLO) and high water temperatures involved, and there is no evidence that *T. maritimum* is a primary pathogen [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+
 - **Treatment & Management:**
-	- MPI Controlled Area Notices (until 2023) restricted stock movements between Marlborough Sounds zones (e.g., Pelorus/Queen Charlotte Sounds) and other sites like Akaroa; emphasis on water quality and temperature control (>17°C exacerbates outbreaks) [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	
+	- Since late 2022, New Zealand King Salmon vaccinates all fish going to sea with a bivalent autogenous vaccine against NZ-RLO1 and *T. maritimum* [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- Other practices include moving operations to cooler-water sites, reducing stocking densities and handling stress, and fallowing sites for at least 30 days [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- MPI movement controls in the Marlborough Sounds (in place since 2016) target NZ-RLO; no biosecurity measures are specifically in place for *T. maritimum* [51](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+
 #### Europe
 - **Tenacibaculosis Incidence in Europe:**
 	- In the Mediterranean it affects European sea bass (*Dicentrarchus labrax*), gilthead sea bream (*Sparus aurata*) and flatfish such as sole and turbot. Together with vibriosis, it is considered one of the most important diseases of sea bass, with mortalities over 30% in some marine areas and recirculation systems [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
@@ -307,25 +308,24 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 #### Scotland
 - **Tenacibaculosis Incidence in Scotland:**
-	- *T. maritimum* affects farmed Atlantic salmon, particularly in post-smolt phases, though less dominantly than in Norway or south Europe [3](https://doi.org/10.3389/fcimb.2022.1068000) 
+	- *T. maritimum* has been reported in farmed Atlantic salmon in Scotland [3](https://doi.org/10.3389/fcimb.2022.1068000)
 - **Geographical Spread:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Economic Impact:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
-
 
 #### Australia (Tasmania)
 - **Tenacibaculosis Incidence in Australia (Tasmania):**
-	- The disease has affected Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), greenback flounder (*Rhombosolea tapirina*) and striped trumpeter (*Latris lineata*) [26](https://doi.org/10.3354/dao02329) 
-	- February 2023 there was an outbreak at near Bruny Island, in combination with a Tasmanian Rickettsia-Like organism [54](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- The disease has affected Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), greenback flounder (*Rhombosolea tapirina*) and striped trumpeter (*Latris lineata*) [26](https://doi.org/10.3354/dao02329)
+	- In late February and early March 2023 there was a tenacibaculosis outbreak at a farm near Bruny Island [54](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 - **Geographical Spread:**
-	- Bruny island and Okehampton had an outbreak in February and May, 2023 [54](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Economic Impact:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
-	- 368.5 kilograms of in feed antibiotics, oxytetracycline (OTC), were used to control the 2 outbreaks [54](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- The Bruny Island outbreak was treated with 32.5 kg of in-feed oxytetracycline (OTC) [54](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 
 ## Research and References
 
@@ -345,7 +345,6 @@ Recent studies on Tenacibaculosis have focused on the virulence (how aggressive)
    Authors: Sveen, L., Småge, S. B., Krasnov, A., Høst, V., Karlsen, M., Sandtrø, A., Brudeseth, B., Klevan, L. A., Duesund, H., Karlsen, C.
    Reference: Sveen, L., et al. (2024). *Vaksinering for forbedret immunitet og beskyttelse mot tenacibaculose hos atlantisk laks (ResisT)* (Nofima rapportserie 16/2024). Nofima. https://hdl.handle.net/11250/3147482  
    [Link to study](https://hdl.handle.net/11250/3147482)
-
 
 ## Conclusion
 
@@ -477,4 +476,4 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [53] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
 
-[54] Burton, B. (2025, February). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
+[54] Burton, B. (2024, February 26). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
