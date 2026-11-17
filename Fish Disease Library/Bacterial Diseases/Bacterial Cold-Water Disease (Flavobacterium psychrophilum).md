@@ -102,7 +102,7 @@ The disease has other names. Low-temperature disease was an early North American
     - **Columnaris disease** (*F. columnare*): also produces yellowish skin lesions, eroded fins, and gill necrosis, but outbreaks have historically been associated with summer, whereas *F. psychrophilum* frequently causes disease below 10 °C [1](https://doi.org/10.1016/j.jare.2014.10.009).
     - **Bacterial gill disease** (*F. branchiophilum*): damage is confined to the gills (bacterial growth over the gill surface, excess mucus, and fused lamellae), with fish otherwise appearing normal until death [1](https://doi.org/10.1016/j.jare.2014.10.009). Affected fish show increased opercular movements, gasping at the surface, and respiratory distress [27](https://doi.org/10.3390/ani11010125).
     - **Other yellow-pigmented flavobacteria:** previously uncharacterized *Flavobacterium* and *Chryseobacterium* species have caused lesions very similar to BCWD, including erosion of the adipose fin, multifocal ulcers, and exophthalmia [1](https://doi.org/10.1016/j.jare.2014.10.009). Telling them apart requires laboratory identification, and MALDI-TOF mass spectrometry has been used to differentiate *F. psychrophilum* from *F. psychrophilum*-like species [27](https://doi.org/10.3390/ani11010125).
-    - **Tenacibaculosis** ([[Tenacibaculosis (Tenacibaculum spp)]]): causes skin erosions, ulcers, and eroded fins, head, and gills [27](https://doi.org/10.3390/ani11010125). It should be considered when ulcers appear after transfer to brackish or sea water, such as in coho salmon in estuaries [10](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
+    - **Tenacibaculosis** ([[Tenacibaculosis (Tenacibaculum spp.)]]): causes skin erosions, ulcers, and eroded fins, head, and gills [27](https://doi.org/10.3390/ani11010125). It should be considered when ulcers appear after transfer to brackish or sea water, such as in coho salmon in estuaries [10](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
 - **Diseases with Overlapping Signs:**
     - **Yersiniosis** ([[Yersiniosis (enteric redmouth disease)]]): lethargy, darkening of the skin, exophthalmia, and haemorrhages in and around the mouth and throat [28](https://doi.org/10.1186/s13567-015-0238-4).
     - **Furunculosis** ([[Furunculosis (Aeromonas salmonicida)]]): lethargy, darkened skin, exophthalmia, haemorrhages at the base of the fins, enlarged spleen, and skin lesions and ulcers [27](https://doi.org/10.3390/ani11010125).
@@ -312,7 +312,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Vibriosis]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]

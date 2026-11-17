@@ -99,7 +99,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Differential Diagnosis**
 
-- **Distinguishing Vibriosis from Other Diseases:** Clinical signs of vibriosis overlap significantly with other bacterial infections, such as [[Furunculosis (Aeromonas salmonicida)]], [[Pasteurellosis]] (*Photobacterium damselae* subsp. *piscicida*), [[Tenacibaculosis (Tenacibaculum spp)]], and [[Yersiniosis (enteric redmouth disease)]]. [[Infectious Salmon Anemia (ISA)]] can give similar patterns of general haemorrhages. Definitive differentiation requires bacterial culture with biochemical or molecular characterization. The multiplex PCR approach allows simultaneous exclusion of multiple *Vibrio* species, while MALDI-TOF MS enables broad-spectrum pathogen identification from the same sample [1](https://doi.org/10.3389/fmicb.2022.904815) [4](https://doi.org/10.3390/vetsci12040327)[15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+- **Distinguishing Vibriosis from Other Diseases:** Clinical signs of vibriosis overlap significantly with other bacterial infections, such as [[Furunculosis (Aeromonas salmonicida)]], [[Pasteurellosis]] (*Photobacterium damselae* subsp. *piscicida*), [[Tenacibaculosis (Tenacibaculum spp.)]], and [[Yersiniosis (enteric redmouth disease)]]. [[Infectious Salmon Anemia (ISA)]] can give similar patterns of general haemorrhages. Definitive differentiation requires bacterial culture with biochemical or molecular characterization. The multiplex PCR approach allows simultaneous exclusion of multiple *Vibrio* species, while MALDI-TOF MS enables broad-spectrum pathogen identification from the same sample [1](https://doi.org/10.3389/fmicb.2022.904815) [4](https://doi.org/10.3390/vetsci12040327)[15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 ### Treatment and Prevention
 
 **Treatment Options**
@@ -338,7 +338,7 @@ Future research should prioritize: (a) characterization of emerging and novel *
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
 

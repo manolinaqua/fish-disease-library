@@ -310,7 +310,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Vibriosis]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]

@@ -241,7 +241,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Moritella Viscosa]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
 

@@ -86,8 +86,8 @@ tags:
 
 **Differential Diagnosis**
 
-- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, *[[Tenacibaculosis (Tenacibaculum spp)]] spp* and *Aliivibrio wodanis* [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/).
-- In contrast to [[Tenacibaculosis (Tenacibaculum spp)]], which is primarily a localized skin infection, *M. viscosa* infections can be systemic, infecting the fish's internal organs even without visible external sores [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
+- Other bacterium species can often be in the wounds such as; variants of *M. viscosa*, *[[Tenacibaculosis (Tenacibaculum spp.)]] spp* and *Aliivibrio wodanis* [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/), [5](https://www.vetinst.no/sykdom-og-agens/vintersar). These can affect the severity of the outbreak [18](https://fishfarmforum.com/distinct-bacterial-variants-make-winter-ulcer-diagnostics-ever-more-important/).
+- In contrast to [[Tenacibaculosis (Tenacibaculum spp.)]], which is primarily a localized skin infection, *M. viscosa* infections can be systemic, infecting the fish's internal organs even without visible external sores [5](https://www.vetinst.no/sykdom-og-agens/vintersar)
 
 
 ### Treatment and Prevention
@@ -237,7 +237,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Pasteurellosis]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
 

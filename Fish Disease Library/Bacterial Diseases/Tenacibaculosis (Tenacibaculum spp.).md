@@ -1,5 +1,5 @@
 ---
-title: Tenacibaculosis (Tenacibaculum spp)
+title: Tenacibaculosis (Tenacibaculum spp.)
 description: Discover Tenacibaculosis, a bacterial disease affecting Atlantic salmon, rainbow trout, and marine species in aquaculture. Learn about its symptoms, transmission methods, treatment options, and preventive measures to manage this significant threat.
 tags:
   - Tenacibaculosis

@@ -165,7 +165,7 @@ The clinical picture of atypical furunculosis varies with the host species and t
 | [[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]] | Lethargy, loss of appetite, dark skin, skin ulcers, swollen spleen | *F. psychrophilum* is included in the multiplex PCR (see Laboratory Tests) |
 | [[Bacterial Kidney Disease (Renibacterium salmoninarum)]] | Exophthalmia, skin petechiae, ascites, enlarged spleen | Granulomas (white nodules) in internal organs |
 | Winter ulcer ([[Moritella Viscosa]], see also [[Winter Wounds]]) | Skin ulcers; *M. viscosa* can also infect internal organs, even without ulcers | Mainly an autumn and winter problem, often after handling that has damaged the skin, while furunculosis outbreaks peak in summer and autumn |
-| [[Tenacibaculosis (Tenacibaculum spp)]] | Skin ulcers | Ulcers mainly on the head and fins; in Norwegian salmonids almost exclusively a skin infection |
+| [[Tenacibaculosis (Tenacibaculum spp.)]] | Skin ulcers | Ulcers mainly on the head and fins; in Norwegian salmonids almost exclusively a skin infection |
 | *Aeromonas piscicola* | Furunculosis-like disease in Chilean Atlantic salmon, with ulcerative, haemorrhagic skin lesions, congestion and haemorrhage of internal organs, and septicaemia | Motile and does not produce brown pigment; negative in *vapA* and *fstA* qPCR; 16S rRNA sequencing cannot separate it from *A. salmonicida*, so identification needs whole-genome sequencing or phylogenetic analysis |
 
 - **Atypical furunculosis in cod and cleaner fish:** In cleaner fish, atypical furunculosis is typically a chronic infection with boils, ulcers and granulomas containing bacterial microcolonies in internal organs. Several other bacteria are common causes of disease outbreaks in wrasse and lumpfish and can give similar ulcers or septicaemia. In cod, mixed infections of atypical *A. salmonicida* with *Francisella noatunensis* and/or *V. anguillarum* are relatively common, so finding one pathogen does not rule out the others [6](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf) [13](https://doi.org/10.1186/1297-9716-42-47).
@@ -176,7 +176,7 @@ The clinical picture of atypical furunculosis varies with the host species and t
 | [[Vibriosis]] (*V. anguillarum*; cleaner fish, cod) | Ulcers, fin rot, skin haemorrhages and haemorrhages in internal organs | Culture and identification of the isolate |
 | [[Pasteurellosis]] (*Phocoenobacter atlanticus* subsp. *cyclopteri*; lumpfish) | Bacterial sepsis with white-spot skin lesions, tail fin rot, ascites, and haemorrhages in the gills and at fin bases | Culture and identification of the isolate |
 | *Pseudomonas anguilliseptica* (lumpfish) | Haemorrhagic septicaemia | Culture and identification of the isolate |
-| Ulcer-associated bacteria ([[Moritella Viscosa]], [[Tenacibaculosis (Tenacibaculum spp)]]; cleaner fish) | Ulcers and tail fin rot | Culture and identification; *M. viscosa* mainly at lower sea temperatures |
+| Ulcer-associated bacteria ([[Moritella Viscosa]], [[Tenacibaculosis (Tenacibaculum spp.)]]; cleaner fish) | Ulcers and tail fin rot | Culture and identification; *M. viscosa* mainly at lower sea temperatures |
 
 ### Treatment and Prevention
 
@@ -325,7 +325,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
-[[Tenacibaculosis (Tenacibaculum spp)]]
+[[Tenacibaculosis (Tenacibaculum spp.)]]
 [[Vibriosis]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
