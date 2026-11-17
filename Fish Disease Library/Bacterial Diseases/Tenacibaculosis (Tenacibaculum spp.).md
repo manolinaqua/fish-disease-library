@@ -45,10 +45,10 @@ tags:
 ---
 ## Overview
 
-### What is Tenacibaculosis?
-Tenacibaculosis is a bacterial ulcerative disease caused by multiple species within the genus *Tenacibaculum*, affecting numerous fish species in marine aquaculture [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/). It is characterised by ulcerative and/or necrotic skin lesions, an eroded and haemorrhagic mouth, frayed fins, and tail rot. These symptoms often lead to significant economic losses and are most commonly associated with high mortality in newly transferred smolt [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). The disease was first described in Japan in the 1970s and has since been reported in many marine wild and farmed fish in Europe, Asia, North and South America and Australia [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/). Despite extensive research, there is still no complete treatment [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)[5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full)
+### What is Tenacibaculosis (*Tenacibaculum* spp.)?
+Tenacibaculosis is a bacterial ulcerative disease caused by multiple species within the genus *Tenacibaculum*, affecting numerous fish species in marine aquaculture [1](https://pmc.ncbi.nlm.nih.gov/articles/PMC4136090/). It is characterised by ulcerative and/or necrotic skin lesions, an eroded and haemorrhagic mouth, frayed fins, and tail rot. These clinical signs often lead to significant economic losses and are most commonly associated with high mortality in newly transferred smolt [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). The disease was first described in Japan in the 1970s and has since been reported in many marine wild and farmed fish in Europe, Asia, North and South America and Australia [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[4](https://pmc.ncbi.nlm.nih.gov/articles/PMC8553039/). Despite extensive research, there is still no complete treatment [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose), [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/)[5](https://www.frontiersin.org/journals/aquaculture/articles/10.3389/faquc.2024.1496943/full)
 
-## Clinical Signs of Tenacibaculosis
+## Clinical Signs of Tenacibaculosis (*Tenacibaculum* spp.)
 
 ### Common Signs
 
@@ -67,13 +67,13 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
     - **Abnormal Swimming Patterns:** Fish may swim erratically or show signs of distress due to pain from ulcers.
 
 
-**Progression of Symptoms**
+**Progression of Clinical Signs**
 
 - **Early Stages:** Small, localized lesions and mild redness around the mouth and fins.
 - **Advanced Stages:** Severe skin ulcers, extensive fin erosion, and high  mortality if left untreated. Typically, an outbreak within a single sea cage in Norway lasts approximately 14 days, characterized by one week of increasing mortality followed by a week of decline until the outbreak subsides [43](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
 - **Impact on Fish Health:** Tenacibaculosis severely compromises the skin barrier, leading to stress, reduced growth rates, and higher susceptibility to secondary infections [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9853564/)[9](https://www.int-res.com/articles/dao2006/71/d071p255.pdf).
 
-### Causes of Tenacibaculosis
+### Causes of Tenacibaculosis (*Tenacibaculum* spp.)
 
 **Etiology**
 The genus *Tenacibaculum* currently contains a total of 39 valid fish-pathogenic and environmental species [10](https://lpsn.dsmz.de/genus/tenacibaculum). *Tenacibaculum* spp are generally considered opportunistic pathogens, i.e don't normally cause disease, but can cause infection when the opportunity arises [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/). Pathogenic species include: *T. maritimum, T. soleae, T. discolor, T. dicentrarchi* and *T. finnmarkense*, *T. ovolyticum* [11](https://pubmed.ncbi.nlm.nih.gov/30291367/). It was previously named flexibacteriosis. 
@@ -127,7 +127,7 @@ Disease from *T. maritimum* peaks in a 15–26°C range but varies by location/f
 **Diagnostic Methods**
 Diagnostic methods for *Tenacibaculum* infections primarily involve culture isolation, microscopy, molecular techniques like PCR and MLSA, and proteomics such as MALDI-TOF MS [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/)
 
-- **Clinical Examination:** Observation of physical symptoms, such as skin ulcers and fin erosion.
+- **Clinical Examination:** Observation of clinical signs, such as skin ulcers and fin erosion.
 
 - **Laboratory Tests:**
     - **Bacterial Culture & microscopy**: Isolation and identification of *Tenacibaculum spp*. from skin or lesions samples on marine agar media. Colonies are typically yellow-pigmented, and microscopy reveals long, filamentous rod-shaped bacteria characteristic of the genus [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose). Species identification can be confirmed using MALDI-TOF MS or biochemical tests [21](https://pmc.ncbi.nlm.nih.gov/articles/PMC7763822/).
@@ -253,7 +253,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 - **Tenacibaculosis Incidence in Norway:**
     - Tenacibaculosis has been present in Norway since the late 1980s and leads to regular ulcerative outbreaks and high mortalities in farmed salmonids, particularly following seawater transfer. [14](https://bora.uib.no/bora-xmlui/handle/1956/19440)[4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/)
-    - Significant outbreaks have been reported, with *Tenacibaculum finnmarkense* being the most commonly isolated bacterium during these events, *T. dicentrarchi*** noted in some post-smolt events [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). 
+    - Significant outbreaks have been reported, with *Tenacibaculum finnmarkense* being the most commonly isolated bacterium during these events, *T. dicentrarchi* noted in some post-smolt events [14](https://bora.uib.no/bora-xmlui/handle/1956/19440). 
     - A study from 2017-2020 confirmed the high diversity of *Tenacibaculum* strains (66) in Norway, with 95% of the strains isolated being previously unidentified [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8553039/).
     - Norwegian *T. maritimum* isolates have been associated with “crater disease” (“donut syndrome”) in lumpfish (*Cyclopterus lumpus*), a condition characterized by circular erosive skin lesions. It has been reported to be directly transmitted (horizontally) to salmon [17](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
     - In 2024, winter ulcer disease was recorded at 336 salmon farming sites in Norway. *Tenacibaculum* spp. were identified at 159 of these locations, with 112 sites reporting mixed infections alongside *Moritella viscosa*, indicating that co-infections are common [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose)[48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024)
@@ -274,7 +274,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 #### New Zealand
 
--  **Tenacibaculosis Incidence in New Zealand
+- **Tenacibaculosis Incidence in New Zealand:**
 	- On Chinook salmon (*Oncorhynchus tshawytscha*) farms, mainly in the Marlborough Sounds since the late 1980s, with increased relevance during summer mortality events from 2012 onward [39](https://www.mpi.govt.nz/dmsdocument/64254/direct), [22] 
 	
 - **Geographical Spread:**
@@ -289,7 +289,7 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 	- MPI Controlled Area Notices (until 2023) restricted stock movements between Marlborough Sounds zones (e.g., Pelorus/Queen Charlotte Sounds) and other sites like Akaroa; emphasis on water quality and temperature control (>17°C exacerbates outbreaks) [39](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 	
 #### Europe
--  **Tenacibaculosis Incidence in Europe
+- **Tenacibaculosis Incidence in Europe:**
 	- In Spain, France, Italy, and Greece, *T. maritimum* and *T. dicentrarchi* cause outbreaks in nursery and pre-grower stages, with mortalities exceeding 30% in affected cages or RAS units  [8](http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
 	
 - **Geographical Spread:**
@@ -304,24 +304,24 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 
 
 #### Scotland
--  **Tenacibaculosis Incidence in Scotland
+- **Tenacibaculosis Incidence in Scotland:**
 	- *T. maritimum* affects farmed Atlantic salmon, particularly in post-smolt phases, though less dominantly than in Norway or south Europe  [3](https://pmc.ncbi.nlm.nih.gov/articles/PMC9853564/#s10) 
 - **Geographical Spread:**
-	- No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Economic Impact:**
-	- No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
-	- No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 
 
 #### Australia (Tasmania)
--  **Tenacibaculosis Incidence in Australia (Tasmania) 
+- **Tenacibaculosis Incidence in Australia (Tasmania):**
 	- The disease has affected Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), greenback flounder (*Rhombosolea tapirina*) and striped trumpeter (*Latris lineata*) [23](https://pubmed.ncbi.nlm.nih.gov/21387991/) 
 	- February 2023 there was an outbreak at near Bruny Island, in combination with a Tasmanian Rickettsia-Like organism [42](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/?sfnsn=wa&sfnsn=mo)
 - **Geographical Spread:**
 	- Bruny island and Okehampton had an outbreak in February and May, 2023  [42](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/?sfnsn=wa&sfnsn=mo)
 - **Economic Impact:**
-	-  No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library)
+	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
 	- 368.5 kilograms of in feed antibiotics, oxytetracycline (OTC), were used to control the 2 outbreaks [42](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/?sfnsn=wa&sfnsn=mo)
 
