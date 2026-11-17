@@ -1,19 +1,46 @@
 ---
 title: Tenacibaculosis (Tenacibaculum spp.)
-description: Discover Tenacibaculosis, a bacterial disease affecting Atlantic salmon, rainbow trout, and marine species in aquaculture. Learn about its symptoms, transmission methods, treatment options, and preventive measures to manage this significant threat.
+type: disease
+aliases:
+  - Tenacibaculosis
+  - Tenacibaculose
+  - Mouthrot
+  - Yellow Mouth Disease
+  - Marine Flexibacteriosis
+  - Flexibacteriosis
+  - Eroded Mouth Syndrome
+  - Black Patch Necrosis
+pathogen: Tenacibaculum spp.
+category: Bacterial
+description: Learn about Tenacibaculosis, an ulcerative skin, mouth and fin disease caused by Tenacibaculum spp. in farmed Atlantic salmon, rainbow trout and other marine fish worldwide. Discover clinical signs, causes, diagnosis, treatment options and prevention strategies.
 tags:
   - Tenacibaculosis
+  - Mouthrot
   - BacterialDiseases
   - Bacteria
+  - Tenacibaculum
+  - TenacibaculumMaritimum
+  - TenacibaculumFinnmarkense
+  - TenacibaculumDicentrarchi
   - Salmonids
   - Salmon
   - AtlanticSalmon
+  - CohoSalmon
+  - ChinookSalmon
   - Trout
   - RainbowTrout
   - SeaBass
   - SeaBream
-  - Norway
+  - Turbot
+  - Sole
+  - Lumpsucker
+  - Canada
   - Chile
+  - Norway
+  - NewZealand
+  - Scotland
+  - Tasmania
+  - Mediterranean
   - WinterWounds
 ---
 ## Overview
