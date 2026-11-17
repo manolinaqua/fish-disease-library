@@ -138,7 +138,7 @@ Diagnostic methods for *Tenacibaculum* infections primarily involve culture isol
 **Differential Diagnosis**
 
 - **Distinguishing Tenacibaculosis from Other Diseases:** *Tenacibaculum* spp. can often be in the wounds with other bacteria such as [[Moritella Viscosa|*Moritella viscosa*]], *Aliivibrio wodanis* and different *Vibrio* species.[31](https://www.vetinst.no/sykdom-og-agens/vintersar)[32](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) Laboratory confirmation (e.g., PCR or culture) is required for differentiation.
-- Clinically, *Tenacibaculum* spp. infections in salmonids are typically characterized by primarily surface-associated erosive lesions affecting the skin, fins, and mouth, sometimes with a yellowish appearance due to bacterial growth. In contrast, infections caused by *Moritella viscosa* more often present as deep ulcerative lesions and may involve systemic infection [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
+- Clinically, *Tenacibaculum* spp. infections in salmonids are typically characterized by primarily surface-associated erosive lesions affecting the skin, fins, and mouth, sometimes with a yellowish appearance due to bacterial growth. In contrast, infections caused by *Moritella viscosa* more often present as deep ulcerative lesions and may involve systemic infection [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 - Infections are often with multiple strains or even *Tenacibaculum* species, which also results in poor treatment efficacy [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/) [4](https://doi.org/10.1371/journal.pone.0259215).
 
 ### Treatment and Prevention
@@ -256,15 +256,18 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
     - Significant outbreaks have been reported, with *Tenacibaculum finnmarkense* being the most commonly isolated bacterium during these events, *T. dicentrarchi* noted in some post-smolt events [18](https://bora.uib.no/bora-xmlui/handle/1956/19440). 
     - A study from 2017-2020 confirmed the high diversity of *Tenacibaculum* strains (66) in Norway, with 95% of the strains isolated being previously unidentified [4](https://doi.org/10.1371/journal.pone.0259215).
     - Norwegian *T. maritimum* isolates have been associated with “crater disease” (“donut syndrome”) in lumpfish (*Cyclopterus lumpus*), a condition characterized by circular erosive skin lesions. It has been reported to be directly transmitted (horizontally) to salmon [15](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
-    - In 2024, winter ulcer disease was recorded at 336 salmon farming sites in Norway. *Tenacibaculum* spp. were identified at 159 of these locations, with 112 sites reporting mixed infections alongside *Moritella viscosa*, indicating that co-infections are common [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose)[33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024)
-    - Official statistics likely underreport the true prevalence. Because tenacibaculosis and *M. viscosa* are not notifiable diseases and are easily diagnosed in the field, many cases are managed on-site without laboratory confirmation [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024).
+    - In 2025, winter ulcers of any cause were recorded at 299 salmon farming sites in Norway. *Tenacibaculum* spp. were detected at 147 sites (165 in 2024), and 94 of these also had *Moritella viscosa*, so mixed infections are common [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - The Tff-LDC variant of *T. finnmarkense* gv. *finnmarkense* continues to dominate among Norwegian salmon with tenacibaculosis [48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
+    - Official statistics likely underreport the true prevalence. Because tenacibaculosis and *M. viscosa* are not notifiable diseases and are easily diagnosed in the field, many cases are managed on-site without laboratory confirmation [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
 - **Geographical Spread:**
-    - *Tenacibaculum* spp. have been detected along the entire Norwegian coast, from Akershus in the southeast to Finnmark in the north [4](https://doi.org/10.1371/journal.pone.0259215). The north is most affected by Tenacibaculosis outbreaks, largely due to the colder water temperatures [4](https://doi.org/10.1371/journal.pone.0259215).
+    - *Tenacibaculum* spp. have been detected along the entire Norwegian coast, from Akershus in the southeast to Finnmark in the north [4](https://doi.org/10.1371/journal.pone.0259215). The north is most affected by Tenacibaculosis outbreaks, largely due to the colder water temperatures [4](https://doi.org/10.1371/journal.pone.0259215). In 2025, however, southern and central Norway appeared more affected than in previous years, when cases were spread fairly evenly along the coast [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - Seawater monitoring at farms in production areas 3, 6 and 12 (2023 to 2026) showed that infection pressure from *T. finnmarkense* in the water rises at low sea temperatures, sometimes a few weeks before ulcer-related mortality increases. This suggests that qPCR screening of seawater could help farmers plan stressful operations [48](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett).
     - Several strains, such as *Tenacibaculum dicentrarchi*, are present within restricted areas, while others are found across different localities and hosts [15](https://www.fhf.no/prosjekter/prosjektbasen/901433/)
 
 - **Economic Impact:**
     - Tenacibaculosis in 2020 was considered the fifth most important cause of mortality in on-growing salmon in Norway [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon).
+    - In the 2025 national health survey, *Tenacibaculum* infections were generally rated as a minor problem and ranked among the ten most important health problems only in production areas 10 to 13, in northern Norway [33](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
     - The disease causes major economic losses due to increased mortality, reduced quality at harvest, and the need for antibiotic treatments [36](https://www.cermaq.com/news/benchmark-animal-health-and-cermaq-receive-funding-from-the-research-council-of-norway-for-the-development-of-tenacibaculum-vaccines-for-salmon).
 
 - **Treatment & Management:**
@@ -275,18 +278,18 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### New Zealand
 
 - **Tenacibaculosis Incidence in New Zealand:**
-	- On Chinook salmon (*Oncorhynchus tshawytscha*) farms, mainly in the Marlborough Sounds since the late 1980s, with increased relevance during summer mortality events from 2012 onward [48](https://www.mpi.govt.nz/dmsdocument/64254/direct), [25](https://doi.org/10.1101/2024.03.06.583827) 
+	- On Chinook salmon (*Oncorhynchus tshawytscha*) farms, mainly in the Marlborough Sounds since the late 1980s, with increased relevance during summer mortality events from 2012 onward [49](https://www.mpi.govt.nz/dmsdocument/64254/direct), [25](https://doi.org/10.1101/2024.03.06.583827) 
 	
 - **Geographical Spread:**
-	- **Marlborough Sounds** main hotspot, with problems of co-infection with New Zealand Rickettsia-like Organism (NZ-RLO) and *T. maritimum* in Chinook salmon [48](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- **Akaroa Harbour** (Canterbury/South Island): Sporadic detections of NZ-RLO3 (lower pathogenicity), confirmed in targeted surveillance (2015–2017) [48](https://www.mpi.govt.nz/dmsdocument/64254/direct)
-	- **Stewart Island** (Southland): No detections in surveillance sampling of farmed or wild salmon [48](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- **Marlborough Sounds** main hotspot, with problems of co-infection with New Zealand Rickettsia-like Organism (NZ-RLO) and *T. maritimum* in Chinook salmon [49](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- **Akaroa Harbour** (Canterbury/South Island): Sporadic detections of NZ-RLO3 (lower pathogenicity), confirmed in targeted surveillance (2015–2017) [49](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- **Stewart Island** (Southland): No detections in surveillance sampling of farmed or wild salmon [49](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 	
 - **Economic Impact:**
-	- As a "priority disease" for NZ King Salmon (the dominant producer), it prompted industry vaccination programs (2022 onward) and MPI biosecurity responses (Controlled Area Notices until 2023), indicating significant operational costs for containment, surveillance, and lost production [48](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- As a "priority disease" for NZ King Salmon (the dominant producer), it prompted industry vaccination programs (2022 onward) and MPI biosecurity responses (Controlled Area Notices until 2023), indicating significant operational costs for containment, surveillance, and lost production [49](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 	
 - **Treatment & Management:**
-	- MPI Controlled Area Notices (until 2023) restricted stock movements between Marlborough Sounds zones (e.g., Pelorus/Queen Charlotte Sounds) and other sites like Akaroa; emphasis on water quality and temperature control (>17°C exacerbates outbreaks) [48](https://www.mpi.govt.nz/dmsdocument/64254/direct)
+	- MPI Controlled Area Notices (until 2023) restricted stock movements between Marlborough Sounds zones (e.g., Pelorus/Queen Charlotte Sounds) and other sites like Akaroa; emphasis on water quality and temperature control (>17°C exacerbates outbreaks) [49](https://www.mpi.govt.nz/dmsdocument/64254/direct)
 	
 #### Europe
 - **Tenacibaculosis Incidence in Europe:**
@@ -296,11 +299,11 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 	- Primarily affects sea bass, sea bream, and flatfish (turbot, sole) in Mediterranean countries like Spain, Greece, Italy, France, and Turkey and peaks in warmer months [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
 	
 - **Economic Impact:**
-	- Considered one of the most important diseases in European sea bass, in some marine areas or in recirculation systems, they severely threaten production with mortalities rising over 30%. [49](https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/)
+	- Considered one of the most important diseases in European sea bass, in some marine areas or in recirculation systems, they severely threaten production with mortalities rising over 30%. [50](https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/)
 	
 - **Treatment & Management:**
 	- Antibiotics in medicated feed or as bath treatments, which raises concerns on resistance [3](https://doi.org/10.3389/fcimb.2022.1068000) 
-	- Treatment is difficult, and results of how the bacterium responds to a drug can vary a lot from lab to field resulting in the disease having a higher overall impact [50](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf)
+	- Treatment is difficult, and results of how the bacterium responds to a drug can vary a lot from lab to field resulting in the disease having a higher overall impact [51](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf)
 
 
 #### Scotland
@@ -317,13 +320,13 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 #### Australia (Tasmania)
 - **Tenacibaculosis Incidence in Australia (Tasmania):**
 	- The disease has affected Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), greenback flounder (*Rhombosolea tapirina*) and striped trumpeter (*Latris lineata*) [26](https://doi.org/10.3354/dao02329) 
-	- February 2023 there was an outbreak at near Bruny Island, in combination with a Tasmanian Rickettsia-Like organism [51](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- February 2023 there was an outbreak at near Bruny Island, in combination with a Tasmanian Rickettsia-Like organism [52](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 - **Geographical Spread:**
-	- Bruny island and Okehampton had an outbreak in February and May, 2023 [51](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- Bruny island and Okehampton had an outbreak in February and May, 2023 [52](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 - **Economic Impact:**
 	- *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 - **Treatment & Management:**
-	- 368.5 kilograms of in feed antibiotics, oxytetracycline (OTC), were used to control the 2 outbreaks [51](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
+	- 368.5 kilograms of in feed antibiotics, oxytetracycline (OTC), were used to control the 2 outbreaks [52](https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/)
 
 ## Research and References
 
@@ -433,7 +436,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [32] Nofima. (n.d.). *Verdt å vite om bakterielle sår på laks* [Worth knowing about bacterial ulcers in salmon]. https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/
 
-[33] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (2025). *Norwegian fish health report 2024*. Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024
+[33] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fiskehelserapporten 2025* [Norwegian Fish Health Report 2025] (Veterinærinstituttets rapportserie nr. 5a/2026; Chapter 8.4, Vintersår, by D. J. Colquhoun & A. B. Olsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
 
 [34] Carrilho, R., Moreira, M., Farinha, A. P., Schrama, D., Soares, F., Rodrigues, P., & Cerqueira, M. (2025). Thermal and nutritional strategies for managing *Tenacibaculum maritimum* in aquaculture: A welfare-oriented review. *Animals*, *15*(17), 2581. https://doi.org/10.3390/ani15172581
 
@@ -463,10 +466,12 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [47] Farias, D. R., Ibarra, R., Tucca, F., Jaramillo-Torres, A., Cornejo, J., Ibieta, P., Mardones, F. O., & Avendaño-Herrera, R. (2025). Insights and lessons from Chilean salmon aquaculture on antimicrobial use. *Antibiotics*, *14*(12), 1177. https://doi.org/10.3390/antibiotics14121177
 
-[48] Ministry for Primary Industries. (2023). *Technical advice on: The risk of New Zealand rickettsia-like organism (NZ-RLO) and* Tenacibaculum maritimum *spread to the aquaculture industry and the environment*. https://www.mpi.govt.nz/dmsdocument/64254/direct
+[48] Gulla, S., Nilsen, H., Lagesen, K., Olsen, A. B., Spilsberg, B., Benedicenti, O., Mohammad, S. N., Suhel, F., Kuiper, R. V., Saghafian, M., Osnes, M. N., Pettersen-Dahl, S. A., Roalkvam, I., & Colquhoun, D. (2026). *Sårbakterier i sjøbasert lakseoppdrett: Spesialiserte inntrengere eller tilfeldig forbipasserende?* [Ulcer bacteria in sea-based salmon farming: Specialised invaders or random passers-by?] (Veterinærinstituttets rapportserie 23/2026; FHF project 901838). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/sarbakterier-i-sjobasert-lakseoppdrett
 
-[49] Cidad, M., Peral, I., Ramos, S., Basurco, B., López-Francos, A., Muniesa, A., ... Komen, H. (2018). *Assessment of Mediterranean aquaculture sustainability* (Deliverable 1.2, Horizon 2020 project MedAID, GA No. 727315). https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/
+[49] Ministry for Primary Industries. (2023). *Technical advice on: The risk of New Zealand rickettsia-like organism (NZ-RLO) and* Tenacibaculum maritimum *spread to the aquaculture industry and the environment*. https://www.mpi.govt.nz/dmsdocument/64254/direct
 
-[50] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
+[50] Cidad, M., Peral, I., Ramos, S., Basurco, B., López-Francos, A., Muniesa, A., ... Komen, H. (2018). *Assessment of Mediterranean aquaculture sustainability* (Deliverable 1.2, Horizon 2020 project MedAID, GA No. 727315). https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/
 
-[51] Burton, B. (2025, February). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
+[51] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
+
+[52] Burton, B. (2025, February). *Report reveals high levels of antibiotic in wild fish at Tasmanian salmon farm*. Tasmanian Inquirer. https://tasmanianinquirer.com.au/news/report-reveals-high-levels-of-antibiotic-in-wild-fish-at-tasmanian-salmon-farm/
