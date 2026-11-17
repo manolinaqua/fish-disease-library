@@ -41,6 +41,7 @@ tags:
   - Scotland
   - Tasmania
   - Mediterranean
+  - Turkey
   - WinterWounds
 ---
 ## Overview
@@ -292,18 +293,17 @@ In Norway, Tenacibaculosis is generally managed through prevention (handling, sm
 	
 #### Europe
 - **Tenacibaculosis Incidence in Europe:**
-	- In Spain, France, Italy, and Greece, *T. maritimum* and *T. dicentrarchi* cause outbreaks in nursery and pre-grower stages, with mortalities exceeding 30% in affected cages or RAS units [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
-	
-- **Geographical Spread:**
-	- Primarily affects sea bass, sea bream, and flatfish (turbot, sole) in Mediterranean countries like Spain, Greece, Italy, France, and Turkey and peaks in warmer months [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
-	
-- **Economic Impact:**
-	- Considered one of the most important diseases in European sea bass, in some marine areas or in recirculation systems, they severely threaten production with mortalities rising over 30%. [52](https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/)
-	
+	- In the Mediterranean it affects European sea bass (*Dicentrarchus labrax*), gilthead sea bream (*Sparus aurata*) and flatfish such as sole and turbot. Together with vibriosis, it is considered one of the most important diseases of sea bass, with mortalities over 30% in some marine areas and recirculation systems [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
+	- Outbreaks mainly affect fish from the nursery phase to pre-growing (up to 80 to 100 g), and prevalence and severity increase above 15°C [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
+	- In France, *T. maritimum* accounted for only about half of the *Tenacibaculum* strains isolated from clinical cases [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
+
+- **Türkiye:**
+	- In a 2020 to 2025 surveillance of 748 cage-level disease outbreaks in sea bass at 19 farms on the Aegean coast, *T. maritimum* was the second most common bacterial cause (35.8% of outbreaks), after *Photobacterium damselae* subsp. *piscicida* (48.8%) [52](https://doi.org/10.1371/journal.pone.0362366)
+	- It was isolated from fish of all sizes (2.5 to 2,500 g); in larger fish, cases were linked to handling operations that caused mechanical damage [52](https://doi.org/10.1371/journal.pone.0362366)
+
 - **Treatment & Management:**
 	- Antibiotics in medicated feed or as bath treatments, which raises concerns on resistance [3](https://doi.org/10.3389/fcimb.2022.1068000) 
-	- Treatment is difficult, and results of how the bacterium responds to a drug can vary a lot from lab to field resulting in the disease having a higher overall impact [53](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf)
-
+	- Tenacibaculosis is rated as a high-impact disease in Mediterranean sea bass farming because it is difficult to treat [53](https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf), and field results often do not match laboratory antibiotic susceptibility tests [11](https://web.archive.org/web/20251212000320/http://www.medaid-h2020.eu/index.php/2019/02/05/tenacibaculosis/)
 
 #### Scotland
 - **Tenacibaculosis Incidence in Scotland:**
@@ -473,7 +473,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [51] Ministry for Primary Industries. (2023). *Technical advice on: The risk of New Zealand rickettsia-like organism (NZ-RLO) and* Tenacibaculum maritimum *spread to the aquaculture industry and the environment*. https://www.mpi.govt.nz/dmsdocument/64254/direct
 
-[52] Cidad, M., Peral, I., Ramos, S., Basurco, B., López-Francos, A., Muniesa, A., ... Komen, H. (2018). *Assessment of Mediterranean aquaculture sustainability* (Deliverable 1.2, Horizon 2020 project MedAID, GA No. 727315). https://web.archive.org/web/20260610004034/http://www.medaid-h2020.eu/index.php/2019/01/09/deliverable-d1-2/
+[52] Çelik, P., Georgalas, V., & Çelik, İ. (2026). Epidemiological surveillance of bacterial pathogens in cultured European sea bass (*Dicentrarchus labrax*) along the Aegean coast of Türkiye. *PLOS One*, *21*(11), e0362366. https://doi.org/10.1371/journal.pone.0362366
 
 [53] Vendramin, N., Zrnčić, S., Padrós, F., Oraić, D., Le Breton, A., Zarza, C., & Olesen, N. J. (2016). Fish health in Mediterranean aquaculture, past mistakes and future challenges. *Bulletin of the European Association of Fish Pathologists*, *36*(1), 38–45. https://backend.orbit.dtu.dk/ws/files/140640404/801957.Zrncic_workshop_report.pdf
 
