@@ -23,11 +23,29 @@ tags:
   - SeaBream
   - Salmon
   - AtlanticSalmon
+  - RainbowTrout
+  - AtlanticCod
+  - Turbot
+  - Lumpsucker
+  - Wrasse
+  - Tilapia
   - Mediterranean
   - Norway
   - Greece
+  - Spain
+  - Italy
+  - Turkey
+  - Canada
   - Africa
+  - Egypt
+  - SouthAfrica
+  - Nigeria
+  - Tunisia
   - Asia
+  - China
+  - Bangladesh
+  - India
+  - Thailand
   - LMICs
 ---
 
@@ -106,7 +124,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     - **PCR-Based Methods:** Molecular identification using species-specific target genes encoding virulence factors (toxR, toxS, haemolysin, collagenase, or genes from pathogenicity islands) offers superior species-level discrimination. A TaqMan probe-based multiplex real-time PCR assay has been validated for the simultaneous detection of *V. anguillarum*, *V. alginolyticus*, *V. harveyi*, and *V. scophthalmi* in a single reaction, with 100× greater sensitivity than conventional PCR and results within one hour [4](https://doi.org/10.3390/vetsci12040327). Real-time qPCR targeting the *groEL* gene effectively detects and quantifies *V. alginolyticus*, *Listonella anguillarum* (syn. *V. anguillarum*), and *V. harveyi* with detection limits as low as 48 CFU/mL [5](https://doi.org/10.3390/microorganisms10102060).
     - **Serological Methods:** Agglutination tests and ELISA targeting *Vibrio*-specific antigens (e.g., LPS) are used for serovar typing (particularly O1, O2, O3 for *V. anguillarum*) and for monitoring immune responses in vaccination trials [9](https://doi.org/10.3389/fimmu.2025.1579541).
     - **MALDI-TOF Mass Spectrometry:** MALDI-TOF MS offers rapid, cost-effective, and automated identification of *Vibrio* isolates without the need for highly trained operators. Accuracy depends critically on database completeness; combined use of the Luvibase and Bruker databases has achieved successful identification of diverse *Vibrio* species. MALDI-TOF MS is increasingly used alongside molecular methods in routine aquaculture diagnostics [1](https://doi.org/10.3389/fmicb.2022.904815).
-    - **Histopathology:** Tissue section examination reveals focal necrosis of liver, kidney, and spleen, with bacterial aggregates in affected tissues [1](https://doi.org/10.3389/fmicb.2022.904815). Immunohistochemistry can be applied to demonstrate *Vibrio* antigens _in situ_ and support species‑level diagnosis [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+    - **Histopathology:** Tissue section examination reveals focal necrosis of liver, kidney, and spleen, with bacterial aggregates in affected tissues [1](https://doi.org/10.3389/fmicb.2022.904815). Immunohistochemistry can be applied to demonstrate *Vibrio* antigens *in situ* and support species‑level diagnosis [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 
 **Differential Diagnosis**
 
@@ -119,12 +137,12 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     
     - **Antibiotics:** Oxytetracycline is historically the most widely used antibiotic in aquaculture for vibriosis, both prophylactically and therapeutically. Florfenicol is also approved for use in several major producing countries. In Mediterranean gilthead seabream farms, most *Vibrio* species remain sensitive to tetracycline, oxytetracycline, chloramphenicol, and florfenicol, though sensitivity profiles vary considerably across strains and geographic regions [1](https://doi.org/10.3389/fmicb.2022.904815). There is currently no international uniformization of antibiotic use approval, with licensing determined by each country's legislation [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Treatment Challenges:** Antibiotic resistance among *Vibrio* species is a growing and urgent concern. Resistance genes for tetracycline, quinolones, and carbapenems have been identified in *V. anguillarum* strains via genomic analysis [2](https://doi.org/10.1016/j.jgeb.2025.100522). A meta-analysis of resistance profiles across Mediterranean aquaculture facilities shows an increasing trend in multidrug resistance among *V. alginolyticus*, *V. harveyi*, *V. parahaemolyticus*, and *V. splendidus* over time. Resistance is often carried on mobile genetic elements (resistance plasmids and horizontal gene transfer), which makes it easy for resistance traits to spread between bacteria [1](https://doi.org/10.3389/fmicb.2022.904815). Antibiotic residue concentrations in seafood biomass frequently exceed maximum residue limits in major producing countries, underlining the need for improved surveillance [1](https://doi.org/10.3389/fmicb.2022.904815).
-    - **Antimicrobial resistance in LMICs:** Across low- and middle-income countries (LMICs) in Africa and Asia, antimicrobial resistance (AMR) in *Vibrio* species poses a particularly acute dual threat to aquaculture productivity and public health. Key AMR genes found across *V. parahaemolyticus*, *V. alginolyticus*, *V. vulnificus*, and *V. cholerae* isolates from fish, shellfish, and aquatic environments. Ampicillin resistance is near-universal in many surveyed regions, with resistance to tetracycline, ciprofloxacin, and trimethoprim/sulfamethoxazole also widely reported. In African nations such as Nigeria, isolates from river environments showed resistance to doxycycline (71–89%), erythromycin (86–100%), and tetracycline (86–100%). AMR is estimated to cause US$1 billion in losses annually across LMICs from *Vibrio*-related disease alone [13](https://doi.org/10.1002/vms3.70877).
+    - **Antimicrobial resistance in LMICs:** Across low- and middle-income countries (LMICs) in Africa and Asia, antimicrobial resistance (AMR) in *Vibrio* species poses a particularly acute dual threat to aquaculture productivity and public health. Key AMR genes found across *V. parahaemolyticus*, *V. alginolyticus*, *V. vulnificus*, and *V. cholerae* isolates from fish, shellfish, and aquatic environments. Ampicillin resistance is near-universal in many surveyed regions, with resistance to tetracycline, ciprofloxacin, and trimethoprim/sulfamethoxazole also widely reported. In African nations such as Nigeria, isolates from river environments showed resistance to doxycycline (71–89%), erythromycin (86–100%), and tetracycline (71–89%). AMR is estimated to cause US$1 billion in losses annually across LMICs from *Vibrio*-related disease alone [13](https://doi.org/10.1002/vms3.70877).
 - **Vaccines:**
     
     - **Commercial Vaccines:** Commercially available vibriosis vaccines include AquaVac™ Vibromax™ (Schering-Plough Animal Health Corporation, UK; for shrimp via *Artemia nauplii* bioencapsulation) and ALPHA JECT 3000 (PHARMAQ AS, Norway; intraperitoneal injection for adult fish). Commercial vaccine products offer efficacy against the most common *V. anguillarum* serotypes and have been successfully deployed in salmonid aquaculture [1](https://doi.org/10.3389/fmicb.2022.904815). In addition, multicomponent vaccines such as ALPHA JECT micro 6 (PHARMAQ AS, Norway) and AquaVac® S7 vet (MSD Animal Health, Norway) include antigens against both *Aliivibrio salmonicida* (cold‑water vibriosis) and *Vibrio anguillarum*, and are used routinely to control against these infections in Norwegian salmon farming [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
     - **Whole Cell Inactivated Vaccines:** A formalin-killed *V. harveyi* vaccine administered intraperitoneally to marine red hybrid tilapia resulted in 87% survival post-challenge, compared to 20% in unvaccinated controls. Vaccinated fish showed significantly elevated IgM antibody titers and lysozyme activity [7](https://doi.org/10.3390/vaccines8040734).
-    - **Feed-Based Vaccines:** A field study of an oral feed-based inactivated vibriosis vaccine in cage-cultured Asian seabass demonstrated significantly enhanced innate immune responses (lysozyme activity), elevated serum and mucosal IgM levels, and improved growth performance over 16 weeks. The survival rate was 71.3% in vaccinated vs. 67.7% in non-vaccinated groups under field conditions [8](https://doi.org/10.3390/vaccines11010009).
+    - **Feed-Based Vaccines:** A field study of an oral feed-based inactivated vibriosis vaccine in cage-cultured Asian seabass demonstrated significantly enhanced innate immune responses (lysozyme activity), elevated serum and mucosal IgM levels, and improved growth performance over 16 weeks. The survival rate was 71.3% in vaccinated vs. 67.7% in non-vaccinated groups under field conditions, a difference that was not statistically significant [8](https://doi.org/10.3390/vaccines11010009).
     - **Bath Immunization:** Atlantic cod bath-immunized with formalin-fixed *V. anguillarum* serotype O2a developed protective IgM-mediated immunity, providing full protection against O2a challenge and partial protection against O2b. Passive transfer of purified IgM from immunized donors protected naïve fish, confirming the protective role of antibody-mediated immunity even in species lacking classical CD4 T-cell help [9](https://doi.org/10.3389/fimmu.2025.1579541).
     - **Vaccine Implementation:** The successful implementation of vaccination programs in Norway during the late 1980s — combined with a phase-out of prophylactic antibiotic use — is regarded as a model example of how vaccination can dramatically reduce antibiotic dependence in intensive fish farming [1](https://doi.org/10.3389/fmicb.2022.904815) [10](https://doi.org/10.3390/ani14182692). These commercial vaccines are administered to smolts well before sea transfer and have provided near‑complete control of the bacterial diseases included in the vaccine; virtually all Atlantic salmon entering sea cages in Norway today are vaccinated against vibriosis [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 
@@ -183,7 +201,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 - **Vibriosis Incidence:**
     
-    - Pathogenic *Vibrio* species are widely distributed in aquatic fish environments across sub-Saharan and North Africa. In Egypt, studies identified *V. parahaemolyticus*, *V. alginolyticus*, and *V. cholerae* from fish, with virulence genes including TL, TDH, and collagenase confirmed. In South Africa, *V. parahaemolyticus* isolates from fish (n=45, June–September 2023) carried *blaTEM*, *blaOXA*, *aadA*, *sul1*, *tetA*, *tetB*, and *ermB* resistance genes, with ampicillin resistance at 88.9%, erythromycin (84.4%), and tetracycline (75.6%). In Nigeria, 315 river isolates spanning *V. parahaemolyticus*, *V. alginolyticus*, *V. vulnificus*, *V. mimicus*, *V. harveyi*, and *V. cholerae* were characterized, with *blaOXA* (27%), *ampC* (39%), *blaTEM* (11%), *tet39* (8%), *aacC2* (24%), and *aphA1* (14%) (aminoglycosides) AMR genes detected. In Tunisia, 126 fish isolates of *V. alginolyticus* and *V. parahaemolyticus* were characterized using the *toxR* gene [13](https://doi.org/10.1002/vms3.70877).
+    - Pathogenic *Vibrio* species are widely distributed in aquatic fish environments across sub-Saharan and North Africa. In Egypt, studies identified *V. parahaemolyticus*, *V. alginolyticus*, and *V. cholerae* from fish, with virulence genes including *tlh*, *tdh* and collagenase confirmed. In another Egyptian study, *V. parahaemolyticus* isolates from fish (n=45, June–September 2023) carried *blaTEM*, *blaOXA*, *aadA*, *sul1*, *tetA*, *tetB*, and *ermB* resistance genes, with ampicillin resistance at 88.9%, erythromycin (84.4%), and tetracycline (77.7%). In Nigeria, 315 river isolates spanning *V. parahaemolyticus*, *V. alginolyticus*, *V. vulnificus*, *V. mimicus*, *V. harveyi*, and *V. cholerae* were characterized, with *blaOXA* (27%), *ampC* (39%), *blaPSE* (11%), *tet39* (8%), *aacC2* (24%), and *aphA1* (14%) (aminoglycosides) AMR genes detected. In Tunisia, 126 fish isolates of *V. alginolyticus* and *V. parahaemolyticus* were characterized using the *toxR* gene [13](https://doi.org/10.1002/vms3.70877).
 - **Economic Impact:**
     
     - AMR-related vibriosis is estimated to cost LMICs approximately US$1 billion annually, with African aquaculture disproportionately affected due to limited diagnostic infrastructure, overreliance on selective culture methods, and poor antibiotic stewardship [13](https://doi.org/10.1002/vms3.70877).
@@ -195,7 +213,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 - **Vibriosis Incidence:**
     
-    - In China, 312 shrimp-derived isolates of *V. alginolyticus*, *V. parahaemolyticus*, *V. harveyi*, *V. cholerae*, and *V. campbellii* were identified, with virulence genes *chiA*, *hucR*, *vlhh*, *sero*, *flaA*, *vch*, *VAC*, and *rpsS* detected. AMR genes *strA*, *QnrV*, *sul2*, and *Int4* were identified, with streptomycin (43.8%) and *QnrV* (11.7%) as notable resistance determinants. In Bangladesh, *V. parahaemolyticus* isolates from fish and water (n=51) showed high resistance to amikacin (90.9%), cefotaxime and tetracycline (37.6–64%), with widespread multidrug resistance. In India, *V. parahaemolyticus*, *V. vulnificus*, and *V. harveyi* from fish and shrimp showed virulence genes *tdh*, *tlh*, *dlA*, *vhpA*, and *pilF*, with resistance to gentamicin (33–66%). In Thailand, *V. parahaemolyticus* isolates (n=74) from shellfish carried virulence genes *tdh*, *trh*, *vcrD1*, *vcrD2*, *vopT*, and *totR*, with cefotaxime resistance at 100% [13](https://doi.org/10.1002/vms3.70877).
+    - In China, 312 shrimp-derived isolates of *V. alginolyticus*, *V. parahaemolyticus*, *V. harveyi*, *V. cholerae*, and *V. campbellii* were identified, with virulence genes *chiA*, *hucR*, *vlhh*, *sero*, *flaA*, *vch*, *VAC*, and *rpsS* detected. AMR genes *strA*, *QnrV*, *sul2*, and *Int4* were identified, with *strA* (43.8%) and *QnrV* (2.9%) among the detected resistance genes. In Bangladesh, *V. parahaemolyticus* isolates from fish and water (n=51) showed high resistance to ampicillin (92.2%) and amikacin (50.9%), and lower resistance to cefotaxime and tetracycline (29.4%). In India, *V. parahaemolyticus*, *V. vulnificus*, and *V. harveyi* from fish and shrimp showed virulence genes *tdh*, *trh*, *chiA*, *vhpA*, and *pilF*, with resistance to gentamicin (80%), amikacin (66.7%) and tetracycline (33.3%). In Thailand, *V. parahaemolyticus* isolates (n=74) from shellfish carried virulence genes *tlh*, *tdh*, *trh*, *vcrD1*, *vcrD2*, *vopB2* and *vopT*, with low resistance (1.4–4.1%) to cefotaxime, gentamicin, tetracycline and other antibiotics [13](https://doi.org/10.1002/vms3.70877).
 - **Economic Impact:**
     
     - Southeast Asian countries demonstrated considerably higher species richness in *Vibrio* isolations compared to African nations, reflecting the greater intensity of aquaculture operations and the corresponding selection pressure for AMR traits. The concentration of AMR aquaculture effluents in river systems and coastal environments creates persistent environmental reservoirs of resistant strains that threaten both aquatic animal and human health [13](https://doi.org/10.1002/vms3.70877).
@@ -281,7 +299,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 9. **"Field Efficacy of a Feed-Based Inactivated Vaccine against Vibriosis in Cage-Cultured Asian Seabass, *Lates calcarifer*, in Malaysia"**  
     Authors: Amir-Danial, Z., Zamri-Saad, M., Amal, M. N. A., Annas, S., Mohamad, A., Jumria, S., Manchanayake, T., Arbania, A., & Ina-Salwany, M. Y.  
     Reference: Amir-Danial, Z., Zamri-Saad, M., Amal, M. N. A., Annas, S., Mohamad, A., Jumria, S., Manchanayake, T., Arbania, A., & Ina-Salwany, M. Y. (2023). Field efficacy of a feed-based inactivated vaccine against vibriosis in cage-cultured Asian seabass, *Lates calcarifer*, in Malaysia. *Vaccines*, *11*(1), 9. https://doi.org/10.3390/vaccines11010009  
-    Key findings: Oral feed-based inactivated vibriosis vaccine in cage-cultured Asian seabass significantly enhanced innate immune responses, elevated serum/mucosal IgM, and improved growth performance over 16 weeks under field conditions. Survival was 71.3% vaccinated vs. 67.7% unvaccinated.  
+    Key findings: Oral feed-based inactivated vibriosis vaccine in cage-cultured Asian seabass significantly enhanced innate immune responses, elevated serum/mucosal IgM, and improved growth performance over 16 weeks under field conditions. Survival was 71.3% vaccinated vs. 67.7% unvaccinated (not statistically significant).  
     [Link to study](https://doi.org/10.3390/vaccines11010009)
     
 10. **"Current Challenges of Vaccination in Fish Health Management"**  
@@ -342,8 +360,11 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ##### Other Bacterial Diseases
 
+[[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
 [[Cold-Water Vibriosis (Aliivibrio salmonicida)]]
+[[Francisellosis (Francisella noatunensis)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
