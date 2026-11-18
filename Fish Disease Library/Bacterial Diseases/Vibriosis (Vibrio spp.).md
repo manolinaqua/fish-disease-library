@@ -35,7 +35,7 @@ tags:
 
 ### What is Vibriosis (*Vibrio* spp.)?
 
-Vibriosis is a collective term for bacterial diseases caused by pathogenic species of the genus *Vibrio*, and in aquaculture it often also includes the closely related genus *Aliivibrio*. These are gram-negative, asporogenous rods that are ubiquitous inhabitants of marine and estuarine environments worldwide. The disease is referred to as "vibriosis" generically, with species-specific names such as *Vibrio anguillarum* infection, "red pest" or "red disease of eels," and luminescent vibriosis (for bioluminescent species). In severe form, the systemic presentation is known as haemorrhagic septicaemia [1](https://doi.org/10.3389/fmicb.2022.904815).
+Vibriosis is a collective term for bacterial diseases caused by pathogenic species of the genus *Vibrio*. These are gram-negative, asporogenous rods that are ubiquitous inhabitants of marine and estuarine environments worldwide. The disease is referred to as "vibriosis" generically, with species-specific names such as *Vibrio anguillarum* infection, "red pest" or "red disease of eels," and luminescent vibriosis (for bioluminescent species). In severe form, the systemic presentation is known as haemorrhagic septicaemia [1](https://doi.org/10.3389/fmicb.2022.904815).
 
 The most clinically significant species in marine aquaculture are *V. anguillarum*, *V. ordalii*, *V. vulnificus*, *V. alginolyticus*, *V. harveyi*, *V. parahaemolyticus*, and *Aliivibrio salmonicida* (formerly *V. salmonicida*). More than 130 recognized *Vibrio* species exist, grouped into 14 clades, including commensal, mutualistic, and pathogenic forms [1](https://doi.org/10.3389/fmicb.2022.904815). Two fish‑pathogenic bacteria from this group are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis", and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold‑water vibriosis/Hitra disease" (see [[Cold-Water Vibriosis (Aliivibrio salmonicida)]]) [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 
@@ -43,7 +43,7 @@ Vibriosis affects a broad range of commercially important marine fish species, c
 
 Vibriosis is one of the most widespread and devastating bacterial diseases in global aquaculture. In 1997, the World Bank estimated disease losses in aquaculture at US$3 billion per year, with *Vibrio* spp. playing an important role in those losses. By approximately 2017, estimates had doubled to over US$6 billion annually [1](https://doi.org/10.3389/fmicb.2022.904815).
 
-*Vibrio* infections are particularly devastating during the early, larval stages of development, where they are a common cause of high mortality rates, and outbreaks can lead to the loss of entire populations within a single aquaculture system. The ongoing rise of antibiotic resistance among *Vibrio* species, linked to both climate change and intensive aquaculture practices, has made vibriosis an increasingly urgent global challenge [1](https://doi.org/10.3389/fmicb.2022.904815) [2](https://doi.org/10.1016/j.jgeb.2025.100522).
+*Vibrio* infections are particularly devastating during the early, larval stages of development, where they are a common cause of high mortality rates, and outbreaks can lead to the loss of entire populations within a single aquaculture system. The frequency of *Vibrio*-associated disease in humans is also increasing, linked to climate change and intensive livestock production [1](https://doi.org/10.3389/fmicb.2022.904815), and fish-pathogenic strains such as *V. anguillarum* carry antibiotic resistance genes (tetracycline, quinolone and carbapenem) [2](https://doi.org/10.1016/j.jgeb.2025.100522).
 
 
 ## Clinical Signs of Vibriosis (*Vibrio* spp.)
@@ -57,7 +57,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     - **Exophthalmos:** Protruding or "pop-eye" appearance due to fluid accumulation behind the eye [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Splenomegaly:** Marked enlargement of the spleen observed at post-mortem [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Pale Kidney:** Renal discoloration indicating organ compromise [1](https://doi.org/10.3389/fmicb.2022.904815).
-    - **Skeletal Deformity (Lordosis):** Spinal curvature reported in chronically affected fish [1](https://doi.org/10.3389/fmicb.2022.904815).
+    - **Skeletal Deformity (Lordosis):** Spinal curvature [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Organ Necrosis:** Multifocal areas of cell death commonly observed in the gill, liver, spleen and kidney, where affected foci appear pale and poorly demarcated [1](https://doi.org/10.3389/fmicb.2022.904815) [16](https://pubmed.ncbi.nlm.nih.gov/30246889/). 
     - **Ascites**: Accumulation of clear or bloody fluid in the abdominal cavity, often leading to a swollen abdomen [1](https://doi.org/10.3389/fmicb.2022.904815). 
 
@@ -68,20 +68,20 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** Subtle, non-specific signs including mild reduction in feed intake, slight lethargy, and skin discoloration [16](https://pubmed.ncbi.nlm.nih.gov/30246889/). Fish may appear clinically normal while harboring significant bacterial loads. Disease onset is often linked to environmental stressors such as rising water temperature, handling, or deteriorating water quality [1](https://doi.org/10.3389/fmicb.2022.904815).
+- **Early Stages:** Subtle, non-specific signs including mild reduction in feed intake, slight lethargy, and skin discoloration [16](https://pubmed.ncbi.nlm.nih.gov/30246889/). Fish may appear clinically normal while harboring significant bacterial loads. Disease onset is often linked to stressors such as transport, sudden temperature changes, low oxygen levels and handling [1](https://doi.org/10.3389/fmicb.2022.904815).
 - **Advanced Stages:** Pronounced haemorrhagic septicaemia with extensive skin lesions, complete erosion of the tail, exophthalmic eyes, and gross internal organ pathology. Acute outbreaks can cause sudden and catastrophic mortality. Regardless of host developmental stage, *Vibrio* infections may occur suddenly and can lead to the loss of the entire population reared in a given system [1](https://doi.org/10.3389/fmicb.2022.904815).
-- **Impact on Fish Health:** Vibriosis severely compromises immune function and overall vitality. Mortality rates vary widely depending on the causative species, water temperature, and host susceptibility. *V. harveyi* was shown to be prevalent and causing disease year-round across multiple fish species and geographic regions in long-term surveillance [3](https://doi.org/10.3390/microorganisms11051197).
+- **Impact on Fish Health:** Vibriosis severely compromises immune function and overall vitality. Mortality rates vary widely depending on the causative species, water temperature, and host susceptibility. In a long-term survey of Greek marine farms, *V. harveyi* was the most prevalent species and was isolated throughout the year from all hosts [3](https://doi.org/10.3390/microorganisms11051197).
 
 
 ### Causes of Vibriosis (*Vibrio* spp.)
 
 **Etiology**
 
-- **Causative Agent:** *Vibrio* spp. are Gram-negative rod-shaped and motile via one or more polar flagella. They are mesophilic, with facultative fermentative metabolism. With the exception of *V. cholerae* and *V. mimicus*, *Vibrio* species are halophilic, commonly occurring at 30–35 ppt salinity, though their ability to thrive in estuarine environments is well documented [1](https://doi.org/10.3389/fmicb.2022.904815). 
+- **Causative Agent:** *Vibrio* spp. are Gram-negative rods, motile usually by means of a single polar flagellum. They are mesophilic, with facultative fermentative metabolism. With the exception of *V. cholerae* and *V. mimicus*, *Vibrio* species are halophilic, commonly occurring at 30–35 ppt salinity, though their ability to thrive in estuarine environments is well documented [1](https://doi.org/10.3389/fmicb.2022.904815). 
  - *Aliivibrio salmonicida* (formerly *V. salmonicida*), the cause of cold-water vibriosis in salmonids, is covered in [[Cold-Water Vibriosis (Aliivibrio salmonicida)]].
  - *V. anguillarum* is one of the best-characterized fish pathogens, and is highly adaptable and occurs in several serotypes but O1, O2, and O3 are the serotypes most consistently associated with fish vibriosis [2](https://doi.org/10.1016/j.jgeb.2025.100522).
     
-- **Key Virulence Factors:** Pathogenic *Vibrio* spp. produce a diverse arsenal of virulence factors including enterotoxins, haemolysins, cytotoxins, proteases, lipases, phospholipases, siderophores, and adhesive factors/haemagglutinins that allow them to adhere to fish epithelial cells, breach mucosal barriers, and colonize internal organs. *V. anguillarum* additionally encodes Type VI Secretion System (T6SS) components (hcp-2, vipB/mglB) and RTX toxins (rtxC). The small RNA VaRyhB plays a critical role in regulating iron homeostasis and siderophore biosynthesis, and deletion of this regulatory RNA results in reduced pathogenicity, demonstrating its importance in establishing infection [4](https://doi.org/10.3390/vetsci12040327) [6](https://doi.org/10.3389/fcimb.2024.1531176).
+- **Key Virulence Factors:** Pathogenic *Vibrio* spp. produce a diverse arsenal of virulence factors including enterotoxins, haemolysins, cytotoxins, proteases, lipases, phospholipases, siderophores, and adhesive factors/haemagglutinins that allow them to adhere to fish epithelial cells, breach mucosal barriers, and colonize internal organs [1](https://doi.org/10.3389/fmicb.2022.904815). *V. anguillarum* additionally encodes Type VI Secretion System (T6SS) components (hcp-2, vipB/mglB) and RTX toxins (rtxC) [2](https://doi.org/10.1016/j.jgeb.2025.100522). The small RNA VaRyhB plays a critical role in regulating iron homeostasis and siderophore biosynthesis, and deletion of this regulatory RNA results in reduced pathogenicity, demonstrating its importance in establishing infection [6](https://doi.org/10.3389/fcimb.2024.1531176).
     
 - **Transmission Methods:**
     
@@ -91,7 +91,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Risk Factors**
 
-- **Environmental Factors:** Temperature is the main environmental driver of fish vibriosis, but its effect is species-specific. Many *Vibrio* spp. proliferate and cause more outbreaks during warmer spring and summer conditions, and field studies often identify temperature-seasonality as the strongest epidemiologic risk factor [1](https://doi.org/10.3389/fmicb.2022.904815). However, *V. anguillarum* can also cause disease in cold water aquaculture, and *A. salmonicida* causes cold-water vibriosis where disease usually develops when seawater is below 12°C ([[Cold-Water Vibriosis (Aliivibrio salmonicida)]]) [17](https://journals.asm.org/doi/10.1128/aem.01239-14). Salinity in the range of 30–35 ppt and high organic loading further support pathogen growth [1](https://doi.org/10.3389/fmicb.2022.904815). Climate change is predicted to increase the frequency and geographic range of vibriosis outbreaks [1](https://doi.org/10.3389/fmicb.2022.904815).
+- **Environmental Factors:** Temperature is the main environmental driver of fish vibriosis, but its effect is species-specific. *Vibrio* species proliferate well at warm temperatures, and outbreaks are commonly more frequent in spring and summer [1](https://doi.org/10.3389/fmicb.2022.904815). However, *V. anguillarum* causes vibriosis in both warm and cold waters [1](https://doi.org/10.3389/fmicb.2022.904815), and *A. salmonicida* causes cold-water vibriosis at low seawater temperatures (see [[Cold-Water Vibriosis (Aliivibrio salmonicida)]]). Salinity in the range of 30–35 ppt and high organic loading further support pathogen growth [1](https://doi.org/10.3389/fmicb.2022.904815). Warming may also suppress fish immunity and increase susceptibility to vibriosis [1](https://doi.org/10.3389/fmicb.2022.904815).
 - **Farm Management Practices:** High stocking density, physical handling and crowding stress, suboptimal nutrition, poor water quality, and high organic matter loads from feed and excretions all increase host susceptibility. The use of live feed in larval rearing substantially elevates pathogen transmission risk [1](https://doi.org/10.3389/fmicb.2022.904815).
 
 ### Diagnosis
@@ -117,7 +117,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 - **Current Treatments:**
     
-    - **Antibiotics:** Oxytetracycline is historically the most widely used antibiotic in aquaculture for vibriosis, both prophylactically and therapeutically. Florfenicol is also approved for use in several major producing countries. Most *Vibrio* species, including *Aliivibrio salmonicida*, retain sensitivity to tetracycline, oxytetracycline, chloramphenicol, and florfenicol, though sensitivity profiles vary considerably across strains and geographic regions [1](https://doi.org/10.3389/fmicb.2022.904815). There is currently no international uniformization of antibiotic use approval, with licensing determined by each country's legislation [1](https://doi.org/10.3389/fmicb.2022.904815).
+    - **Antibiotics:** Oxytetracycline is historically the most widely used antibiotic in aquaculture for vibriosis, both prophylactically and therapeutically. Florfenicol is also approved for use in several major producing countries. In Mediterranean gilthead seabream farms, most *Vibrio* species remain sensitive to tetracycline, oxytetracycline, chloramphenicol, and florfenicol, though sensitivity profiles vary considerably across strains and geographic regions [1](https://doi.org/10.3389/fmicb.2022.904815). There is currently no international uniformization of antibiotic use approval, with licensing determined by each country's legislation [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Treatment Challenges:** Antibiotic resistance among *Vibrio* species is a growing and urgent concern. Resistance genes for tetracycline, quinolones, and carbapenems have been identified in *V. anguillarum* strains via genomic analysis [2](https://doi.org/10.1016/j.jgeb.2025.100522). A meta-analysis of resistance profiles across Mediterranean aquaculture facilities shows an increasing trend in multidrug resistance among *V. alginolyticus*, *V. harveyi*, *V. parahaemolyticus*, and *V. splendidus* over time. Resistance is often carried on mobile genetic elements (resistance plasmids and horizontal gene transfer), which makes it easy for resistance traits to spread between bacteria [1](https://doi.org/10.3389/fmicb.2022.904815). Antibiotic residue concentrations in seafood biomass frequently exceed maximum residue limits in major producing countries, underlining the need for improved surveillance [1](https://doi.org/10.3389/fmicb.2022.904815).
     - **Antimicrobial resistance in LMICs:** Across low- and middle-income countries (LMICs) in Africa and Asia, antimicrobial resistance (AMR) in *Vibrio* species poses a particularly acute dual threat to aquaculture productivity and public health. Key AMR genes found across *V. parahaemolyticus*, *V. alginolyticus*, *V. vulnificus*, and *V. cholerae* isolates from fish, shellfish, and aquatic environments. Ampicillin resistance is near-universal in many surveyed regions, with resistance to tetracycline, ciprofloxacin, and trimethoprim/sulfamethoxazole also widely reported. In African nations such as Nigeria, isolates from river environments showed resistance to doxycycline (71–89%), erythromycin (86–100%), and tetracycline (86–100%). AMR is estimated to cause US$1 billion in losses annually across LMICs from *Vibrio*-related disease alone [13](https://doi.org/10.1002/vms3.70877).
 - **Vaccines:**
@@ -163,18 +163,21 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 ### Disease Impact by Country
 
-#### Greece
+#### Mediterranean Region (Spain, Italy, Turkey, Greece, North Africa)
 
 - **Vibriosis Incidence:**
     
-    - Over a 13-year monitoring period, vibriosis was a persistent and widespread concern across all eight surveyed marine aquaculture regions. *Vibrio harveyi* was prevalent year-round and across all nine host species, indicating it is the dominant pathogen in the Greek marine aquaculture sector. Seasonal patterns showed elevated co-isolations with *Photobacterium damselae* subsp. *damselae* and *V. alginolyticus* during warm summer months, while spring was characterized by higher diversity of *Vibrio* spp. including *V. lentus* and *V. cyclitrophicus* [3](https://doi.org/10.3390/microorganisms11051197).
-    - Principal affected species: European seabass (*D. labrax*) and gilthead seabream (*S. aurata*) [3](https://doi.org/10.3390/microorganisms11051197).
+    - *Vibrio* species are the dominant bacterial pathogens affecting gilthead seabream and sea bass throughout the Mediterranean zone. *V. alginolyticus* was historically the most commonly isolated species, but *V. harveyi* has emerged as increasingly prevalent. Multiple outbreaks have been documented in coastal aquaculture facilities throughout Spain, Turkey, Italy, and North Africa [1](https://doi.org/10.3389/fmicb.2022.904815).
+    - The chronic degradation of Mediterranean coastal waters — including sewage discharge, industrial effluents, and agricultural runoff — is correlated with elevated prevalence of pathogenic *Vibrio* species in both farmed and wild fish populations, increasing outbreak risk [1](https://doi.org/10.3389/fmicb.2022.904815).
+    - In Greece, over a 13-year monitoring period, vibriosis was a persistent and widespread concern across all eight surveyed marine aquaculture regions. *Vibrio harveyi* was prevalent year-round and across all nine host species, indicating it is the dominant pathogen in the Greek marine aquaculture sector. Seasonal patterns showed elevated co-isolations with *Photobacterium damselae* subsp. *damselae* and *V. alginolyticus* during warm summer months, while spring was characterized by higher diversity of *Vibrio* spp. including *V. lentus* and *V. cyclitrophicus* [3](https://doi.org/10.3390/microorganisms11051197).
+    - Principal affected species in Greece: European seabass (*D. labrax*) and gilthead seabream (*S. aurata*) [3](https://doi.org/10.3390/microorganisms11051197).
 - **Economic Impact:**
     
+    - *Vibrio* infections are a major contributor to the overall disease burden estimated at US$3–6 billion annually in global aquaculture. The Mediterranean zone represents one of the most heavily impacted regions globally due to intensive seabream and seabass production [1](https://doi.org/10.3389/fmicb.2022.904815).
     - While country-specific economic loss data for Greece were not quantified in the reviewed studies, the severity and frequency of outbreaks — combined with the dominance of *V. harveyi* as the principal agent — make vibriosis a leading constraint on aquaculture productivity in the Greek sector [3](https://doi.org/10.3390/microorganisms11051197).
 - **Treatment & Management:**
     
-    - Antibiotic use follows Mediterranean patterns, with oxytetracycline and florfenicol as primary therapeutic agents. Increasing antibiotic resistance trends have been documented for *V. alginolyticus* and *V. harveyi* in Mediterranean facilities. Development and adoption of probiotics and vaccines as alternatives is ongoing [1](https://doi.org/10.3389/fmicb.2022.904815) [3](https://doi.org/10.3390/microorganisms11051197).
+    - In Greece, antibiotic use follows Mediterranean patterns, with oxytetracycline and florfenicol as primary therapeutic agents. Increasing antibiotic resistance trends have been documented for *V. alginolyticus* and *V. harveyi* in Mediterranean facilities. Development and adoption of probiotics and vaccines as alternatives is ongoing [1](https://doi.org/10.3389/fmicb.2022.904815) [3](https://doi.org/10.3390/microorganisms11051197).
 
 #### Africa (Egypt, South Africa, Nigeria, Tunisia)
 
@@ -200,22 +203,15 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
     
     - Consistent with global trends, ampicillin resistance is near-universal across Asian isolates. Resistance to ciprofloxacin, tetracycline, trimethoprim/sulfamethoxazole, and third-generation cephalosporins is widespread and increasing. The integration of advanced molecular diagnostics (multiplex PCR, chromogenic media) is essential for surveillance in resource-limited settings across the region [13](https://doi.org/10.1002/vms3.70877).
 
-#### Mediterranean Region (Spain, Italy, Turkey, North Africa)
-
-- **Vibriosis Incidence:**
-    
-    - *Vibrio* species are the dominant bacterial pathogens affecting gilthead seabream and sea bass throughout the Mediterranean zone. *V. alginolyticus* was historically the most commonly isolated species, but *V. harveyi* has emerged as increasingly prevalent. Multiple outbreaks have been documented in coastal aquaculture facilities throughout Spain, Turkey, Italy, and North Africa [1](https://doi.org/10.3389/fmicb.2022.904815).
-    - The chronic degradation of Mediterranean coastal waters — including sewage discharge, industrial effluents, and agricultural runoff — is correlated with elevated prevalence of pathogenic *Vibrio* species in both farmed and wild fish populations, increasing outbreak risk [1](https://doi.org/10.3389/fmicb.2022.904815).
-- **Economic Impact:**
-    
-    - *Vibrio* infections are a major contributor to the overall disease burden estimated at US$3–6 billion annually in global aquaculture. The Mediterranean zone represents one of the most heavily impacted regions globally due to intensive seabream and seabass production [1](https://doi.org/10.3389/fmicb.2022.904815).
-
 #### Norway
 
 - **Vibriosis Incidence:**
     
     - *Vibrio anguillarum* in Norway have been identified from numerous fish species, including Atlantic salmon, lumpfish, rainbow trout, cod and European seabass. Other *Vibrio* spp. (including *V. ordalii* and *V. splendidus*–like strains) have been reported in various marine fish [18](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose). 
     - Classical vibriosis caused by *V. anguillarum* occurs at moderate temperatures. Cold‑water vibriosis caused by *Aliivibrio salmonicida*, historically an important disease in Northern Norway, is covered in [[Cold-Water Vibriosis (Aliivibrio salmonicida)]] [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+    - In 2025, *V. anguillarum* was detected in Atlantic salmon at four farms and in rainbow trout at 14 sites. Fifteen percent of the antibacterial drugs supplied to salmon grow-out farms were used to treat classical vibriosis. *V. ordalii* was not detected by the Norwegian Veterinary Institute in 2025 [19](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - In cleaner fish, classical vibriosis occurs sporadically, with ulcers, fin rot, skin haemorrhages and internal haemorrhages. High water temperatures are often associated with disease, but outbreaks have been described in lumpfish at temperatures down to 6 °C. Serotype O1 and several O2 subtypes are the most common. In 2025, *V. anguillarum* was detected in wrasse at four sites and in lumpfish at two sites, after no detections in cleaner fish in 2024 [19](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+    - In farmed Atlantic cod, *V. anguillarum* infection can cause severe septicaemia and mortality. In 2025, vibriosis with *V. anguillarum* O2 was diagnosed at a cod site with increased corneal damage [19](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 - **Treatment & Management:**
     - From the late 1980s onwards, vaccination has become the main tool for controlling vibriosis and cold‑water vibriosis. Polyvalent vaccines are administered to salmon in the hatchery phase, well before sea transfer, and have provided very high protection against the bacterial diseases they cover. The few cases that do occur today are mostly seen in slaughter‑size fish, where immunity is likely reduced because of the long time elapsed since vaccination [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 
@@ -392,4 +388,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [17] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in *Vibrio* (*Aliivibrio*) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
 
 [18] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
+
+[19] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (2026). *Fiskehelserapporten 2025* (Veterinærinstituttets rapportserie nr. 5a/2026). Veterinærinstituttet. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
 
