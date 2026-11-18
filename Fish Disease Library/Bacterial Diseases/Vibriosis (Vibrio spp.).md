@@ -1,5 +1,16 @@
 ---
-title: Vibriosis
+title: Vibriosis (Vibrio spp.)
+type: disease
+aliases:
+  - Vibriosis
+  - Classical vibriosis
+  - Vibrio anguillarum infection
+  - Red pest
+  - Red disease of eels
+  - Luminescent vibriosis
+  - Vibriose
+pathogen: Vibrio spp.
+category: Bacterial
 description: Learn about Vibriosis, a bacterial disease caused by Vibrio species affecting farmed and wild fish worldwide. Discover symptoms, diagnosis, treatment options, and prevention strategies.
 tags:
   - Vibriosis
@@ -22,7 +33,7 @@ tags:
 
 ## Overview
 
-### What is Vibriosis?
+### What is Vibriosis (*Vibrio* spp.)?
 
 Vibriosis is a collective term for bacterial diseases caused by pathogenic species of the genus *Vibrio*, and in aquaculture it often also includes the closely related genus *Aliivibrio*. These are gram-negative, asporogenous rods that are ubiquitous inhabitants of marine and estuarine environments worldwide. The disease is referred to as "vibriosis" generically, with species-specific names such as *Vibrio anguillarum* infection, "red pest" or "red disease of eels," and luminescent vibriosis (for bioluminescent species). In severe form, the systemic presentation is known as haemorrhagic septicaemia [1](https://doi.org/10.3389/fmicb.2022.904815).
 
@@ -35,7 +46,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 *Vibrio* infections are particularly devastating during the early, larval stages of development, where they are a common cause of high mortality rates, and outbreaks can lead to the loss of entire populations within a single aquaculture system. The ongoing rise of antibiotic resistance among *Vibrio* species, linked to both climate change and intensive aquaculture practices, has made vibriosis an increasingly urgent global challenge [1](https://doi.org/10.3389/fmicb.2022.904815) [2](https://doi.org/10.1016/j.jgeb.2025.100522).
 
 
-## Clinical Signs of Vibriosis
+## Clinical Signs of Vibriosis (*Vibrio* spp.)
 
 ### Common Signs
 
@@ -62,7 +73,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 - **Impact on Fish Health:** Vibriosis severely compromises immune function and overall vitality. Mortality rates vary widely depending on the causative species, water temperature, and host susceptibility. *V. harveyi* was shown to be prevalent and causing disease year-round across multiple fish species and geographic regions in long-term surveillance [3](https://doi.org/10.3390/microorganisms11051197).
 
 
-### Causes of Vibriosis
+### Causes of Vibriosis (*Vibrio* spp.)
 
 **Etiology**
 
@@ -323,6 +334,10 @@ The critical management strategies currently available include: (1) robust molec
 
 Future research should prioritize: (a) characterization of emerging and novel *Vibrio* species (e.g., cold-adapted strains in Atlantic salmon, *V. harveyi* dominance in Mediterranean systems) to ensure vaccines and diagnostics remain current; (b) development of multivalent vaccines or broadly protective formulations that address the genetic diversity of pathogenic *Vibrio* serotypes; (c) understanding of host immune mechanisms — particularly in species with atypical adaptive immune systems such as Atlantic cod — to guide rational vaccine design; (d) genomic epidemiology studies to track AMR gene dissemination (particularly *blaTEM*, *blaOXA*, *sul1*, *tetA*, *qnrVC* families) across aquaculture systems and into human pathogen reservoirs; (e) strengthening surveillance capacity in LMICs through deployment of advanced molecular diagnostic tools accessible in resource-limited settings [13](https://doi.org/10.1002/vms3.70877); and (f) scaling of alternative control strategies (probiotics, phage therapy, plant bioactives) to field-applicable, commercially viable products. Addressing vibriosis effectively will require an integrated, "One Health" approach that connects aquatic animal health, environmental management, and human public health.
 
+### Call to Action
+
+For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
+
 ---
 
 **Last Modified:** 2026-07-18
@@ -332,6 +347,7 @@ Future research should prioritize: (a) characterization of emerging and novel *
 ##### Other Bacterial Diseases
 
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
+[[Cold-Water Vibriosis (Aliivibrio salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]

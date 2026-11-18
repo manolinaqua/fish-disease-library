@@ -160,7 +160,7 @@ The clinical picture of atypical furunculosis varies with the host species and t
 
 | Disease | Key overlapping signs | How to distinguish |
 |---|---|---|
-| [[Vibriosis]] (*Vibrio anguillarum*) | Lethargy, loss of appetite, dark skin, exophthalmia, haemorrhages at fin bases and on the skin, ulcers, septicaemia | Culture and identification of the isolate |
+| [[Vibriosis (Vibrio spp.)]] (*Vibrio anguillarum*) | Lethargy, loss of appetite, dark skin, exophthalmia, haemorrhages at fin bases and on the skin, ulcers, septicaemia | Culture and identification of the isolate |
 | [[Yersiniosis (enteric redmouth disease)]] (*Yersinia ruckeri*) | Exophthalmia, dark skin, fin haemorrhages, enlarged dark spleen, reddened intestine | Haemorrhages in and around the mouth and throat, which give the disease its name; *Y. ruckeri* is included in the multiplex PCR (see Laboratory Tests) |
 | [[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]] | Lethargy, loss of appetite, dark skin, skin ulcers, swollen spleen | *F. psychrophilum* is included in the multiplex PCR (see Laboratory Tests) |
 | [[Bacterial Kidney Disease (Renibacterium salmoninarum)]] | Exophthalmia, skin petechiae, ascites, enlarged spleen | Granulomas (white nodules) in internal organs |
@@ -173,7 +173,7 @@ The clinical picture of atypical furunculosis varies with the host species and t
 | Disease | Key overlapping signs | How to distinguish |
 |---|---|---|
 | [[Francisellosis (Francisella noatunensis)]] (cod) | White nodules (granulomas) in internal organs, especially spleen and kidney; the two diseases look very similar at necropsy | Histology: in atypical furunculosis the bacteria form colonies in the centre of the granulomas, while in francisellosis they lie inside the cells; *F. noatunensis* needs cysteine-rich culture media |
-| [[Vibriosis]] (*V. anguillarum*; cleaner fish, cod) | Ulcers, fin rot, skin haemorrhages and haemorrhages in internal organs | Culture and identification of the isolate |
+| [[Vibriosis (Vibrio spp.)]] (*V. anguillarum*; cleaner fish, cod) | Ulcers, fin rot, skin haemorrhages and haemorrhages in internal organs | Culture and identification of the isolate |
 | [[Pasteurellosis]] (*Phocoenobacter atlanticus* subsp. *cyclopteri*; lumpfish) | Bacterial sepsis with white-spot skin lesions, tail fin rot, ascites, and haemorrhages in the gills and at fin bases | Culture and identification of the isolate |
 | *Pseudomonas anguilliseptica* (lumpfish) | Haemorrhagic septicaemia | Culture and identification of the isolate |
 | Ulcer-associated bacteria ([[Moritella Viscosa]], [[Tenacibaculosis (Tenacibaculum spp.)]]; cleaner fish) | Ulcers and tail fin rot | Culture and identification; *M. viscosa* mainly at lower sea temperatures |
@@ -326,7 +326,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
 [[Tenacibaculosis (Tenacibaculum spp.)]]
-[[Vibriosis]]
+[[Vibriosis (Vibrio spp.)]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
 

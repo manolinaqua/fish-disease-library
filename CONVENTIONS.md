@@ -33,7 +33,7 @@ Winter Ulcer Disease (Moritella viscosa)
    `Infectious Salmon Anemia (ISA)` — spelling out "Infectious Pancreatic Necrosis
    Virus" adds nothing.
 3. **Multi-species aetiologies use a genus-level or dual agent.**
-   `Vibriosis (Vibrio and Aliivibrio spp.)`, `Tenacibaculosis (Tenacibaculum spp.)`,
+   `Vibriosis (Vibrio spp.)`, `Tenacibaculosis (Tenacibaculum spp.)`,
    `Sea Lice Infestation (Lepeophtheirus salmonis, Caligus spp.)`. If the chapter's own
    text says the cause is "various pathogens" (e.g. Proliferative Gill Disease), use no
    parenthetical rather than a false-precision one.

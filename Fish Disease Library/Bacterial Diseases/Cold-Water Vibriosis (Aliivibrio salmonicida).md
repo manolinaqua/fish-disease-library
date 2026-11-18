@@ -21,7 +21,7 @@ tags:
 
 ### What is Cold-Water Vibriosis (Aliivibrio salmonicida)?
 
-Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis" (see [[Vibriosis]]), and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold-water vibriosis/Hitra disease".[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis" (see [[Vibriosis (Vibrio spp.)]]), and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold-water vibriosis/Hitra disease".[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 ## Clinical Signs of Cold-Water Vibriosis (Aliivibrio salmonicida)
 
@@ -90,7 +90,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
 [[Tenacibaculosis (Tenacibaculum spp.)]]
-[[Vibriosis]]
+[[Vibriosis (Vibrio spp.)]]
 [[Winter Wounds]]
 [[Yersiniosis (enteric redmouth disease)]]
 
