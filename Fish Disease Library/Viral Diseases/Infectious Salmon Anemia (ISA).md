@@ -71,7 +71,7 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
     - In Scotland, the spread of ISA in 1998-99 was linked to vessels moving fish between sites and transporting harvest, but not to vessels delivering feed [11](https://doi.org/10.3201/eid0801.010144).
     - In Norway, ship contact networks and company affiliation were both associated with the distribution of ISA cases. Ship movements and shared equipment or personnel are potential transmission pathways, and poorly disinfected ships could carry the virus over long distances [12](https://doi.org/10.1016/j.prevetmed.2025.106667).
 - **Sea lice:** In experiments, the Chilean sea louse *Caligus rogercresseyi* transmitted ISAV to naïve Atlantic salmon, but the virus did not replicate in the louse, so it acts as a mechanical vector (see [[Caligidosis (Caligus rogercresseyi)]]) [13](https://doi.org/10.1016/j.aquaculture.2013.10.016).
-- **Vertical transmission:** There is no evidence for it. Genotyping of 32 Norwegian outbreaks (2003-2005) did not link outbreaks to smolt suppliers or broodfish origin [10](https://doi.org/10.1016/j.prevetmed.2007.12.008). In the Faroe Islands, HPR0 variants found in Icelandic and Norwegian broodfish were never detected in Faroese salmon, despite extensive imports of ova from both countries [8](https://doi.org/10.3390/v13122428).
+- **Vertical transmission:** It appears to be uncommon. Genotyping of 32 Norwegian outbreaks (2003-2005) did not link outbreaks to smolt suppliers or broodfish origin [10](https://doi.org/10.1016/j.prevetmed.2007.12.008). In the Faroe Islands, HPR0 variants found in Icelandic and Norwegian broodfish were never detected in Faroese salmon, despite extensive imports of ova from both countries [8](https://doi.org/10.3390/v13122428).
 - **Smolt farms:** HPR0 can persist in smolt farms as "house strains", with new variants occasionally introduced from the sea, probably through sea spray. Water and air intakes therefore need high biosecurity [8](https://doi.org/10.3390/v13122428).
 
 **Risk Factors**
@@ -86,7 +86,7 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 
 **Diagnostic Methods**
 
-- **Clinical suspicion:** ISAV can be present on a site for a long time before typical signs and increased mortality appear. Often only a small share of the fish is infected, and daily mortality in affected cages can be as low as 0.05 to 0.1%, so many fish may need to be tested by PCR to detect the infection [17](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Clinical suspicion:** ISAV can be present on a site for a long time before typical signs and increased mortality appear. Often only a small share of the fish is infected, and daily mortality in affected cages is correspondingly low, typically 0.05 to 0.1%, so many fish may need to be tested by PCR to detect the infection [17](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 - **Sampling:** For virulent ISAV (HPRΔ), surveillance targets fish with typical clinical signs such as anaemia and tests internal organs (kidney and heart). Screening for HPR0 requires random gill samples [3](https://doi.org/10.1177/10406387231223290). In a vaccinated Norwegian population, skin swabs detected ISAV more often (73%) than gill swabs (41%) or heart samples (25%), and swabbing moribund fish is recommended for early detection [18](https://doi.org/10.3389/faquc.2026.1885657).
 
 - **Laboratory Tests:**
@@ -110,7 +110,7 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 **Vaccination**
 
 - **Vaccines:** In Norway, salmon are vaccinated in freshwater with a multicomponent injection vaccine containing five bacterial antigens, infectious pancreatic necrosis virus and, optionally, ISA virus. About 190 million doses containing ISA virus were dispensed in 2025 [17](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
-- **Field effect:** Vaccination helps reduce disease and virus shedding, but does not prevent outbreaks: in 2025 the fish were vaccinated at 7 of the 18 Norwegian sites with confirmed ISA. In a survey of Norwegian fish health staff, 4% rated the ISA vaccine effect as poor, 32% as moderate and 25% as good [17](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). In a vaccinated population followed through a full production cycle, cumulative mortality was 10% and mostly not caused by ISA, but ISAV-HPRΔ spread from four to all seven cages [18](https://doi.org/10.3389/faquc.2026.1885657).
+- **Field effect:** Vaccination helps reduce disease and virus shedding, but does not prevent outbreaks: in 2025 the fish were vaccinated at 7 of the 18 Norwegian sites with confirmed ISA. Among Norwegian fish health staff who rated the ISA vaccine in a survey, 7% found the effect poor, 52% moderate and 40% good [17](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). In a vaccinated population followed through a full production cycle, cumulative mortality was 10% and mostly not caused by ISA, but ISAV-HPRΔ spread from four to all seven cages [18](https://doi.org/10.3389/faquc.2026.1885657).
 
 **Preventive Measures**
 
