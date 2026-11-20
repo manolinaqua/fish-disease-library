@@ -197,17 +197,53 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 
 ### Latest Research Findings
 
-Recent studies on Infectious Salmon Anemia (ISA) in salmonids have focused on various aspects of the disease, including its prevention, control, and economic impact. Here are some notable recent research findings:
+#### Epidemiology and Control
 
-1. Chase‑Topping, M., Pooley, C., Moghadam, H. K., Hillestad, B., Lillehammer, M., Sveen, L., & Wilson, A. (2021, January 9). Impact of vaccination and selective breeding on the transmission of Infectious salmon anaemia virus. Aquaculture, 535, Article 736365. https://doi.org/10.1016/j.aquaculture.2021.736365
-2. Mikalsen, A. B., Sindre, H., Torgersen, J., & Rimstad, E. (2005). Protective effects of a DNA vaccine expressing the infectious salmon anaemia virus hemagglutinin‑esterase in Atlantic salmon. *Vaccine, 23*(41), 4895–4905. https://doi.org/10.1016/j.vaccine.2005.05.025
-3. Wolf, K. (1976). Prevention and control of viral diseases of salmonids. *Journal of the Fisheries Research Board of Canada, 33*(4), 1059–1066. https://pubs.usgs.gov/publication/70162252
+1. **"Infectious salmon anemia in vaccinated Atlantic salmon: a field case study"**  
+    Authors: Patel, S. J., Dale, O. B., Fjellsøy, K. R., Bekkeli, K. E., Breck, O., Bendiktsen, R., Bornø, G., Brun, E., Jørgensen, L. G., Hellberg, H., Larsen, S., Kvalvik, H., & Moldal, T.  
+    Reference: Patel, S. J., Dale, O. B., Fjellsøy, K. R., Bekkeli, K. E., Breck, O., Bendiktsen, R., Bornø, G., Brun, E., Jørgensen, L. G., Hellberg, H., Larsen, S., Kvalvik, H., & Moldal, T. (2026). Infectious salmon anemia in vaccinated Atlantic salmon: A field case study. *Frontiers in Aquaculture*, *5*, 1885657. https://doi.org/10.3389/faquc.2026.1885657  
+    Key findings: A vaccinated Norwegian population with confirmed ISA was kept in production under strict monitoring. Mortality stayed at 10% and was mostly unrelated to ISA, but ISAV-HPRΔ spread to all seven cages. Skin swabs were the most sensitive sample for surveillance.  
+    [Link to study](https://doi.org/10.3389/faquc.2026.1885657)
 
-These studies represent advancements in understanding the prevention, control, and economic impact of ISA in various regions, particularly in Norway and other countries with significant salmon farming industries.
+2. **"Network of ship movements and its potential in spreading pathogenic infectious salmon anemia virus among Norwegian fish farms"**  
+    Authors: Duault, H., Bailly, M., Zhao, M., Hill, S. C., & Fournié, G.  
+    Reference: Duault, H., Bailly, M., Zhao, M., Hill, S. C., & Fournié, G. (2025). Network of ship movements and its potential in spreading pathogenic infectious salmon anemia virus among Norwegian fish farms. *Preventive Veterinary Medicine*, *245*, 106667. https://doi.org/10.1016/j.prevetmed.2025.106667  
+    Key findings: Ship contact networks connected at least 72% of Norwegian farms, and both ship contacts and company affiliation were associated with the distribution of ISA cases. Poorly disinfected ships could carry ISAV-HPRΔ between distant regions.  
+    [Link to study](https://doi.org/10.1016/j.prevetmed.2025.106667)
+
+#### Diagnosis
+
+3. **"Rapid differentiation of infectious salmon anemia virus avirulent (HPR0) from virulent (HPRΔ) variants using multiplex RT-qPCR"**  
+    Authors: Rounsville, T. F., Polinski, M. P., Marini, A. G., Turner, S. M., Vendramin, N., Cuenca, A., Pietrak, M. R., Peterson, B. C., & Bouchard, D. A.  
+    Reference: Rounsville, T. F., Polinski, M. P., Marini, A. G., Turner, S. M., Vendramin, N., Cuenca, A., Pietrak, M. R., Peterson, B. C., & Bouchard, D. A. (2024). Rapid differentiation of infectious salmon anemia virus avirulent (HPR0) from virulent (HPRΔ) variants using multiplex RT-qPCR. *Journal of Veterinary Diagnostic Investigation*, *36*(3), 329–337. https://doi.org/10.1177/10406387231223290  
+    Key findings: A multiplex RT-qPCR tells HPR0 from HPRΔ in a single reaction, avoiding the delay of sequencing every ISAV-positive sample and speeding up regulatory responses.  
+    [Link to study](https://doi.org/10.1177/10406387231223290)
+
+#### Host Response and Resistance
+
+4. **"The Atlantic salmon gill transcriptional response to natural infection with HPR0-ISAV (*Isavirus salaris*) in three Norwegian smolt farms"**  
+    Authors: Benedicenti, O., Dahle, M. K., Makvandi-Nejad, S., Andresen, A. M. S., Moldal, T., Sindre, H., & Fosse, J. H.  
+    Reference: Benedicenti, O., Dahle, M. K., Makvandi-Nejad, S., Andresen, A. M. S., Moldal, T., Sindre, H., & Fosse, J. H. (2025). The Atlantic salmon gill transcriptional response to natural infection with HPR0-ISAV (*Isavirus salaris*) in three Norwegian smolt farms. *Fish & Shellfish Immunology*, *157*, 110096. https://doi.org/10.1016/j.fsi.2024.110096  
+    Key findings: Gills of HPR0-infected smolts showed a classic antiviral response, though it varied between farms. The authors identify candidate genes that may limit HPR0 replication and so reduce the risk of new virulent variants.  
+    [Link to study](https://doi.org/10.1016/j.fsi.2024.110096)
+
+5. **"Virus-inclusive single nucleus RNA-sequencing reveals two distinct endothelial response patterns in infectious salmon anaemia"**  
+    Authors: Andresen, A. M. S., Taylor, R. S., Furniss, J. J., Saghafian, M., Kuiper, R. V., Macqueen, D. J., & Fosse, J. H.  
+    Reference: Andresen, A. M. S., Taylor, R. S., Furniss, J. J., Saghafian, M., Kuiper, R. V., Macqueen, D. J., & Fosse, J. H. (2026). Virus-inclusive single nucleus RNA-sequencing reveals two distinct endothelial response patterns in infectious salmon anaemia. *Fish & Shellfish Immunology*, *168*, 110914. https://doi.org/10.1016/j.fsi.2025.110914  
+    Key findings: ISAV RNA was found mainly in endothelial cells. Infected endothelium showed two states: a virus-permissive state and a bystander state with cytokine signalling and degradation of viral products. This is the first single-cell view of the endothelial response to active viral replication in any species.  
+    [Link to study](https://doi.org/10.1016/j.fsi.2025.110914)
+
+6. **"Thermal modulation of genetic resistance to infectious salmon anemia virus: Transcriptome analyses of Atlantic salmon families (*Salmo salar*) at 10 °C and 20 °C"**  
+    Authors: Misk, E., Whyte, S., Purcell, S., Groves, L., Michaud, D., Cai, W., Langille, B., Garber, A., & Fast, M.  
+    Reference: Misk, E., Whyte, S., Purcell, S., Groves, L., Michaud, D., Cai, W., Langille, B., Garber, A., & Fast, M. (2026). Thermal modulation of genetic resistance to infectious salmon anemia virus: Transcriptome analyses of Atlantic salmon families (*Salmo salar*) at 10 °C and 20 °C. *Comparative Immunology Reports*, *10*, 200274. https://doi.org/10.1016/j.cirep.2026.200274  
+    Key findings: Survival of the most resistant families was 81% at 10 °C and 93% at 20 °C, against 32% and 54% for the most susceptible. Resistance mechanisms depended strongly on temperature and relied on broad cellular resilience rather than classical antiviral responses.  
+    [Link to study](https://doi.org/10.1016/j.cirep.2026.200274)
 
 ## Conclusion
 
-Infectious Salmon Anemia (ISA) remains a significant threat to salmon aquaculture, necessitating diligent management and preventive measures. By implementing robust biosecurity protocols, investing in ongoing research, and fostering industry-wide cooperation, fish health managers and veterinarians can mitigate the impact of ISA and ensure the sustainability of salmon farming operations. This comprehensive guide aims to provide the necessary information and resources to effectively manage ISA and support the health and welfare of farmed salmon.
+Infectious Salmon Anemia (ISA) remains one of the most serious viral diseases of farmed Atlantic salmon. Virulent ISAV-HPRΔ causes slowly developing anaemia and circulatory failure, and there is no treatment. Outbreaks still occur every year in Norway, and Chile recorded new detections in Aysén in 2026, more than 15 years after its epidemic.
+
+Because virulent variants emerge from the widespread, non-virulent HPR0, and the virus spreads between farms through water, vessels and fish movements, control depends on early detection, fast culling of infected cages, restriction zones, fallowing and biosecurity in both smolt and marine farms. Vaccines reduce disease and virus shedding but do not prevent outbreaks, so they work best as one part of this wider approach.
 
 ### Call to Action
 
