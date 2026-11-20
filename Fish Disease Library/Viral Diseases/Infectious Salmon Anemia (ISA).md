@@ -120,18 +120,23 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 
 ### Case Studies
 
-**Real-World Examples**
+**Keeping a vaccinated population in production (Norway, from 2021)**
 
-- **Notable Outbreaks:**
-    - **Norway (1984):** The first identified outbreak, with continuing problems despite control measures [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Scotland (1998-1999):** An epizootic that cost an estimated $32 million (U.S.) to eradicate [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Chile (2007-2009):** Severe outbreaks that devastated the salmon industry [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Case:** In June 2021, ISA was confirmed at an open-cage site shortly after sea transfer. The fish had been vaccinated against ISA and showed minimal clinical signs. Norwegian rules at the time required culling, but the site was allowed to continue production under strict monitoring, with inspections twice a month and PCR testing of healthy, moribund and dead fish, as well as water from the cages and well boats [33](https://doi.org/10.3389/faquc.2026.1885657).
+- **Outcome:** Cumulative mortality reached 10.04%, mainly from other diseases and production factors rather than ISA. However, ISAV-HPRΔ spread from four to all seven cages by the end of the production cycle, and was detected more often late in the cycle [33](https://doi.org/10.3389/faquc.2026.1885657).
+- **Lessons Learned:** Vaccination can keep ISA mortality low but does not stop the virus from spreading within a site. Skin swabs from moribund fish were the most sensitive surveillance sample [33](https://doi.org/10.3389/faquc.2026.1885657).
 
-- **Response Strategies and Outcomes:**
-    - **Scotland (1998-99):** The outbreak was successfully eradicated [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Norway:** Cases of ISA continue to occur, with 1 to 20 outbreaks annually, mostly clustering in northern Norway in recent years [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/).
+**Re-emergence from enzootic HPR0 (Chile, 2013)**
 
-- **Lessons Learned:** The importance of early detection, with research showing that large viral shedding events occur before fish mortality, providing an opportunity for early intervention [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/)
+- **Case:** After the 2007-2010 epidemic, the virulent HPR7b was replaced by a non-virulent HPR0 variant, with 15 confirmed HPR0 cases in 2010, 53 in 2011 and 40 in 2012. In April 2013, two new ISA outbreaks occurred in the Aysén Region, caused by HPR3 and HPR14 [37](https://doi.org/10.1186/1743-422X-10-344).
+- **Outcome:** Both viruses were genetically related to the HPR0 already present in Chile, so the outbreaks most likely arose from local HPR0 rather than new introductions. The affected fish were also infected with *Caligus rogercresseyi* and *Piscirickettsia salmonis* [37](https://doi.org/10.1186/1743-422X-10-344).
+- **Lessons Learned:** Where HPR0 is enzootic, active ISAV surveillance is needed to detect new outbreaks early, since HPR0 is a risk factor for virulent ISA [37](https://doi.org/10.1186/1743-422X-10-344).
+
+**Speed of culling and spread between farms (Norway)**
+
+- **Case:** Researchers used Norwegian outbreak data and a transmission model to test how the time between detecting an outbreak and culling affected the number of farms infected next [43](https://doi.org/10.3389/fvets.2019.00481).
+- **Outcome:** The longer it took to depopulate the first infected cage, the more new farms became infected. The data could not show whether culling the whole farm was better than culling only infected cages [43](https://doi.org/10.3389/fvets.2019.00481).
+- **Lessons Learned:** Infected cages should be culled as quickly as possible. Given the high probability of spread between cages, depopulating the whole farm remains the safest option [43](https://doi.org/10.3389/fvets.2019.00481). The same pattern was seen in Chile, where delayed depopulation may have been a key factor in the 2007-2009 epidemic [34](https://doi.org/10.3354/dao02040).
 
 ## Data Insights
 
@@ -149,6 +154,11 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 - **Incidence:** ISAV was first detected in 1999 in farmed coho salmon, without classical ISA [21](https://doi.org/10.1186/1746-6148-4-28). The first ISA outbreak in Atlantic salmon was confirmed in June 2007 on Chiloé Island (Los Lagos Region), caused by ISAV-HPR7b [21](https://doi.org/10.1186/1746-6148-4-28). The epidemic lasted until 2010, after which HPR7b was replaced by an enzootic HPR0 variant. New outbreaks in 2013 (HPR3 and HPR14) most likely emerged from this local HPR0 rather than from new introductions [37](https://doi.org/10.1186/1743-422X-10-344).
 - **Spread:** ISAV affected about 65% of the salmon farms in the Los Lagos Region and 50% in the Aysén Region, making it likely the largest ISA epidemic ever reported [35](https://doi.org/10.1016/j.prevetmed.2011.07.005). Cases clustered around the index farm, and delayed depopulation may have been a key factor in the spread [34](https://doi.org/10.3354/dao02040). Farms with several generations on site, more incoming fish shipments and larger smolts at stocking were infected sooner, while distance from an ongoing outbreak delayed infection [36](https://doi.org/10.1016/j.prevetmed.2014.01.012).
 - **Economic impact:** Production fell by 64% from 2008 to 2010, and the number of salmon stocked at sea fell by 80% from 2007 to 2009. According to the Chilean salmon industry, losses were around USD 2 billion in 2010, and 40% of workers lost their jobs [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Sporadic outbreaks since 2010:** After the epidemic, outbreaks became sporadic. Sernapesca recorded outbreaks at 2 sites in 2013, 1 in 2014, 1 in 2015, 2 in 2016, 1 in 2017, 1 in 2020, 1 in 2021 and 1 in 2023, and none in 2024 or the first half of 2025 [44](https://www.sernapesca.cl/app/uploads/2026/01/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025-1.pdf). The 2023 outbreak was at the Punta Entrada site in the Magallanes Region. The 9 cages were harvested quickly, and the virulent variant was not detected at any of the 9 neighbouring sites [45](https://www.sernapesca.cl/noticias/sernapesca-constata-ausencia-de-diseminacion-de-virus-isa-patogeno-en-magallanes/).
+- **Aysén, 2026:**
+    - **Izaza (ACS 20):** A positive result was notified on 17 September 2026 and identified as variant HPR5a. Sernapesca set up an infected zone and a surveillance zone (Resolución Exenta N° 2901/2026), with the surveillance zone kept for at least two years. Positive cages were harvested early [46](https://www.sernapesca.cl/noticias/sernapesca-actualiza-situacion-de-caso-de-virus-isa-en-aysen/), and harvest of the whole site ended on 14 October, followed by cleaning, disinfection and fallowing [47](https://www.sernapesca.cl/noticias/sernapesca-informo-termino-de-cosecha-en-centro-izaza-y-mantiene-fiscalizacion-de-medidas-de-control-por-virus-isa-en-aysen/).
+    - **Luchín (ACS 30A):** In early October 2026, the virulent variant was detected in 1 of the site's 12 cages, without clinical signs. Sernapesca considered it a separate event, with no known epidemiological link to Izaza [48](https://www.sernapesca.cl/noticias/sernapesca-informa-deteccion-de-virus-isa-en-nuevo-centro-de-cultivo-de-la-region-de-aysen/).
+    - **Benjamín 746 (ACS 21A):** On 18 November 2026, routine sampling in the surveillance zone set up in September found ISAV in 4 of 12 cages, without clinical signs. The site was classified as suspect while all cages were sampled to confirm the case [49](https://www.sernapesca.cl/noticias/se-detecta-muestreo-positivo-de-virus-isa-en-centro-de-zona-de-vigilancia-de-aysen/).
 - **Management:** Control measures may have protected 38-60% of farms in the Los Lagos Region and 23-41% in the Aysén Region. In densely farmed areas, a control zone of at least 10 km radius may work better than the 5 km zone recommended by WOAH [35](https://doi.org/10.1016/j.prevetmed.2011.07.005).
 
 #### Faroe Islands
@@ -302,3 +312,17 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [41] Romero, J. F., Gardner, I. A., Hammell, L., Groman, D., Whelan, D., O'Brien, N., Hawkins, L. J., Burnley, H., & Thakur, K. (2022). Descriptive epidemiology of variants of infectious salmon anaemia virus in four Atlantic salmon farms in Newfoundland and Labrador, Canada. *Journal of Fish Diseases*, *45*(6), 919–930. https://doi.org/10.1111/jfd.13617
 
 [42] Christiansen, D. H., Østergaard, P. S., Snow, M., Dale, O. B., & Falk, K. (2011). A low-pathogenic variant of infectious salmon anemia virus (ISAV-HPR0) is highly prevalent and causes a non-clinical transient infection in farmed Atlantic salmon (*Salmo salar* L.) in the Faroe Islands. *Journal of General Virology*, *92*(4), 909–918. https://doi.org/10.1099/vir.0.027094-0
+
+[43] Qviller, L., Kristoffersen, A. B., Lyngstad, T. M., & Lillehaug, A. (2020). Infectious salmon anemia and farm-level culling strategies. *Frontiers in Veterinary Science*, *6*, 481. https://doi.org/10.3389/fvets.2019.00481
+
+[44] Servicio Nacional de Pesca y Acuicultura. (2026). *Informe sanitario de salmonicultura: Primer semestre año 2025*. Sernapesca. https://www.sernapesca.cl/app/uploads/2026/01/Informe-Situacion-Sanitaria-Salmonicultura-primer-semestre-2025-1.pdf
+
+[45] Servicio Nacional de Pesca y Acuicultura. (2023, March 20). *SERNAPESCA constata ausencia de diseminación de virus ISA patógeno en Magallanes*. https://www.sernapesca.cl/noticias/sernapesca-constata-ausencia-de-diseminacion-de-virus-isa-patogeno-en-magallanes/
+
+[46] Servicio Nacional de Pesca y Acuicultura. (2026, September 30). *Sernapesca actualiza situación de caso de virus ISA en Aysén*. https://www.sernapesca.cl/noticias/sernapesca-actualiza-situacion-de-caso-de-virus-isa-en-aysen/
+
+[47] Servicio Nacional de Pesca y Acuicultura. (2026, October 14). *Sernapesca informó término de cosecha en centro Izaza y mantiene fiscalización de medidas de control por virus ISA en Aysén*. https://www.sernapesca.cl/noticias/sernapesca-informo-termino-de-cosecha-en-centro-izaza-y-mantiene-fiscalizacion-de-medidas-de-control-por-virus-isa-en-aysen/
+
+[48] Servicio Nacional de Pesca y Acuicultura. (2026, October 1). *Sernapesca informa nueva detección de virus ISA en centro de cultivo de la región de Aysén*. https://www.sernapesca.cl/noticias/sernapesca-informa-deteccion-de-virus-isa-en-nuevo-centro-de-cultivo-de-la-region-de-aysen/
+
+[49] Servicio Nacional de Pesca y Acuicultura. (2026, November 19). *Se detecta muestreo positivo de virus ISA en centro de zona de vigilancia de Aysén*. https://www.sernapesca.cl/noticias/se-detecta-muestreo-positivo-de-virus-isa-en-centro-de-zona-de-vigilancia-de-aysen/
