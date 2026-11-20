@@ -16,7 +16,6 @@ tags:
   - RainbowTrout
   - BrownTrout
   - Norway
-  - Ireland
   - Chile
   - Scotland
   - Canada
@@ -135,88 +134,54 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 - **Lessons Learned:** The importance of early detection, with research showing that large viral shedding events occur before fish mortality, providing an opportunity for early intervention [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/)
 
 ## Data Insights
+
 ### Disease Impact by Country
+
 #### Canada
 
-- **ISA Incidence in Canada:**
-    - ISA has been a recurring problem in Canada, particularly in the Bay of Fundy in New Brunswick [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - First outbreak was recorded in 1998, which resulted in a $10M CAD support package [11](https://georgiastrait.org/press/nightmare-in-new-brunswick-a-lesson-for-bc/)
+- **Incidence:** ISA was first reported in New Brunswick in 1996 [24](https://doi.org/10.3390/v13122428) and has been detected in Atlantic Canada ever since. Some outbreaks arose from isolated infections of unknown source, while others were local clusters caused by horizontal spread [40](https://doi.org/10.1111/jfd.12670).
+- **Virus variants:** Phylogenetic analysis of 2012-2016 isolates points to at least three separate introductions of ISAV into Atlantic Canada, and the first North American HPR0 subtype was found in this period [40](https://doi.org/10.1111/jfd.12670).
+- **Newfoundland 2020-2021:** An outbreak affected four marine farms in southern Newfoundland stocked with salmon vaccinated against ISAV. Nine ISAV variants were identified (European and North American HPRΔ, and one North American HPR0) [41](https://doi.org/10.1111/jfd.13617).
+- **Management:** Culling of infected cages or farms remains the standard practice [40](https://doi.org/10.1111/jfd.12670).
 
-- **Geographical Spread:**
-    - The disease has been reported in various regions, including New Brunswick and Nova Scotia [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf) [10](https://webharvest.gov/peth04/20041029043154/http://www.lsc.usgs.gov/FHB/leaflets/FHB85.pdf).
-
-- **Economic Impact:**
-    - ISA results in annual losses of approximately $4.8–$5.5 million (U.S.) to farmers in New Brunswick [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - The disease has led to significant economic losses due to the culling of infected fish and fallowing of affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
-- **Treatment & Management:**
-    - Canada has implemented biosecurity measures to control ISA, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - Governmental protocols can be found here [12](https://inspection.canada.ca/en/animal-health/aquatic-animals/diseases/reportable-diseases/isa/facts)
-    
 #### Chile
 
-- **ISA Incidence in Chile:**
-    - ISA was first reported in Chile in 1996, and outbreaks have continued to occur [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Incidence:** ISAV was first detected in 1999 in farmed coho salmon, without classical ISA [21](https://doi.org/10.1186/1746-6148-4-28). The first ISA outbreak in Atlantic salmon was confirmed in June 2007 on Chiloé Island (Los Lagos Region), caused by ISAV-HPR7b [21](https://doi.org/10.1186/1746-6148-4-28). The epidemic lasted until 2010, after which HPR7b was replaced by an enzootic HPR0 variant. New outbreaks in 2013 (HPR3 and HPR14) most likely emerged from this local HPR0 rather than from new introductions [37](https://doi.org/10.1186/1743-422X-10-344).
+- **Spread:** ISAV affected about 65% of the salmon farms in the Los Lagos Region and 50% in the Aysén Region, making it likely the largest ISA epidemic ever reported [35](https://doi.org/10.1016/j.prevetmed.2011.07.005). Cases clustered around the index farm, and delayed depopulation may have been a key factor in the spread [34](https://doi.org/10.3354/dao02040). Farms with several generations on site, more incoming fish shipments and larger smolts at stocking were infected sooner, while distance from an ongoing outbreak delayed infection [36](https://doi.org/10.1016/j.prevetmed.2014.01.012).
+- **Economic impact:** Production fell by 64% from 2008 to 2010, and the number of salmon stocked at sea fell by 80% from 2007 to 2009. According to the Chilean salmon industry, losses were around USD 2 billion in 2010, and 40% of workers lost their jobs [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Management:** Control measures may have protected 38-60% of farms in the Los Lagos Region and 23-41% in the Aysén Region. In densely farmed areas, a control zone of at least 10 km radius may work better than the 5 km zone recommended by WOAH [35](https://doi.org/10.1016/j.prevetmed.2011.07.005).
 
-- **Geographical Spread:**
-    - The disease has been reported in various regions, including Los Lagos and Aysén [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
-- **Economic Impact:**
-    - ISA has caused significant economic losses in Chile, with millions of fish culled in control efforts [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - The disease has had a devastating impact on the salmon industry, particularly in the early 2000s [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - The Chilean ISA crisis in the mid-2000s is regarded as one of the most economically damaging aquaculture disease outbreaks in history. Salmon production was literally cut in half from about 497,000 metric tons in 2006 down to ~247,000 tons in 2010  it. A Chilean industry analysis estimated the total economic cost of the ISA disaster at around $550–600 million USD [14](https://www.globalseafood.org/wp-content/uploads/2015/02/GAA_ISA-Report.pdf) [15](https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007)
-
-- **Treatment & Management:**
-    - Chile has implemented biosecurity measures similar to those in Norway and Scotland, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
 #### Faroe Islands
 
-- **ISA Incidence in Faroe Islands:**
-    - ISA was first reported in the Faroe Islands in 2000, causing significant losses [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
-- **Geographical Spread:**
-    - The disease has been reported in various regions of the Faroe Islands [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
-- **Economic Impact:**
-    - ISA devastated the salmon industry in the Faroe Islands in 2000 [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf) [13](https://www.globalseafood.org/advocate/all-the-way-back-and-then-some-the-faroe-islands-salmon-comeback-story/).
-
-- **Treatment & Management:**
-    - The Faroe Islands have implemented biosecurity measures similar to those in other affected countries, including culling and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Incidence:** The first ISA outbreaks were identified in 2000 [24](https://doi.org/10.3390/v13122428).
+- **Economic impact:** The ISA crisis brought the Faroese industry close to collapse. Production fell by almost 75% between 2003 and 2006 and took about 10 years to return to 2003 levels [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **After re-establishment:** Once the industry was fallowed and restocked, 8.1% of apparently healthy salmon tested positive for ISAV over 53 months, all of them for the non-virulent HPR0, which appeared as a seasonal, transient infection without ISA mortality. Marine sites became infected on average 7.7 months after sea transfer [42](https://doi.org/10.1099/vir.0.027094-0).
 
 #### Norway
 
-- **ISA Incidence in Norway:**
-    - Infectious Salmon Anemia (ISA) was first recorded in Norway in 1984 and has since been a recurring challenge in marine farmed Atlantic salmon [6](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2018.00308/full)[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467415/).
-    - A significant number of ISA cases were reported in Norway during the summer of 2023, affecting multiple farms [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
-    - The disease was a serious problem in the late 80s and early 90s, with at least 80 new outbreaks in 1990 at the peak of the epidemic [6](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2018.00308/full)[9](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6467415/).
+- **History:** ISA was first recorded in 1984 and peaked around 1990, with at least 80 new outbreaks that year. Biosecurity measures introduced in the early 1990s reduced the number of outbreaks, but ISA was not eradicated [6](https://doi.org/10.3389/fvets.2018.00308).
+- **Recent incidence:** Between 2015 and 2024 there were 10 to 25 confirmed outbreaks a year (mean 15.8). In 2025, ISA was confirmed at 18 marine sites, slightly above the 10-year mean. Outbreaks occur in every month, with a possible peak in late spring and summer [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
 
-- **Geographical Spread:**
-    - ISA outbreaks have been reported in various regions, including Åfjord municipality in Trøndelag county and Volda municipality in Møre og Romsdal county [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
-    - Six separate farming zones are currently being monitored for or cleansed of ISA [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
+| Year | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 | 2025 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Sites with confirmed ISA | 12 | 14 | 13 | 10 | 23 | 25 | 15 | 18 | 13 | 18 |
 
-- **Economic Impact:**
-    - ISA outbreaks can be costly to Norwegian aquaculture companies due to the need to purge and fallow impacted sites and establish protection and monitoring zones [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
-    - The disease has had severe implications for production economics, with high rates of mortality and management restrictions limiting production [6](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2018.00308/full).
+*Source: Fiskehelserapporten 2025 [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).*
 
-- **Treatment & Management:**
-    - Norway has implemented various biosecurity measures since the early 90s to control the horizontal spread of ISA [6](https://www.frontiersin.org/journals/veterinary-science/articles/10.3389/fvets.2018.00308/full).
-    - In 2022, updated regulations for handling ISA outbreaks were implemented, including an eradication program to limit outbreaks to fewer than 1% of active locations [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
-    - Control measures include stamping out infected populations and setting up protection zones to prevent marine traffic from entering affected areas [8](https://www.seafoodsource.com/news/premium/aquaculture/norway-hatching-plan-to-counter-wave-of-infectious-salmon-anemia-outbreaks).
+- **Geographical spread:** Since 2020, outbreaks have been confirmed in every production area except PO1 and PO13. In 2025 a large share of outbreaks was in Vesterålen (PO9), where virus probably spread between nearby sites and infected fish were moved from one site to another [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **HPR0:** The non-virulent HPR0 is not notifiable, but was detected at 78 sites in 2025, twice as many as in 2024 (39). Several 2025 outbreaks were linked to HPR0 in the smolt farms that supplied the fish [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Management:** Outbreaks trigger restriction zones with a protection zone and a surveillance zone. In 2025 the fish had been at sea for just over 12 months on average when ISA was suspected, and fish were vaccinated at 7 of the 18 confirmed sites [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+
 #### Scotland
 
-- **ISA Incidence in Scotland:**
-    - ISA was first detected in Scotland in 1998, leading to significant economic losses [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - The disease re-emerged in 2009 after being absent for several years [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **1998-1999:** ISA spread over a wide area with transported fish and harvest vessels [27](https://doi.org/10.3201/eid0801.010144)[38](https://doi.org/10.3354/dao02262) and was eradicated at a cost of over £20 million [38](https://doi.org/10.3354/dao02262).
+- **2008-2009 (Shetland):** ISA re-emerged and was confirmed at six sites. This time spread was mainly linked to marine water currents and stayed within a small area. Confirmed sites were depopulated within 7 weeks (mean 3.7 weeks), and the origin of the outbreak remains unknown [38](https://doi.org/10.3354/dao02262).
+- **Management:** Industry codes of good practice, fewer site-to-site movements of live fish, better disinfection of vessels and processing waste, and management areas with synchronous fallowing may explain why the 2008-2009 outbreak stayed local [38](https://doi.org/10.3354/dao02262).
 
-- **Geographical Spread:**
-    - The disease has been reported in various regions, including the Western Isles and Shetland [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+#### United States
 
-- **Economic Impact:**
-    - An epizootic in Scotland in 1998-1999 cost an estimated $32 million (U.S.) to eradicate [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - Recurring outbreaks have continued to impact the industry economically [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
-- **Treatment & Management:**
-    - Scotland has implemented strict biosecurity measures to control ISA, including culling infected fish and fallowing affected sites [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-
+- **Incidence:** ISA was first reported in Maine in 2001 [24](https://doi.org/10.3390/v13122428).
+- **Spread:** In the Quoddy region (Maine and New Brunswick), where farms are close together and tidal mixing is strong, ISA recurs repeatedly. Between 2002 and 2004, new outbreaks clustered with outbreaks one tidal excursion upstream. Holding over fish from the previous year class and sharing wharves were also risk factors [39](https://doi.org/10.1016/j.prevetmed.2006.09.006).
 
 ## Research and References
 
@@ -319,3 +284,21 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [32] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (2026). *Fiskehelserapporten 2025* (Veterinærinstituttets rapportserie nr. 5a/2026). Veterinærinstituttet. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
 
 [33] Patel, S. J., Dale, O. B., Fjellsøy, K. R., Bekkeli, K. E., Breck, O., Bendiktsen, R., Bornø, G., Brun, E., Jørgensen, L. G., Hellberg, H., Larsen, S., Kvalvik, H., & Moldal, T. (2026). Infectious salmon anemia in vaccinated Atlantic salmon: A field case study. *Frontiers in Aquaculture*, *5*, 1885657. https://doi.org/10.3389/faquc.2026.1885657
+
+[34] Mardones, F., Perez, A., & Carpenter, T. (2009). Epidemiologic investigation of the re-emergence of infectious salmon anemia virus in Chile. *Diseases of Aquatic Organisms*, *84*, 105–114. https://doi.org/10.3354/dao02040
+
+[35] Mardones, F., Perez, A., Valdes-Donoso, P., & Carpenter, T. (2011). Farm-level reproduction number during an epidemic of infectious salmon anemia virus in southern Chile in 2007–2009. *Preventive Veterinary Medicine*, *102*(3), 175–184. https://doi.org/10.1016/j.prevetmed.2011.07.005
+
+[36] Mardones, F., Martinez-Lopez, B., Valdes-Donoso, P., Carpenter, T., & Perez, A. (2014). The role of fish movements and the spread of infectious salmon anemia virus (ISAV) in Chile, 2007–2009. *Preventive Veterinary Medicine*, *114*(1), 37–46. https://doi.org/10.1016/j.prevetmed.2014.01.012
+
+[37] Godoy, M. G., Kibenge, M. J., Suarez, R., Lazo, E., Heisinger, A., Aguinaga, J., Bravo, D., Mendoza, J., Llegues, K. O., Avendaño-Herrera, R., Vera, C., Mardones, F., & Kibenge, F. S. (2013). Infectious salmon anaemia virus (ISAV) in Chilean Atlantic salmon (*Salmo salar*) aquaculture: Emergence of low pathogenic ISAV-HPR0 and re-emergence of virulent ISAV-HPR∆: HPR3 and HPR14. *Virology Journal*, *10*, 344. https://doi.org/10.1186/1743-422X-10-344
+
+[38] Murray, A., Munro, L., Wallace, I., Berx, B., Pendrey, D., Fraser, D., & Raynard, R. (2010). Epidemiological investigation into the re-emergence and control of an outbreak of infectious salmon anaemia in the Shetland Islands, Scotland. *Diseases of Aquatic Organisms*, *91*(3), 189–200. https://doi.org/10.3354/dao02262
+
+[39] Gustafson, L., Ellis, S., Beattie, M., Chang, B., Dickey, D., Robinson, T., Marenghi, F., Moffett, P., & Page, F. (2007). Hydrographics and the timing of infectious salmon anemia outbreaks among Atlantic salmon (*Salmo salar* L.) farms in the Quoddy region of Maine, USA and New Brunswick, Canada. *Preventive Veterinary Medicine*, *78*(1), 35–56. https://doi.org/10.1016/j.prevetmed.2006.09.006
+
+[40] Gagné, N., & LeBlanc, F. (2018). Overview of infectious salmon anaemia virus (ISAV) in Atlantic Canada and first report of an ISAV North American-HPR0 subtype. *Journal of Fish Diseases*, *41*(3), 421–430. https://doi.org/10.1111/jfd.12670
+
+[41] Romero, J. F., Gardner, I. A., Hammell, L., Groman, D., Whelan, D., O'Brien, N., Hawkins, L. J., Burnley, H., & Thakur, K. (2022). Descriptive epidemiology of variants of infectious salmon anaemia virus in four Atlantic salmon farms in Newfoundland and Labrador, Canada. *Journal of Fish Diseases*, *45*(6), 919–930. https://doi.org/10.1111/jfd.13617
+
+[42] Christiansen, D. H., Østergaard, P. S., Snow, M., Dale, O. B., & Falk, K. (2011). A low-pathogenic variant of infectious salmon anemia virus (ISAV-HPR0) is highly prevalent and causes a non-clinical transient infection in farmed Atlantic salmon (*Salmo salar* L.) in the Faroe Islands. *Journal of General Virology*, *92*(4), 909–918. https://doi.org/10.1099/vir.0.027094-0
