@@ -27,27 +27,33 @@ tags:
 
 ### What is Infectious Salmon Anemia (ISA)?
 
-Infectious Salmon Anemia (ISA) is a highly contagious viral disease that predominantly affects farmed Atlantic salmon (*Salmo salar*). Caused by the infectious salmon anemia virus (ISAV), it results in severe economic losses in aquaculture due to high mortality rates and the need for culling infected fish. First identified in Norway in 1984, ISA has since been reported in several countries, including Canada, the USA, Scotland, the Faroe Islands, Ireland, and Chile [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa). While Atlantic salmon are the primary species affected clinically, ISAV can replicate in rainbow trout (*Oncorhynchus mykiss*) and sea trout (*Salmo trutta* L.) [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+Infectious salmon anaemia (ISA) is a serious viral disease of farmed Atlantic salmon (*Salmo salar*), characterised by slowly developing anaemia and circulatory disturbances [17](https://doi.org/10.1128/JVI.00047-12). It is caused by infectious salmon anaemia virus (ISAV; species *Isavirus salaris*, genus *Isavirus*, family *Orthomyxoviridae*), which makes it a relative of the influenza viruses [17](https://doi.org/10.1128/JVI.00047-12)[18](https://doi.org/10.1016/j.fsi.2024.110096). ISA was first discovered in Norway in 1984 and has since been diagnosed in all major salmon farming countries, including Canada, Scotland, the United States, Chile and the Faroe Islands, causing significant economic losses [19](https://doi.org/10.1177/10406387231223290). ISA, and detection of any ISAV variant, is notifiable to the World Organisation for Animal Health (WOAH) [19](https://doi.org/10.1177/10406387231223290).
+
+Clinical disease is essentially limited to Atlantic salmon. Other salmonids can carry the virus without developing clinical disease [22](https://doi.org/10.1111/jfd.70219): after experimental infection, ISAV replicates in rainbow trout (*Oncorhynchus mykiss*) and persists in brown trout (*Salmo trutta*) without significant mortality, so both may act as reservoirs [20](https://doi.org/10.1046/j.1365-2761.1997.00300.x). In Chile, ISAV was first detected in 1999 in farmed coho salmon (*Oncorhynchus kisutch*), where it was associated with icterus syndrome rather than classical ISA [21](https://doi.org/10.1186/1746-6148-4-28).
 
 ## Clinical Signs of Infectious Salmon Anemia (ISA)
 
 ### Common Signs
 
-- **Physical Signs:**
-    - **Pale gills:** This is indicative of severe anaemia and one of the earliest signs of ISA [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Swollen and darkened organs:** The liver may appear darkened, and there may be accumulation of fluid in the body cavity (ascites) [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Haemorrhages:** Internal bleeding in organs, including blood spots in the eyes [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf)[2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Exophthalmia:** Bulging eyes are often observed in affected fish [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+- **External Signs:**
+    - **Pale gills:** A sign of severe anaemia, seen in 38% of the fish necropsied in the first Chilean outbreak [21](https://doi.org/10.1186/1746-6148-4-28)[22](https://doi.org/10.1111/jfd.70219).
+    - **Eye lesions:** Exophthalmia (bulging eyes) and periocular haemorrhage [21](https://doi.org/10.1186/1746-6148-4-28)[22](https://doi.org/10.1111/jfd.70219).
+    - **Skin:** Darkened skin, with haemorrhages on the abdomen and at the base of the fins [21](https://doi.org/10.1186/1746-6148-4-28)[22](https://doi.org/10.1111/jfd.70219). Some fish show jaundice on the ventral side [21](https://doi.org/10.1186/1746-6148-4-28).
 
-- **Behavioural Changes:**
-    - **Lethargy:** Infected fish exhibit reduced activity levels [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Loss of Appetite:** Decreased feeding behaviour and significant weight loss [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Internal Signs (at necropsy):**
+    - **Ascites:** Fluid in the body cavity [19](https://doi.org/10.1177/10406387231223290)[23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+    - **Liver:** Dark, congested and enlarged, with haemorrhagic necrosis in advanced cases [19](https://doi.org/10.1177/10406387231223290)[21](https://doi.org/10.1186/1746-6148-4-28)[23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+    - **Spleen and kidney:** Congested and enlarged [21](https://doi.org/10.1186/1746-6148-4-28)[23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+    - **Gut:** Congestion and haemorrhage of the foregut, intestine and pyloric caeca. In the first Chilean outbreak, haemorrhagic enteritis was the most common internal lesion (64% of fish), followed by haemorrhages in the pyloric caeca (43%) [21](https://doi.org/10.1186/1746-6148-4-28)[23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+    - **Haemorrhages:** Petechiae in the visceral fat and peritoneum [21](https://doi.org/10.1186/1746-6148-4-28)[23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+
+- **Behavioural Signs:**
+    - **Lethargy:** Moribund fish are lethargic [19](https://doi.org/10.1177/10406387231223290)[21](https://doi.org/10.1186/1746-6148-4-28).
 
 **Progression of Clinical Signs**
 
-- **Early Stages:** The disease can be insidious, with an initially low mortality rate [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-- **Advanced Stages:** More pronounced physical signs leading to high mortality, which can sometimes exceed 90% if left unchecked [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-- **Impact on Fish Health:** ISA compromises overall health, with the hematocrit (percentage of red blood cells in blood) often falling below 10% [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Anaemia and liver lesions:** Anaemia develops slowly [17](https://doi.org/10.1128/JVI.00047-12). Liver lesions worsen as the haematocrit falls: congestion at a haematocrit of around 25, blood-filled spaces between 25 and 15, and large areas of haemorrhagic necrosis at around 10 [23](https://doi.org/10.1016/0034-5288%2891%2990017-I).
+- **Mortality:** The course of disease within a population can be prolonged and lead to high cumulative mortality [19](https://doi.org/10.1177/10406387231223290). Mortality in farm outbreaks varies widely, from 0 to 50% [21](https://doi.org/10.1186/1746-6148-4-28). In the first Chilean outbreak it reached 70% and 82% in the two affected cages [21](https://doi.org/10.1186/1746-6148-4-28).
 
 ### Causes of Infectious Salmon Anemia (ISA)
 
@@ -265,3 +271,17 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [15] https://www.dii.uchile.cl/wp-content/uploads/2016/06/Chapter-5-Chiles-Samon-Industry-Juan-Pablo-Zanlungo-.pdf#:~:text=ISA%20crisis%20at%20US%24550%E2%80%93600%20million,Johnson%202007
 
 [16] https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner
+
+[17] Aamelfot, M., Dale, O. B., Weli, S. C., Koppang, E. O., & Falk, K. (2012). Expression of the infectious salmon anemia virus receptor on Atlantic salmon endothelial cells correlates with the cell tropism of the virus. *Journal of Virology*, *86*(19), 10571–10578. https://doi.org/10.1128/JVI.00047-12
+
+[18] Benedicenti, O., Dahle, M. K., Makvandi-Nejad, S., Andresen, A. M. S., Moldal, T., Sindre, H., & Fosse, J. H. (2025). The Atlantic salmon gill transcriptional response to natural infection with HPR0-ISAV (*Isavirus salaris*) in three Norwegian smolt farms. *Fish & Shellfish Immunology*, *157*, 110096. https://doi.org/10.1016/j.fsi.2024.110096
+
+[19] Rounsville, T. F., Polinski, M. P., Marini, A. G., Turner, S. M., Vendramin, N., Cuenca, A., Pietrak, M. R., Peterson, B. C., & Bouchard, D. A. (2024). Rapid differentiation of infectious salmon anemia virus avirulent (HPR0) from virulent (HPRΔ) variants using multiplex RT-qPCR. *Journal of Veterinary Diagnostic Investigation*, *36*(3), 329–337. https://doi.org/10.1177/10406387231223290
+
+[20] Nylund, A., Kvenseth, A., Krossøy, B., & Hodneland, K. (1997). Replication of the infectious salmon anaemia virus (ISAV) in rainbow trout, *Oncorhynchus mykiss* (Walbaum). *Journal of Fish Diseases*, *20*(4), 275–279. https://doi.org/10.1046/j.1365-2761.1997.00300.x
+
+[21] Godoy, M. G., Aedo, A., Kibenge, M. J., Groman, D. B., Yason, C. V., Grothusen, H., Lisperguer, A., Calbucura, M., Avendaño, F., Imilán, M., Jarpa, M., & Kibenge, F. S. (2008). First detection, isolation and molecular characterization of infectious salmon anaemia virus associated with clinical disease in farmed Atlantic salmon (*Salmo salar*) in Chile. *BMC Veterinary Research*, *4*, 28. https://doi.org/10.1186/1746-6148-4-28
+
+[22] Mahon, E., Kwabiah, R. R., Paradis, H., Soto-Dávila, M. A., Duglas, S., Gurung, R. R., Paramanathan, T., Vasquez, I., Al-Badoosh, S., Law, J., Santander, J., Fast, M. D., & Gendron, R. L. (2026). Ocular manifestations of infectious salmon anaemia virus infection in Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases*, *49*(11), e70219. https://doi.org/10.1111/jfd.70219
+
+[23] Evensen, O., Thorud, K., & Olsen, Y. (1991). A morphological study of the gross and light microscopic lesions of infectious anaemia in Atlantic salmon (*Salmo salar*). *Research in Veterinary Science*, *51*(2), 215–222. https://doi.org/10.1016/0034-5288(91)90017-I
