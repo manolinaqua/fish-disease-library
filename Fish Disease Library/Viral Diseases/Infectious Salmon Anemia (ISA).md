@@ -59,19 +59,28 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 
 **Aetiology**
 
-- **Causative Agent:** Infectious Salmon Anemia Virus (ISAV), a member of the genus Isavirus in the family Orthomyxoviridae [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Causative Agent:** ISAV is an orthomyxovirus whose genome consists of eight single-stranded, negative-sense RNA segments encoding at least 10 proteins. These include two surface glycoproteins: the fusion protein (F), encoded by segment 5, and the haemagglutinin-esterase (HE), encoded by segment 6 [24](https://doi.org/10.3390/v13122428).
+- **Virulent and non-virulent variants:** Variants are told apart by a highly polymorphic region (HPR) in the HE gene. Virulent variants carry deletions in this region (ISAV-HPRΔ) and cause ISA, while the non-virulent ISAV-HPR0 has a full-length HPR [19](https://doi.org/10.1177/10406387231223290). HPR0 causes common, transient gill infections without clinical signs in freshwater and marine farms and in broodstock [18](https://doi.org/10.1016/j.fsi.2024.110096)[24](https://doi.org/10.3390/v13122428). All virulent variants originally emerged from HPR0. The shift to virulence is thought to be a random event that depends on how often the virus replicates, so limiting HPR0 infection within farms may reduce the risk of new virulent variants [18](https://doi.org/10.1016/j.fsi.2024.110096).
+- **Target cells:** The virus binds 4-O-acetylated sialic acids and infects the endothelial cells lining the blood vessels. Released virus attaches to red blood cells, and their engulfment by phagocytes (haemophagocytosis) may contribute to the severe anaemia [17](https://doi.org/10.1128/JVI.00047-12).
 
-- **Transmission Methods:**
-    - **Direct Contact:** Spread between infected and healthy fish [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Waterborne:** The virus can spread through water [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - **Other vectors:** Discharge of untreated blood and contact with infected vehicles and equipment [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+**Transmission**
 
+- **Horizontal:** Fish-to-fish transmission through the water is thought to be the main route, with the gills as the primary portal of entry [19](https://doi.org/10.1177/10406387231223290). ISAV can also enter and replicate in the skin and pectoral fins [25](https://doi.org/10.1186/s13567-015-0265-1).
+- **Between farms:**
+    - In Norway, outbreak sites located next to each other or run under the same farming authorisation shared virus genotypes, consistent with local horizontal spread [26](https://doi.org/10.1016/j.prevetmed.2007.12.008).
+    - In Scotland, the spread of ISA in 1998-99 was linked to vessels moving fish between sites and transporting harvest, but not to vessels delivering feed [27](https://doi.org/10.3201/eid0801.010144).
+    - In Norway, ship contact networks and company affiliation were both associated with the distribution of ISA cases. Ship movements and shared equipment or personnel are potential transmission pathways, and poorly disinfected ships could carry the virus over long distances [28](https://doi.org/10.1016/j.prevetmed.2025.106667).
+- **Sea lice:** In experiments, the Chilean sea louse *Caligus rogercresseyi* transmitted ISAV to naïve Atlantic salmon, but the virus did not replicate in the louse, so it acts as a mechanical vector (see [[Caligidosis (Caligus rogercresseyi)]]) [29](https://doi.org/10.1016/j.aquaculture.2013.10.016).
+- **Vertical transmission:** There is no evidence for it. Genotyping of 32 Norwegian outbreaks (2003-2005) did not link outbreaks to smolt suppliers or broodfish origin [26](https://doi.org/10.1016/j.prevetmed.2007.12.008). In the Faroe Islands, HPR0 variants found in Icelandic and Norwegian broodfish were never detected in Faroese salmon, despite extensive imports of ova from both countries [24](https://doi.org/10.3390/v13122428).
+- **Smolt farms:** HPR0 can persist in smolt farms as "house strains", with new variants occasionally introduced from the sea, probably through sea spray. Water and air intakes therefore need high biosecurity [24](https://doi.org/10.3390/v13122428).
 
 **Risk Factors**
 
-- **Environmental Factors:** While most cases occur in seawater, ISA has occasionally been reported in freshwater farms, particularly those using part seawater [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-
-- **Farm Management Practices:** Movement of live fish is considered one of the highest risk factors for disease spread [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
+- **Farm and production factors:** In Norway (2004-2017), the mean annual risk of an ISA outbreak with an unknown source was 0.7% per site. Significant risk factors were infectious pancreatic necrosis on the site (see [[Infectious Pancreatic Necrosis (IPN)]]), a stocking period longer than 2 months, high latitude, and high fish density in the first six months at sea [6](https://doi.org/10.3389/fvets.2018.00308).
+- **Proximity and contacts:** Sites close to an outbreak, sites under the same company, and sites visited by vessels that move fish are at higher risk (see Transmission) [26](https://doi.org/10.1016/j.prevetmed.2007.12.008)[27](https://doi.org/10.3201/eid0801.010144)[28](https://doi.org/10.1016/j.prevetmed.2025.106667).
+- **Sea lice:** Salmon infested with *Lepeophtheirus salmonis* before exposure to ISAV had significantly higher mortality, as the lice suppressed antiviral genes [30](https://doi.org/10.1371/journal.pone.0209178).
+- **Water temperature:** In an experimental challenge, overall mortality was significantly higher at 10 °C than at 20 °C, despite higher acute mortality at 20 °C, and the virus was cleared faster at 20 °C [31](https://doi.org/10.1016/j.fsirep.2023.100099).
+- **Genetics:** Survival after ISAV exposure varied from 32% to 95% between salmon families [31](https://doi.org/10.1016/j.fsirep.2023.100099).
 
 ### Diagnosis
 
@@ -285,3 +294,19 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [22] Mahon, E., Kwabiah, R. R., Paradis, H., Soto-Dávila, M. A., Duglas, S., Gurung, R. R., Paramanathan, T., Vasquez, I., Al-Badoosh, S., Law, J., Santander, J., Fast, M. D., & Gendron, R. L. (2026). Ocular manifestations of infectious salmon anaemia virus infection in Atlantic salmon (*Salmo salar*). *Journal of Fish Diseases*, *49*(11), e70219. https://doi.org/10.1111/jfd.70219
 
 [23] Evensen, O., Thorud, K., & Olsen, Y. (1991). A morphological study of the gross and light microscopic lesions of infectious anaemia in Atlantic salmon (*Salmo salar*). *Research in Veterinary Science*, *51*(2), 215–222. https://doi.org/10.1016/0034-5288(91)90017-I
+
+[24] Christiansen, D. H., Petersen, P. E., Dahl, M. M., Vest, N., Aamelfot, M., Kristoffersen, A. B., Jansen, M. D., Matejusova, I., Gallagher, M. D., Jónsson, G., Rodriguez, E., Fosse, J. H., & Falk, K. (2021). No evidence of the vertical transmission of non-virulent infectious salmon anaemia virus (ISAV-HPR0) in farmed Atlantic salmon. *Viruses*, *13*(12), 2428. https://doi.org/10.3390/v13122428
+
+[25] Aamelfot, M., McBeath, A., Christiansen, D. H., Matejusova, I., & Falk, K. (2015). Infectious salmon anaemia virus (ISAV) mucosal infection in Atlantic salmon. *Veterinary Research*, *46*, 120. https://doi.org/10.1186/s13567-015-0265-1
+
+[26] Lyngstad, T., Jansen, P., Sindre, H., Jonassen, C., Hjortaas, M., Johnsen, S., & Brun, E. (2008). Epidemiological investigation of infectious salmon anaemia (ISA) outbreaks in Norway 2003–2005. *Preventive Veterinary Medicine*, *84*(3–4), 213–227. https://doi.org/10.1016/j.prevetmed.2007.12.008
+
+[27] Murray, A. G., Smith, R. J., & Stagg, R. M. (2002). Shipping and the spread of infectious salmon anemia in Scottish aquaculture. *Emerging Infectious Diseases*, *8*(1), 1–5. https://doi.org/10.3201/eid0801.010144
+
+[28] Duault, H., Bailly, M., Zhao, M., Hill, S. C., & Fournié, G. (2025). Network of ship movements and its potential in spreading pathogenic infectious salmon anemia virus among Norwegian fish farms. *Preventive Veterinary Medicine*, *245*, 106667. https://doi.org/10.1016/j.prevetmed.2025.106667
+
+[29] Oelckers, K., Vike, S., Duesund, H., Gonzalez, J., Wadsworth, S., & Nylund, A. (2014). *Caligus rogercresseyi* as a potential vector for transmission of infectious salmon anaemia (ISA) virus in Chile. *Aquaculture*, *420–421*, 126–132. https://doi.org/10.1016/j.aquaculture.2013.10.016
+
+[30] Barker, S. E., Bricknell, I. R., Covello, J., Purcell, S., Fast, M. D., Wolters, W., & Bouchard, D. A. (2019). Sea lice, *Lepeophtheirus salmonis* (Krøyer 1837), infected Atlantic salmon (*Salmo salar* L.) are more susceptible to infectious salmon anemia virus. *PLOS ONE*, *14*(1), e0209178. https://doi.org/10.1371/journal.pone.0209178
+
+[31] Groves, L., Whyte, S., Purcell, S., Michaud, D., Cai, W., Garber, A., & Fast, M. (2023). Temperature impacts Atlantic salmon's (*Salmo salar*) immunological response to infectious salmon anemia virus (ISAv). *Fish and Shellfish Immunology Reports*, *4*, 100099. https://doi.org/10.1016/j.fsirep.2023.100099
