@@ -86,33 +86,38 @@ Clinical disease is essentially limited to Atlantic salmon. Other salmonids can 
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioural signs, especially if the hematocrit is less than 10% [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Clinical suspicion:** ISAV can be present on a site for a long time before typical signs and increased mortality appear. Often only a small share of the fish is infected, and daily mortality in affected cages can be as low as 0.05 to 0.1%, so many fish may need to be tested by PCR to detect the infection [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Sampling:** For virulent ISAV (HPRΔ), surveillance targets fish with typical clinical signs such as anaemia and tests internal organs (kidney and heart). Screening for HPR0 requires random gill samples [19](https://doi.org/10.1177/10406387231223290). In a vaccinated Norwegian population, skin swabs detected ISAV more often (73%) than gill swabs (41%) or heart samples (25%), and swabbing moribund fish is recommended for early detection [33](https://doi.org/10.3389/faquc.2026.1885657).
 
 - **Laboratory Tests:**
-    - **PCR:** RT-PCR is used to detect viral nucleic acids [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Virus Isolation:** ISAV can be isolated in specific cell lines like SHK-1, ASK, CHSE-214, or TO cells [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Immunofluorescence:** Used to confirm the identity of isolated viruses [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
-    - **Droplet Digital PCR:** A newer method for quantifying ISAV in seawater samples [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/).
+    - **RT-qPCR and sequencing:** Positive samples are tested by RT-qPCR and the segment 6 HPR is sequenced to tell HPRΔ from HPR0, following the WOAH Manual of Diagnostic Tests for Aquatic Animals. A multiplex RT-qPCR can separate the two variants in a single reaction, which speeds up confirmation [19](https://doi.org/10.1177/10406387231223290).
+    - **Histopathology and immunohistochemistry:** Used together with PCR. Immunohistochemistry shows virus in the endothelial cells of the heart and other organs [21](https://doi.org/10.1186/1746-6148-4-28)[3](https://doi.org/10.3390/v13091770).
+    - **Virus isolation:** ISAV can be grown in cell lines such as CHSE-214 and SHK-1 from kidney and spleen, and confirmed by RT-PCR and indirect immunofluorescence (IFAT) [21](https://doi.org/10.1186/1746-6148-4-28).
+    - **Water sampling:** Droplet digital PCR detected ISAV shed into seawater from day 2 after a bath challenge, with a peak on day 11, one day before fish started dying [3](https://doi.org/10.3390/v13091770).
 
+- **Necropsy finding:** In the vaccinated Norwegian population, hydropericardium (fluid around the heart) was a specific predictor of ISA, although it was seen in only 13 of 952 moribund fish [33](https://doi.org/10.3389/faquc.2026.1885657).
 
 **Differential Diagnosis**
 
-- **Distinguishing ISA from Other Diseases:** It is crucial to differentiate ISA from other causes of anaemia and haemorrhages, as well as conditions like winter ulcer and septicaemias caused by *Moritella viscosa* [1](https://www.cfsph.iastate.edu/Factsheets/pdfs/infectious_salmon_anemia.pdf).
+- **Concurrent diseases:** In the first Chilean outbreak, the affected fish were recovering from [[Salmonid Rickettsial Septicaemia (SRS)]], and high mortalities from [[Amoebic Gill Disease (AGD)]] and flexibacteriosis ([[Tenacibaculosis (Tenacibaculum spp.)]]) at nearby sites added to the diagnostic confusion. Infectious haematopoietic necrosis and viral haemorrhagic septicaemia were ruled out by ELISA [21](https://doi.org/10.1186/1746-6148-4-28).
 
 ### Treatment and Prevention
 
 **Treatment Options**
-- Vaccines are currently available from pharmaceutical suppliers to the industry. [16](https://www.pharmaq.com/no/pharmaq/produkter/?species=Atlantisk+Laks&country=all&category=Injeksjonsvaksiner)
+
+- **No treatment:** There is no treatment for ISA [25](https://doi.org/10.1186/s13567-015-0265-1).
+
+**Vaccination**
+
+- **Vaccines:** In Norway, salmon are vaccinated in freshwater with a multicomponent injection vaccine containing five bacterial antigens, infectious pancreatic necrosis virus and, optionally, ISA virus. About 190 million doses containing ISA virus were dispensed in 2025 [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Field effect:** Vaccination helps reduce disease and virus shedding, but does not prevent outbreaks: in 2025 the fish were vaccinated at 7 of the 18 Norwegian sites with confirmed ISA. In a survey of Norwegian fish health staff, 4% rated the ISA vaccine effect as poor, 32% as moderate and 25% as good [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). In a vaccinated population followed through a full production cycle, cumulative mortality was 10% and mostly not caused by ISA, but ISAV-HPRΔ spread from four to all seven cages [33](https://doi.org/10.3389/faquc.2026.1885657).
 
 **Preventive Measures**
 
-- **Biosecurity Protocols:**
-    - Strict movement controls on suspect farms [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - Placing farms in the vicinity of an outbreak under surveillance [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-
-- **Farm Management Practices:**
-    - Compulsory slaughter and disinfection of infected farms [2](https://thefishsite.com/disease-guide/infectious-salmon-anaemia-isa).
-    - Regular monitoring of seawater for early detection of viral shedding [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471646/).
+- **Regulatory control:** ISAV-HPRΔ is a listed disease in Norway and the EU (category C+D+E), and WOAH lists infection with both HPRΔ and HPR0. An outbreak triggers a restriction zone made up of a protection zone (typically 5 to 10 km radius) and an outer surveillance zone [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). Detection of HPRΔ can lead to movement restrictions and depopulation of infected cages and sites [19](https://doi.org/10.1177/10406387231223290).
+- **Early detection and removal:** Successful control requires early detection and fast removal of infected fish. In Norway, restriction zones have had monthly inspections and sampling since 2015 [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025).
+- **Farm management:** Measures include surveillance, mandatory health reporting, rules for live fish transport, fallowing between generations, and biosecurity best practices [19](https://doi.org/10.1177/10406387231223290). Cleaning and disinfection of vessels that move fish matters, as ships can carry the virus between farms [27](https://doi.org/10.3201/eid0801.010144)[28](https://doi.org/10.1016/j.prevetmed.2025.106667).
+- **Controlling HPR0:** HPR0 is probably a significant risk factor for ISA outbreaks, and several 2025 Norwegian outbreaks were linked to HPR0 in the smolt farm that supplied the fish [32](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025). Biosecurity of water and air intakes in smolt farms helps keep HPR0 out [24](https://doi.org/10.3390/v13122428).
 
 ### Case Studies
 
@@ -310,3 +315,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [30] Barker, S. E., Bricknell, I. R., Covello, J., Purcell, S., Fast, M. D., Wolters, W., & Bouchard, D. A. (2019). Sea lice, *Lepeophtheirus salmonis* (Krøyer 1837), infected Atlantic salmon (*Salmo salar* L.) are more susceptible to infectious salmon anemia virus. *PLOS ONE*, *14*(1), e0209178. https://doi.org/10.1371/journal.pone.0209178
 
 [31] Groves, L., Whyte, S., Purcell, S., Michaud, D., Cai, W., Garber, A., & Fast, M. (2023). Temperature impacts Atlantic salmon's (*Salmo salar*) immunological response to infectious salmon anemia virus (ISAv). *Fish and Shellfish Immunology Reports*, *4*, 100099. https://doi.org/10.1016/j.fsirep.2023.100099
+
+[32] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (2026). *Fiskehelserapporten 2025* (Veterinærinstituttets rapportserie nr. 5a/2026). Veterinærinstituttet. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025
+
+[33] Patel, S. J., Dale, O. B., Fjellsøy, K. R., Bekkeli, K. E., Breck, O., Bendiktsen, R., Bornø, G., Brun, E., Jørgensen, L. G., Hellberg, H., Larsen, S., Kvalvik, H., & Moldal, T. (2026). Infectious salmon anemia in vaccinated Atlantic salmon: A field case study. *Frontiers in Aquaculture*, *5*, 1885657. https://doi.org/10.3389/faquc.2026.1885657
