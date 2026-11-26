@@ -1,16 +1,26 @@
 ---
 title: Heart and Muscle Inflammation (HSMI)
-description: Learn about Heart and Skeletal Muscle Inflammation (HSMI) in aquaculture fish like Atlantic salmon. Characterized by muscle lesions, cardiac damage, and lethargy, HSMI is caused by piscine orthoreovirus (PRV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+type: disease
+aliases:
+  - HSMI
+  - Heart and Skeletal Muscle Inflammation
+  - HSMB
+  - Hjerte- og skjelettmuskelbetennelse
+pathogen: Piscine orthoreovirus
+category: Viral
+description: Learn about Heart and Skeletal Muscle Inflammation (HSMI) in aquaculture fish like Atlantic salmon. Characterized by muscle lesions, cardiac damage, and lethargy, HSMI is caused by piscine orthoreovirus (PRV). Discover clinical signs, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
-  - HeartandSkeletalMuscleInflammation
+  - HeartAndSkeletalMuscleInflammation
+  - PiscineOrthoreovirus
+  - ViralDiseases
   - Virus
-  - ViralDisease
   - Salmonids
   - Salmon
   - AtlanticSalmon
   - CohoSalmon
   - Trout
   - RainbowTrout
+  - Norway
 ---
 ## Overview
 
@@ -38,7 +48,7 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
     - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss after an outbreak [7](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
     
 
-**Progression of Symptoms**
+**Progression of Clinical Signs**
 
 - **Early/Subclinical phase**: PRV primarily targets and replicates inside red blood cells (erythrocytes) early in the infection cycle. During peak disease, the virus spreads from blood cells to infect heart cardiomyocytes and red skeletal muscle cells [2](https://doi.org/10.1371/journal.pone.0011487)[5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb). Fish may develop substantial heart inflammation and damage without obvious external signs or increased mortality. Cardiac lesions can persist before and after a clinical outbreak [5](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
 
@@ -179,9 +189,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-26
 
-**Title:** Heart and Skeletal Muscle Inflammation
-**Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
-##### Viral Diseases
+**Tags:** #HeartAndSkeletalMuscleInflammation, #PiscineOrthoreovirus, #Salmonids, #Salmon, #AtlanticSalmon, #CohoSalmon, #Trout, #RainbowTrout, #Norway, #ViralDiseases, #Virus
+
+##### Other Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Infectious Pancreatic Necrosis (IPN)]]
 [[Infectious Salmon Anemia (ISA)]]
