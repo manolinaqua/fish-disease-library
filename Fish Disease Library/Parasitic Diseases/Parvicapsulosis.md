@@ -9,55 +9,56 @@ tags:
   - Salmon
   - AtlanticSalmon
   - Norway
+  - Canada
   - Parvicapsulapseudobranchicola
 ---
 ## Overview
 
 ### What is Parvicapsulosis?
-Parvicapsulosis is a parasitic disease caused by the marine myxozoan _Parvicapsula pseudobranchicola_, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). The parasite has a two-host life cycle involving the marine polychaete worm _Chaetozone setosa_ as its definitive host and salmonids as intermediate hosts [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[8](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). It infects farmed and wild Atlantic salmon (_Salmo salar_), Arctic char (_Salvelinus alpinus_), sea trout (_Salmo trutta_), and rainbow trout (_Oncorhynchus mykiss_), but clinical disease has only been documented in farmed Atlantic salmon [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/)[7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+Parvicapsulosis is a parasitic disease caused by the marine myxozoan _Parvicapsula pseudobranchicola_, which primarily infects the pseudobranchs of fish [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). The parasite has a two-host life cycle involving the marine polychaete worm _Chaetozone setosa_ as its definitive host and salmonids as intermediate hosts [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[4](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). It infects farmed and wild Atlantic salmon (_Salmo salar_), Arctic char (_Salvelinus alpinus_), sea trout (_Salmo trutta_), and rainbow trout (_Oncorhynchus mykiss_), but clinical disease has only been documented in farmed Atlantic salmon [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). 
 
-Heavy infections can cause severe inflammation and destruction of pseudobranch tissue and are associated with impaired vision, reduced feeding, poor growth, and mortality [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian Atlantic salmon farming, particularly in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). There is currently no effective treatment for parvicapsulosis [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+Heavy infections can cause severe inflammation and destruction of pseudobranch tissue and are associated with impaired vision, reduced feeding, poor growth, and mortality [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). The disease was first identified in Norway in 2002 and has since been a recurring problem in Norwegian Atlantic salmon farming, particularly in northern Norway [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). There is currently no effective treatment for parvicapsulosis [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ## Clinical Signs of Parvicapsulosis
 
 ### Common Signs
 
 - **Physical Signs:**
-    - **Pseudobranch Lesions:** Affected pseudobranchs (small gill-like structures situated on the inner wall of each opeculum) show marked swelling and inflammation, often covered with a whitish or yellowish exudate, and may also be replaced by ulcers [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[10](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
-    - **Eye Lesions & Blindness:** Damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, potentially causing impaired vision or blindness. Affected fish may also show crescent-shaped eye haemorrhages, cataracts, and protruding eyes (exophthalmia) [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
-    - **Anaemia**: Anaemia has been reported in fish affected by  parvicapsulosis, with reduced haematocrit levels [2](https://www.int-res.com/articles/dao2003/54/d054p259.pdf)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
-    - **Emaciation:** Significant weight loss and poor body condition, as  vision loss prevent them from feeding [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
-    - **Dark skin discoloration**: Affected fish may show darkened skin pigmentation [10](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
-    - **Liver discoloration:** Necropsy may reveal a pale or yellowish liver [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **Pseudobranch Lesions:** Affected pseudobranchs (small gill-like structures situated on the inner wall of each operculum) show marked swelling and inflammation, often covered with a whitish or yellowish exudate, and may also be replaced by ulcers [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[6](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Eye Lesions & Blindness:** Damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, potentially causing impaired vision or blindness. Affected fish may also show crescent-shaped eye haemorrhages, cataracts, and protruding eyes (exophthalmia) [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **Anaemia**: Anaemia has been reported in fish affected by parvicapsulosis, with reduced haematocrit levels [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[7](https://www.int-res.com/articles/dao2003/54/d054p259.pdf).
+    - **Emaciation:** Significant weight loss and poor body condition, as vision loss prevents affected fish from feeding [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Dark skin discoloration**: Affected fish may show darkened skin pigmentation [6](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Liver discoloration:** Necropsy may reveal a pale or yellowish liver [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 - **Behavioural Changes:**
-    - **Lethargy & Surface Aggregation:** Affected fish gather near the surface of sea cages and show sluggish, unresponsive behaviour [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
-    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[10](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
+    - **Lethargy & Surface Aggregation:** Affected fish gather near the surface of sea cages and show sluggish, unresponsive behaviour [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)[6](https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway).
     - **Abnormal Swimming Patterns:** Erratic or sluggish swimming occurs alongside a complete lack of response to visual challenges, approaching nets, or human presence due to blindness [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 
 **Progression of Symptoms**
 
-- The course of parvicapsulosis varies, and clinical signs do not necessarily follow a fixed sequence. Fish may become infected shortly after sea transfer, with disease developing slowly over approximately 4–6 months before clinical signs appear suddenly [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). 
-- In a longitudinal field study, Nylund et al. (2018) followed an Atlantic salmon cohort transferred to sea in August in northern Norway [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Clinical parvicapsulosis occurred from December to early February, coinciding with high parasite densities and inflammation in the pseudobranchs [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). This illustrates the delayed onset of clinical disease following infection, although the timing may differ between populations.
+- The course of parvicapsulosis varies, and clinical signs do not necessarily follow a fixed sequence. Fish may become infected shortly after sea transfer, with disease developing slowly over approximately 4–6 months before clinical signs appear suddenly [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). 
+- In a longitudinal field study, Nylund et al. (2018) followed an Atlantic salmon cohort transferred to sea in August in northern Norway [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). Clinical parvicapsulosis occurred from December to early February, coinciding with high parasite densities and inflammation in the pseudobranchs [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/). This illustrates the delayed onset of clinical disease following infection, although the timing may differ between populations.
 
-- **Impact on Fish Health:** The severity of parvicapsulosis varies considerably, from isolated cases in poorly performing fish to major outbreaks, with cage-level mortality reportedly reaching 40% [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). Severe damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, resulting in impaired vision or blindness [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Affected fish are often anaemic and may also show pathological changes in the liver and kidney [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Losses may be greater when other diseases occur alongside parvicapsulosis [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+- **Impact on Fish Health:** The severity of parvicapsulosis varies considerably, from isolated cases in poorly performing fish to major outbreaks, with cage-level mortality reportedly reaching 40% [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/). Severe damage to the pseudobranchs may reduce blood and oxygen supply to the eyes, resulting in impaired vision or blindness [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Affected fish are often anaemic and may also show pathological changes in the liver and kidney [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). Losses may be greater when other diseases occur alongside parvicapsulosis [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ### Causes of Parvicapsulosis
 
 **Etiology**
 
-- **Causative Agent:** *Parvicapsula pseudobranchicola*, a microscopic, multicellular marine parasite belonging to the class Myxosporea within the phylum Cnidaria [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)
+- **Causative Agent:** *Parvicapsula pseudobranchicola*, a microscopic, multicellular marine parasite belonging to the class Myxosporea within the phylum Cnidaria [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4)[2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
 - **Transmission Methods:**
-    - The parasite has a two-host life cycle involving salmonids as intermediate hosts and a marine polychaete worm as the final host [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). A recent study identified _Chaetozone setosa_ as the definitive host and provided experimental evidence supporting transmission to Atlantic salmon through exposure to actinospores [8](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). These findings help clarify the life cycle, although transmission dynamics under natural conditions require further investigation. 
-    - **Waterborne Actinospore Entry:** Infection is strictly waterborne. _C. setosa_ releases actinospores into the water column, which attach to the fish's skin using polar filaments discharged from polar capsules [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[8](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). 
+    - The parasite has a two-host life cycle involving salmonids as intermediate hosts and a marine polychaete worm as the final host [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). A recent study identified _Chaetozone setosa_ as the definitive host and provided experimental evidence supporting transmission to Atlantic salmon through exposure to actinospores [4](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). These findings help clarify the life cycle, although transmission dynamics under natural conditions require further investigation. 
+    - **Waterborne Actinospore Entry:** Infection is strictly waterborne. _C. setosa_ releases actinospores into the water column, which attach to the fish's skin using polar filaments discharged from polar capsules [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose)[4](https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub). 
 
 
 **Risk Factors**
 
-- **Sea Transfer Timing:** Infection pressure in seawater peaks during late summer and autumn (especially August and September) [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
-- **Geographic Range:** Severe clinical outbreaks are heavily concentrated in Northern Norway (Troms and Finnmark) and Iceland, likely driven by local benthic polychaete habitats and marine environmental conditions [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+- **Sea Transfer Timing:** Infection pressure in seawater peaks during late summer and autumn (especially August and September) [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+- **Geographic Range:** Severe clinical outbreaks are heavily concentrated in northern Norway (Troms and Finnmark), although the parasite is found along the whole Norwegian coast [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
 
 ### Diagnosis
 
@@ -66,8 +67,8 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 - **Clinical Examination:** Observation of physical and behavioural symptoms indicative of Parvicapsulosis.
 
 - **Laboratory Tests:**
-    - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
-    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in pseudobranchs, blood, kidney, and gill tissues [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/)
+    - **Histopathology:** Microscopic examination of pseudobranch tissues to identify characteristic lesions and parasites [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - **PCR (Polymerase Chain Reaction):** Real-time RT-PCR detects *Parvicapsula* genetic material in pseudobranchs, blood, kidney, and gill tissues [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
     - **In Situ Hybridization (ISH):** A sensitive method for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4).
 
 **Differential Diagnosis**
@@ -84,9 +85,9 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 
 - **Farm Management Practices:**
     
-    - **Environmental conditions and fish health**: Maintain good environmental conditions and stock healthy, robust smolt. Preventing and managing concurrent diseases may help reduce losses associated with parvicapsulosis [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
-    - **Welfare monitoring**: Monitor fish for impaired feeding, poor condition, and abnormal swimming. Severely affected fish, particularly those with impaired vision and progressive emaciation, should be promptly removed and humanely euthanised to prevent prolonged suffering [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
-    - **Sea-transfer timing**: Consider local infection risk when planning smolt transfers - infection pressure in seawater peaks in August and September [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Environmental conditions and fish health**: Maintain good environmental conditions and stock healthy, robust smolt. Preventing and managing concurrent diseases may help reduce losses associated with parvicapsulosis [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+    - **Welfare monitoring**: Monitor fish for impaired feeding, poor condition, and abnormal swimming. Severely affected fish, particularly those with impaired vision and progressive emaciation, should be promptly removed and humanely euthanised to prevent prolonged suffering [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Sea-transfer timing**: Consider local infection risk when planning smolt transfers - infection pressure in seawater peaks in August and September [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
     
 
 ### Case Studies
@@ -95,47 +96,43 @@ Heavy infections can cause severe inflammation and destruction of pseudobranch t
 
 - **Notable Outbreaks:**
     
-    - **Norway (2002):** Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification [4](https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269).
-    - **Field Experiment in Western Finnmark:** A study followed Atlantic salmon infections from  before sea-transfer to the end of production (604 days), providing insights into infection dynamics and tissue tropism [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - **Norway (2002):** Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - **Field Experiment in Western Finnmark:** A study followed Atlantic salmon infections from before sea-transfer to the end of production (604 days), providing insights into infection dynamics and tissue tropism [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
     
 - **Response Strategies and Outcomes:**
     
-    - **Norway:** Implementation of highly sensitive diagnostic tools, including real-time RT-PCR and and ISH assays for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4). Prompt removal and culling of surface-dwelling, lethargic fish, reduces pen burden, and maintains overall farm hygiene [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - **Norway:** Implementation of highly sensitive diagnostic tools, including real-time RT-PCR and ISH assays for detecting *P. pseudobranchicola* in paraffin-embedded tissue [1](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4). Fish that become blind develop into emaciated poor performers over time, so affected fish are removed from the cage and destroyed promptly [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
     
-- **Lessons Learned:** Management focuses on reducing impact rather than curing infection. No effective treatment or specific preventive measures are currently available. Further research is needed to understand how infection can be prevented or its impact reduced, and the pathophysiological effects of pseudobranch infection on fish health [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+- **Lessons Learned:** Management focuses on reducing impact rather than curing infection. No effective treatment or specific preventive measures are currently available. Further research is needed to understand how infection can be prevented or its impact reduced, and the pathophysiological effects of pseudobranch infection on fish health [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
 ## Data Insights
 ### Disease Impact by Country
 #### Canada
 
 - **Parvicapsulosis Incidence in Canada:**
-    - Molecular evidence of *P. pseudobranchicola* was reported in 13 out of 79 juvenile sockeye salmon and 12 out of 47 Chinook salmon in British Columbia [6](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
-    - In a study of 165 Pink salmon, 15% had molecular evidence of P. kabatai, 38% of *P. pseudobranchicola*, and approximately 10% had both parasites [6](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
+    - In autumn surveys of wild juvenile Pacific salmon near Vancouver Island, British Columbia, *P. pseudobranchicola* was detected in 91.8% of chum salmon, 85.9% of pink salmon, 68.8% of Chinook salmon and 8.3% of sockeye salmon [8](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05751-y).
+    - In farmed salmon, the parasite was not detected in Atlantic salmon (n = 967) but was found in 41% of farmed Chinook salmon (n = 118) [8](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05751-y).
 
-- **Geographical Spread:**
-    - The parasite has been detected in various salmon species in British Columbia, including in the Fraser River drainage basin and northern Vancouver Island [6](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
-- **Economic Impact:**
-    - No specific economic impact data for Canada was provided in the search results.
+- **Impact:**
+    - Heavy infections in wild Pacific salmon were inconsistently associated with focal inflammation of the pseudobranch. Unlike in Norway, the parasite is absent or rare in farmed Atlantic salmon, and the consequences of infection for wild Pacific salmon are still unknown [8](https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05751-y).
 
-- **Treatment & Management:**
-    - Research is ongoing to determine the prevalence, distribution, and impact of *P. pseudobranchicola* in B.C. farmed Atlantic salmon and wild Pacific salmon [6](https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html).
 #### Norway
 
 - **Parvicapsulosis Incidence in Norway:**
-    - Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification in 2002 [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
-    - All salmon in a studied population became infected with *P. pseudobranchicola* after sea-transfer in mid-August within 3 weeks post-sea-transfer [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - Parvicapsulosis has been a recurring problem in Norwegian salmonid farming since its first identification in 2002 [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - All salmon in a studied population became infected with *P. pseudobranchicola* after sea-transfer in mid-August within 3 weeks post-sea-transfer [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
 
 - **Geographical Spread:**
-    - The disease is particularly common in farmed Atlantic salmon in northern Norway (Troms and Finnmark) [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/).
-    - While severe clinical disease is primarily confined to the north, the parasite _P. pseudobranchicola_ is known to be present in both wild and farmed salmonids along the entire coast from Hordaland to Finnmark [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+    - The disease is particularly common in farmed Atlantic salmon in northern Norway (Troms and Finnmark) [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose).
+    - While severe clinical disease is primarily confined to the north, the parasite _P. pseudobranchicola_ is known to be present in both wild and farmed salmonids along the entire coast from Hordaland to Finnmark [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
 
 - **Economic Impact:**
-    - Parvicapsulosis can lead to significant economic losses due to high mortality rates and reduced growth performance [3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
-    - Heavy primary outbreaks can cause cage-level mortality rates reaching up to 40% due to direct disease impact and mandatory culling [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - Parvicapsulosis can lead to significant economic losses due to high mortality rates and reduced growth performance [2](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/).
+    - Heavy primary outbreaks can cause cage-level mortality rates reaching up to 40% [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
 
 - **Treatment & Management:**
-    - There are no specific treatments for Parvicapsulosis. Maintaining good environmental conditions and healthy, robust fish, while addressing concurrent diseases, may help reduce losses [7](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
-    - Prompt manual removal and culling of surface-dwelling, blind, or lethargic fish is recommended to reduce pen burden, improve welfare, and maintain farm hygiene [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
+    - There are no specific treatments for Parvicapsulosis. Maintaining good environmental conditions and healthy, robust fish, while addressing concurrent diseases, may help reduce losses [3](https://www.vetinst.no/sykdom-og-agens/parvicapsulose). 
+    - Affected fish should be removed from the cage and destroyed promptly, since blind fish cannot feed and gradually waste away [5](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/).
 
 ## Research and References
 
@@ -153,11 +150,11 @@ Recent studies on Parvicapsulosis in salmonids have focused on various aspects o
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4334612/)
 3. **"_Parvicapsula pseudobranchicola_ in the northeast Pacific Ocean is rare in farmed Atlantic salmon _Salmo salar_ despite widespread occurrence and pathology in wild Pacific salmon _Oncorhynchus_ spp."**  
     Authors: Jones, S., et al.  
-    Reference: Jones, S., et al. (2023). *Parvicapsula pseudobranchicola* in the northeast Pacific Ocean is genetically homogeneous and found in multiple species of wild Pacific salmon. Parasites & Vectors, 16, 177.  
+    Reference: Jones, S., et al. (2023). *Parvicapsula pseudobranchicola* in the northeast Pacific Ocean is rare in farmed Atlantic salmon *Salmo salar* despite widespread occurrence and pathology in wild Pacific salmon *Oncorhynchus* spp. Parasites & Vectors, 16, 138.  
     [Link to study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10122293/)
 4. “Identification of _Chaetozone setosa_ (Cirratulidae) as the definitive host in the life cycle of _Parvicapsula pseudobranchicola_ infecting Atlantic salmon (_Salmo salar_)”
     Authors: Erlingsdóttir, Á., & Kristmundsson, Á.
-    Reference: Erlingsdóttir, Á., & Kristmundsson, Á. (2026). Identification of _Chaetozone setosa_ (Cirratulidae) as the definitive host in the life cycle of _Parvicapsula pseudobranchicola_ infecting Atlantic salmon (_Salmo salar_). _International Journal for Parasitology, 56_(8), 
+    Reference: Erlingsdóttir, Á., & Kristmundsson, Á. (2026). Identification of _Chaetozone setosa_ (Cirratulidae) as the definitive host in the life cycle of _Parvicapsula pseudobranchicola_ infecting Atlantic salmon (_Salmo salar_). _International Journal for Parasitology, 56_(8), 104799.
     [Link to study](https://doi.org/10.1016/j.ijpara.2026.104799)
 
 These studies represent advancements in understanding the infection dynamics, genetic variation, detection methods, and geographical distribution of Parvicapsulosis in various regions, particularly in Norway and Canada.
@@ -173,9 +170,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-16
+**Last Modified:** 2026-11-26
 
-**Tags:** #Parvicapsulosis, #Parvicapsulapseudobranchicola, #Salmonids, #Salmon, #AtlanticSalmon,  #Norway, #Canada, #parasiticdisease, #parasite 
+**Tags:** #Parvicapsulosis, #Parvicapsulapseudobranchicola, #Salmonids, #Salmon, #AtlanticSalmon, #Norway, #Canada, #parasiticdisease, #parasite 
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
@@ -187,22 +184,17 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [1] https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-015-0718-4
 
-[2] https://www.int-res.com/articles/dao2003/54/d054p259.pdf
+[2] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/
 
-[3] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5756351/
+[3] https://www.vetinst.no/sykdom-og-agens/parvicapsulose
 
-[4] https://prosjektbanken.forskningsradet.no/en/project/FORISS/207269
+[4] https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub
 
 [5] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/
 
-[6] https://www.dfo-mpo.gc.ca/aquaculture/rp-pr/parr-prra/projects-projets/2019-p-03-eng.html
+[6] https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway
 
-[7] https://www.vetinst.no/sykdom-og-agens/parvicapsulose
+[7] https://www.int-res.com/articles/dao2003/54/d054p259.pdf
 
-[8] https://www.sciencedirect.com/science/article/pii/S0020751926000305?via%3Dihub 
-
-[9] https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/parvicapsulose/
-
-[10] https://www.researchgate.net/publication/288081350_Parvicapsula_pseudobranchicola_nsp_Myxozoa_a_myxosporidian_infecting_the_pseudobranch_of_cultured_Atlantic_salmon_Salmo_solar_in_Norway
+[8] https://parasitesandvectors.biomedcentral.com/articles/10.1186/s13071-023-05751-y
 - - -
-
