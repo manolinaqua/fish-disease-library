@@ -58,7 +58,7 @@ Internal changes are dominated by white, partly protruding nodules (granulomas) 
 
 ### Causes of Francisellosis (*Francisella noatunensis*)
 
-**Etiology**
+**Aetiology**
 
 - **Causative Agent:** Members of the genus *Francisella* are non-motile, Gram-negative, strictly aerobic, facultatively intracellular coccobacilli [2](https://doi.org/10.1186/1297-9716-42-47) [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/).
 - **Growth Requirements:** *F. noatunensis* is fastidious and, like all fish-pathogenic *Francisella*, requires cysteine. It cannot be cultured on routine media such as tryptone soya agar or blood agar without added cysteine. Isolates from both cod and salmon were recovered on cysteine heart agar with 5% ovine blood [2](https://doi.org/10.1186/1297-9716-42-47). Fish-pathogenic strains do not grow at 37 °C [2](https://doi.org/10.1186/1297-9716-42-47).
@@ -133,17 +133,17 @@ Several diseases produce multi-organ granulomas similar to francisellosis [2](ht
 
 Recent studies on *F. noatunensis* (2025–2026) have focused on how the host immune system detects the bacterium and on the genetic regulation of the pathogen itself:
 
-1. **"TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod"**
-    Authors: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., et al.
-    Reference: *Frontiers in Immunology*, 2026; *17*, 1798290.
-    Key findings: Atlantic cod has lost the MHC II system and the cell-surface Toll-like receptors that mammals use to detect bacteria. The teleost-specific receptors TLR14 and TLR25, thought to compensate at the cell surface, were found mainly in endolysosomes, where they colocalised with internalised *F. noatunensis* subsp. *noatunensis*. Only TLR25 moved to the perinuclear region on infection and triggered up-regulation of the pro-inflammatory cytokines IL-6 and IL-18.
-    [DOI: 10.3389/fimmu.2026.1798290](https://doi.org/10.3389/fimmu.2026.1798290)
+1. **"TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod"**  
+    Authors: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., Gosain, T. P., Jakobsen, K. S., Jentoft, S., Bakke, O., & Progida, C.  
+    Reference: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., Gosain, T. P., Jakobsen, K. S., Jentoft, S., Bakke, O., & Progida, C. (2026). TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod. *Frontiers in Immunology*, *17*, 1798290. https://doi.org/10.3389/fimmu.2026.1798290  
+    Key findings: Atlantic cod has lost the MHC II system and the cell-surface Toll-like receptors that mammals use to detect bacteria. The teleost-specific receptors TLR14 and TLR25, thought to compensate at the cell surface, were found mainly in endolysosomes, where they colocalised with internalised *F. noatunensis* subsp. *noatunensis*. Only TLR25 moved to the perinuclear region on infection and triggered up-regulation of the pro-inflammatory cytokines IL-6 and IL-18.  
+    [Link to study](https://doi.org/10.3389/fimmu.2026.1798290)
 
-2. **"Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*"**
-    Authors: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., et al.
-    Reference: *Aquaculture*, 2025; *594*, 741356.
-    Key findings: A comparison of 23 *F. noatunensis* and 77 *P. salmonis* genomes identified non-coding RNAs shared by both pathogens and others unique to each. Unique to *F. noatunensis* were two riboswitch families (flavin mononucleotide and lysine) and a small RNA at the start of the urease gene *ureB* that may regulate it, as a similar RNA does in *Helicobacter pylori*, where urease helps the bacterium survive acidic conditions.
-    [DOI: 10.1016/j.aquaculture.2024.741356](https://doi.org/10.1016/j.aquaculture.2024.741356)
+2. **"Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*"**  
+    Authors: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., Santander, J., Maracaja-Coutinho, V., & Yañez, A. J.  
+    Reference: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., Santander, J., Maracaja-Coutinho, V., & Yañez, A. J. (2025). Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*. *Aquaculture*, *594*, 741356. https://doi.org/10.1016/j.aquaculture.2024.741356  
+    Key findings: A comparison of 23 *F. noatunensis* and 77 *P. salmonis* genomes identified non-coding RNAs shared by both pathogens and others unique to each. Unique to *F. noatunensis* were two riboswitch families (flavin mononucleotide and lysine) and a small RNA at the start of the urease gene *ureB* that may regulate it, as a similar RNA does in *Helicobacter pylori*, where urease helps the bacterium survive acidic conditions.  
+    [Link to study](https://doi.org/10.1016/j.aquaculture.2024.741356)
 
 ## Conclusion
 
@@ -159,7 +159,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 **Last Modified:** 2026-10-02
 
 ##### Other Bacterial Diseases
+
+[[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
+[[Cold-Water Vibriosis (Aliivibrio salmonicida)]]
 [[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
