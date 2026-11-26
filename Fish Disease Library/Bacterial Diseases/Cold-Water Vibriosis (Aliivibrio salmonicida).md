@@ -123,11 +123,47 @@ Cold-water vibriosis became one of the most important bacterial diseases in salm
 
 ### Latest Research Findings
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+#### Pathogenesis and Virulence
+
+1. **"Chitinolytic enzymes contribute to the pathogenicity of *Aliivibrio salmonicida* LFI1238 in the invasive phase of cold-water vibriosis"**  
+    Authors: Skåne, A., Edvardsen, P. K., Cordara, G., Loose, J. S. M., Leitl, K. D., Krengel, U., Sørum, H., Askarian, F., & Vaaje-Kolstad, G.  
+    Reference: Skåne, A., Edvardsen, P. K., Cordara, G., Loose, J. S. M., Leitl, K. D., Krengel, U., Sørum, H., Askarian, F., & Vaaje-Kolstad, G. (2022). Chitinolytic enzymes contribute to the pathogenicity of *Aliivibrio salmonicida* LFI1238 in the invasive phase of cold-water vibriosis. *BMC Microbiology*, *22*, 194. https://doi.org/10.1186/s12866-022-02590-2  
+    Key findings: Challenge experiments with deletion mutants showed that the bacterium's two chitin-active enzymes (LPMOs), especially AsLPMO10B, are important in the invasive phase of cold-water vibriosis in Atlantic salmon. Without them, the bacterium struggled to adapt to salmon serum, which suggests the enzymes help it cope with the host's immune defences.  
+    [Link to study](https://doi.org/10.1186/s12866-022-02590-2)
+
+2. **"*Aliivibrio salmonicida* requires O-antigen for virulence in Atlantic salmon (*Salmo salar* L.)"**  
+    Authors: Nørstebø, S. F., Lotherington, L., Landsverk, M., Bjelland, A. M., & Sørum, H.  
+    Reference: Nørstebø, S. F., Lotherington, L., Landsverk, M., Bjelland, A. M., & Sørum, H. (2018). *Aliivibrio salmonicida* requires O-antigen for virulence in Atlantic salmon (*Salmo salar* L.). *Microbial Pathogenesis*, *124*, 322-331. https://doi.org/10.1016/j.micpath.2018.08.058  
+    Key findings: Mutants lacking the O-antigen of the lipopolysaccharide (LPS) lost their virulence in Atlantic salmon, although they could still invade the fish. LPS is therefore crucial for disease development at later stages of infection, possibly through survival in the blood or effects on the immune response.  
+    [Link to study](https://doi.org/10.1016/j.micpath.2018.08.058)
+
+3. **"A unique role of flagellar function in *Aliivibrio salmonicida* pathogenicity not related to bacterial motility in aquatic environments"**  
+    Authors: Nørstebø, S. F., Paulshus, E., Bjelland, A. M., & Sørum, H.  
+    Reference: Nørstebø, S. F., Paulshus, E., Bjelland, A. M., & Sørum, H. (2017). A unique role of flagellar function in *Aliivibrio salmonicida* pathogenicity not related to bacterial motility in aquatic environments. *Microbial Pathogenesis*, *109*, 263-273. https://doi.org/10.1016/j.micpath.2017.06.008  
+    Key findings: The flagellin subunit FlaA is the main one needed for motility. Surprisingly, the bacterium did not need motility to invade Atlantic salmon, but mutants without flagella or FlaA were less virulent after immersion challenge, which points to a more complex role of the flagella in disease.  
+    [Link to study](https://doi.org/10.1016/j.micpath.2017.06.008)
+
+#### Temperature Regulation
+
+4. **"The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*"**  
+    Authors: Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P.  
+    Reference: Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P. (2015). The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*. *BMC Microbiology*, *15*, 69. https://doi.org/10.1186/s12866-015-0402-z  
+    Key findings: The bacterium produces eight quorum-sensing signals (AHLs). Production was efficient at 6 and 12 °C but fell to less than 5% of the maximum at 16 °C, above its temperature limit for disease outbreaks.  
+    [Link to study](https://doi.org/10.1186/s12866-015-0402-z)
+
+#### Taxonomy and Identification
+
+5. **"Phylogenetic revision of the genus *Aliivibrio*: Intra- and inter-species variance among clusters suggest a wider diversity of species"**  
+    Authors: Klemetsen, T., Karlsen, C. R., & Willassen, N. P.  
+    Reference: Klemetsen, T., Karlsen, C. R., & Willassen, N. P. (2021). Phylogenetic revision of the genus *Aliivibrio*: Intra- and inter-species variance among clusters suggest a wider diversity of species. *Frontiers in Microbiology*, *12*, 626759. https://doi.org/10.3389/fmicb.2021.626759  
+    Key findings: An analysis of 143 strains, 51 of them newly sequenced, defined 12 clades in the genus *Aliivibrio*. The genes *gyrB*, *pyrH* and *recA* separated most species better than the 16S rRNA gene, which matters when identifying *Aliivibrio salmonicida* among closely related species.  
+    [Link to study](https://doi.org/10.3389/fmicb.2021.626759)
 
 ## Conclusion
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+Cold-water vibriosis is a haemorrhagic septicaemia of farmed Atlantic salmon, rainbow trout and Atlantic cod that occurs in cold seawater, usually below 10 °C. It was once one of the most important bacterial diseases in Norwegian salmon farming, but vaccination since the late 1980s has brought it under near-complete control, and there have been no outbreaks in Norway since 2013.
+
+The outbreaks of 2012-2013 in vaccinated fish show that the disease can return, and most cases since vaccination began have been in market-size fish, when protection from vaccination has declined. The bacterium can also persist in farm water and sediment without causing disease. Vaccination therefore remains the main control measure, and cold-water vibriosis should be suspected whenever a septicaemic picture appears at low seawater temperatures. Warmer winters may reduce its importance further in the future.
 
 ### Call to Action
 
