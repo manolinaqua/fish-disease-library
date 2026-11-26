@@ -32,7 +32,7 @@ Francisellosis is a systemic, chronic, granulomatous bacterial disease of fish. 
 
 The warm-water agent of francisellosis in tilapia (*Oreochromis* spp.), formerly *F. noatunensis* subsp. *orientalis*, is now a separate species, *Francisella orientalis* [3](https://doi.org/10.1099/ijsem.0.004009), and is not covered in this chapter.
 
-In Chile, the first records of the disease date back to 1994, in Atlantic salmon farmed in lakes. The organism was initially called UA2 (unknown agent 2) and later U2 (unknown 2). The disease re-emerged in 2006, again in lake-farmed Atlantic salmon [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/). The bacterium was identified as a *Francisella* sp. in 2007 [4](https://doi.org/10.1111/j.1365-2761.2007.00837.x). In Norway, francisellosis was described as a novel systemic granulomatous disease of farmed Atlantic cod in 2006 [5](https://doi.org/10.1111/j.1365-2761.2006.00714.x), although a retrospective study confirmed the disease in wild North Sea cod as early as the 1980s [2](https://doi.org/10.1186/1297-9716-42-47).
+In Chile, the first records of the disease date back to 1994, in Atlantic salmon farmed in lakes, with some cases also seen in estuaries and at sea in the first 4 to 6 weeks after transfer [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/). The organism, isolated from Atlantic salmon in Lake Llanquihue in the mid-1990s, was called "unidentified agent 2" (UA2 or U2) to distinguish it from *Piscirickettsia salmonis* [6](https://doi.org/10.4067/S0301-732X2009000300008). The disease re-emerged in 2006, mainly in lake-farmed Atlantic salmon [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/) [6](https://doi.org/10.4067/S0301-732X2009000300008). The bacterium was identified as a *Francisella* sp. in 2007 [4](https://doi.org/10.1111/j.1365-2761.2007.00837.x). In Norway, francisellosis was described as a novel systemic granulomatous disease of farmed Atlantic cod in 2006 [5](https://doi.org/10.1111/j.1365-2761.2006.00714.x), although a retrospective study confirmed the disease in wild North Sea cod as early as the 1980s [2](https://doi.org/10.1186/1297-9716-42-47).
 
 ## Clinical Signs of Francisellosis (*Francisella noatunensis*)
 
@@ -40,21 +40,22 @@ In Chile, the first records of the disease date back to 1994, in Atlantic salmon
 
 - **Physical Signs:**
     - The disease may become highly prevalent in a population before any noticeable change in fish appearance or behaviour. In severely affected fish, initial signs include emaciation, dark colouration, and raised haemorrhagic nodules [2](https://doi.org/10.1186/1297-9716-42-47).
-    - In Atlantic salmon, affected fish show no external clinical signs. Internally, there is hepatomegaly, renomegaly, and splenomegaly, with a variable presence of white nodules in a focal to coalescing distribution. Haemorrhages in the swim bladder are occasionally seen [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/).
+    - In Atlantic salmon, affected fish show no external clinical signs [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/), although anorexia, lethargy, and erratic swimming at the surface were reported during the 2006 outbreaks in Lake Llanquihue [6](https://doi.org/10.4067/S0301-732X2009000300008).
     - In Atlantic cod, the spleen is generally enlarged, and serohaemorrhagic ascites and a thickened intestinal mucosa may be observed [2](https://doi.org/10.1186/1297-9716-42-47).
 
 **Gross Pathology**
 
 Internal changes are dominated by white, partly protruding nodules (granulomas) of various sizes in the spleen, kidney, and liver. Almost any other tissue may be affected, including the gill, heart, testes, musculature, brain, and eye [2](https://doi.org/10.1186/1297-9716-42-47). In Atlantic salmon from Chile, the following findings have been documented [1](https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/):
 
+- Enlarged liver, kidney, and spleen (hepatomegaly, renomegaly, and splenomegaly).
 - Multiple white nodules in the liver, in some cases with congestion of the visceral fat.
-- Haemorrhages in the swim bladder.
+- Occasional haemorrhages in the swim bladder.
 - Multiple focal to coalescing nodules in the spleen, some protruding from the surface and giving the organ a mulberry-like (morula) appearance.
 
 **Progression of Clinical Signs**
 
 - **Chronic Course:** Francisellosis usually follows a long, chronic course, particularly in cold-water species such as cod. In a cohabitation challenge at 12 °C, all cohabitant cod were infected after 38 days and all showed severe macroscopic disease after five months, yet few fish died [2](https://doi.org/10.1186/1297-9716-42-47).
-- **Impact on Fish Health:** Reported mortality ranges from 5–20% in Atlantic salmon [2](https://doi.org/10.1186/1297-9716-42-47) [6](https://doi.org/10.4067/S0301-732X2009000300008) to up to 40% in cod, although such acute mortality is rarely seen in the field. Mixed infections with other bacteria can significantly increase mortality [2](https://doi.org/10.1186/1297-9716-42-47).
+- **Impact on Fish Health:** Reported mortality ranges from 5–20% in Atlantic salmon [2](https://doi.org/10.1186/1297-9716-42-47) [6](https://doi.org/10.4067/S0301-732X2009000300008) to up to 40% in cod, although such acute mortality is rarely seen in the field. Higher water temperatures generally make the disease more acute, and mixed infections with other bacteria may also significantly affect mortality [2](https://doi.org/10.1186/1297-9716-42-47).
 
 ### Causes of Francisellosis (*Francisella noatunensis*)
 
@@ -174,7 +175,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] Godoy, M. (n.d.). *Franciselosis en salmón del Atlántico (Salmo salar): Patología macroscópica*. https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/
+[1] Godoy, M. (2011, May 16). *Franciselosis en salmón del Atlántico (Salmo salar): Patología macroscópica*. https://marcosgodoy.com/franciselosis-en-salmon-del-atlantico-salmo-salar-patologia-macroscopica/
 
 [2] Colquhoun, D. J., & Duodu, S. (2011). *Francisella* infections in farmed and wild aquatic organisms. *Veterinary Research*, *42*, 47. https://doi.org/10.1186/1297-9716-42-47
 
