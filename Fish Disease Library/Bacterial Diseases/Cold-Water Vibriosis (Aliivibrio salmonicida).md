@@ -44,11 +44,22 @@ Cold-water vibriosis became one of the most important bacterial diseases in salm
 
 **Aetiology**
 
-- **Causative Agent:** *Aliivibrio salmonicida* (formerly *V. salmonicida*), the cause of cold-water vibriosis in salmonids, shares the general features of *Vibrio* spp. but is adapted to low seawater temperatures (grows best at 12-15 °C).[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Causative Agent:** *Aliivibrio salmonicida* is a facultatively anaerobic, Gram-negative rod. It is a purely marine organism that needs extra salt in the culture medium to grow, and it grows best at low temperatures (12-15 °C).[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Its virulence is relatively low, so fairly high infectious doses are needed to cause disease.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Temperature-Dependent Virulence:** Several virulence-related traits work only at low temperatures. The bacterium produces significant amounts of its iron-scavenging siderophore only at 10 °C or below, even though it grows best at 12 °C when iron is scarce.[11](https://doi.org/10.1006/mpat.2001.0464) Production of its quorum-sensing signals drops sharply above 12 °C, to less than 5% of the maximum at 16 °C.[12](https://doi.org/10.1186/s12866-015-0402-z) Its regulation of biofilm formation is also weak or absent above the temperature limit for disease.[2](https://doi.org/10.1128/aem.01239-14)
+- **Course of Infection:** After bath challenge, the bacterium reaches the blood within 2 hours without first colonising the fish, and it multiplies in the blood.[10](https://doi.org/10.1016/j.micpath.2011.10.007) Motility is needed to enter the fish, but not afterwards.[10](https://doi.org/10.1016/j.micpath.2011.10.007) In experimentally infected fish, the bacterium can circulate in the blood for 5-10 days before clinical signs appear, and its first targets are the endothelial cells of the capillaries and the white blood cells.[4](https://doi.org/10.3389/fmicb.2013.00401) No extracellular toxin has been identified, and the extensive haemolysis may be caused by the fish's own immune response.[4](https://doi.org/10.3389/fmicb.2013.00401)
+
+**Transmission**
+
+- **Routes of Infection:** The bacterium spreads through the water and from infected fish. It enters through the gills, and wounds appear to make infection easier.[13](https://doi.org/10.1111/j.1365-2761.1987.tb00714.x)
+- **Shedding from the Gut:** In prolonged cases, *Aliivibrio salmonicida* becomes the dominant bacterium in the gut and is released into the water, so the intestine may act as a reservoir that favours its survival and transmission.[10](https://doi.org/10.1016/j.micpath.2011.10.007)
+- **Reservoir and Carriers:** The natural reservoir is unknown, but the bacterium has been found in water and sediment near affected farms.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) In a survey of 12 Norwegian farms in 1988-1989, it was found in the water of all of them, most often in winter, although no outbreaks were reported. The authors proposed an asymptomatic carrier state.[14](https://doi.org/10.1139/m91-105) Once the bacterium is established in a salmon population, it probably multiplies in the fish, raising the infection pressure until disease develops.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Between Species:** Plasmid profiling showed that the bacterium was transmitted from Atlantic salmon to cod, and vice versa, in farms in northern Norway.[15](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
 
 **Risk Factors**
 
-- **Environmental Factors:** *A. salmonicida* causes cold-water vibriosis where disease usually develops when seawater is below 12 °C.[2](https://doi.org/10.1128/aem.01239-14)
+- **Low Water Temperature:** Disease normally requires seawater below 12 °C,[2](https://doi.org/10.1128/aem.01239-14) and outbreaks usually occur below 10 °C, peaking in late winter and spring. Once the disease is established on a farm, losses can continue as the temperature rises and return when it falls again in autumn and early winter.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Waning Vaccine Protection:** Since vaccines were introduced, most of the few cases in salmon have been in market-size fish, probably because immunity declines when a long time has passed since vaccination.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **High Infection Pressure:** Rainbow trout and Atlantic cod develop outbreaks mainly when infection pressure is high.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 ### Diagnosis
 
@@ -127,3 +138,15 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [8] Waagbø, R., Sandnes, K., Espelid, S., & Lie, Ø. (1988). Haematological and biochemical analyses of Atlantic salmon, *Salmo salar* L., suffering from coldwater vibriosis ('Hitra disease'). *Journal of Fish Diseases, 11*(5), 417-423. https://doi.org/10.1111/j.1365-2761.1988.tb00737.x
 
 [9] Totland, G. K., Nylund, A., & Holm, K. O. (1988). An ultrastructural study of morphological changes in Atlantic salmon, *Salmo salar* L., during the development of cold water vibriosis. *Journal of Fish Diseases, 11*(1), 1-13. https://doi.org/10.1111/j.1365-2761.1988.tb00518.x
+
+[10] Bjelland, A. M., Johansen, R., Brudal, E., Hansen, H., Winther-Larsen, H. C., & Sørum, H. (2012). *Vibrio salmonicida* pathogenesis analyzed by experimental challenge of Atlantic salmon (*Salmo salar*). *Microbial Pathogenesis, 52*(1), 77-84. https://doi.org/10.1016/j.micpath.2011.10.007
+
+[11] Colquhoun, D. J., & Sørum, H. (2001). Temperature dependent siderophore production in *Vibrio salmonicida*. *Microbial Pathogenesis, 31*(5), 213-219. https://doi.org/10.1006/mpat.2001.0464
+
+[12] Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P. (2015). The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*. *BMC Microbiology, 15*, 69. https://doi.org/10.1186/s12866-015-0402-z
+
+[13] Hjeltnes, B., Andersen, K., Ellingsen, H.-M., & Egidius, E. (1987). Experimental studies on the pathogenicity of a *Vibrio* sp. isolated from Atlantic salmon, *Salmo salar* L., suffering from Hitra disease. *Journal of Fish Diseases, 10*(1), 21-27. https://doi.org/10.1111/j.1365-2761.1987.tb00714.x
+
+[14] Enger, Ø., Husevåg, B., & Goksøyr, J. (1991). Seasonal variation in presence of *Vibrio salmonicida* and total bacterial counts in Norwegian fish-farm water. *Canadian Journal of Microbiology, 37*(8), 618-623. https://doi.org/10.1139/m91-105
+
+[15] Sørum, H., Hvaal, A. B., Heum, M., Daae, F. L., & Wiik, R. (1990). Plasmid profiling of *Vibrio salmonicida* for epidemiological studies of cold-water vibriosis in Atlantic salmon (*Salmo salar*) and cod (*Gadus morhua*). *Applied and Environmental Microbiology, 56*(4), 1033-1037. https://doi.org/10.1128/aem.56.4.1033-1037.1990
