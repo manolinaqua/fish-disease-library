@@ -7,29 +7,33 @@ aliases:
   - Hitrasyke
   - Kaldtvannsvibriose
   - Vibrio salmonicida infection
+  - Vibrio salmonicida
+  - CWV
 pathogen: Aliivibrio salmonicida
 category: Bacterial
-description: Learn about cold-water vibriosis (Hitra disease), a bacterial disease of farmed Atlantic salmon caused by Aliivibrio salmonicida at low seawater temperatures. Discover clinical signs, causes, diagnosis, vaccination and its history in Norway.
+description: Learn about cold-water vibriosis (Hitra disease), a haemorrhagic septicaemia caused by Aliivibrio salmonicida at low seawater temperatures in farmed Atlantic salmon, rainbow trout and Atlantic cod. Discover clinical signs, causes, diagnosis, vaccination and its history in Norway.
 tags:
   - ColdWaterVibriosis
   - AliivibrioSalmonicida
   - AtlanticSalmon
+  - RainbowTrout
+  - AtlanticCod
   - Norway
   - BacterialDiseases
 ---
 ## Overview
 
-### What is Cold-Water Vibriosis (Aliivibrio salmonicida)?
+### What is Cold-Water Vibriosis (*Aliivibrio salmonicida*)?
 
 Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis" (see [[Vibriosis (Vibrio spp.)]]), and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold-water vibriosis/Hitra disease".[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
-## Clinical Signs of Cold-Water Vibriosis (Aliivibrio salmonicida)
+## Clinical Signs of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
 ### Common Signs
 
 *No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
 
-### Causes of Cold-Water Vibriosis (Aliivibrio salmonicida)
+### Causes of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
 **Aetiology**
 
@@ -85,7 +89,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ##### Other Bacterial Diseases
 
+[[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
+[[Francisellosis (Francisella noatunensis)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
