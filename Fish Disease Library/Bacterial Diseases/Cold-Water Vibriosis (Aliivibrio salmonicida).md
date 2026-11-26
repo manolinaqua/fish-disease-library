@@ -25,13 +25,20 @@ tags:
 
 ### What is Cold-Water Vibriosis (*Aliivibrio salmonicida*)?
 
-Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis" (see [[Vibriosis (Vibrio spp.)]]), and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold-water vibriosis/Hitra disease".[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+Cold-water vibriosis, also called Hitra disease, is a haemorrhagic septicaemia caused by the Gram-negative bacterium *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*). It is primarily a disease of farmed Atlantic salmon, but rainbow trout and Atlantic cod can also have outbreaks when infection pressure is high.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Outbreaks usually occur at water temperatures below 10 °C, mainly from late autumn to early spring.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [4](https://doi.org/10.3389/fmicb.2013.00401) This sets it apart from classical vibriosis (see [[Vibriosis (Vibrio spp.)]]), which mostly occurs at rising and relatively high water temperatures.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+
+Cold-water vibriosis became one of the most important bacterial diseases in salmon farming, and the lack of a vaccine held back Atlantic salmon farming until an effective vaccine arrived in the late 1980s.[5](https://doi.org/10.1111/jfd.12465) The disease reappeared in vaccinated salmon in 2011, but there have been no outbreaks in Norway since 2013, and the Norwegian Veterinary Institute did not detect it in any material submitted in 2025.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [5](https://doi.org/10.1111/jfd.12465) [6](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
 
 ## Clinical Signs of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
 ### Common Signs
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+- **Course of Disease:** Outbreaks typically develop subacutely. The fish lose their appetite and weak, slow-swimming fish ("svimere") appear. Daily losses are usually low at first but can increase gradually, and total mortality can become very high if the outbreak is not treated.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **External Signs:** Pale gills and pinpoint haemorrhages in the skin, especially on the belly and at the base of the fins.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Diseased fish show apathetic behaviour.[8](https://doi.org/10.1111/j.1365-2761.1988.tb00737.x)
+- **Internal Findings:** Blood-tinged fluid in the abdominal cavity, haemorrhages in the swim bladder and visceral fat, and a pale liver, grey-brown to yellow.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Fluid in the pericardial sac and degeneration of skeletal and heart muscle are also common.[7](https://doi.org/10.1111/j.1365-2761.1985.tb00957.x)
+- **Blood and Organ Changes:** Diseased fish are severely anaemic, and their liver and spleen are enlarged relative to body weight.[8](https://doi.org/10.1111/j.1365-2761.1988.tb00737.x)
+- **Histopathology:** Damage starts in the endothelial cells lining the capillaries, and the bacteria are also found inside white blood cells early in the disease. The degree of tissue damage follows the number of bacteria present and is most severe in tissues with a rich blood supply.[9](https://doi.org/10.1111/j.1365-2761.1988.tb00518.x)
+- **Typical Post-Mortem Picture:** A septicaemic picture with a general bleeding tendency, anaemia and a discoloured liver points to cold-water vibriosis, especially when the outbreak occurs at low seawater temperatures.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 ### Causes of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
@@ -108,3 +115,15 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [2] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in *Vibrio* (*Aliivibrio*) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
 
 [3] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
+
+[4] Bjelland, A. M., Fauske, A. K., Nguyen, A., Orlien, I. E., Østgaard, I. M., & Sørum, H. (2013). Expression of *Vibrio salmonicida* virulence genes and immune response parameters in experimentally challenged Atlantic salmon (*Salmo salar* L.). *Frontiers in Microbiology, 4*, 401. https://doi.org/10.3389/fmicb.2013.00401
+
+[5] Kashulin, A., Seredkina, N., & Sørum, H. (2017). Cold-water vibriosis. The current status of knowledge. *Journal of Fish Diseases, 40*(1), 119-126. https://doi.org/10.1111/jfd.12465
+
+[6] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 8.9, Other Bacterial Infections, by D. J. Colquhoun, A. B. Olsen, & H. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+
+[7] Fjølstad, M., & Heyeraas, A. L. (1985). Muscular and myocardial degeneration in cultured Atlantic salmon, *Salmo salar* L., suffering from 'Hitra disease'. *Journal of Fish Diseases, 8*(4), 367-372. https://doi.org/10.1111/j.1365-2761.1985.tb00957.x
+
+[8] Waagbø, R., Sandnes, K., Espelid, S., & Lie, Ø. (1988). Haematological and biochemical analyses of Atlantic salmon, *Salmo salar* L., suffering from coldwater vibriosis ('Hitra disease'). *Journal of Fish Diseases, 11*(5), 417-423. https://doi.org/10.1111/j.1365-2761.1988.tb00737.x
+
+[9] Totland, G. K., Nylund, A., & Holm, K. O. (1988). An ultrastructural study of morphological changes in Atlantic salmon, *Salmo salar* L., during the development of cold water vibriosis. *Journal of Fish Diseases, 11*(1), 1-13. https://doi.org/10.1111/j.1365-2761.1988.tb00518.x
