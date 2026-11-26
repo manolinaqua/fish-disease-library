@@ -254,17 +254,5 @@ Have pictures, research, or insights to share? Spotted something incorrect? [Get
 
 [14] Marcos-Lopez, M., Scholz, F., Mitchell, S., & Rodger, H. (2017). Gill health in Ireland in 2016. In _International Gill Health Initiative 2017: Abstracts_ (p. 7). University of Bergen. https://www.gov.scot/binaries/content/documents/govscot/publications/foi-eir-release/2018/03-a/foi-18-00469/documents/foi-18-00469-related-documents-handwritten-notes-part-1-pdf/foi-18-00469-related-documents-handwritten-notes-part-1-pdf/govscot%3Adocument/FOI-18-00469%2B-%2Brelated%2Bdocuments%2Bwith%2Bhandwritten%2Bnotes%2B-%2Bpart%2B1.pdf
 
-
-
-
-
-
-
-
-
-
-
-
-
 ---
 
