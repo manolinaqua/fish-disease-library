@@ -201,7 +201,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
 [[Caligidosis (Caligus rogercresseyi)]]
-[[Paranucleosporosis]]
+[[Paranucleospora theridion]]
 [[Parvicapsulosis]]
 [[Proliferative Gill Disease]]
 
