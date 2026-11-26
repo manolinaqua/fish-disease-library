@@ -22,10 +22,14 @@ Nephrocalcinosis is the term for an abnormal accumulation of mineral deposits wi
 
 - **Physical Signs:**
 	- **No obvious external signs:** Severe cases may be visible on dissection, but most cases are mild and can only be detected through histology [7](https://www.fhf.no/prosjekter/prosjektbasen/901588/), [6](https://www.sciencedirect.com/science/article/pii/S0044848622002204)
-    - **Kidney Lesions:** pronounced kidney lesions with a marbling and whitish mottling appearance, which are largely calcium deposits: confirmed histologically by von Kossa staining [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/). 
+    - **Kidney Lesions:** pronounced kidney lesions with a marbling and whitish mottling appearance, which are largely calcium deposits: confirmed histologically by von Kossa staining (Figure 1) [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/). 
     - **Calcified deposits** may appear as white longitudinal stripes in the kidney, or as mineralised material in the pseudobranch (the fish's reduced first gill arch) and stomach wall [8](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2025/norwegian-fish-health-report-2024/_/attachment/inline/6b11b72c-ee8f-4529-921f-1a3d85dc419e:2d59843d7c1e34e9200669ae47f2974d8ee51b6a/Fish%20Health%20Report%202024.pdf). 
 	- **Renal casts**: Plugs of material visible, with the naked eye, within the tubles or ducts [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/).
     
+
+**Figure 1.** Opened Atlantic salmon from Norway showing the kidney along the spine with whitish deposits, consistent with nephrocalcinosis. Photo: Samaneh Mousavi.
+
+![[attachments/nephrocalcinosis_kidney_norway.jpg]]
 
 - **Behavioural Changes:**
     - **Lethargy:** Reduced activity and lethargy [4](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10157097/).
@@ -165,7 +169,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-06-02
+**Last Modified:** 2026-11-26
 
 **Tags:** #Nephrocalcinosis, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #environmentalconditions 
 

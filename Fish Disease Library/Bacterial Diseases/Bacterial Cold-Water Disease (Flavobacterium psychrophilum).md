@@ -57,9 +57,14 @@ The disease has other names. Low-temperature disease was an early North American
 - **Physical Signs:**
     - Affected fish show haemorrhage (mouth, dorsal fin, operculum, pelvic fin, trunk), splenomegaly with blurred spleen margins, trunk lesions, and an eroded tail and mouth [6](https://doi.org/10.1186/s13567-017-0448-z).
     - Affected fish often show increased dark pigmentation, particularly towards the tail ("black tail") [9](https://doi.org/10.2174/1874401X01104010040).
-    - Ulcerative lesions typically start around the adipose fin and progressively extend over the whole caudal peduncle [2](https://doi.org/10.1371/journal.pone.0039126). In severe cases the ulcer leaves the vertebral column fully exposed [1](https://doi.org/10.1016/j.jare.2014.10.009).
+    - Ulcerative lesions typically start around the adipose fin and progressively extend over the whole caudal peduncle (Figure 1) [2](https://doi.org/10.1371/journal.pone.0039126). In severe cases the ulcer leaves the vertebral column fully exposed [1](https://doi.org/10.1016/j.jare.2014.10.009).
     - Other reported signs include lower jaw ulcers, pale or necrotic gills, increased mucus production, exophthalmia, anaemia, ascites, and a pale liver and kidney [9](https://doi.org/10.2174/1874401X01104010040).
     - In coho salmon reaching the grow-out phase in estuarine water, clinical signs are similar to those of the freshwater phase. Affected fish show descaling, erosions, and single or multiple ulcers with yellow pigmentation and white or haemorrhagic borders. The yellow colour comes from flexirubin, a pigment characteristic of the genus *Flavobacterium* [10](https://marcosgodoy.com/flavobacteriosis-en-salmon-coho-oncorhynchus-kisutch-en-estuario-patologia-macroscopica/).
+
+**Figure 1.** Atlantic salmon smolts with bacterial cold-water disease (*Flavobacterium psychrophilum*) from a freshwater farm in the Los Lagos Region, Chile (2026). The upper fish shows an ulcer on the caudal peduncle exposing the underlying muscle, and the lower fish shows a deep ulcer on the flank with petechial haemorrhages along the back. Photo: Agustín Piña Elgueda.
+
+![[attachments/bcwd_ulcers_atlantic_salmon_smolts.jpg]]
+
 - **Behavioural Signs:** Fish are lethargic, and nervous disorders such as spiral swimming have been reported [9](https://doi.org/10.2174/1874401X01104010040).
 
 **Progression of Clinical Signs**
@@ -304,7 +309,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-15
+**Last Modified:** 2026-11-26
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]

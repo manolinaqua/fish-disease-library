@@ -25,9 +25,13 @@ HSMI has so far been documented only in farmed Atlantic salmon and is caused by 
 - **Physical Signs:**
     - **Cardiac Damage:** Inflammation and damage to the heart  muscle, affecting its function. The heart may appear pale, and fluid or blood may accumulate in the pericardial cavity surrounding the heart [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
     - **Ascites**: Fluid may accumulate in the abdominal cavity [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
-    - **Liver discolouration**: The liver may appear pale or yellowish and may show congestion associated with circulatory failure (see a reddened margin). A thin layer of fibrin may sometimes cover the liver surface [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
+    - **Liver discolouration**: The liver may appear pale or yellowish and may show congestion associated with circulatory failure (see a reddened margin). A thin layer of fibrin may sometimes cover the liver surface (Figure 1) [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb)[8](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/hsmb-hjerte-og-skjelettmuskelbetennelse/).
     - **Enlarged spleen**: Swelling of the spleen may be observed [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
     - **Petechial haemorrhages**: Small petechial haemorrhages may occur in the fat surrounding the internal organs [6](https://www.vetinst.no/sykdom-og-agens/hjerte-og-skjelettmuskelbetennelse-hsmb).
+
+**Figure 1.** Opened abdominal cavity of an Atlantic salmon with suspected HSMI from a sea farm in Norway, showing a discoloured liver behind the pectoral fin. Photo: Samaneh Mousavi.
+
+![[attachments/hsmi_liver_discolouration_norway.jpg]]
 
 - **Behavioural Changes:**
     - **Abnormal Swimming And Lethargy:** Fish may display weakened swimming due to muscle damage, where they may gather near cage walls and water surface [1](https://pubmed.ncbi.nlm.nih.gov/15264718/)[2](https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0011487).
@@ -173,8 +177,9 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
+**Last Modified:** 2026-11-26
+
 **Title:** Heart and Skeletal Muscle Inflammation
-**Date:** 2026-22-10
 **Tags:** #HeartandSkeletalMuscleInflammation, #HSMI, #Salmonids #Salmon, #AtlanticSalmon, #CohoSalmon #PiscineOrthoreovirus, #PRV, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]

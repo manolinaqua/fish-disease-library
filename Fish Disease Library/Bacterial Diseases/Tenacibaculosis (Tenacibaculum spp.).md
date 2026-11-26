@@ -54,13 +54,25 @@ Tenacibaculosis is a bacterial ulcerative disease caused by multiple species wit
 ### Common Signs
 
 - **Physical Signs:**
-    - **Skin Ulcers:** Deep, necrotic ulcers on the skin often surrounded by a darkened area or zone of yellow. Ulcers often found around the mouth, head, fins, and body (for pictures, see Sandoval [6](https://fishhistopathology.com/?p=2369))
+    - **Skin Ulcers:** Deep, necrotic ulcers on the skin often surrounded by a darkened area or zone of yellow. Ulcers often found around the mouth, head, fins, and body (Figures 1 and 2; for more pictures, see Sandoval [6](https://fishhistopathology.com/?p=2369))
     - **Fin Erosion:** Fraying and degradation of the fins, especially the caudal (tail) fin [7](https://doi.org/10.3390/pathogens9121029)
     - **Haemorrhages:** Reddened areas on the skin and fins due to bleeding [7](https://doi.org/10.3390/pathogens9121029)
     - **Gill lesions:** erosion and necrosis with little inflammation [8](https://fishhistopathology.com/?p=2550)
     - **Systemic infections** may occur depending on the specific isolate, though *Tenacibaculum* is primarily characterized as a superficial infection targeting the skin, fins, and gills [8](https://fishhistopathology.com/?p=2550)
-    - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [9](https://doi.org/10.1371/journal.pone.0206951). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases [8](https://fishhistopathology.com/?p=2550) [10](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
+    - **Jawbone erosion**: In cases of *Tenacibaculum maritimum* yellow mats form on the inside of the mouth, especially in Atlantic salmon [9](https://doi.org/10.1371/journal.pone.0206951). This often progresses to extensive necrosis and erosion of the jaw, which can lead to the loss of teeth in some cases (Figure 3) [8](https://fishhistopathology.com/?p=2550) [10](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
     - **Eye infection**: Cloudy appearance in the eyes and exophthalmia (bulging) [11](https://doi.org/10.1371/journal.pone.0187476). In severe cases, the infection can lead to necrosis of the eye [2](https://www.vetinst.no/sykdom-og-agens/tenacibaculose) [3](https://doi.org/10.3389/fcimb.2022.1068000).
+
+**Figure 1.** Atlantic salmon post-smolts with suspected tenacibaculosis (*Tenacibaculum finnmarkense*) from a sea farm in Norway. The second fish from the top shows an ulcer behind the operculum, and the top fish shows extensive scale loss. Photo: Samaneh Mousavi.
+
+![[attachments/tenacibaculosis_post_smolts_norway.jpg]]
+
+**Figure 2.** Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing deep skin ulcers behind the head, at the level of the pectoral fins, and on the posterior body. Photo: Samaneh Mousavi.
+
+![[attachments/tenacibaculosis_ulcers_norway.jpg]]
+
+**Figure 3.** Head of an Atlantic salmon with suspected tenacibaculosis (*T. finnmarkense*) from a sea farm in Norway, showing an eroded mouth and haemorrhagic lesions around the eye and operculum. Photo: Samaneh Mousavi.
+
+![[attachments/tenacibaculosis_mouth_lesion_norway.jpg]]
 
 - **Behavioural Changes:**
     - **Lethargy:** Reduced activity and slow swimming [10](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/tenacibaculose/).
@@ -354,7 +366,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-17
+**Last Modified:** 2026-11-26
 
 **Tags:** #Tenacibaculosis, #Tenacibaculummaritimum, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaBass, #SeaBream, #Norway, #Chile, #Canada, #BacterialDiseases, #Bacteria, #WinterWounds 
 
