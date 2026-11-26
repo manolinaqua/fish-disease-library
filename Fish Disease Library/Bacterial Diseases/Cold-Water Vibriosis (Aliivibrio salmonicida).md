@@ -80,7 +80,23 @@ Cold-water vibriosis became one of the most important bacterial diseases in salm
 
 ### Case Studies
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**The first successful vaccine (Norway, 1980s)**
+
+- **Case:** Bacteria collected from moribund Atlantic salmon with Hitra disease in different parts of Norway turned out to be a homogeneous group. Researchers made a formalin-killed bacterin from one isolate, vaccinated salmon parr by immersion, revaccinated them after 6 weeks and transferred them to net pens in the sea.[16](https://doi.org/10.1111/j.1365-2761.1987.tb00723.x)
+- **Outcome:** Compared with unvaccinated controls, the vaccinated fish were very well protected during a natural outbreak of cold-water vibriosis 6 months later.[16](https://doi.org/10.1111/j.1365-2761.1987.tb00723.x) Later work showed that a bacterin from one strain also protected against a strain of different geographic origin and plasmid profile.[18](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x)
+- **Lessons Learned:** Because the strains are serologically similar, a simple inactivated vaccine was enough to protect salmon.[18](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x) After vaccines came into use, outbreaks fell from about 200 in 1987 to very few per year from the mid-1990s.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+
+**Shared infection between salmon and cod farms (northern Norway, 1988)**
+
+- **Case:** In 1988, a new plasmid profile was found in *Aliivibrio salmonicida* isolated from farmed cod and Atlantic salmon in northern Norway.[15](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
+- **Outcome:** Plasmid profiling and DNA hybridisation showed that the bacterium had passed from salmon to cod and from cod to salmon. One of its plasmids was found only in strains from northern Norway, and the plasmid DNA stayed stable over a 7-year survey.[15](https://doi.org/10.1128/aem.56.4.1033-1037.1990) Salmon vaccinated with a different strain were protected against a strain that had caused outbreaks in both salmon and cod held in net pens.[18](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x)
+- **Lessons Learned:** Where salmon and cod are farmed in the same area, the bacterium can move between the two species. Plasmid profiles were a useful tool for tracing the source of outbreaks.[15](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
+
+**The bacterium is present without disease (Norway, 1988-1989)**
+
+- **Case:** Water from 12 Norwegian fish farms was sampled twice a month from October 1988 to June 1989, and *Aliivibrio salmonicida* was counted with a fluorescent antibody technique.[14](https://doi.org/10.1139/m91-105)
+- **Outcome:** The bacterium was found in the water of all 12 farms, at 12-43 bacteria per mL, although no outbreaks of cold-water vibriosis were reported. It was found on more farms in winter.[14](https://doi.org/10.1139/m91-105) In a related study, it was found in sediments from affected farms several months after an outbreak and in one disease-free farm, but not in sediments away from fish farming.[23](https://doi.org/10.1128/aem.55.11.2815-2818.1989)
+- **Lessons Learned:** Finding the bacterium in farm water does not by itself mean disease, and the authors proposed an asymptomatic carrier state.[14](https://doi.org/10.1139/m91-105) The bacterium can persist in the sediment under a farm for months after an outbreak.[23](https://doi.org/10.1128/aem.55.11.2815-2818.1989)
 
 ## Data Insights
 
@@ -180,3 +196,5 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [21] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 5.3, Effects on Bacterial Diseases, by E. Ytteborg, D. Colquhoun, G. Bornø, J. Wiik-Nielsen, & A. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
 
 [22] Sørum, H., Myhr, E., Zwicker, B. M., & Lillehaug, A. (1993). Comparison by plasmid profiling of *Vibrio salmonicida* strains isolated from diseased fish from different North European and Canadian coastal areas of the Atlantic Ocean. *Canadian Journal of Fisheries and Aquatic Sciences, 50*(2), 247-250. https://doi.org/10.1139/f93-028
+
+[23] Enger, Ø., Husevåg, B., & Goksøyr, J. (1989). Presence of the fish pathogen *Vibrio salmonicida* in fish farm sediments. *Applied and Environmental Microbiology, 55*(11), 2815-2818. https://doi.org/10.1128/aem.55.11.2815-2818.1989
