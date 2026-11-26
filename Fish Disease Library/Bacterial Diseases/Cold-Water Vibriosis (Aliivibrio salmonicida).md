@@ -195,7 +195,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [3] Kashulin, A., Seredkina, N., & Sørum, H. (2017). Cold-water vibriosis. The current status of knowledge. *Journal of Fish Diseases, 40*(1), 119-126. https://doi.org/10.1111/jfd.12465
 
-[4] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 8.9, Other Bacterial Infections, by D. J. Colquhoun, A. B. Olsen, & H. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+[4] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 8.9, Other Bacterial Infections, by D. J. Colquhoun, A. B. Olsen, & H. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
 
 [5] Waagbø, R., Sandnes, K., Espelid, S., & Lie, Ø. (1988). Haematological and biochemical analyses of Atlantic salmon, *Salmo salar* L., suffering from coldwater vibriosis ('Hitra disease'). *Journal of Fish Diseases, 11*(5), 417-423. https://doi.org/10.1111/j.1365-2761.1988.tb00737.x
 
@@ -219,7 +219,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [15] Holm, K. O., & Jørgensen, T. (1987). A successful vaccination of Atlantic salmon, *Salmo salar* L., against 'Hitra disease' or coldwater vibriosis. *Journal of Fish Diseases, 10*(2), 85-90. https://doi.org/10.1111/j.1365-2761.1987.tb00723.x
 
-[16] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 4.3, Vaccination as a biosafety measure, by I. Sommerset, S. Patel, L. L. Löfling, K. V. Nielsen, Å. H. Garseth, & K. O. Helgesen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+[16] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 4.3, Vaccination as a biosafety measure, by I. Sommerset, S. Patel, L. L. Löfling, K. V. Nielsen, Å. H. Garseth, & K. O. Helgesen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
 
 [17] European Medicines Agency. (n.d.). *ALPHA JECT micro 6 emulsion for injection for Atlantic salmon* [Veterinary medicinal product information]. Union Product Database. https://medicines.health.europa.eu/veterinary/en/600000014282
 
@@ -231,6 +231,6 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [21] Havbrukslære. (n.d.). *Lær om bakterielle infeksjoner hos fisk* [Learn about bacterial infections in fish]. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
 
-[22] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 5.3, Effects on Bacterial Diseases, by E. Ytteborg, D. Colquhoun, G. Bornø, J. Wiik-Nielsen, & A. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+[22] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 5.3, Effects on Bacterial Diseases, by E. Ytteborg, D. Colquhoun, G. Bornø, J. Wiik-Nielsen, & A. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
 
 [23] Sørum, H., Myhr, E., Zwicker, B. M., & Lillehaug, A. (1993). Comparison by plasmid profiling of *Vibrio salmonicida* strains isolated from diseased fish from different North European and Canadian coastal areas of the Atlantic Ocean. *Canadian Journal of Fisheries and Aquatic Sciences, 50*(2), 247-250. https://doi.org/10.1139/f93-028

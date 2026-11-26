@@ -132,15 +132,21 @@ Several diseases produce multi-organ granulomas similar to francisellosis [2](ht
 
 ### Latest Research Findings
 
-Recent studies on *F. noatunensis* (2025–2026) have focused on how the host immune system detects the bacterium and on the genetic regulation of the pathogen itself:
+Recent studies on *F. noatunensis* (2025–2026) have focused on vaccine development, on how the host immune system detects the bacterium, and on the genetic regulation of the pathogen itself:
 
-1. **"TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod"**  
+1. **"Immune responses in the olfactory organ and brain of Atlantic cod (*Gadus morhua*) following nasal vaccination against *Francisella noatunensis*"**  
+    Authors: Cordero, C. P., Brenne, H., Ytteborg, E., Hansen, M., Johansen, L.-H., Vanrompay, D., Winther-Larsen, H. C., & Lazado, C. C.  
+    Reference: Cordero, C. P., Brenne, H., Ytteborg, E., Hansen, M., Johansen, L.-H., Vanrompay, D., Winther-Larsen, H. C., & Lazado, C. C. (2026). Immune responses in the olfactory organ and brain of Atlantic cod (*Gadus morhua*) following nasal vaccination against *Francisella noatunensis*. *Fish & Shellfish Immunology*, *179*, 111767. https://doi.org/10.1016/j.fsi.2026.111767  
+    Key findings: Cod were vaccinated through the nose with one of two live attenuated vaccines, each made by knocking out a single virulence gene (*clpB* or *iglC*), and challenged with wild-type *F. noatunensis* subsp. *noatunensis* 45 days later. Infected fish developed the classic multi-organ nodules, splenomegaly, and hepatomegaly. The *clpB*-vaccinated group had the lowest nodule score, up-regulated immune genes in the olfactory organ and brain, and minimal damage to the olfactory organ, which makes the *clpB* mutant a promising vaccine candidate.  
+    [Link to study](https://doi.org/10.1016/j.fsi.2026.111767)
+
+2. **"TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod"**  
     Authors: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., Gosain, T. P., Jakobsen, K. S., Jentoft, S., Bakke, O., & Progida, C.  
     Reference: Bjørnestad, S. A., Krokene, P., Solbakken, M. H., Gosain, T. P., Jakobsen, K. S., Jentoft, S., Bakke, O., & Progida, C. (2026). TLR25 is endosomally located and responds to *Francisella* infection in Atlantic cod. *Frontiers in Immunology*, *17*, 1798290. https://doi.org/10.3389/fimmu.2026.1798290  
     Key findings: Atlantic cod has lost the MHC II system and the cell-surface Toll-like receptors that mammals use to detect bacteria. The teleost-specific receptors TLR14 and TLR25, thought to compensate at the cell surface, were found mainly in endolysosomes, where they colocalised with internalised *F. noatunensis* subsp. *noatunensis*. Only TLR25 moved to the perinuclear region on infection and triggered up-regulation of the pro-inflammatory cytokines IL-6 and IL-18.  
     [Link to study](https://doi.org/10.3389/fimmu.2026.1798290)
 
-2. **"Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*"**  
+3. **"Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*"**  
     Authors: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., Santander, J., Maracaja-Coutinho, V., & Yañez, A. J.  
     Reference: Aliaga-Tobar, V., Arias-Carrasco, R., Isla, A., Santander, J., Maracaja-Coutinho, V., & Yañez, A. J. (2025). Exploring the regulatory landscape of non-coding RNAs in aquaculture bacterial pathogens: *Piscirickettsia salmonis* and *Francisella noatunensis*. *Aquaculture*, *594*, 741356. https://doi.org/10.1016/j.aquaculture.2024.741356  
     Key findings: A comparison of 23 *F. noatunensis* and 77 *P. salmonis* genomes identified non-coding RNAs shared by both pathogens and others unique to each. Unique to *F. noatunensis* were two riboswitch families (flavin mononucleotide and lysine) and a small RNA at the start of the urease gene *ureB* that may regulate it, as a similar RNA does in *Helicobacter pylori*, where urease helps the bacterium survive acidic conditions.  
@@ -148,9 +154,9 @@ Recent studies on *F. noatunensis* (2025–2026) have focused on how the host im
 
 ## Conclusion
 
-Francisellosis caused by *F. noatunensis* is a chronic, granulomatous disease that is easy to miss and hard to control. Infection can become highly prevalent before fish show any outward signs, the agent grows only on cysteine-enriched media, and the multi-organ nodules it produces resemble those of piscirickettsiosis, atypical furunculosis and mycobacteriosis, so diagnosis depends on culture, histopathology and PCR. Because the bacterium lives inside host cells and affected fish stop feeding, antibiotics are unlikely to clear an infected population, and no vaccine has yet given significant protection in cod. Prevention therefore rests on biosecurity: the Norwegian outbreaks show that a few strains, moved with live fish between farms, caused most cases.
+Francisellosis caused by *F. noatunensis* is a chronic, granulomatous disease that is easy to miss and hard to control. Infection can become highly prevalent before fish show any outward signs, the agent grows only on cysteine-enriched media, and the multi-organ nodules it produces resemble those of piscirickettsiosis, atypical furunculosis and mycobacteriosis, so diagnosis depends on culture, histopathology and PCR. Because the bacterium lives inside host cells and affected fish stop feeding, antibiotics are unlikely to clear an infected population, and no commercial vaccine is available. Prevention therefore rests on biosecurity: the Norwegian outbreaks show that a few strains, moved with live fish between farms, caused most cases.
 
-The disease is regaining relevance. In Norway, cod farming is expanding again and francisellosis has re-emerged, with warmer seas expected to favour the pathogen. In Chile, *F. noatunensis* is still detected in freshwater Atlantic salmon farms, although in small numbers. Recent research has focused on basic biology, such as how cod detect the bacterium and how the pathogen regulates its genes, rather than on new vaccines or treatments, leaving control of the disease dependent on early detection and limiting the movement of infected fish.
+The disease is regaining relevance. In Norway, cod farming is expanding again and francisellosis has re-emerged, and experimental work shows that the disease becomes more severe at the higher sea temperatures expected in the coming years. In Chile, *F. noatunensis* is still detected in Atlantic salmon farms, mainly in fresh water and in small numbers. Recent research has started to look beyond whole-cell vaccines, which failed in cod, and a live attenuated vaccine given through the nose has shown promise in an experimental trial. Until such a vaccine is proven in the field, control of the disease depends on early detection and on limiting the movement of infected fish.
 
 ### Call to Action
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
