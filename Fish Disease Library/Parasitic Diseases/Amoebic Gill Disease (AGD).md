@@ -123,16 +123,16 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 - **AGD Incidence in Norway:**
 	- Growing concerns of AGD with a few outbreaks occurring in south west Norway in 2012 [9](https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/20LongitudinalstudyNorwayHytterod.pdf).
-	- By 2015-2016, AGD had become established but was not as severe as initially feared [10](https://www.gillhealthinitiative.org/2017sessions)
+	- By 2015-2016, AGD had become established but was not as severe as initially feared [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions)
 
 - **Geographical Spread:**
-	- In 2016, *Paramoeba perurans* was detected by real-time (RT)-PCR from the county Vest-Agder to Nord-Trøndelag [10](https://www.gillhealthinitiative.org/2017sessions).
-	- Outbreaks of AGD were not detected north of Nord-Trøndelag [10](https://www.gillhealthinitiative.org/2017sessions).
+	- In 2016, *Paramoeba perurans* was detected by real-time (RT)-PCR from the county Vest-Agder to Nord-Trøndelag [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions).
+	- Outbreaks of AGD were not detected north of Nord-Trøndelag [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions).
 
 - **Treatment & Management:**
-	- The Norwegian industry has become more experienced in handling AGD over time [10](https://www.gillhealthinitiative.org/2017sessions).
-	- Control measures include gill scoring and early treatment with freshwater or hydrogen peroxide [10](https://www.gillhealthinitiative.org/2017sessions) [12](https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498).
-	- In 2016, the number of treatments increased at sites on the southwest coast of Norway during autumn months [10](https://www.gillhealthinitiative.org/2017sessions).
+	- The Norwegian industry has become more experienced in handling AGD over time [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions).
+	- Control measures include gill scoring and early treatment with freshwater or hydrogen peroxide [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions) [12](https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498).
+	- In 2016, the number of treatments increased at sites on the southwest coast of Norway during autumn months [10](https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions).
 	- Recent cases in 2023 have been managed with freshwater treatments, demonstrating the continued use of this method [11](https://www.fishfarmermagazine.com/2023/07/07/salmon-evolution-reports-success-in-tackling-agd/) [12](https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498).
 #### Scotland
 
@@ -210,7 +210,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [9] Hytterød, S., Hansen, H., Olsen, A. B., & Mo, T. A. (2015). *Longitudinal study of AGD on three Atlantic salmon farms in Norway* [Conference presentation]. https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/20LongitudinalstudyNorwayHytterod.pdf
 
-[10] Gill Health Initiative. (2017). *2017 sessions*. https://www.gillhealthinitiative.org/2017sessions
+[10] Gjevre, A.-G. (2017). *An update of gill health from Norway* [Conference abstract]. Gill Health Initiative 2017 workshop, regional updates. Archived at https://web.archive.org/web/20230927110847/https://www.gillhealthinitiative.org/2017sessions
 
 [11] Fish Farmer. (2023, July 7). *Salmon Evolution reports success in tackling AGD*. https://www.fishfarmermagazine.com/2023/07/07/salmon-evolution-reports-success-in-tackling-agd/
 
