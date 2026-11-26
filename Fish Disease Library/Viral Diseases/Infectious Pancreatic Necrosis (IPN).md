@@ -1,21 +1,33 @@
 ---
 title: Infectious Pancreatic Necrosis (IPN)
-description: Learn about Infectious Pancreatic Necrosis (IPN) in aquaculture fish like Atlantic salmon. Characterized by abdominal swelling, pale gills, and darkened skin, IPN is caused by the infectious pancreatic necrosis virus (IPNV). Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
+type: disease
+aliases:
+  - IPN
+  - IPNV
+  - Infectious pancreatic necrosis virus
+  - Infeksiøs pankreasnekrose
+pathogen: Infectious pancreatic necrosis virus
+category: Viral
+description: Learn about Infectious Pancreatic Necrosis (IPN) in aquaculture fish like Atlantic salmon. Characterized by abdominal swelling, pale gills, and darkened skin, IPN is caused by the infectious pancreatic necrosis virus (IPNV). Discover clinical signs, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - InfectiousPancreaticNecrosis
+  - InfectiousPancreaticNecrosisVirus
+  - ViralDiseases
   - Virus
-  - ViralDisease
   - Salmonids
   - Salmon
   - AtlanticSalmon
   - Trout
   - RainbowTrout
+  - Canada
+  - Norway
+  - Scotland
 ---
 ## Overview
 
 ### What is Infectious Pancreatic Necrosis (IPN)?
 
-Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (_Salmo salar_), rainbow trout (_Oncorhynchus mykiss_), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the genus _Aquabirnavirus_ within the family _Birnaviridae_. It can cause high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). The disease can occur in both freshwater and seawater production: it is particularly associated with fry and juvenile salmonids in freshwater hatcheries and post-smolts after transfer to seawater, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affecting various fish species in aquaculture, including Atlantic salmon (*Salmo salar*), rainbow trout (*Oncorhynchus mykiss*), and other salmonids. It is caused by the Infectious Pancreatic Necrosis Virus (IPNV), a member of the genus _Aquabirnavirus_ within the family _Birnaviridae_. It can cause high mortality rates, especially in young fish, and significant economic losses [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn). The disease can occur in both freshwater and seawater production: it is particularly associated with fry and juvenile salmonids in freshwater hatcheries and post-smolts after transfer to seawater, but can also infect adult fish asymptomatically [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 
 ## Clinical Signs of Infectious Pancreatic Necrosis
@@ -42,11 +54,11 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
     - **Abnormal Swimming Patterns:** Fish may swim in a corkscrew or spiral motion [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
 
-**Progression of Symptoms**
+**Progression of Clinical Signs**
 
 - **Early Stages:** Sudden and progressive increase in mortality at first feeding of fry, particularly in faster-growing individuals [3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 
-- **Advanced Stages:** Pronounced physical symptoms such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+- **Advanced Stages:** Pronounced physical signs such as abdominal swelling, haemorrhages, and darkened skin, leading to high mortality rates of 10% to 90% [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
 - **Carrier state:** Fish may survive IPNV infection and become asymptomatic carriers. Carrier fish can harbour and intermittently shed the virus without obvious clinical signs, particularly during periods of stress, creating a potential source of infection for susceptible fish [5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 - **Impact on Fish Health:** IPN can cause substantial tissue damage in several organs, particularly the pancreas. Pancreatic necrosis can impair the production of enzymes needed for digestion and nutrient absorption. Consequently, affected fish may show poor feed utilisation, reduced growth, and poor body condition. Mortality varies among outbreaks and may be very high, particularly in susceptible fry and post-smolts. IPN severely compromises immune function and overall vitality, making fish susceptible to secondary infections [2](https://doi.org/10.3390/pathogens9020094) [6](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/ipn-infeksios-pankreas-nekrose/). 
@@ -74,7 +86,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical and behavioural symptoms; susceptible fish, especially fry or post-smolts, show an acute increase in mortality together with compatible clinical signs. Clinical findings alone are not specific and require laboratory confirmation. [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+- **Clinical Examination:** Observation of physical and behavioural signs; susceptible fish, especially fry or post-smolts, show an acute increase in mortality together with compatible clinical signs. Clinical findings alone are not specific and require laboratory confirmation. [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 - **Laboratory Tests:**
     - **Histopathology and immunohistochemistry:** A diagnosis of clinical IPN is supported by histopathological detection of characteristic necrosis in the exocrine pancreas and/or liver in formalin-fixed tissues, together with immunohistochemical detection of IPNV antigen in affected lesions [5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
@@ -85,7 +97,7 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
 
 **Differential Diagnosis**
 
-- **Distinguishing IPN from Other Diseases:** It is crucial to differentiate IPN from diseases with similar symptoms, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf). In fry, _Flavobacterium psychrophilum_ and _Yersinia ruckeri_ infections may produce similar signs or lesions [5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+- **Distinguishing IPN from Other Diseases:** It is crucial to differentiate IPN from diseases with similar clinical signs, such as infectious salmon anaemia (ISA), infection with salmonid alphavirus (SAV), infectious haematopoietic necrosis (IHN), and viral haemorrhagic septicaemia (VHS) [3](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf). In fry, *Flavobacterium psychrophilum* and *Yersinia ruckeri* infections may produce similar signs or lesions [5](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
 
 ### Treatment and Prevention
 
@@ -187,8 +199,8 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-26
 
-**Tags:** #InfectiousPancreaticNecrosis, #IPN, #IPNV, #InfectiousPancreaticNecrosisVirus #Birnaviridae, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #ViralDisease, #Virus 
-##### Viral Diseases
+**Tags:** #InfectiousPancreaticNecrosis, #InfectiousPancreaticNecrosisVirus, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Canada, #Norway, #Scotland, #ViralDiseases, #Virus
+##### Other Viral Diseases
 [[Cardiomyopathy Syndrome (CMS)]]
 [[Heart and Muscle Inflammation (HSMI)]]
 [[Infectious Salmon Anemia (ISA)]]
