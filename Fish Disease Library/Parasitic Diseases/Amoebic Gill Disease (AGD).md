@@ -1,10 +1,18 @@
 ---
 title: Amoebic Gill Disease (AGD)
-description: Learn about Amoebic Gill Disease (AGD) in aquaculture fish like Atlantic salmon and rainbow trout. Caused by the amoeba Neoparamoeba perurans, AGD leads to gill inflammation and respiratory issues. Discover symptoms, causes, diagnosis, treatment, and prevention strategies to enhance fish health.
+type: disease
+aliases:
+  - AGD
+  - Amoebic Gill Disease
+  - Paramoeba perurans
+pathogen: Neoparamoeba perurans
+category: Parasitic
+description: Learn about Amoebic Gill Disease (AGD) in aquaculture fish like Atlantic salmon and rainbow trout. Caused by the amoeba Neoparamoeba perurans, AGD leads to gill inflammation and respiratory issues. Discover clinical signs, causes, diagnosis, treatment, and prevention strategies to enhance fish health.
 tags:
   - AmoebicGillDisease
-  - parasite
-  - parasiticdisease
+  - NeoparamoebaPerurans
+  - ParasiticDiseases
+  - Parasite
   - Salmonids
   - Salmon
   - AtlanticSalmon
@@ -25,9 +33,9 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 ### Common Signs
 
 - **Physical Signs:**
-    - **Gill Lesions:** White mucoid patches and hyperplasia on the gill filaments [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://www.mdpi.com/2673-6772/2/4/23).
+    - **Gill Lesions:** White mucoid patches and hyperplasia on the gill filaments [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://doi.org/10.3390/parasitologia2040023).
     - **Gill Inflammation:** Swollen, reddened, and thickened gill tissues [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd).
-    - **Increased Mucus Production:** Excessive mucus covering the gills [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://www.mdpi.com/2673-6772/2/4/23).
+    - **Increased Mucus Production:** Excessive mucus covering the gills [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [5](https://doi.org/10.3390/parasitologia2040023).
     - **Respiratory Distress:** Rapid or labored breathing due to impaired gill function [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
 
 - **Behavioural Changes:**
@@ -35,7 +43,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
     - **Loss of Appetite:** Decreased feeding behaviour and subsequent weight loss [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd).
     - **Abnormal Swimming Patterns:** Fish may swim near the surface or close to aeration points to compensate for reduced oxygen uptake [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466).
 
-**Progression of Symptoms**
+**Progression of Clinical Signs**
 
 - **Early Stages:** Mild gill lesions and slight increase in mucus production [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd).
 
@@ -63,7 +71,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 **Diagnostic Methods**
 
-- **Clinical Examination:** Observation of physical symptoms, such as gill lesions and increased mucus production [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [5](https://www.mdpi.com/2673-6772/2/4/23).
+- **Clinical Examination:** Observation of physical signs, such as gill lesions and increased mucus production [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [5](https://doi.org/10.3390/parasitologia2040023).
 
 - **Laboratory Tests:**
     - **Histopathology:** Microscopic examination of gill tissues to identify characteristic lesions of AGD and the presence of amoeba [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
@@ -80,7 +88,7 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 - **Current Treatments:**
     - **Freshwater Baths:** Immersion of fish in freshwater for 2 to 3 hours to reduce amoeba load on the gills [1](https://thefishsite.com/disease-guide/amoebic-gill-disease-agd) [2](https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466) [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
-    - **Hydrogen Peroxide Baths:** Use of hydrogen peroxide to treat affected fish [13](https://onlinelibrary.wiley.com/doi/full/10.1111/are.13627).
+    - **Hydrogen Peroxide Baths:** Use of hydrogen peroxide to treat affected fish [13](https://doi.org/10.1111/are.13627).
     - **Other Treatments:** Chloramine, chlorine dioxide, and levamisole have also been used [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease)
 
 - **Experimental Treatments:** Research is ongoing into potential chemotherapeutants and novel treatment methods, including immunosupportive-based feeds, mucolytic compounds, and parasiticides [4](https://en.wikipedia.org/wiki/Amoebic_gill_disease).
@@ -148,32 +156,20 @@ Amoebic Gill Disease (AGD) is a parasitic disease affecting various fish speci
 
 Recent studies on Amoebic Gill Disease (AGD) have focused on various aspects of the disease, including its biology, epidemiology, diagnosis, and treatment. Here are some notable recent research findings:
 
-1. **"Amoebic gill disease (AGD) in Atlantic salmon (*Salmo salar* L.): a complex host-parasite interaction"**  
+1. **"Amoebic gill disease and host response in Atlantic salmon (*Salmo salar* L.): A review"**  
     Authors: Marcos-López, M., & Rodger, H. D.  
-    Reference: Marcos-López, M., & Rodger, H. D. (2020). Amoebic gill disease (AGD) in Atlantic salmon (*Salmo salar* L.): a complex host-parasite interaction. Diseases of Aquatic Organisms, 142, 101-113.  
-    [Link to study](https://www.int-res.com/abstracts/dao/v142/p101-113/)
-    
-2. **"Development and validation of a TaqMan® MGB real-time PCR for the detection of *Neoparamoeba perurans*, causative agent of amoebic gill disease"**  
+    Reference: Marcos-López, M., & Rodger, H. D. (2020). Amoebic gill disease and host response in Atlantic salmon (*Salmo salar* L.): A review. *Parasite Immunology*, *42*(8), e12766. https://doi.org/10.1111/pim.12766  
+    [Link to study](https://doi.org/10.1111/pim.12766)
+2. **"A longitudinal study of amoebic gill disease on a marine Atlantic salmon farm utilising a real-time PCR assay for the detection of *Neoparamoeba perurans*"**  
     Authors: Downes, J. K., Henshilwood, K., Collins, E. M., Ryan, A., O'Connor, I., Rodger, H. D., MacCarthy, E., & Ruane, N. M.  
-    Reference: Downes, J. K., et al. (2015). Development and validation of a TaqMan® MGB real-time PCR for the detection of *Neoparamoeba perurans*, causative agent of amoebic gill disease. Journal of Fish Diseases, 38(12), 1085-1095.  
-    [Link to study](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12313)
-    
-3. **"Transcriptome profiling of the Atlantic salmon (*Salmo salar*) gill during amoebic gill disease"**  
-    Authors: Benedicenti, O., Secombes, C. J., & Collins, C.  
-    Reference: Benedicenti, O., Secombes, C. J., & Collins, C. (2019). Transcriptome profiling of the Atlantic salmon (*Salmo salar*) gill during amoebic gill disease. Frontiers in Immunology, 10, 2218.  
-    [Link to study](https://www.frontiersin.org/articles/10.3389/fimmu.2019.02218/full)
-    
-4. **"The effect of temperature on *Neoparamoeba perurans* growth and survival"**  
-    Authors: Collins, C., Hall, M., Bruno, D., Sokolowska, J., Duncan, L., Yuecel, R., McCarthy, U., Fordyce, M. J., Pert, C. C., McIntosh, R., & MacKenzie, K.  
-    Reference: Collins, C., et al. (2017). The effect of temperature on *Neoparamoeba perurans* growth and survival. Journal of Fish Diseases, 40(9), 1213-1223.  
-    [Link to study](https://onlinelibrary.wiley.com/doi/10.1111/jfd.12595)
-    
-5. **"Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in the absence of any impact on growth or amoebic gill disease challenge"**  
+    Reference: Downes, J. K., Henshilwood, K., Collins, E. M., Ryan, A., O'Connor, I., Rodger, H. D., MacCarthy, E., & Ruane, N. M. (2015). A longitudinal study of amoebic gill disease on a marine Atlantic salmon farm utilising a real-time PCR assay for the detection of *Neoparamoeba perurans*. *Aquaculture Environment Interactions*, *7*(3), 239–251. https://doi.org/10.3354/aei00150  
+    [Link to study](https://doi.org/10.3354/aei00150)
+3. **"Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in a daily manner"**  
     Authors: Vera, L. M., & Migaud, H.  
-    Reference: Vera, L. M., & Migaud, H. (2016). Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in the absence of any impact on growth or amoebic gill disease challenge. Fish & Shellfish Immunology, 55, 73-83.  
-    [Link to study](https://www.sciencedirect.com/science/article/pii/S1050464816301607)
+    Reference: Vera, L. M., & Migaud, H. (2016). Hydrogen peroxide treatment in Atlantic salmon induces stress and detoxification response in a daily manner. *Chronobiology International*, *33*(5), 530–542. https://doi.org/10.3109/07420528.2015.1131164  
+    [Link to study](https://doi.org/10.3109/07420528.2015.1131164)
 
-These studies represent advancements in understanding the biology and epidemiology of *Neoparamoeba perurans*, development of diagnostic tools for early and accurate detection, and investigations into potential treatments and preventive measures for AGD.
+These studies cover the host response to *Neoparamoeba perurans*, real-time PCR monitoring of AGD on farms, and the physiological effects of hydrogen peroxide treatment.
 
 ## Conclusion
 
@@ -184,9 +180,10 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2024-08-15
+**Last Modified:** 2026-11-26
 
-**Tags:** #AmoebicGillDisease, #Salmonids, #Salmon, #AtlanticSalmon, #RainbowTrout , #Trout , #Salmon, #Norway, #Scotland, #parasiticdisease, #parasite 
+**Tags:** #AmoebicGillDisease, #NeoparamoebaPerurans, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #Norway, #Scotland, #Tasmania, #Ireland, #ParasiticDiseases, #Parasite
+
 ##### Other Parasitic Diseases
 [[Paranucleospora theridion]]
 [[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
@@ -195,31 +192,28 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] https://thefishsite.com/disease-guide/amoebic-gill-disease-agd
+[1] The Fish Site. (n.d.). *Amoebic gill disease (AGD)*. https://thefishsite.com/disease-guide/amoebic-gill-disease-agd
 
-[2] https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466
+[2] Fish Farming Expert. (2015, June 19). *Amoebic gill disease*. https://www.fishfarmingexpert.com/amoebic-gill-disease/1147466
 
-[3] https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease
+[3] Elsevier. (n.d.). Amoebic gill disease. In *ScienceDirect Topics: Veterinary science and veterinary medicine*. https://www.sciencedirect.com/topics/veterinary-science-and-veterinary-medicine/amoebic-gill-disease
 
-[4] https://en.wikipedia.org/wiki/Amoebic_gill_disease
+[4] Wikipedia. (n.d.). Amoebic gill disease. In *Wikipedia*. https://en.wikipedia.org/wiki/Amoebic_gill_disease
 
-[5] https://www.mdpi.com/2673-6772/2/4/23
+[5] O'Halloran, E., Mooney, R., Rodgers, K., & Henriquez, F. L. (2022). Microbial interactions that contribute to gill disease in aquaculture. *Parasitologia*, *2*(4), 266–291. https://doi.org/10.3390/parasitologia2040023
 
-[6] https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/7AGDgillissuesinScotlandIndustryperspectiveBerrill.pdf
+[6] Berrill, I. (2015). *AGD (gill issues) in Scotland – Industry perspective* [Conference presentation]. Scottish Salmon Producers' Organisation. https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/7AGDgillissuesinScotlandIndustryperspectiveBerrill.pdf
 
-[7] https://www.frdc.com.au/sites/default/files/products/2012-712-DLD-RTG.pdf
+[7] Brown, A., & Zarza, C. (2012). *Amoebic gill disease (AGD) in Scotland and Ireland – Impact, control procedures and investigations* (FRDC Project No. 2012/712). Fisheries Research and Development Corporation. https://www.frdc.com.au/sites/default/files/products/2012-712-DLD-RTG.pdf
 
-[8] https://www.fishfarmermagazine.com/2024/02/14/mowi-scotland-battling-back-against-severe-biological-issues/
+[8] Fish Farmer. (2024, February 14). *Mowi Scotland battling back against severe biological issues*. https://www.fishfarmermagazine.com/2024/02/14/mowi-scotland-battling-back-against-severe-biological-issues/
 
-[9] https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/20LongitudinalstudyNorwayHytterod.pdf
+[9] Hytterød, S., Hansen, H., Olsen, A. B., & Mo, T. A. (2015). *Longitudinal study of AGD on three Atlantic salmon farms in Norway* [Conference presentation]. https://www.fishhealth.ie/FHU/sites/default/files/FHU_Files/Documents/20LongitudinalstudyNorwayHytterod.pdf
 
-[10] https://www.gillhealthinitiative.org/2017sessions
+[10] Gill Health Initiative. (2017). *2017 sessions*. https://www.gillhealthinitiative.org/2017sessions
 
-[11] https://www.fishfarmermagazine.com/2023/07/07/salmon-evolution-reports-success-in-tackling-agd/
+[11] Fish Farmer. (2023, July 7). *Salmon Evolution reports success in tackling AGD*. https://www.fishfarmermagazine.com/2023/07/07/salmon-evolution-reports-success-in-tackling-agd/
 
-[12] https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498
+[12] Fish Farming Expert. (2023, May 9). *Salmon Evolution will treat fish with fresh water after suspected AGD outbreak*. https://www.fishfarmingexpert.com/salmon-evolution/salmon-evolution-will-treat-fish-with-fresh-water-after-suspected-agd-outbreak/1519498
 
-[13] https://onlinelibrary.wiley.com/doi/full/10.1111/are.13627
-
-- - - 
-
+[13] Martinsen, K. H., Thorisdottir, A., & Lillehammer, M. (2018). Effect of hydrogen peroxide as treatment for amoebic gill disease in Atlantic salmon (*Salmo salar* L.) in different temperatures. *Aquaculture Research*, *49*(5), 1733–1739. https://doi.org/10.1111/are.13627
