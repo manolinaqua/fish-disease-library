@@ -30,8 +30,12 @@ Infectious Pancreatic Necrosis (IPN) is a highly contagious viral disease affect
     - **Darkening of the Skin:** Affected fish may exhibit darkened coloration [1](https://thefishsite.com/disease-guide/infectious-pancreatic-necrosis-ipn)[4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
     - **Exophthalmos (popeye)**: Protruding eyes.
     - **Empty intestine or filled with clear mucus** [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf)
-    - **Emaciation:** Affected or surviving fish may become markedly thin, with poor body condition [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
+    - **Emaciation:** Affected or surviving fish may become markedly thin, with poor body condition (Figure 1) [7](https://www.vetinst.no/sykdom-og-agens/infeksios-pankreasnekrose-ipn).
     - **Faecal casts:** White, string-like casts of faeces and sloughed intestinal tissue may hang from the vent as a result of inflammation in the intestine [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
+**Figure 1.** A small, thin Atlantic salmon runt with suspected IPN (top) next to a normal-sized fish (bottom), from a sea farm in Norway. Photo: Samaneh Mousavi.
+
+![[attachments/ipn_runt_norway.jpg]]
+
 - **Behavioural Changes:**
     - **Lethargy:** Fish lying still on the bottom of tanks or ponds [4](https://www.agriculture.gov.au/sites/default/files/documents/infectious-pancreatic-necrosis.pdf).
     - **Loss of Appetite:** Anorexia and significant weight loss [2](https://en.wikipedia.org/wiki/Infectious_pancreatic_necrosis).
@@ -181,7 +185,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-10-04
+**Last Modified:** 2026-11-26
 
 **Tags:** #InfectiousPancreaticNecrosis, #IPN, #IPNV, #InfectiousPancreaticNecrosisVirus #Birnaviridae, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #ViralDisease, #Virus 
 ##### Viral Diseases

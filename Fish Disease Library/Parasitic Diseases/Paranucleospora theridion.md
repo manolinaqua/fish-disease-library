@@ -1,5 +1,8 @@
 ---
 title: Paranucleospora theridion
+aliases:
+  - Paranucleosporosis
+  - Desmozoon lepeophtherii
 description: Learn about Paranucleosporosis, a parasitic disease in aquaculture fish like Atlantic salmon and rainbow trout. Caused by microsporidian parasites. Discover symptoms, causes, diagnosis, treatment, and prevention strategies for better fish health.
 tags:
   - Paranucleosporosis
@@ -54,7 +57,7 @@ It needs both a louse and a fish to complete its life cycle  [1](https://link.sp
 - **Behavioural Changes:**
     - **Lethargy:** Reduced activity [3](https://www.vetinst.no/sykdom-og-agens/kronisk-gjellebetennelse-hos-laks)though fled when netted, and had stopped eating [6](https://link.springer.com/article/10.1186/s13071-017-2303-5)
     - **Increased jumping:** In one farm in September, fish jumped much more and showed skin irritation with extra mucus. No cause was found, but skin samples from 7 fish had high parasite numbers  [7](https://www.int-res.com/journals/dao/articles/dao02464). The authors say spore exposure may possibly be responsible  [7](https://www.int-res.com/journals/dao/articles/dao02464).
-    - For [[Proliferative Gill]] Inflammation, fish can have open mouth, distended gill covers and fish 'standing' against the current near the net edge, trying to maximise oxygen exchange [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pgi-proliferativ-gjellebetennelse/)
+    - For [[Proliferative Gill Disease|Proliferative Gill Inflammation]], fish can have open mouth, distended gill covers and fish 'standing' against the current near the net edge, trying to maximise oxygen exchange [9](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/pgi-proliferativ-gjellebetennelse/)
 
 
 **Progression of Symptoms**
@@ -217,7 +220,7 @@ Have pictures, research, or insights to share? Spotted something incorrect? [Get
 **Last Reviewed:** 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
-[[Parvicapsulosis]]
+[[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
 [[Proliferative Gill Disease]]
 [[Sea Lice]]
 

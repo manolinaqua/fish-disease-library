@@ -7,49 +7,96 @@ aliases:
   - Hitrasyke
   - Kaldtvannsvibriose
   - Vibrio salmonicida infection
+  - Vibrio salmonicida
+  - CWV
 pathogen: Aliivibrio salmonicida
 category: Bacterial
-description: Learn about cold-water vibriosis (Hitra disease), a bacterial disease of farmed Atlantic salmon caused by Aliivibrio salmonicida at low seawater temperatures. Discover clinical signs, causes, diagnosis, vaccination and its history in Norway.
+description: Learn about cold-water vibriosis (Hitra disease), a haemorrhagic septicaemia caused by Aliivibrio salmonicida at low seawater temperatures in farmed Atlantic salmon, rainbow trout and Atlantic cod. Discover clinical signs, causes, diagnosis, vaccination and its history in Norway.
 tags:
   - ColdWaterVibriosis
   - AliivibrioSalmonicida
   - AtlanticSalmon
+  - RainbowTrout
+  - AtlanticCod
   - Norway
+  - FaroeIslands
+  - Scotland
+  - Canada
+  - UnitedStates
   - BacterialDiseases
 ---
 ## Overview
 
-### What is Cold-Water Vibriosis (Aliivibrio salmonicida)?
+### What is Cold-Water Vibriosis (*Aliivibrio salmonicida*)?
 
-Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vibrio anguillarum*, which causes "classical vibriosis" (see [[Vibriosis (Vibrio spp.)]]), and *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*), which causes "cold-water vibriosis/Hitra disease".[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+Cold-water vibriosis, also called Hitra disease, is a haemorrhagic septicaemia caused by the Gram-negative bacterium *Aliivibrio salmonicida* (formerly *Vibrio salmonicida*). It is primarily a disease of farmed Atlantic salmon, but rainbow trout and Atlantic cod can also have outbreaks when infection pressure is high.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Outbreaks usually occur at water temperatures below 10 °C, mainly from late autumn to early spring.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [2](https://doi.org/10.3389/fmicb.2013.00401) This sets it apart from classical vibriosis (see [[Vibriosis (Vibrio spp.)]]), which mostly occurs at rising and relatively high water temperatures.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
-## Clinical Signs of Cold-Water Vibriosis (Aliivibrio salmonicida)
+Cold-water vibriosis became one of the most important bacterial diseases in salmon farming, and the lack of a vaccine held back Atlantic salmon farming until an effective vaccine arrived in the late 1980s.[3](https://doi.org/10.1111/jfd.12465) The disease reappeared in vaccinated salmon in 2011, but there have been no outbreaks in Norway since 2013, and the Norwegian Veterinary Institute did not detect it in any material submitted in 2025.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [3](https://doi.org/10.1111/jfd.12465) [4](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
+
+## Clinical Signs of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
 ### Common Signs
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+- **Course of Disease:** Outbreaks typically develop subacutely. The fish lose their appetite and weak, slow-swimming fish ("svimere") appear. Daily losses are usually low at first but can increase gradually, and total mortality can become very high if the outbreak is not treated.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **External Signs:** Pale gills and pinpoint haemorrhages in the skin, especially on the belly and at the base of the fins.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Diseased fish show apathetic behaviour.[5](https://doi.org/10.1111/j.1365-2761.1988.tb00737.x)
+- **Internal Findings:** Blood-tinged fluid in the abdominal cavity, haemorrhages in the swim bladder and visceral fat, and a pale liver, grey-brown to yellow.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Fluid in the pericardial sac and degeneration of skeletal and heart muscle are also common.[6](https://doi.org/10.1111/j.1365-2761.1985.tb00957.x)
+- **Blood and Organ Changes:** Diseased fish are severely anaemic, and their liver and spleen are enlarged relative to body weight.[5](https://doi.org/10.1111/j.1365-2761.1988.tb00737.x)
+- **Histopathology:** Damage starts in the endothelial cells lining the capillaries, and the bacteria are also found inside white blood cells early in the disease. The degree of tissue damage follows the number of bacteria present and is most severe in tissues with a rich blood supply.[7](https://doi.org/10.1111/j.1365-2761.1988.tb00518.x)
+- **Typical Post-Mortem Picture:** A septicaemic picture with a general bleeding tendency, anaemia and a discoloured liver points to cold-water vibriosis, especially when the outbreak occurs at low seawater temperatures.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
-### Causes of Cold-Water Vibriosis (Aliivibrio salmonicida)
+### Causes of Cold-Water Vibriosis (*Aliivibrio salmonicida*)
 
 **Aetiology**
 
-- **Causative Agent:** *Aliivibrio salmonicida* (formerly *V. salmonicida*), the cause of cold-water vibriosis in salmonids, shares the general features of *Vibrio* spp. but is adapted to low seawater temperatures (grows best at 12-15 °C).[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Causative Agent:** *Aliivibrio salmonicida* is a facultatively anaerobic, Gram-negative rod. It is a purely marine organism that needs extra salt in the culture medium to grow, and it grows best at low temperatures (12-15 °C).[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) Its virulence is relatively low, so fairly high infectious doses are needed to cause disease.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Temperature-Dependent Virulence:** Several virulence-related traits work only at low temperatures. The bacterium produces significant amounts of its iron-scavenging siderophore only at 10 °C or below, even though it grows best at 12 °C when iron is scarce.[8](https://doi.org/10.1006/mpat.2001.0464) Production of its quorum-sensing signals drops sharply above 12 °C, to less than 5% of the maximum at 16 °C.[9](https://doi.org/10.1186/s12866-015-0402-z) Its regulation of biofilm formation is also weak or absent above the temperature limit for disease.[10](https://doi.org/10.1128/aem.01239-14)
+- **Course of Infection:** After bath challenge, the bacterium reaches the blood within 2 hours without first colonising the fish, and it multiplies in the blood.[11](https://doi.org/10.1016/j.micpath.2011.10.007) In experimentally infected fish, the bacterium can circulate in the blood for 5-10 days before clinical signs appear, and its first targets are the endothelial cells of the capillaries and the white blood cells.[2](https://doi.org/10.3389/fmicb.2013.00401) No extracellular toxin has been identified, and the extensive haemolysis may be caused by the fish's own immune response.[2](https://doi.org/10.3389/fmicb.2013.00401)
+
+**Transmission**
+
+- **Routes of Infection:** The bacterium spreads through the water and from infected fish. It enters through the gills, and wounds appear to make infection easier.[12](https://doi.org/10.1111/j.1365-2761.1987.tb00714.x)
+- **Shedding from the Gut:** In prolonged cases, *Aliivibrio salmonicida* becomes the dominant bacterium in the gut and is released into the water, so the intestine may act as a reservoir that favours its survival and transmission.[11](https://doi.org/10.1016/j.micpath.2011.10.007)
+- **Reservoir and Carriers:** The natural reservoir is unknown, but the bacterium has been found in water and sediment near affected farms.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) In a survey of 12 Norwegian farms in 1988-1989, it was found in the water of all of them, most often in winter, although no outbreaks were reported. The authors proposed a subclinical carrier state.[13](https://doi.org/10.1139/m91-105) Once the bacterium is established in a salmon population, it probably multiplies in the fish, raising the infection pressure until disease develops.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Between Species:** Plasmid profiling showed that the bacterium was transmitted from Atlantic salmon to cod, and vice versa, in farms in northern Norway.[14](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
 
 **Risk Factors**
 
-- **Environmental Factors:** *A. salmonicida* causes cold-water vibriosis where disease usually develops when seawater is below 12 °C.[2](https://doi.org/10.1128/aem.01239-14)
+- **Low Water Temperature:** Disease normally requires seawater below 12 °C,[10](https://doi.org/10.1128/aem.01239-14) and outbreaks usually occur below 10 °C, peaking in late winter and spring. Once the disease is established on a farm, losses can continue as the temperature rises and return when it falls again in autumn and early winter.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Waning Vaccine Protection:** Since vaccines were introduced, most of the few cases in salmon have been in market-size fish, probably because immunity declines when a long time has passed since vaccination.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **High Infection Pressure:** Rainbow trout and Atlantic cod develop outbreaks mainly when infection pressure is high.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 ### Diagnosis
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+- **Field Suspicion:** A septicaemic post-mortem picture with a general bleeding tendency, anaemia and a discoloured liver points to cold-water vibriosis, especially when the outbreak occurs at low seawater temperatures.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Confirmation:** The diagnosis is confirmed by culturing the bacterium on salt-containing media and/or by detecting it with immunohistochemistry in tissue sections from the heart, spleen, liver and kidney.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) In experimentally infected fish, the bacterium grew in pure culture from the blood and head kidney of all diseased fish.[2](https://doi.org/10.3389/fmicb.2013.00401)
+- **Differential Diagnosis:** Classical vibriosis (see [[Vibriosis (Vibrio spp.)]]) should be considered, but it occurs mainly at rising and relatively high water temperatures. [[Infectious Salmon Anemia (ISA)]] also causes generalised haemorrhages.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
 
 ### Treatment and Prevention
 
-- **Vaccines:** Multicomponent vaccines such as ALPHA JECT micro 6 (PHARMAQ AS, Norway) and AquaVac® S7 vet (MSD Animal Health, Norway) include antigens against both *Aliivibrio salmonicida* (cold-water vibriosis) and *Vibrio anguillarum*, and are used routinely to control these infections in Norwegian salmon farming. These vaccines are administered to smolts well before sea transfer and have provided near-complete control of the bacterial diseases included in the vaccine.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Antibiotics:** Outbreaks can be treated with antibacterial drugs. In the past, large amounts of tetracycline, trimethoprim/sulfamethoxazole and furazolidone were used, and the bacterium became resistant to them. Because it develops resistance easily, antibiotics should be used with care.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Withdrawal Periods and Emergency Slaughter:** Antibiotic treatment at low seawater temperatures leads to long withdrawal periods before slaughter, so emergency slaughter should be considered when an outbreak occurs in fish large enough to be harvested.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Vaccines:** An early successful vaccine was a formalin-killed bacterin given by immersion (dip) to parr, repeated after 6 weeks before sea transfer, which gave excellent protection during a natural outbreak 6 months later.[15](https://doi.org/10.1111/j.1365-2761.1987.tb00723.x) Since the late 1980s, vaccination has been the main control measure: first dip vaccines given twice a few weeks apart, then oil-adjuvanted polyvalent injection vaccines that include *Aliivibrio salmonicida* as one component. These vaccines are given to juvenile fish well before sea transfer, have given near-complete control of the bacterial diseases they cover, and almost all salmon put to sea are vaccinated.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) In Norway, the most common primary vaccine for salmon is a multicomponent injection with five bacterial antigens (*Aeromonas salmonicida* subsp. *salmonicida*, *Vibrio anguillarum* serotypes O1 and O2a, *Aliivibrio salmonicida* and *Moritella viscosa*) plus infectious pancreatic necrosis virus, and optionally infectious salmon anaemia virus.[16](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025) Multicomponent vaccines such as ALPHA JECT micro 6 (PHARMAQ AS, Norway), given by intraperitoneal injection,[17](https://medicines.health.europa.eu/veterinary/en/600000014282) and AquaVac® S7 vet (MSD Animal Health, Norway), authorised in 2026,[18](https://ilaks.no/msd-animal-health-gis-markedsforingstillatelse-for-ny-vaksine/) include antigens against both *Aliivibrio salmonicida* and *Vibrio anguillarum*.
+- **Strain Coverage:** Salmon immunised with a bacterin from one strain were also protected against a strain of different geographic origin and plasmid profile, which indicates that the strains are serologically similar.[19](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x)
 
 ### Case Studies
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+**An early successful vaccine (Norway, 1987)**
+
+- **Case:** Bacteria collected from moribund Atlantic salmon with Hitra disease in different parts of Norway turned out to be a homogeneous group. Researchers made a formalin-killed bacterin from one isolate, vaccinated salmon parr by immersion, revaccinated them after 6 weeks and transferred them to net pens in the sea.[15](https://doi.org/10.1111/j.1365-2761.1987.tb00723.x)
+- **Outcome:** Compared with unvaccinated controls, the vaccinated fish were very well protected during a natural outbreak of cold-water vibriosis 6 months later.[15](https://doi.org/10.1111/j.1365-2761.1987.tb00723.x) Later work showed that a bacterin from one strain also protected against a strain of different geographic origin and plasmid profile.[19](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x)
+- **Lessons Learned:** The strains are serologically similar, so a vaccine made from one strain protected against others.[19](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x) After vaccines came into use, outbreaks fell from about 200 in 1987 to very few per year from the mid-1990s.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+
+**Shared infection between salmon and cod farms (northern Norway, 1988)**
+
+- **Case:** In 1988, a new plasmid profile was found in *Aliivibrio salmonicida* isolated from farmed cod and Atlantic salmon in northern Norway.[14](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
+- **Outcome:** Plasmid profiling and DNA hybridisation showed that the bacterium had passed from salmon to cod and from cod to salmon. One of its plasmids was found only in strains from northern Norway, and the plasmid DNA stayed stable over a 7-year survey.[14](https://doi.org/10.1128/aem.56.4.1033-1037.1990) Salmon vaccinated with a different strain were protected against a strain that had caused outbreaks in both salmon and cod held in net pens.[19](https://doi.org/10.1111/j.1365-2761.1990.tb00811.x)
+- **Lessons Learned:** Where salmon and cod are farmed in the same area, the bacterium can move between the two species. Plasmid profiling was a useful tool for studying how the bacterium spread.[14](https://doi.org/10.1128/aem.56.4.1033-1037.1990)
+
+**The bacterium is present without disease (Norway, 1988-1989)**
+
+- **Case:** Water from 12 Norwegian fish farms was sampled twice a month from October 1988 to June 1989, and *Aliivibrio salmonicida* was counted with a fluorescent antibody technique.[13](https://doi.org/10.1139/m91-105)
+- **Outcome:** The bacterium was found in the water of all 12 farms, at 12-43 bacteria per mL, although no outbreaks of cold-water vibriosis were reported. It was found on more farms in winter.[13](https://doi.org/10.1139/m91-105) In a related study, it was found in sediments from affected farms several months after an outbreak and in one disease-free farm, but not in sediments away from fish farming.[20](https://doi.org/10.1128/aem.55.11.2815-2818.1989)
+- **Lessons Learned:** Finding the bacterium in farm water does not by itself mean disease, and the authors proposed a subclinical carrier state.[13](https://doi.org/10.1139/m91-105) The bacterium can persist in the sediment under a farm for months after an outbreak.[20](https://doi.org/10.1128/aem.55.11.2815-2818.1989)
 
 ## Data Insights
 
@@ -57,23 +104,66 @@ Two fish-pathogenic bacteria are particularly important in Norwegian waters: *Vi
 
 #### Norway
 
-- **Incidence:**
-    - Cold-water vibriosis caused by *Aliivibrio salmonicida* is associated with sea temperatures below about 10 °C and has historically been an important disease in Northern Norway. Cold-water vibriosis was first described from Finnmark in the late 1970s in farmed salmon, and by 1979 an increasing number of outbreaks with pronounced mortality were recorded at Hitra, where the disease was originally referred to as "Hitrasyke" (Hitra disease). It reached a peak in the late 1980s with hundreds of recorded outbreaks, before the introduction of effective vaccines led to a marked decline in cases through the 1990s.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [3](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose)
-    - A notable resurgence of cold-water vibriosis occurred in 2012-2013, with multiple outbreaks reported from Nord-Trøndelag to Finnmark and particularly in Northern Norway. This increase may be linked to vaccination status, and possibly an elevated infection pressure of unknown origin. Since 2013, cold-water vibriosis has again been very rarely diagnosed in Norwegian aquaculture.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-- **Treatment & Management:**
-    - In the earlier years of intensive farming, substantial quantities of antibiotics such as tetracycline, trimethoprim/sulfamethoxazole and furazolidone were administered, and the pathogen subsequently became resistant to these agents. In modern practice, broad-spectrum antibiotics are reserved for serious outbreaks and prescribed under veterinary oversight.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-    - When disease appears in fish that are nearly at market size, emergency slaughter is often considered a better option, because low seawater temperatures prolong withdrawal times after treatment.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-    - From the late 1980s onwards, vaccination has become the main tool for controlling vibriosis and cold-water vibriosis. Polyvalent vaccines are administered to salmon in the hatchery phase, well before sea transfer, and have provided very high protection against the bacterial diseases they cover. The few cases that do occur today are mostly seen in slaughter-size fish, where immunity is likely reduced because of the long time elapsed since vaccination.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **History:**
+    - Cold-water vibriosis was first described in farmed salmon in Finnmark in 1977.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) By 1979 an increasing number of outbreaks with marked mortality were recorded at Hitra, and the disease was then called "Hitrasyke" (Hitra disease).[21](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose)
+    - The disease became steadily more important and peaked in 1987 with about 200 outbreaks, based on samples submitted to the Norwegian Veterinary Institute. While the disease was most common, the number of outbreaks was fairly stable from year to year in the northernmost counties, but varied greatly in Mid-Norway and on the west coast.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+    - After vaccines were introduced in the late 1980s, outbreaks declined gradually, and since the mid-1990s there have been very few outbreaks per year.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Re-emergence in 2012-2013:**
+    - Cold-water vibriosis reappeared in vaccinated salmon in 2011.[3](https://doi.org/10.1111/jfd.12465) In 2012, it was diagnosed at 18 farm sites from Nord-Trøndelag to Finnmark, and in 2013 at 13 sites, all in Northern Norway. The rise may be linked to vaccines and vaccination status, but a higher infection pressure of unknown cause may also be part of the explanation.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Current Situation:**
+    - There have been no outbreaks in Norway since 2013,[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) and the Norwegian Veterinary Institute did not detect *Aliivibrio salmonicida* in any material from salmon or other fish species in 2025.[4](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
+    - The Norwegian Fish Health Report describes the disease as nearly historical because of effective vaccination. Because it occurs only at around 10 °C or lower, further rises in winter sea temperatures could make it possible to consider reducing or stopping vaccination against it in the future.[22](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
+
+#### Other North Atlantic Countries (Faroe Islands, Scotland, Canada and United States)
+
+- **Distribution:** Cold-water vibriosis has also been described in the Faroe Islands, Scotland, and on the east coasts of Canada and the United States.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Strain Similarity:** Isolates from diseased fish in Norway, the Shetland Islands, the Faroe Islands and eastern Canada had common plasmid profiles, and the differences between strains were not related to their country of origin.[23](https://doi.org/10.1139/f93-028)
 
 ## Research and References
 
 ### Latest Research Findings
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+#### Pathogenesis and Virulence
+
+1. **"Chitinolytic enzymes contribute to the pathogenicity of *Aliivibrio salmonicida* LFI1238 in the invasive phase of cold-water vibriosis"**  
+    Authors: Skåne, A., Edvardsen, P. K., Cordara, G., Loose, J. S. M., Leitl, K. D., Krengel, U., Sørum, H., Askarian, F., & Vaaje-Kolstad, G.  
+    Reference: Skåne, A., Edvardsen, P. K., Cordara, G., Loose, J. S. M., Leitl, K. D., Krengel, U., Sørum, H., Askarian, F., & Vaaje-Kolstad, G. (2022). Chitinolytic enzymes contribute to the pathogenicity of *Aliivibrio salmonicida* LFI1238 in the invasive phase of cold-water vibriosis. *BMC Microbiology*, *22*, 194. https://doi.org/10.1186/s12866-022-02590-2  
+    Key findings: Challenge experiments with deletion mutants showed that the bacterium's two chitin-active enzymes (LPMOs), especially AsLPMO10B, are important in the invasive phase of cold-water vibriosis in Atlantic salmon. Without them, the bacterium struggled to adapt to salmon serum, which suggests the enzymes help it cope with the host's immune defences.  
+    [Link to study](https://doi.org/10.1186/s12866-022-02590-2)
+
+2. **"*Aliivibrio salmonicida* requires O-antigen for virulence in Atlantic salmon (*Salmo salar* L.)"**  
+    Authors: Nørstebø, S. F., Lotherington, L., Landsverk, M., Bjelland, A. M., & Sørum, H.  
+    Reference: Nørstebø, S. F., Lotherington, L., Landsverk, M., Bjelland, A. M., & Sørum, H. (2018). *Aliivibrio salmonicida* requires O-antigen for virulence in Atlantic salmon (*Salmo salar* L.). *Microbial Pathogenesis*, *124*, 322-331. https://doi.org/10.1016/j.micpath.2018.08.058  
+    Key findings: Mutants lacking the O-antigen of the lipopolysaccharide (LPS) lost their virulence in Atlantic salmon, although they could still invade the fish. LPS is therefore crucial for disease development at later stages of infection, possibly through survival in the blood or effects on the immune response.  
+    [Link to study](https://doi.org/10.1016/j.micpath.2018.08.058)
+
+3. **"A unique role of flagellar function in *Aliivibrio salmonicida* pathogenicity not related to bacterial motility in aquatic environments"**  
+    Authors: Nørstebø, S. F., Paulshus, E., Bjelland, A. M., & Sørum, H.  
+    Reference: Nørstebø, S. F., Paulshus, E., Bjelland, A. M., & Sørum, H. (2017). A unique role of flagellar function in *Aliivibrio salmonicida* pathogenicity not related to bacterial motility in aquatic environments. *Microbial Pathogenesis*, *109*, 263-273. https://doi.org/10.1016/j.micpath.2017.06.008  
+    Key findings: The flagellin subunit FlaA is the main one needed for motility. Surprisingly, the bacterium did not need motility to invade Atlantic salmon, but mutants without flagella or FlaA were less virulent after immersion challenge, which points to a more complex role of the flagella in disease.  
+    [Link to study](https://doi.org/10.1016/j.micpath.2017.06.008)
+
+#### Temperature Regulation
+
+4. **"The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*"**  
+    Authors: Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P.  
+    Reference: Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P. (2015). The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*. *BMC Microbiology*, *15*, 69. https://doi.org/10.1186/s12866-015-0402-z  
+    Key findings: The bacterium produces eight quorum-sensing signals (AHLs). Production was efficient at 6 and 12 °C but fell to less than 5% of the maximum at 16 °C, above its temperature limit for disease outbreaks.  
+    [Link to study](https://doi.org/10.1186/s12866-015-0402-z)
+
+#### Taxonomy and Identification
+
+5. **"Phylogenetic revision of the genus *Aliivibrio*: Intra- and inter-species variance among clusters suggest a wider diversity of species"**  
+    Authors: Klemetsen, T., Karlsen, C. R., & Willassen, N. P.  
+    Reference: Klemetsen, T., Karlsen, C. R., & Willassen, N. P. (2021). Phylogenetic revision of the genus *Aliivibrio*: Intra- and inter-species variance among clusters suggest a wider diversity of species. *Frontiers in Microbiology*, *12*, 626759. https://doi.org/10.3389/fmicb.2021.626759  
+    Key findings: An analysis of 143 strains, 51 of them newly sequenced, defined 12 clades in the genus *Aliivibrio*. The genes *gyrB*, *pyrH* and *recA* separated most species better than the 16S rRNA gene, which matters when identifying *Aliivibrio salmonicida* among closely related species.  
+    [Link to study](https://doi.org/10.3389/fmicb.2021.626759)
 
 ## Conclusion
 
-*No data currently available. Want to edit this section? [Start here](https://github.com/manolinaqua/fish-disease-library/blob/main/CONTRIBUTING.md).*
+Cold-water vibriosis is a haemorrhagic septicaemia of farmed Atlantic salmon, rainbow trout and Atlantic cod that occurs in cold seawater, usually below 10 °C. It was once one of the most important bacterial diseases in Norwegian salmon farming, but vaccination since the late 1980s has brought it under near-complete control, and there have been no outbreaks in Norway since 2013.
+
+The re-emergence in vaccinated salmon in 2011-2013 shows that the disease can return, and most cases since vaccination began have been in market-size fish, probably because protection from vaccination had declined. The bacterium can also persist in farm water and sediment without causing disease. Vaccination therefore remains the main control measure, and cold-water vibriosis should be suspected whenever a septicaemic picture appears at low seawater temperatures. Warmer winters may reduce its importance further in the future.
 
 ### Call to Action
 
@@ -81,11 +171,14 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-17
+**Last Modified:** 2026-11-26
 
 ##### Other Bacterial Diseases
 
+[[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]
+[[Francisellosis (Francisella noatunensis)]]
+[[Furunculosis (Aeromonas salmonicida)]]
 [[Moritella Viscosa]]
 [[Pasteurellosis]]
 [[Salmonid Rickettsial Septicaemia (SRS)]]
@@ -96,8 +189,48 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] Veterinærinstituttet. (2025). Kaldtvannsvibriose. Veterinærinstituttet. https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose
+[1] Veterinærinstituttet. (2025, December 9). *Kaldtvannsvibriose* [Cold-water vibriosis]. https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose
 
-[2] Hansen, H., Bjelland, A. M., Ronessen, M. C., Robertsen, E., & Willassen, N. (2014). LitR Is a Repressor of syp Genes and Has a Temperature-Sensitive Regulatory Effect on Biofilm Formation and Colony Morphology in *Vibrio* (*Aliivibrio*) salmonicida. Applied and Environmental Microbiology, 80, 5530 - 5541. [https://doi.org/10.1128/aem.01239-14](https://doi.org/10.1128/aem.01239-14) [Full text](https://journals.asm.org/doi/10.1128/aem.01239-14)
+[2] Bjelland, A. M., Fauske, A. K., Nguyen, A., Orlien, I. E., Østgaard, I. M., & Sørum, H. (2013). Expression of *Vibrio salmonicida* virulence genes and immune response parameters in experimentally challenged Atlantic salmon (*Salmo salar* L.). *Frontiers in Microbiology, 4*, 401. https://doi.org/10.3389/fmicb.2013.00401
 
-[3] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
+[3] Kashulin, A., Seredkina, N., & Sørum, H. (2017). Cold-water vibriosis. The current status of knowledge. *Journal of Fish Diseases, 40*(1), 119-126. https://doi.org/10.1111/jfd.12465
+
+[4] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 8.9, Other Bacterial Infections, by D. J. Colquhoun, A. B. Olsen, & H. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+
+[5] Waagbø, R., Sandnes, K., Espelid, S., & Lie, Ø. (1988). Haematological and biochemical analyses of Atlantic salmon, *Salmo salar* L., suffering from coldwater vibriosis ('Hitra disease'). *Journal of Fish Diseases, 11*(5), 417-423. https://doi.org/10.1111/j.1365-2761.1988.tb00737.x
+
+[6] Fjølstad, M., & Heyeraas, A. L. (1985). Muscular and myocardial degeneration in cultured Atlantic salmon, *Salmo salar* L., suffering from 'Hitra disease'. *Journal of Fish Diseases, 8*(4), 367-372. https://doi.org/10.1111/j.1365-2761.1985.tb00957.x
+
+[7] Totland, G. K., Nylund, A., & Holm, K. O. (1988). An ultrastructural study of morphological changes in Atlantic salmon, *Salmo salar* L., during the development of cold water vibriosis. *Journal of Fish Diseases, 11*(1), 1-13. https://doi.org/10.1111/j.1365-2761.1988.tb00518.x
+
+[8] Colquhoun, D. J., & Sørum, H. (2001). Temperature dependent siderophore production in *Vibrio salmonicida*. *Microbial Pathogenesis, 31*(5), 213-219. https://doi.org/10.1006/mpat.2001.0464
+
+[9] Hansen, H., Purohit, A. A., Leiros, H.-K. S., Johansen, J. A., Kellermann, S. J., Bjelland, A. M., & Willassen, N. P. (2015). The autoinducer synthases LuxI and AinS are responsible for temperature-dependent AHL production in the fish pathogen *Aliivibrio salmonicida*. *BMC Microbiology, 15*, 69. https://doi.org/10.1186/s12866-015-0402-z
+
+[10] Hansen, H., Bjelland, A. M., Ronessen, M., Robertsen, E., & Willassen, N. P. (2014). LitR is a repressor of *syp* genes and has a temperature-sensitive regulatory effect on biofilm formation and colony morphology in *Vibrio* (*Aliivibrio*) *salmonicida*. *Applied and Environmental Microbiology, 80*(17), 5530-5541. https://doi.org/10.1128/aem.01239-14
+
+[11] Bjelland, A. M., Johansen, R., Brudal, E., Hansen, H., Winther-Larsen, H. C., & Sørum, H. (2012). *Vibrio salmonicida* pathogenesis analyzed by experimental challenge of Atlantic salmon (*Salmo salar*). *Microbial Pathogenesis, 52*(1), 77-84. https://doi.org/10.1016/j.micpath.2011.10.007
+
+[12] Hjeltnes, B., Andersen, K., Ellingsen, H.-M., & Egidius, E. (1987). Experimental studies on the pathogenicity of a *Vibrio* sp. isolated from Atlantic salmon, *Salmo salar* L., suffering from Hitra disease. *Journal of Fish Diseases, 10*(1), 21-27. https://doi.org/10.1111/j.1365-2761.1987.tb00714.x
+
+[13] Enger, Ø., Husevåg, B., & Goksøyr, J. (1991). Seasonal variation in presence of *Vibrio salmonicida* and total bacterial counts in Norwegian fish-farm water. *Canadian Journal of Microbiology, 37*(8), 618-623. https://doi.org/10.1139/m91-105
+
+[14] Sørum, H., Hvaal, A. B., Heum, M., Daae, F. L., & Wiik, R. (1990). Plasmid profiling of *Vibrio salmonicida* for epidemiological studies of cold-water vibriosis in Atlantic salmon (*Salmo salar*) and cod (*Gadus morhua*). *Applied and Environmental Microbiology, 56*(4), 1033-1037. https://doi.org/10.1128/aem.56.4.1033-1037.1990
+
+[15] Holm, K. O., & Jørgensen, T. (1987). A successful vaccination of Atlantic salmon, *Salmo salar* L., against 'Hitra disease' or coldwater vibriosis. *Journal of Fish Diseases, 10*(2), 85-90. https://doi.org/10.1111/j.1365-2761.1987.tb00723.x
+
+[16] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 4.3, Vaccination as a biosafety measure, by I. Sommerset, S. Patel, L. L. Löfling, K. V. Nielsen, Å. H. Garseth, & K. O. Helgesen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+
+[17] European Medicines Agency. (n.d.). *ALPHA JECT micro 6 emulsion for injection for Atlantic salmon* [Veterinary medicinal product information]. Union Product Database. https://medicines.health.europa.eu/veterinary/en/600000014282
+
+[18] iLaks. (2026, April 14). MSD Animal Health gis markedsføringstillatelse for ny vaksine [MSD Animal Health granted marketing authorisation for new vaccine]. *iLaks*. https://ilaks.no/msd-animal-health-gis-markedsforingstillatelse-for-ny-vaksine/
+
+[19] Lillehaug, A., Sørum, R. H., & Ramstad, A. (1990). Cross-protection after immunization of Atlantic salmon, *Salmo salar* L., against different strains of *Vibrio salmonicida*. *Journal of Fish Diseases, 13*(6), 519-523. https://doi.org/10.1111/j.1365-2761.1990.tb00811.x
+
+[20] Enger, Ø., Husevåg, B., & Goksøyr, J. (1989). Presence of the fish pathogen *Vibrio salmonicida* in fish farm sediments. *Applied and Environmental Microbiology, 55*(11), 2815-2818. https://doi.org/10.1128/aem.55.11.2815-2818.1989
+
+[21] Havbrukslære. (n.d.). *Lær om bakterielle infeksjoner hos fisk* [Learn about bacterial infections in fish]. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
+
+[22] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., Haukaas, A., & Sommerset, I. (Eds.). (2026). *Norwegian Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 5.3, Effects on Bacterial Diseases, by E. Ytteborg, D. Colquhoun, G. Bornø, J. Wiik-Nielsen, & A. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+
+[23] Sørum, H., Myhr, E., Zwicker, B. M., & Lillehaug, A. (1993). Comparison by plasmid profiling of *Vibrio salmonicida* strains isolated from diseased fish from different North European and Canadian coastal areas of the Atlantic Ocean. *Canadian Journal of Fisheries and Aquatic Sciences, 50*(2), 247-250. https://doi.org/10.1139/f93-028

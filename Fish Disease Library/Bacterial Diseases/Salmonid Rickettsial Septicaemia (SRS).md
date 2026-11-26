@@ -47,9 +47,9 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 - **Physical Signs:**
     - **Darkened Coloration:** Affected fish exhibit an overall darkening of the skin [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia) [15](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
     - **Anaemia and Pale Gills:** Severe anaemia leading to pale gills is a hallmark sign [6](https://aquatechcenter.com/disease_challenge/salmon-rickettsial-syndrome-srs/).
-    - **Haemorrhages and Skin Lesions:** Petechial haemorrhages, vesicles with scale elevations, and skin ulcers with underlying muscle haemorrhages (Figure 1)[15](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
+    - **Haemorrhages and Skin Lesions:** Petechial haemorrhages, vesicles with scale elevations, and skin ulcers with underlying muscle haemorrhages (Figures 1 to 3)[15](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
     - **Swollen Organs:** Enlarged kidneys and spleen upon internal examination [16](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/).
-    - **Liver Lesions:** Ring-shaped, cream-colored, and occasionally haemorrhagic liver lesions in chronic cases. Affected livers are often pale, mottled, and in some cases may appear yellowish [16](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/) [30](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose).
+    - **Liver Lesions:** Ring-shaped, cream-colored, and occasionally haemorrhagic liver lesions in chronic cases. Affected livers are often pale, mottled, and in some cases may appear yellowish (Figure 4) [16](https://marcosgodoy.com/es-septicemia-rickettsial-salmonidea-srs-en-salmon-del-atlantico-salmo-salar-iv-presentacion-clinica-patologica-visceral/) [30](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose).
     - **Scale Loss and Fin Fraying:** External degradation of scales and fins [15](https://marcosgodoy.com/presentacion-cutanea-de-la-piscirickettsiosis-piscirickettsia-salmonis-en-salmon-coho-oncorhynchus-kisutch-patologia-macroscopica/).
     - **Fluid in abdomen (ascites):** Accumulation of fluid in the abdominal cavity may cause visible abdominal swelling in severely affected fish [30](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose). 
     - **Internal Haemorrhages:** Haemorrhages may occur in internal organs, particularly in the liver, intestine, pyloric caeca, peritoneal fat, and swim bladder, reflecting the systemic septicaemic nature of the disease [30](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose). 
@@ -68,6 +68,18 @@ Today, SRS is responsible for over $700 million USD in annual losses in Chile an
 **Figure 1.** Atlantic salmon displaying advanced SRS lesions during mortality overview at a farm in Chile (May 2026). Note the characteristic skin ulcers consistent with systemic *Piscirickettsia salmonis* infection.
 
 ![[attachments/srs_advanced_case_atlantic_salmon_chile_may2026.jpeg]]
+
+**Figure 2.** Atlantic salmon with SRS from a farm in the Los Lagos Region, Chile (July 2026). An incision through the skin reveals a cavitation in the underlying muscle, and the fish on the right shows a skin ulcer. Photo: Agustín Piña Elgueda.
+
+![[attachments/srs_internal_cavitations_1.jpg]]
+
+**Figure 3.** Muscle cavitation opened with forceps in a second fish from the same sampling. The fish on the right shows a large ulcer near the caudal peduncle. Photo: Agustín Piña Elgueda.
+
+![[attachments/srs_internal_cavitations_2.jpg]]
+
+**Figure 4.** Opened abdominal cavity of an Atlantic salmon with SRS from the Los Lagos Region, Chile (May 2026), showing the cream-colored, ring-shaped nodules on the liver characteristic of the disease. Photo: Agustín Piña Elgueda.
+
+![[attachments/srs_liver_ring_lesions.jpg]]
 
 - **Impact on Fish Health:** SRS severely compromises immune function, physiological condition and overall vitality. Mortality can vary considerably depending on geographic region, fish condition, and the presence of additional stressors or co-infections. Average cumulative mortality during an 18-month saltwater production cycle is approximately 20% in Chile, while in Norway losses of approximately 5–6% within individual sea cages have been reported at most [25](https://doi.org/10.1186/s13567-024-01356-0) [1](https://thefishsite.com/disease-guide/salmonid-rickettsial-septicaemia)[30](https://www.vetinst.no/sykdom-og-agens/piscirickettsiose).
 
@@ -280,7 +292,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-05
+**Last Modified:** 2026-11-26
 
 **Tags:** #SRS, #Piscirickettsiosis, #PiscirickettsiaSalmonis, #Salmonids, #Salmon, #AtlanticSalmon, #CohoSalmon, #Trout, #RainbowTrout, #Lumpsucker, #SeaBass, #Turbot, #Chile, #Norway, #Canada, #Scotland, #Ireland, #Bacteria, #BacterialDiseases
 

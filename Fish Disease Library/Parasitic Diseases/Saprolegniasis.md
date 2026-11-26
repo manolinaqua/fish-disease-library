@@ -228,7 +228,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Caligidosis (Caligus rogercresseyi)]]
 [[Gyrodactylus salaris]]
 [[Paranucleospora theridion]]
-[[Parvicapsulosis]]
+[[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
 [[Proliferative Gill Disease]]
 [[Sea Lice]]
 [[Spironucleosis salmonicida]]
