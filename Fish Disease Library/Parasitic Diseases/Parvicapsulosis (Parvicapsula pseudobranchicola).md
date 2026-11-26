@@ -187,7 +187,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Amoebic Gill Disease (AGD)]]
 [[Caligidosis (Caligus rogercresseyi)]]
 [[Gyrodactylus salaris]]
-[[Paranucleosporosis]]
+[[Paranucleospora theridion]]
 [[Proliferative Gill Disease]]
 [[Saprolegniasis]]
 [[Sea Lice]]

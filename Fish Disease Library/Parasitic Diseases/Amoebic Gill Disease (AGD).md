@@ -188,7 +188,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Tags:** #AmoebicGillDisease, #Salmonids, #Salmon, #AtlanticSalmon, #RainbowTrout , #Trout , #Salmon, #Norway, #Scotland, #parasiticdisease, #parasite 
 ##### Other Parasitic Diseases
-[[Paranucleosporosis]]
+[[Paranucleospora theridion]]
 [[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
 [[Proliferative Gill Disease]]
 [[Sea Lice]]
