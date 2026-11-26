@@ -192,7 +192,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
 [[Paranucleosporosis]]
-[[Parvicapsulosis]]
+[[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
 [[Sea Lice]]
 
 **Citations:**

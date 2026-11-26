@@ -205,7 +205,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [[Amoebic Gill Disease (AGD)]]
 [[Gyrodactylus salaris]]
 [[Paranucleosporosis]]
-[[Parvicapsulosis]]
+[[Parvicapsulosis (Parvicapsula pseudobranchicola)]]
 [[Proliferative Gill Disease]]
 [[Saprolegniasis]]
 [[Sea Lice]]
