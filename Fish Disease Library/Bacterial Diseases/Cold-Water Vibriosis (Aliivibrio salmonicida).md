@@ -19,6 +19,10 @@ tags:
   - RainbowTrout
   - AtlanticCod
   - Norway
+  - FaroeIslands
+  - Scotland
+  - Canada
+  - UnitedStates
   - BacterialDiseases
 ---
 ## Overview
@@ -84,13 +88,20 @@ Cold-water vibriosis became one of the most important bacterial diseases in salm
 
 #### Norway
 
-- **Incidence:**
-    - Cold-water vibriosis caused by *Aliivibrio salmonicida* is associated with sea temperatures below about 10 °C and has historically been an important disease in Northern Norway. Cold-water vibriosis was first described from Finnmark in the late 1970s in farmed salmon, and by 1979 an increasing number of outbreaks with pronounced mortality were recorded at Hitra, where the disease was originally referred to as "Hitrasyke" (Hitra disease). It reached a peak in the late 1980s with hundreds of recorded outbreaks, before the introduction of effective vaccines led to a marked decline in cases through the 1990s.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) [3](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose)
-    - A notable resurgence of cold-water vibriosis occurred in 2012-2013, with multiple outbreaks reported from Nord-Trøndelag to Finnmark and particularly in Northern Norway. This increase may be linked to vaccination status, and possibly an elevated infection pressure of unknown origin. Since 2013, cold-water vibriosis has again been very rarely diagnosed in Norwegian aquaculture.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-- **Treatment & Management:**
-    - In the earlier years of intensive farming, substantial quantities of antibiotics such as tetracycline, trimethoprim/sulfamethoxazole and furazolidone were administered, and the pathogen subsequently became resistant to these agents. In modern practice, broad-spectrum antibiotics are reserved for serious outbreaks and prescribed under veterinary oversight.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-    - When disease appears in fish that are nearly at market size, emergency slaughter is often considered a better option, because low seawater temperatures prolong withdrawal times after treatment.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
-    - From the late 1980s onwards, vaccination has become the main tool for controlling vibriosis and cold-water vibriosis. Polyvalent vaccines are administered to salmon in the hatchery phase, well before sea transfer, and have provided very high protection against the bacterial diseases they cover. The few cases that do occur today are mostly seen in slaughter-size fish, where immunity is likely reduced because of the long time elapsed since vaccination.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **History:**
+    - Cold-water vibriosis was first described in farmed salmon in Finnmark in 1977.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) By 1979 an increasing number of outbreaks with marked mortality were recorded at Hitra, and the disease was then called "Hitrasyke" (Hitra disease).[3](https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose)
+    - The disease became steadily more important and peaked in 1987 with about 200 outbreaks, based on samples submitted to the Norwegian Veterinary Institute. While the disease was most common, the number of outbreaks was fairly stable from year to year in the northernmost counties, but varied greatly in Mid-Norway and on the west coast.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+    - After vaccines were introduced in the late 1980s, outbreaks declined gradually, and since the mid-1990s there have been very few outbreaks per year.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Re-emergence in 2012-2013:**
+    - Cold-water vibriosis reappeared in vaccinated salmon in 2011.[5](https://doi.org/10.1111/jfd.12465) In 2012, it was diagnosed at 18 farm sites from Nord-Trøndelag to Finnmark, and in 2013 at 13 sites, all in Northern Norway. The rise may be linked to vaccines and vaccination status, but a higher infection pressure of unknown cause may also be part of the explanation.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Current Situation:**
+    - There have been no outbreaks in Norway since 2013,[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose) and the Norwegian Veterinary Institute did not detect *Aliivibrio salmonicida* in any material from salmon or other fish species in 2025.[6](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
+    - The Norwegian Fish Health Report describes the disease as nearly historical because of effective vaccination. Because it occurs only at around 10 °C or lower, further rises in winter sea temperatures could make it possible to consider reducing or stopping vaccination against it in the future.[21](https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025)
+
+#### Other North Atlantic Countries (Faroe Islands, Scotland, Canada and United States)
+
+- **Distribution:** Cold-water vibriosis has also been described in the Faroe Islands, Scotland, and on the east coasts of Canada and the United States.[1](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose)
+- **Strain Similarity:** Isolates from diseased fish in Norway, the Shetland Islands, the Faroe Islands and eastern Canada shared the same plasmid profiles, and the differences between strains were not related to their country of origin.[22](https://doi.org/10.1139/f93-028)
 
 ## Research and References
 
@@ -165,3 +176,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 [19] European Medicines Agency. (n.d.). *ALPHA JECT micro 6 emulsion for injection for Atlantic salmon* [Veterinary medicinal product information]. Union Product Database. https://medicines.health.europa.eu/veterinary/en/600000014282
 
 [20] iLaks. (2026, April 14). MSD Animal Health gis markedsføringstillatelse for ny vaksine [MSD Animal Health granted marketing authorisation for new vaccine]. *iLaks*. https://ilaks.no/msd-animal-health-gis-markedsforingstillatelse-for-ny-vaksine/
+
+[21] Moldal, T., Wiik-Nielsen, J., Oliveira, V. H. S., Svendsen, J. C., & Sommerset, I. (Eds.). (2026). *Fish Health Report 2025* (Norwegian Veterinary Institute report series 5b/2026; Chapter 5.3, Effects on Bacterial Diseases, by E. Ytteborg, D. Colquhoun, G. Bornø, J. Wiik-Nielsen, & A. Nilsen). Norwegian Veterinary Institute. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fish-health-report-2025
+
+[22] Sørum, H., Myhr, E., Zwicker, B. M., & Lillehaug, A. (1993). Comparison by plasmid profiling of *Vibrio salmonicida* strains isolated from diseased fish from different North European and Canadian coastal areas of the Atlantic Ocean. *Canadian Journal of Fisheries and Aquatic Sciences, 50*(2), 247-250. https://doi.org/10.1139/f93-028
