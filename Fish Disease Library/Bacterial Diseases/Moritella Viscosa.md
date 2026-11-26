@@ -25,13 +25,17 @@ tags:
 
 - **Physical Signs:**
 
-    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
+    - **Skin Ulcers:** Round or oval ulcers often appearing on the sides of the body (Figure 1) [5](https://www.vetinst.no/sykdom-og-agens/vintersar).
     - **Raised scales**: Scales appear pale and begin to lift up, often in very small areas [4](https://nofima.no/fakta/verdt-a-vite-om-bakterielle-sar-pa-laks/) 
     - **Skin swelling:** Skin bulging and fragile, appearing as a closed ulcer, with contents being serum-like with a reddish colour and floccules [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) 
     - **Skin haemorrhages:** Reddened areas around the ulcer sites due to bleeding [3](https://nvt.vetnett.no/journal/2024/7/m-359/Bakterielle_s%C3%A5rskader_for%C3%A5rsaket_av_klassisk_ikke-visk%C3%B8s_Moritella_viscosa_%E2%80%93_resultat_av_lokal_eller_systemisk_infeksjon?) .
     - **Internal haemorrhages:** Systemic infection may cause haemorrhages within the internal organs; typically seen as a pale liver with petechiae and swollen spleen. This systemic infection may sometimes occur without any visible skin lesions [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
     - **Circulatory failure**: Pale gills and liver, and ascites (abdominal  fluid) [5](https://www.vetinst.no/sykdom-og-agens/vintersar) [35](https://akvademiet.no/fiskesykdommer/infeksjonssykdommer/vintersar-2/)
 
+
+**Figure 1.** Atlantic salmon from a sea farm in Norway. The fish in the centre shows a round, deep skin ulcer on the flank behind the head, consistent with suspected *Moritella viscosa* infection. Photo: Samaneh Mousavi.
+
+![[attachments/moritella_viscosa_ulcer_norway.jpg]]
 
 - **Behavioural Changes:**
 
@@ -229,6 +233,8 @@ tags:
 For more information on managing fish diseases and enhancing fish health, subscribe to our [newsletter](https://content.manolinaqua.com/manolin-newsletter-sign-up) and follow our latest research updates.
 
 ---
+
+**Last Modified:** 2026-11-26
 
 **Title:** *Moritella viscosa*
 **Date:** 2026-04-11

@@ -19,7 +19,7 @@ tags:
 ### What are Winter Wounds?
 Winter wounds, also known as winter ulcers or winter sores, are a common condition affecting farmed Atlantic salmon (*Salmo salar*), typically occurring during the seawater phase. They are primarily associated with bacterial infections, but their development is multifactorial: bacterial pathogens, environmental conditions and damage to the skin barrier can all contribute to the occurrence and severity of disease [3](https://www.vetinst.no/sykdom-og-agens/vintersar). The condition is characterized by superficial to deep skin lesions that develop primarily during the late autumn, winter, and early spring when seawater temperatures drop below 7°C–10°C [2](https://www.mdpi.com/2673-9917/3/3/15).
 
-"Classical winter ulcer disease" is caused by _[[Moritella Viscosa]]_. Other bacteria, particularly _Tenacibaculum_ spp., can cause ulcerative lesions or occur alongside _M. viscosa_ in mixed infections. When ulcer development is primarily associated with _Tenacibaculum_ spp., the condition is termed "[[Tenacibaculosis (Tenacibaculum spp.)]]"[1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[3](https://www.vetinst.no/sykdom-og-agens/vintersar). _Aliivibrio wodanis_ is also frequently isolated from fish with winter ulcers, although its role in disease development is not fully understood [3](https://www.vetinst.no/sykdom-og-agens/vintersar). 
+"Classical winter ulcer disease" is caused by _[[Moritella Viscosa]]_. Other bacteria, particularly _Tenacibaculum_ spp., can cause ulcerative lesions or occur alongside _M. viscosa_ in mixed infections (Figures 1 and 2). When ulcer development is primarily associated with _Tenacibaculum_ spp., the condition is termed "[[Tenacibaculosis (Tenacibaculum spp.)]]"[1](https://www.fishfarmermagazine.com/2023/08/02/winter-wounds-issue-is-a-concern-says-seafood-norway/)[3](https://www.vetinst.no/sykdom-og-agens/vintersar). _Aliivibrio wodanis_ is also frequently isolated from fish with winter ulcers, although its role in disease development is not fully understood [3](https://www.vetinst.no/sykdom-og-agens/vintersar). 
 
 The table below summarises typical differences between classical winter ulcer and tenacibaculosis, also referred to as atypical winter ulcer in Norwegian salmon farming.
 
@@ -31,6 +31,14 @@ The table below summarises typical differences between classical winter ulcer an
 | **Disease presentation**        | May develop into a systemic infection (septicaemia), affecting internal organs [3](https://www.vetinst.no/sykdom-og-agens/vintersar)                                                          | Usually a localised infection affecting the skin, fins and gills [3](https://www.vetinst.no/sykdom-og-agens/vintersar)                                                                                          |
 | **Typical occurrence**          | Associated with cold seawater.                                                                                                                                                                | Severe cold-water lesions are associated particularly with *T. finnmarkense*.  Outbreaks can cause high mortality in recently seawater-transferred smolts [3](https://www.vetinst.no/sykdom-og-agens/vintersar) |
 | **Vaccine availability**        | Vaccines against *M. viscosa* are available                                                                                                                                                   | No commercially available vaccine                                                                                                                                                                               |
+
+**Figure 1.** Atlantic salmon with suspected co-infection with *Moritella viscosa* and *Tenacibaculum* spp. from a sea farm in Norway, showing an ulcer behind the pectoral fin. Photo: Samaneh Mousavi.
+
+![[attachments/winter_wounds_coinfection_1.jpg]]
+
+**Figure 2.** Atlantic salmon with suspected co-infection with *M. viscosa* and *Tenacibaculum* spp. from a sea farm in Norway. The upper fish shows a large ulcer on the flank with a dark rim, and the lower fish shows an ulcer behind the pectoral fin. Photo: Samaneh Mousavi.
+
+![[attachments/winter_wounds_coinfection_2.jpg]]
 
 Winter wounds are prevalent in salmon farming regions with colder climates, such as Norway, Scotland, and Canada. In Norwegian Atlantic salmon farming, the increased occurrence of skin ulcers in recent years has been linked partly to more frequent handling and mechanical delousing, which can damage the skin barrier and increase susceptibility to infection. The emergence of _M. viscosa_ variants against which traditional vaccines provide poorer protection can also influence vaccine protection, adding to the complexity of disease prevention and control [4](https://www.havbrukslare.no/bakterieinfeksjoner).
 
@@ -61,7 +69,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 ---
 
-**Last Modified:** 2026-11-04
+**Last Modified:** 2026-11-26
 
 **Tags:** #FishDisease, #WinterWounds, #Salmonids, #AtlanticSalmon, #Trout, #ArcticChar, #Norway, #Scotland, #BacterialDiseases, #Bacteria, #MoritellaViscosa, #Tenacibaculummaritimum 
 
