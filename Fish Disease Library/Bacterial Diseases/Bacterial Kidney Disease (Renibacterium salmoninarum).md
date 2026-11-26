@@ -317,7 +317,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] Alaska Department of Fish and Game. (n.d.). *Bacterial kidney disease*. https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf
+[1] Alaska Department of Fish and Game. (2019). *Bacterial kidney disease*. https://www.adfg.alaska.gov/static/species/disease/pdfs/fishdiseases/bacterial_kidney_disease.pdf
 
 [2] Warren, J. W. (1983). Bacterial kidney disease. In *Guidelines for fish health management* (Great Lakes Fishery Commission Special Publication 83-2, Chapter 21). https://www.glfc.org/pubs/SpecialPubs/sp83_2/pdf/chap21.pdf
 
@@ -337,7 +337,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 [10] Subasinghe, R., Alday-Sanz, V., Bondad-Reantaso, M. G., Jie, H., Shinn, A. P., & Sorgeloos, P. (2023). Biosecurity: Reducing the burden of disease. *Journal of the World Aquaculture Society*, *54*(2), 397–426. https://doi.org/10.1111/jwas.12966
 
-[11] Scottish Government. (n.d.). *Diseases of wild and farmed finfish: Bacterial kidney disease (BKD)*. https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
+[11] Scottish Government. (2019, December 17). *Diseases of wild and farmed finfish: Bacterial kidney disease (BKD)*. https://www.gov.scot/publications/diseases-of-wild-and-farmed-finfish/pages/bacterial-kidney-disease-bkd/
 
 [12] Norwegian Veterinary Institute. (2026). *Fiskehelserapporten 2025* [Norwegian fish health report 2025]. https://www.vetinst.no/rapporter-og-publikasjoner/rapporter/2026/fiskehelserapporten-2025/_/attachment/inline/363a7595-e0c3-4ee8-87e6-71ba808b4288:b3c8e9bf1ee7902bdc1ab93334e5219666ceabbd/Fiskehelserapporten%202025.pdf
 
