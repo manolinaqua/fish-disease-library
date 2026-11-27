@@ -316,7 +316,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-13
 
-**Tags:** #Furunculosis, #AeromonasSalmonicida, #BacterialDiseases, #Bacteria
+**Tags:** #Furunculosis, #AeromonasSalmonicida, #Aeromonas, #AtlanticSalmon, #RainbowTrout, #BrownTrout, #ArcticChar, #AtlanticCod, #AtlanticHalibut, #Lumpsucker, #Turbot, #Wrasse, #Salmonids, #Salmon, #Trout, #Bacteria, #Norway, #Scotland, #Chile, #Canada, #BacterialDiseases
 
 ##### Other Bacterial Diseases
 [[Bacterial Cold-Water Disease (Flavobacterium psychrophilum)]]

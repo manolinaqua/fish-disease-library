@@ -181,7 +181,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-26
 
-**Tags:** #Parvicapsulosis, #Parvicapsulapseudobranchicola, #Salmonids, #Salmon, #AtlanticSalmon, #Norway, #Canada, #parasiticdisease, #parasite
+**Tags:** #Parvicapsulosis, #ParasiticDiseases, #Parasite, #Myxozoa, #ParvicapsulaPseudobranchicola, #Salmonids, #Salmon, #AtlanticSalmon, #ArcticChar, #BrownTrout, #RainbowTrout, #ChinookSalmon, #ChumSalmon, #PinkSalmon, #SockeyeSalmon, #Norway, #Canada
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]

@@ -11,7 +11,7 @@ aliases:
   - Vibriose
 pathogen: Vibrio spp.
 category: Bacterial
-description: Learn about Vibriosis, a bacterial disease caused by Vibrio species affecting farmed and wild fish worldwide. Discover symptoms, diagnosis, treatment options, and prevention strategies.
+description: Learn about Vibriosis, a bacterial disease caused by Vibrio species affecting farmed and wild fish worldwide. Discover clinical signs, diagnosis, treatment options, and prevention strategies.
 tags:
   - Vibriosis
   - BacterialDiseases
@@ -128,7 +128,7 @@ Vibriosis is one of the most widespread and devastating bacterial diseases in gl
 
 **Differential Diagnosis**
 
-- **Distinguishing Vibriosis from Other Diseases:** Clinical signs of vibriosis overlap significantly with other bacterial infections, such as [[Furunculosis (Aeromonas salmonicida)]], [[Pasteurellosis]] (*Photobacterium damselae* subsp. *piscicida*), [[Tenacibaculosis (Tenacibaculum spp.)]], and [[Yersiniosis (enteric redmouth disease)]]. [[Infectious Salmon Anemia (ISA)]] can give similar patterns of general haemorrhages. Definitive differentiation requires bacterial culture with biochemical or molecular characterization. The multiplex PCR approach allows simultaneous exclusion of multiple *Vibrio* species, while MALDI-TOF MS enables broad-spectrum pathogen identification from the same sample [1](https://doi.org/10.3389/fmicb.2022.904815) [4](https://doi.org/10.3390/vetsci12040327)[15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
+- **Distinguishing Vibriosis from Other Diseases:** Clinical signs of vibriosis overlap significantly with other bacterial infections, such as [[Furunculosis (Aeromonas salmonicida)]], [[Pasteurellosis]] (*Photobacterium damselae* subsp. *piscicida*), [[Tenacibaculosis (Tenacibaculum spp.)]], and [[Yersiniosis (enteric redmouth disease)]]. [[Infectious Salmon Anemia (ISA)]] can give similar patterns of general haemorrhages. Definitive differentiation requires bacterial culture with biochemical or molecular characterization. The multiplex PCR approach allows simultaneous exclusion of multiple *Vibrio* species, while MALDI-TOF MS enables broad-spectrum pathogen identification from the same sample [1](https://doi.org/10.3389/fmicb.2022.904815) [4](https://doi.org/10.3390/vetsci12040327) [15](https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose).
 ### Treatment and Prevention
 
 **Treatment Options**
@@ -356,7 +356,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-18
 
-**Tags:** #Vibriosis, #Vibrio, #BacterialDiseases, #Bacteria
+**Tags:** #Vibriosis, #BacterialDiseases, #Bacteria, #Vibrio, #VibrioAnguillarum, #VibrioHarveyi, #SeaBass, #SeaBream, #Salmon, #AtlanticSalmon, #RainbowTrout, #AtlanticCod, #Turbot, #Lumpsucker, #Wrasse, #Tilapia, #Mediterranean, #Norway, #Greece, #Spain, #Italy, #Turkey, #Canada, #Africa, #Egypt, #SouthAfrica, #Nigeria, #Tunisia, #Asia, #China, #Bangladesh, #India, #Thailand, #LMICs
 
 ##### Other Bacterial Diseases
 
@@ -374,37 +374,37 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Citations:**
 
-[1] Sanches-Fernandes, G. M. M., Sá-Correia, I., & Costa, R. (2022). Vibriosis outbreaks in aquaculture: Addressing environmental and public health concerns and preventive therapies using gilthead seabream farming as a model system. *Frontiers in Microbiology*, *13*, 904815. [https://doi.org/10.3389/fmicb.2022.904815](https://doi.org/10.3389/fmicb.2022.904815) · [Full text](https://citations.gxl.ai/papers/PMC9309886)
+[1] Sanches-Fernandes, G. M. M., Sá-Correia, I., & Costa, R. (2022). Vibriosis outbreaks in aquaculture: Addressing environmental and public health concerns and preventive therapies using gilthead seabream farming as a model system. *Frontiers in Microbiology*, *13*, 904815. https://doi.org/10.3389/fmicb.2022.904815 · [Full text](https://citations.gxl.ai/papers/PMC9309886)
 
-[2] Shahed, K., Chakma, A., Bin Manjur, O. H., & Islam, S. I. (2025). Multiscale comparative pathogenomic analysis of *Vibrio anguillarum* linking serotype diversity, genomic plasticity and pathogenicity. *Journal of Genetic Engineering & Biotechnology*, *23*, 100522. [https://doi.org/10.1016/j.jgeb.2025.100522](https://doi.org/10.1016/j.jgeb.2025.100522) · [Full text](https://citations.gxl.ai/papers/PMC12210308)
+[2] Shahed, K., Chakma, A., Bin Manjur, O. H., & Islam, S. I. (2025). Multiscale comparative pathogenomic analysis of *Vibrio anguillarum* linking serotype diversity, genomic plasticity and pathogenicity. *Journal of Genetic Engineering & Biotechnology*, *23*, 100522. https://doi.org/10.1016/j.jgeb.2025.100522 · [Full text](https://citations.gxl.ai/papers/PMC12210308)
 
-[3] Triga, A., Smyrli, M., & Katharios, P. (2023). Pathogenic and opportunistic *Vibrio* spp. associated with vibriosis incidences in the Greek aquaculture: The role of *Vibrio harveyi* as the principal cause of vibriosis. *Microorganisms*, *11*(5), 1197. [https://doi.org/10.3390/microorganisms11051197](https://doi.org/10.3390/microorganisms11051197) · [Full text](https://citations.gxl.ai/papers/PMC10220884)
+[3] Triga, A., Smyrli, M., & Katharios, P. (2023). Pathogenic and opportunistic *Vibrio* spp. associated with vibriosis incidences in the Greek aquaculture: The role of *Vibrio harveyi* as the principal cause of vibriosis. *Microorganisms*, *11*(5), 1197. https://doi.org/10.3390/microorganisms11051197 · [Full text](https://citations.gxl.ai/papers/PMC10220884)
 
-[4] Zhang, B., Qiu, Y., Shi, C., & Zhang, J. (2025). Development of multiple real-time fluorescent quantitative PCR for *Vibrio* pathogen detection in aquaculture. *Veterinary Sciences*, *12*(4), 327. [https://doi.org/10.3390/vetsci12040327](https://doi.org/10.3390/vetsci12040327) · [Full text](https://citations.gxl.ai/papers/PMC12030866)
+[4] Zhang, B., Qiu, Y., Shi, C., & Zhang, J. (2025). Development of multiple real-time fluorescent quantitative PCR for *Vibrio* pathogen detection in aquaculture. *Veterinary Sciences*, *12*(4), 327. https://doi.org/10.3390/vetsci12040327 · [Full text](https://citations.gxl.ai/papers/PMC12030866)
 
-[5] Costa, C., Ferreira, G. D., Simões, M., Silva, J. L., & Campos, M. J. (2022). Real-time PCR protocol for detection and quantification of three pathogenic members of the Vibrionaceae family. *Microorganisms*, *10*(10), 2060. [https://doi.org/10.3390/microorganisms10102060](https://doi.org/10.3390/microorganisms10102060) · [Full text](https://citations.gxl.ai/papers/PMC9609007)
+[5] Costa, C., Ferreira, G. D., Simões, M., Silva, J. L., & Campos, M. J. (2022). Real-time PCR protocol for detection and quantification of three pathogenic members of the Vibrionaceae family. *Microorganisms*, *10*(10), 2060. https://doi.org/10.3390/microorganisms10102060 · [Full text](https://citations.gxl.ai/papers/PMC9609007)
 
-[6] Li, Y., Yu, X., Li, P., Li, X., & Wang, L. (2025). Characterization of the *Vibrio anguillarum* VaRyhB regulon and role in pathogenesis. *Frontiers in Cellular and Infection Microbiology*, *14*, 1531176. [https://doi.org/10.3389/fcimb.2024.1531176](https://doi.org/10.3389/fcimb.2024.1531176) · [Full text](https://citations.gxl.ai/papers/PMC11790442)
+[6] Li, Y., Yu, X., Li, P., Li, X., & Wang, L. (2025). Characterization of the *Vibrio anguillarum* VaRyhB regulon and role in pathogenesis. *Frontiers in Cellular and Infection Microbiology*, *14*, 1531176. https://doi.org/10.3389/fcimb.2024.1531176 · [Full text](https://citations.gxl.ai/papers/PMC11790442)
 
-[7] Abu Nor, N., Zamri-Saad, M., Md Yasin, I.-S., Salleh, A., Mustaffa-Kamal, F., Matori, M. F., & Azmai, M. N. A. (2020). Efficacy of whole cell inactivated *Vibrio harveyi* vaccine against vibriosis in a marine red hybrid tilapia (*Oreochromis niloticus* × *O. mossambicus*) model. *Vaccines*, *8*(4), 734. [https://doi.org/10.3390/vaccines8040734](https://doi.org/10.3390/vaccines8040734) · [Full text](https://citations.gxl.ai/papers/PMC7761788)
+[7] Abu Nor, N., Zamri-Saad, M., Md Yasin, I.-S., Salleh, A., Mustaffa-Kamal, F., Matori, M. F., & Azmai, M. N. A. (2020). Efficacy of whole cell inactivated *Vibrio harveyi* vaccine against vibriosis in a marine red hybrid tilapia (*Oreochromis niloticus* × *O. mossambicus*) model. *Vaccines*, *8*(4), 734. https://doi.org/10.3390/vaccines8040734 · [Full text](https://citations.gxl.ai/papers/PMC7761788)
 
-[8] Amir-Danial, Z., Zamri-Saad, M., Amal, M. N. A., Annas, S., Mohamad, A., Jumria, S., Manchanayake, T., Arbania, A., & Ina-Salwany, M. Y. (2023). Field efficacy of a feed-based inactivated vaccine against vibriosis in cage-cultured Asian seabass, *Lates calcarifer*, in Malaysia. *Vaccines*, *11*(1), 9. [https://doi.org/10.3390/vaccines11010009](https://doi.org/10.3390/vaccines11010009) · [Full text](https://citations.gxl.ai/papers/PMC9865705)
+[8] Amir-Danial, Z., Zamri-Saad, M., Amal, M. N. A., Annas, S., Mohamad, A., Jumria, S., Manchanayake, T., Arbania, A., & Ina-Salwany, M. Y. (2023). Field efficacy of a feed-based inactivated vaccine against vibriosis in cage-cultured Asian seabass, *Lates calcarifer*, in Malaysia. *Vaccines*, *11*(1), 9. https://doi.org/10.3390/vaccines11010009 · [Full text](https://citations.gxl.ai/papers/PMC9865705)
 
-[9] Jonsson, A., López-Porras, A., Nørstebø, S. F., Guslund, N. C., Sørum, H., Qiao, S.-W., & Johansen, F.-E. (2025). Protective IgM-mediated immunity against *Vibrio anguillarum* in Atlantic cod with evolutionary losses of *mhc class II* and *cd4*. *Frontiers in Immunology*, *16*, 1579541. [https://doi.org/10.3389/fimmu.2025.1579541](https://doi.org/10.3389/fimmu.2025.1579541) · [Full text](https://citations.gxl.ai/papers/PMC12265950)
+[9] Jonsson, A., López-Porras, A., Nørstebø, S. F., Guslund, N. C., Sørum, H., Qiao, S.-W., & Johansen, F.-E. (2025). Protective IgM-mediated immunity against *Vibrio anguillarum* in Atlantic cod with evolutionary losses of *mhc class II* and *cd4*. *Frontiers in Immunology*, *16*, 1579541. https://doi.org/10.3389/fimmu.2025.1579541 · [Full text](https://citations.gxl.ai/papers/PMC12265950)
 
-[10] Kumar, A., Middha, S. K., Menon, S. V., Paital, B., Gokarn, S., Nelli, M., Rajanikanth, R. B., Chandra, H. M., Mugunthan, S. P., Kantwa, S. M., Usha, T., Hati, A. K., Venkatesan, D., Rajendran, A., Behera, T. R., Venkatesamurthy, S., & Sahoo, D. K. (2024). Current challenges of vaccination in fish health management. *Animals*, *14*(18), 2692. [https://doi.org/10.3390/ani14182692](https://doi.org/10.3390/ani14182692) · [Full text](https://citations.gxl.ai/papers/PMC11429256)
+[10] Kumar, A., Middha, S. K., Menon, S. V., Paital, B., Gokarn, S., Nelli, M., Rajanikanth, R. B., Chandra, H. M., Mugunthan, S. P., Kantwa, S. M., Usha, T., Hati, A. K., Venkatesan, D., Rajendran, A., Behera, T. R., Venkatesamurthy, S., & Sahoo, D. K. (2024). Current challenges of vaccination in fish health management. *Animals*, *14*(18), 2692. https://doi.org/10.3390/ani14182692 · [Full text](https://citations.gxl.ai/papers/PMC11429256)
 
-[11] Ghasemieshkaftaki, M., Vasquez, I., Eshraghi, A., Gamperl, A. K., & Santander, J. (2023). Comparative genomic analysis of a novel *Vibrio* sp. isolated from an ulcer disease event in Atlantic salmon (*Salmo salar*). *Microorganisms*, *11*(7), 1736. [https://doi.org/10.3390/microorganisms11071736](https://doi.org/10.3390/microorganisms11071736) · [Full text](https://citations.gxl.ai/papers/PMC10385127)
+[11] Ghasemieshkaftaki, M., Vasquez, I., Eshraghi, A., Gamperl, A. K., & Santander, J. (2023). Comparative genomic analysis of a novel *Vibrio* sp. isolated from an ulcer disease event in Atlantic salmon (*Salmo salar*). *Microorganisms*, *11*(7), 1736. https://doi.org/10.3390/microorganisms11071736 · [Full text](https://citations.gxl.ai/papers/PMC10385127)
 
-[12] Chen, Q., Ma, X., Wang, J., Shi, M., Hu, G., Chen, S., & Zhou, Q. (2024). Multi-organ transcriptomic profiles and gene-regulation network underlying vibriosis resistance in tongue sole. *Scientific Data*, *11*, 775. [https://doi.org/10.1038/s41597-024-03651-z](https://doi.org/10.1038/s41597-024-03651-z) · [Full text](https://citations.gxl.ai/papers/PMC11269662)
+[12] Chen, Q., Ma, X., Wang, J., Shi, M., Hu, G., Chen, S., & Zhou, Q. (2024). Multi-organ transcriptomic profiles and gene-regulation network underlying vibriosis resistance in tongue sole. *Scientific Data*, *11*, 775. https://doi.org/10.1038/s41597-024-03651-z · [Full text](https://citations.gxl.ai/papers/PMC11269662)
 
-[13] Hobe, A., Msolo, L., Ebomah, K. E., Jaja, I. F., Oguttu, J. W., & Okoh, A. I. (2026). Antibiotic resistance and pathogenicity of *Vibrio* species in aquaculture: Implications for fish health and food safety in LMICs. *Veterinary Medicine and Science*, *12*, e70877. [https://doi.org/10.1002/vms3.70877](https://doi.org/10.1002/vms3.70877) · [Full text](https://citations.gxl.ai/papers/PMC13098078)
+[13] Hobe, A., Msolo, L., Ebomah, K. E., Jaja, I. F., Oguttu, J. W., & Okoh, A. I. (2026). Antibiotic resistance and pathogenicity of *Vibrio* species in aquaculture: Implications for fish health and food safety in LMICs. *Veterinary Medicine and Science*, *12*, e70877. https://doi.org/10.1002/vms3.70877 · [Full text](https://citations.gxl.ai/papers/PMC13098078)
 
-[14] Mowafy, R. E., Megahed, H. M., Abou Khadra, S. H., Bakry, M. A., Moustafa, A. H., & El-Demerdash, A. S. (2025). Innovative vibriosis control in open aquaculture: *Paratapes undulata* as a sustainable growth and resistance enhancer in red tilapia. *Scientific Reports*, *15*, 17750. [https://doi.org/10.1038/s41598-025-01026-x](https://doi.org/10.1038/s41598-025-01026-x) · [Full text](https://citations.gxl.ai/papers/PMC12098663)
+[14] Mowafy, R. E., Megahed, H. M., Abou Khadra, S. H., Bakry, M. A., Moustafa, A. H., & El-Demerdash, A. S. (2025). Innovative vibriosis control in open aquaculture: *Paratapes undulata* as a sustainable growth and resistance enhancer in red tilapia. *Scientific Reports*, *15*, 17750. https://doi.org/10.1038/s41598-025-01026-x · [Full text](https://citations.gxl.ai/papers/PMC12098663)
 
 [15] Veterinærinstituttet. (2025). Kaldtvannsvibriose. Veterinærinstituttet. https://www.vetinst.no/sykdom-og-agens/Kaldtvannsvibriose
 
-[16] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. [https://doi.org/10.1002/aah.10045](https://doi.org/10.1002/aah.10045) · [Full text](https://pubmed.ncbi.nlm.nih.gov/30246889/)
+[16] Ina‑Salwany, M. Y., Al‑Saari, N., Mohamad, A., Mursidi, F. A., Mohd‑Aris, A., Amal, M. N. A., Kasai, H., Mino, S., & Sawabe, T. (2019). Vibriosis in fish: A review on disease development and prevention. Journal of Aquatic Animal Health, 31(1), 3–22. https://doi.org/10.1002/aah.10045 · [Full text](https://pubmed.ncbi.nlm.nih.gov/30246889/)
 
 [17] Havbrukslære. (2024). Lær om bakterielle infeksjoner hos fisk. Havbrukslære. https://www.havbrukslare.no/bakterieinfeksjoner#Vibriose
 

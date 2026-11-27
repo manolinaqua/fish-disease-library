@@ -368,7 +368,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-26
 
-**Tags:** #Tenacibaculosis, #Tenacibaculummaritimum, #Salmonids, #Salmon, #AtlanticSalmon, #Trout, #RainbowTrout, #SeaBass, #SeaBream, #Norway, #Chile, #Canada, #BacterialDiseases, #Bacteria, #WinterWounds 
+**Tags:** #Tenacibaculosis, #Mouthrot, #BacterialDiseases, #Bacteria, #Tenacibaculum, #TenacibaculumMaritimum, #TenacibaculumFinnmarkense, #TenacibaculumDicentrarchi, #Salmonids, #Salmon, #AtlanticSalmon, #CohoSalmon, #ChinookSalmon, #Trout, #RainbowTrout, #SeaBass, #SeaBream, #Turbot, #Sole, #Lumpsucker, #Canada, #Chile, #Norway, #NewZealand, #Scotland, #Tasmania, #Mediterranean, #Turkey, #WinterWounds
 
 ##### Other Bacterial Diseases
 [[Bacterial Kidney Disease (Renibacterium salmoninarum)]]

@@ -254,7 +254,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-20
 
-**Tags:** #InfectiousSalmonAnemia, #ISA, #ISAV, #AtlanticSalmon, #RainbowTrout, #BrownTrout, #Norway, #Chile, #Canada, #Scotland, #FaroeIslands, #UnitedStates, #ViralDiseases
+**Tags:** #InfectiousSalmonAnemia, #InfectiousSalmonAnemiaVirus, #AtlanticSalmon, #RainbowTrout, #BrownTrout, #Norway, #Chile, #Scotland, #Canada, #FaroeIslands, #UnitedStates, #ViralDiseases
 
 ##### Other Viral Diseases
 

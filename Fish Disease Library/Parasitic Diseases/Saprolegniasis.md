@@ -221,7 +221,7 @@ For more information on managing fish diseases and enhancing fish health, subscr
 
 **Last Modified:** 2026-11-08
 
-**Tags:** #Saprolegniasis, #Saprolegnia, #Oomycete, #ParasiticDiseases, #WaterMold, #Chile
+**Tags:** #Saprolegniasis, #Saprolegnia, #Oomycete, #AtlanticSalmon, #CohoSalmon, #RainbowTrout, #BrownTrout, #StripedCatfish, #Scotland, #Norway, #Chile, #India, #ParasiticDiseases
 
 ##### Other Parasitic Diseases
 [[Amoebic Gill Disease (AGD)]]
